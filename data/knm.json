@@ -1,0 +1,4742 @@
+[
+  {
+    "id": 1,
+    "question": "When is Koningsdag (King's Day)?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "5 mei",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "25 december",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "27 april",
+        "isCorrect": true,
+        "explanation": "Koningsdag (King's Day) is celebrated on 27 april."
+      },
+      {
+        "id": "D",
+        "text": "31 december",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What traditional food is eaten on Oud en Nieuw (New Year's)?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Pepernoten",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Oliebollen",
+        "isCorrect": true,
+        "explanation": "Oliebollen (fried dough balls) are the traditional food for Oud en Nieuw (New Year's)."
+      },
+      {
+        "id": "C",
+        "text": "Speculaas",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Beschuit met muisjes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "When is Sinterklaas celebrated?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "25 december",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "27 april",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "5 december",
+        "isCorrect": true,
+        "explanation": "Sinterklaas (St. Nicholas Day) is celebrated on 5 december."
+      },
+      {
+        "id": "D",
+        "text": "1 januari",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What food is associated with Sinterklaas?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Oliebollen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Beschuit met muisjes",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Pepernoten and speculaas",
+        "isCorrect": true,
+        "explanation": "Pepernoten (small spiced cookies) and speculaas (thin spiced cookies) are associated with Sinterklaas."
+      },
+      {
+        "id": "D",
+        "text": "Pannenkoeken",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What is served when a baby is born in the Netherlands?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Oliebollen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Beschuit met muisjes",
+        "isCorrect": true,
+        "explanation": "Beschuit met muisjes is served when a baby is born — pink for a girl, blue for a boy."
+      },
+      {
+        "id": "C",
+        "text": "Speculaas",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Pepernoten",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "May unmarried couples live together (samenwonen) in the Netherlands?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "No, you must be married",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Only with a samenlevingscontract",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Yes, that is allowed (dat mag)",
+        "isCorrect": true,
+        "explanation": "Unmarried couples may live together. No samenlevingscontract is required, but you must report it to the gemeente."
+      },
+      {
+        "id": "D",
+        "text": "Only after getting permission from the gemeente",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Since when has same-sex marriage been legal in the Netherlands?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "1990",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "2001",
+        "isCorrect": true,
+        "explanation": "Same-sex marriage has been legal in the Netherlands since 2001."
+      },
+      {
+        "id": "C",
+        "text": "2010",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "2015",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "What are Eerste Kerstdag and Tweede Kerstdag?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "New Year's Eve and New Year's Day",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "First and Second Christmas Day (25 and 26 december)",
+        "isCorrect": true,
+        "explanation": "Eerste Kerstdag is 25 december and Tweede Kerstdag is 26 december — the Dutch celebrate two Christmas days."
+      },
+      {
+        "id": "C",
+        "text": "Easter Monday and Tuesday",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "King's Day and Queen's Day",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Do you need a samenlevingscontract to live together?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yes, it's required by law",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "No, it's not required",
+        "isCorrect": true,
+        "explanation": "A samenlevingscontract (cohabitation agreement) is NOT required to live together."
+      },
+      {
+        "id": "C",
+        "text": "Only if you have children",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Only for non-Dutch citizens",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "When is Oud en Nieuw (New Year's Eve/Day)?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "24-25 december",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "4-5 mei",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "31 december - 1 januari",
+        "isCorrect": true,
+        "explanation": "Oud en Nieuw is New Year's Eve and Day, from 31 december to 1 januari."
+      },
+      {
+        "id": "D",
+        "text": "26-27 december",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "What does Article 1 of the Dutch Grondwet (Constitution) say?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "The Netherlands is a monarchy",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Everyone is treated equally and discrimination is not allowed",
+        "isCorrect": true,
+        "explanation": "Article 1 of the Grondwet states that everyone in the Netherlands is treated equally. Discrimination on any ground (religion, race, gender, sexual orientation, etc.) is not permitted."
+      },
+      {
+        "id": "C",
+        "text": "Dutch is the official language",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Everyone must pay taxes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Is it normal in the Netherlands to just visit someone without making an appointment (afspraak)?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yes, you can visit anyone anytime",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "No, Dutch people expect you to make an appointment first",
+        "isCorrect": true,
+        "explanation": "In Dutch culture, you are expected to make an appointment (afspraak) before visiting someone. Showing up unannounced is generally considered impolite. Even for close friends, a quick call or text is expected."
+      },
+      {
+        "id": "C",
+        "text": "Only on weekends you can visit without appointment",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Only family members expect an appointment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "How important is punctuality (op tijd komen) in Dutch culture?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Not important — people come when they feel like it",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Very important — being late without calling is considered rude",
+        "isCorrect": true,
+        "explanation": "Punctuality is very important in Dutch culture, both professionally and socially. Being late without calling is considered rude (onbeleefd). If you'll be late, you should call or text to let them know."
+      },
+      {
+        "id": "C",
+        "text": "Only important at work, not in social situations",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Only important for doctor's appointments",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Why are Dutch people often considered 'direct'?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "They are always angry",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "They say what they think honestly — this is valued as normal and respectful",
+        "isCorrect": true,
+        "explanation": "Dutch directness means people say what they think and give their honest opinion. This is not meant to be rude — it's valued as honest and efficient. At work, you're expected to share your opinion even if you disagree with your boss."
+      },
+      {
+        "id": "C",
+        "text": "They don't understand other cultures",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Only old people are direct",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "May a husband forbid his wife from working in the Netherlands?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yes, the husband decides",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "No, men and women are equal by law — women decide for themselves",
+        "isCorrect": true,
+        "explanation": "In the Netherlands, men and women are equal by law. A husband may NOT forbid his wife from working, going outside, or making her own decisions. Gender equality is a fundamental Dutch value."
+      },
+      {
+        "id": "C",
+        "text": "Only if they have children",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Only if she has no education",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "What was the Netherlands the first country in the world to do in 2001?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Legalize cannabis",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Legalize same-sex marriage",
+        "isCorrect": true,
+        "explanation": "In 2001, the Netherlands became the first country in the world to legalize same-sex marriage. Same-sex couples also have the right to adopt children."
+      },
+      {
+        "id": "C",
+        "text": "Join the European Union",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Abolish the monarchy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "What does 'scheiding van kerk en staat' mean?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Churches must pay extra taxes",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The government and religion are separate — the state is not connected to any religion",
+        "isCorrect": true,
+        "explanation": "Scheiding van kerk en staat (separation of church and state) means the government is not connected to any religion. Everyone is free to choose their own religion or no religion at all, but you may not force others to follow your beliefs."
+      },
+      {
+        "id": "C",
+        "text": "Religion is forbidden in the Netherlands",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Only Christianity is allowed",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "What is the standard way to greet someone in a professional setting in the Netherlands?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "A bow",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A handshake (handdruk)",
+        "isCorrect": true,
+        "explanation": "A handshake (handdruk) is the standard greeting in professional/formal settings. Three kisses on the cheek is common between friends and family. When meeting someone, you typically say your name while shaking hands."
+      },
+      {
+        "id": "C",
+        "text": "Three kisses on the cheek",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A hug",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Is freedom of speech in the Netherlands absolute — can you say anything?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yes, there are no limits",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "No, you may not incite hatred, threaten violence, or discriminate",
+        "isCorrect": true,
+        "explanation": "Freedom of speech is a fundamental right, but it has limits: you may not incite hatred (haatzaaien), threaten violence, or discriminate. Satire and criticism of politics and religion are allowed and common."
+      },
+      {
+        "id": "C",
+        "text": "You can only criticize the government",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Freedom of speech only applies to journalists",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "When is Carnaval celebrated and where?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "In December, everywhere in the Netherlands",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "In February/March, mainly in the south (Brabant and Limburg)",
+        "isCorrect": true,
+        "explanation": "Carnaval is celebrated in February or March, mainly in the southern provinces (Noord-Brabant and Limburg). It's a 3-day festival with costumes, parades, and parties."
+      },
+      {
+        "id": "C",
+        "text": "On 27 april, everywhere",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "In summer, mainly in Amsterdam",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "How do Dutch friends and family typically greet each other?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "One kiss on the cheek",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A hug",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Three kisses (drie zoenen) — right-left-right",
+        "isCorrect": true,
+        "explanation": "Among friends and family, the Dutch greet with drie zoenen (three kisses on the cheeks: right-left-right). A handshake is used in formal/professional settings."
+      },
+      {
+        "id": "D",
+        "text": "A bow",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "What is a 'geregistreerd partnerschap' in the Netherlands?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "A rental agreement between two tenants",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A registered partnership — a legal alternative to marriage",
+        "isCorrect": true,
+        "explanation": "A geregistreerd partnerschap is a registered partnership that gives couples almost the same legal rights as marriage. It is an official alternative to trouwen (getting married)."
+      },
+      {
+        "id": "C",
+        "text": "A business partnership registered at the Kamer van Koophandel",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "An informal cohabitation agreement",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Where must a civil marriage (burgerlijk huwelijk) take place in the Netherlands?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "In a church or mosque",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "At the notaris (notary)",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "At the gemeente (town hall)",
+        "isCorrect": true,
+        "explanation": "In the Netherlands, a civil marriage must legally take place at the gemeente (town hall). A church or religious ceremony is optional and has no legal status on its own."
+      },
+      {
+        "id": "D",
+        "text": "At the rechtbank (court)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "What does 'vrijheid van godsdienst' mean?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "The government chooses the official religion for the Netherlands",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Everyone is free to practice their own religion, or no religion at all",
+        "isCorrect": true,
+        "explanation": "Vrijheid van godsdienst means freedom of religion. Everyone may choose their own religion — or no religion. The Netherlands has a strict scheiding van kerk en staat (separation of church and state)."
+      },
+      {
+        "id": "C",
+        "text": "Only Christianity is permitted in public spaces",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Religion must be practiced only in private homes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Hemelvaartsdag (Ascension Day) falls how many days after Easter?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "10 days",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "40 days",
+        "isCorrect": true,
+        "explanation": "Hemelvaartsdag (Ascension Day) is a public holiday that falls 40 days after Easter. Pinksteren (Pentecost) falls 50 days after Easter."
+      },
+      {
+        "id": "C",
+        "text": "50 days",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "30 days",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "What is Pinksteren and when does it occur?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Liberation Day, celebrated on 5 mei",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Whitsun/Pentecost — 50 days after Easter",
+        "isCorrect": true,
+        "explanation": "Pinksteren (Whitsun or Pentecost) is a public holiday occurring 50 days after Easter. It is celebrated over two days: Eerste Pinksterdag and Tweede Pinksterdag."
+      },
+      {
+        "id": "C",
+        "text": "Ascension Day — 40 days after Easter",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A spring fair held in Amsterdam",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "What is the Dutch tradition when someone turns 50 years old?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "They receive a Koningsdag medal from the king",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A life-size figure of Abraham (men) or Sarah (women) is placed at their front door",
+        "isCorrect": true,
+        "explanation": "When a Dutch person turns 50, friends and family traditionally place a life-size figure of Abraham (for men) or Sarah (for women) at their front door — symbolizing that they have 'seen Abraham/Sarah' (a biblical reference to old age)."
+      },
+      {
+        "id": "C",
+        "text": "They are required to retire from work",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "They organize a national parade in their neighborhood",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "What is a 'geboortekaartje'?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "A card sent to congratulate someone on their birthday",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A birth announcement card sent to family and friends when a baby is born",
+        "isCorrect": true,
+        "explanation": "A geboortekaartje is a birth announcement card that Dutch parents send to family and friends when a baby is born. It typically includes the baby's name, date of birth, and weight."
+      },
+      {
+        "id": "C",
+        "text": "A card given to a child on their first day of school",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A card required by the gemeente to register a newborn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "What do you send to a family when someone has died?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "A geboortekaartje",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A verjaardagskaart",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "A condoleancekaart (condolence card)",
+        "isCorrect": true,
+        "explanation": "When someone passes away, it is customary in the Netherlands to send a condoleancekaart (condolence card) to the bereaved family to express your sympathy."
+      },
+      {
+        "id": "D",
+        "text": "A felicitatiekaart",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "What is 'Pasen' and when is it celebrated?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Liberation Day, always on 5 mei",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Easter — a spring holiday celebrated on varying dates",
+        "isCorrect": true,
+        "explanation": "Pasen (Easter) is a Christian holiday celebrated in spring on varying dates. It is a public holiday in the Netherlands, celebrated over two days: Eerste Paasdag and Tweede Paasdag."
+      },
+      {
+        "id": "C",
+        "text": "A summer festival celebrated in August",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "The Dutch name for Sinterklaas",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Why do many Dutch people leave their curtains open in the evenings?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "It is required by local housing regulations",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "It is a cultural tradition of openness and transparency",
+        "isCorrect": true,
+        "explanation": "Leaving curtains open is a longstanding Dutch cultural tradition associated with openness and having nothing to hide. However, this does NOT mean you should stare inside — Dutch people still value their privacy."
+      },
+      {
+        "id": "C",
+        "text": "To save energy by using outside light",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "So neighbors can check that everything is safe",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "What does the Dutch expression 'doe maar gewoon, dan doe je al gek genoeg' reflect?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "A love of Carnaval and festive costumes",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A cultural value of modesty and not showing off",
+        "isCorrect": true,
+        "explanation": "'Doe maar gewoon, dan doe je al gek genoeg' (Just act normal, that's crazy enough) reflects the Dutch value of modesty and not boasting or drawing excessive attention to yourself. It is a core part of Dutch culture."
+      },
+      {
+        "id": "C",
+        "text": "The importance of being punctual",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A preference for formal greetings",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "What is 'overleg' in Dutch work and social culture?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "A type of Dutch bread eaten at lunch",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The habit of making decisions through consultation and consensus",
+        "isCorrect": true,
+        "explanation": "Overleg means consultation or deliberation. The Dutch place great value on making decisions together through discussion and consensus (poldermodel). This applies at work, in politics, and in daily life."
+      },
+      {
+        "id": "C",
+        "text": "A formal complaint procedure at the gemeente",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "The Dutch word for a work contract",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "What is 'gezelligheid' in Dutch culture?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "A Dutch law about neighbor relations",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "A feeling of coziness, togetherness, and conviviality central to Dutch social life",
+        "isCorrect": true,
+        "explanation": "Gezelligheid is a uniquely Dutch concept describing a warm, cozy, convivial atmosphere — the feeling of being at ease with friends or family. A café, a dinner, or a gathering can all be gezellig. It is a highly valued part of Dutch culture."
+      },
+      {
+        "id": "C",
+        "text": "The Dutch system of voluntary community service",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "A type of Dutch traditional dance",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "What formal pronoun do Dutch people use when addressing an older person or someone in authority?",
+    "topics": [
+      "Nederlandse Cultuur en Tradities: Extra Oefening"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Jij",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Ze",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "U",
+        "isCorrect": true,
+        "explanation": "'U' is the formal Dutch pronoun used when addressing older people, strangers, or authority figures. 'Jij' or 'je' is used informally with friends, colleagues, and people your own age. In many Dutch workplaces, even bosses are addressed with 'jij'."
+      },
+      {
+        "id": "D",
+        "text": "Men",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Welk telefoonnummer bel je bij een levensbedreigende situatie in Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "0800-1351",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "0900-8844",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "144",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "112",
+        "isCorrect": true,
+        "explanation": "112 is het alarmnummer in Nederland. Je belt dit nummer bij levensbedreigende situaties, zoals een ernstig ongeluk of brand."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Naar wie ga je EERST als je ziek bent en het geen noodgeval is?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De specialist in het ziekenhuis",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De huisarts",
+        "isCorrect": true,
+        "explanation": "De huisarts is altijd het eerste aanspreekpunt voor gezondheidsproblemen die geen noodgeval zijn. De huisarts kan je doorverwijzen naar een specialist als dat nodig is."
+      },
+      {
+        "id": "C",
+        "text": "De apotheek",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De spoedeisende hulp",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Is een zorgverzekering verplicht in Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ja, voor iedereen vanaf 18 jaar",
+        "isCorrect": true,
+        "explanation": "In Nederland is een basisverzekering (zorgverzekering) verplicht voor iedereen van 18 jaar en ouder. Kinderen tot 18 jaar zijn gratis meeverzekerd."
+      },
+      {
+        "id": "B",
+        "text": "Nee, het is vrijwillig",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Alleen als je werkt",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Alleen voor kinderen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Wat is het 'eigen risico' bij de zorgverzekering?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De premie die je elke maand betaalt",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De kosten van medicijnen",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Het bedrag dat je zelf betaalt voordat de verzekering betaalt",
+        "isCorrect": true,
+        "explanation": "Het eigen risico is het bedrag dat je eerst zelf moet betalen voordat de zorgverzekering de kosten overneemt. Dit geldt niet voor de huisarts."
+      },
+      {
+        "id": "D",
+        "text": "Het bedrag dat de overheid betaalt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Wat is het consultatiebureau?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een bureau voor belastingzaken",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een kantoor voor werklozen",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een apotheek voor goedkope medicijnen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een plek waar de gezondheid van jonge kinderen wordt gevolgd",
+        "isCorrect": true,
+        "explanation": "Het consultatiebureau volgt de groei en ontwikkeling van kinderen van 0 tot 4 jaar. Kinderen krijgen daar ook vaccinaties."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Wat is het minimumloon in Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Het laagste loon dat een werkgever wettelijk moet betalen",
+        "isCorrect": true,
+        "explanation": "Het minimumloon is het wettelijk laagste bedrag dat een werkgever per uur aan een werknemer moet betalen. De overheid stelt dit bedrag vast."
+      },
+      {
+        "id": "B",
+        "text": "Er is geen minimumloon in Nederland",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Het gemiddelde salaris in Nederland",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Het loon dat alleen voor buitenlanders geldt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Wat is een arbeidsovereenkomst?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een bewijs dat je in Nederland mag wonen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een diploma van een opleiding",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een contract tussen werkgever en werknemer over het werk",
+        "isCorrect": true,
+        "explanation": "Een arbeidsovereenkomst is een contract tussen de werkgever en de werknemer. Hierin staan afspraken over het salaris, de werktijden en de taken."
+      },
+      {
+        "id": "D",
+        "text": "Een brief van het UWV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Welke organisatie is verantwoordelijk voor werkloosheidsuitkeringen (WW)?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De Belastingdienst",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De gemeente",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "DUO",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Het UWV",
+        "isCorrect": true,
+        "explanation": "Het UWV (Uitvoeringsinstituut Werknemersverzekeringen) is verantwoordelijk voor de WW-uitkering als je werkloos wordt."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Wat is een proeftijd?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een periode aan het begin van een contract waarin werkgever en werknemer kunnen stoppen",
+        "isCorrect": true,
+        "explanation": "De proeftijd is een korte periode aan het begin van een arbeidsovereenkomst. In deze periode kunnen zowel de werkgever als de werknemer het contract direct beëindigen."
+      },
+      {
+        "id": "B",
+        "text": "De tijd dat je op vakantie bent",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De periode na je pensioen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De tijd dat je ziek bent",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Waar vraag je een bijstandsuitkering aan als je geen werk en geen inkomen hebt?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bij het UWV",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Bij de gemeente",
+        "isCorrect": true,
+        "explanation": "Als je geen recht hebt op een WW-uitkering en geen inkomen hebt, kun je bij de gemeente een bijstandsuitkering aanvragen."
+      },
+      {
+        "id": "C",
+        "text": "Bij de Belastingdienst",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Bij DUO",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Wat is een BSN?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een bankrekening",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een belastingformulier",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een burgerservicenummer: een uniek persoonsnummer",
+        "isCorrect": true,
+        "explanation": "Het BSN (burgerservicenummer) is een uniek persoonsnummer dat je krijgt als je je inschrijft bij een gemeente. Je hebt het nodig voor contact met de overheid, zorg en werk."
+      },
+      {
+        "id": "D",
+        "text": "Een soort identiteitskaart",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Waarvoor heb je DigiD nodig?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Om te stemmen bij verkiezingen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Om een huis te kopen",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Om naar de huisarts te gaan",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Om online zaken te regelen bij de overheid",
+        "isCorrect": true,
+        "explanation": "DigiD is je digitale identiteit. Je gebruikt DigiD om online in te loggen bij overheidsorganisaties, zoals de Belastingdienst, DUO en je zorgverzekeraar."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Bij welke organisatie doe je je aangifte inkomstenbelasting?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De Belastingdienst",
+        "isCorrect": true,
+        "explanation": "De Belastingdienst is verantwoordelijk voor de belastingen in Nederland. Hier doe je je aangifte inkomstenbelasting."
+      },
+      {
+        "id": "B",
+        "text": "Het UWV",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De gemeente",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De SVB",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Waar moet je je inschrijven als je naar een nieuwe gemeente verhuist?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bij de politie",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Bij de Belastingdienst",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Bij de nieuwe gemeente",
+        "isCorrect": true,
+        "explanation": "Als je verhuist, moet je je binnen 5 dagen inschrijven bij de nieuwe gemeente. Dit heet je inschrijven in de Basisregistratie Personen (BRP)."
+      },
+      {
+        "id": "D",
+        "text": "Bij het UWV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Welke organisatie betaalt de AOW (pensioen van de overheid)?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De Belastingdienst",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De SVB",
+        "isCorrect": true,
+        "explanation": "De SVB (Sociale Verzekeringsbank) betaalt de AOW-uitkering aan mensen die de AOW-leeftijd hebben bereikt. De SVB betaalt ook de kinderbijslag."
+      },
+      {
+        "id": "C",
+        "text": "Het UWV",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De gemeente",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Wat is een woningcorporatie?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een bedrijf dat dure huizen verkoopt",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een bank die hypotheken geeft",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een organisatie die sociale huurwoningen verhuurt",
+        "isCorrect": true,
+        "explanation": "Een woningcorporatie is een organisatie die sociale huurwoningen verhuurt aan mensen met een lager inkomen."
+      },
+      {
+        "id": "D",
+        "text": "Een afdeling van de gemeente",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Wat is het verschil tussen huren en kopen van een woning?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Er is geen verschil",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Bij huren betaal je elke maand huur; bij kopen wordt het huis jouw eigendom",
+        "isCorrect": true,
+        "explanation": "Bij huren betaal je elke maand huur aan de verhuurder. Bij kopen word je eigenaar van de woning, meestal met een hypotheek (lening van de bank)."
+      },
+      {
+        "id": "C",
+        "text": "Huren is alleen voor Nederlanders",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Kopen kan alleen via de gemeente",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Wie is verantwoordelijk voor groot onderhoud in een huurwoning?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De huurder",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De gemeente",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De politie",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De verhuurder",
+        "isCorrect": true,
+        "explanation": "De verhuurder is verantwoordelijk voor groot onderhoud in een huurwoning, zoals reparaties aan de verwarming of het dak."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Hoe heet de belasting die je betaalt als eigenaar van een huis?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Onroerendezaakbelasting (OZB)",
+        "isCorrect": true,
+        "explanation": "Als eigenaar van een huis betaal je onroerendezaakbelasting (OZB) aan de gemeente. Dit is een jaarlijkse belasting."
+      },
+      {
+        "id": "B",
+        "text": "Inkomstenbelasting",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "BTW",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Erfbelasting",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Wat heb je nodig om een sociale huurwoning te huren?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een hoog inkomen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een eigen bedrijf",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een Nederlands paspoort",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een inschrijving bij een woningcorporatie en een inkomen onder de grens",
+        "isCorrect": true,
+        "explanation": "Voor een sociale huurwoning moet je je inschrijven bij een woningcorporatie. Je inkomen moet onder een bepaalde grens liggen. De wachttijd kan lang zijn."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Vanaf welke leeftijd is een kind leerplichtig in Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Vanaf 4 jaar",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Vanaf 5 jaar",
+        "isCorrect": true,
+        "explanation": "In Nederland begint de leerplicht op 5 jaar. Kinderen mogen al vanaf 4 jaar naar de basisschool, maar het is pas verplicht vanaf 5 jaar."
+      },
+      {
+        "id": "C",
+        "text": "Vanaf 6 jaar",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Vanaf 7 jaar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Tot welke leeftijd geldt de leerplicht in Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tot 14 jaar",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Tot 16 jaar",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Tot 18 jaar",
+        "isCorrect": true,
+        "explanation": "De leerplicht geldt tot 18 jaar. Jongeren van 16 en 17 jaar die nog geen startkwalificatie hebben, moeten naar school (kwalificatieplicht)."
+      },
+      {
+        "id": "D",
+        "text": "Tot 21 jaar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Welke organisatie is verantwoordelijk voor studiefinanciering en het inburgeringsexamen?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "DUO",
+        "isCorrect": true,
+        "explanation": "DUO (Dienst Uitvoering Onderwijs) is verantwoordelijk voor studiefinanciering en het organiseren van inburgeringsexamens."
+      },
+      {
+        "id": "B",
+        "text": "Het UWV",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De SVB",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De Belastingdienst",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Wat is de basisschool in Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "School voor kinderen van 12 tot 18 jaar",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "School voor volwassenen",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "School alleen voor Nederlandse kinderen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "School voor kinderen van 4 tot 12 jaar",
+        "isCorrect": true,
+        "explanation": "De basisschool is voor kinderen van 4 tot 12 jaar. Na de basisschool gaan kinderen naar het voortgezet onderwijs (middelbare school)."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Wat is een ouderavond op school?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een avond waarop ouders met de leerkracht praten over hun kind",
+        "isCorrect": true,
+        "explanation": "Op een ouderavond kunnen ouders met de leerkracht praten over hoe het gaat met hun kind op school. Ouders worden verwacht hierbij aanwezig te zijn."
+      },
+      {
+        "id": "B",
+        "text": "Een feest voor ouders",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een cursus Nederlands voor ouders",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een vergadering van de directie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Hoeveel leden heeft de Tweede Kamer in Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "75",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "150",
+        "isCorrect": true,
+        "explanation": "De Tweede Kamer heeft 150 leden. Zij worden direct gekozen door de Nederlandse bevolking."
+      },
+      {
+        "id": "D",
+        "text": "200",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Hoeveel leden heeft de Eerste Kamer?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "75",
+        "isCorrect": true,
+        "explanation": "De Eerste Kamer heeft 75 leden. Zij worden gekozen door de leden van de Provinciale Staten."
+      },
+      {
+        "id": "C",
+        "text": "100",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "150",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Vanaf welke leeftijd mag je stemmen in Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "16 jaar",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "17 jaar",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "21 jaar",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "18 jaar",
+        "isCorrect": true,
+        "explanation": "In Nederland mag je stemmen vanaf 18 jaar. Dit geldt voor alle verkiezingen, zoals de Tweede Kamerverkiezingen en gemeenteraadsverkiezingen."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Wat voor staatsvorm heeft Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een republiek",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een dictatuur",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een constitutionele monarchie",
+        "isCorrect": true,
+        "explanation": "Nederland is een constitutionele monarchie. Dat betekent dat er een koning is, maar de macht ligt bij het parlement en de regering. De koning heeft een ceremoniële rol."
+      },
+      {
+        "id": "D",
+        "text": "Een federatie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Wie is de huidige Koning van Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Koning Beatrix",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Koning Willem-Alexander",
+        "isCorrect": true,
+        "explanation": "Koning Willem-Alexander is sinds 2013 de Koning van Nederland. Hij volgde zijn moeder, koningin Beatrix, op."
+      },
+      {
+        "id": "C",
+        "text": "Koning Juliana",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Koning Bernhard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Hoeveel provincies heeft Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "12",
+        "isCorrect": true,
+        "explanation": "Nederland heeft 12 provincies, zoals Noord-Holland, Zuid-Holland, Utrecht, Gelderland en Limburg."
+      },
+      {
+        "id": "B",
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "16",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Wat is de hoofdstad van Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Rotterdam",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Den Haag",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Utrecht",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Amsterdam",
+        "isCorrect": true,
+        "explanation": "Amsterdam is de hoofdstad van Nederland. Den Haag is de regeringsstad, waar het parlement en de regering zitten."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Welke rivier stroomt NIET door Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De Rijn",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De Donau",
+        "isCorrect": true,
+        "explanation": "De Donau stroomt niet door Nederland. De Rijn, de Maas en de IJssel zijn bekende rivieren in Nederland."
+      },
+      {
+        "id": "C",
+        "text": "De Maas",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De IJssel",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Waarom zijn dijken en polders belangrijk in Nederland?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Omdat Nederland veel bergen heeft",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Omdat er veel aardbevingen zijn",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Omdat een groot deel van Nederland onder de zeespiegel ligt",
+        "isCorrect": true,
+        "explanation": "Een groot deel van Nederland ligt onder de zeespiegel. Dijken en polders beschermen het land tegen het water."
+      },
+      {
+        "id": "D",
+        "text": "Omdat het land heel droog is",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "In welke stad is de regering van Nederland gevestigd?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Den Haag",
+        "isCorrect": true,
+        "explanation": "Den Haag is de regeringsstad. Hier zitten de Tweede Kamer, de Eerste Kamer en de ministeries."
+      },
+      {
+        "id": "B",
+        "text": "Amsterdam",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Rotterdam",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Eindhoven",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Wat wordt er gevierd op Koningsdag?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De onafhankelijkheid van Nederland",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Het einde van de Tweede Wereldoorlog",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De verjaardag van de Koning",
+        "isCorrect": true,
+        "explanation": "Op Koningsdag (27 april) vieren we de verjaardag van Koning Willem-Alexander. Het is een nationale feestdag met vrijmarkten en oranje kleding."
+      },
+      {
+        "id": "D",
+        "text": "Het begin van de lente",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Wat is Sinterklaas?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een religieuze feestdag alleen voor christenen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een Nederlands kinderfeest op 5 december",
+        "isCorrect": true,
+        "explanation": "Sinterklaas is een traditioneel Nederlands kinderfeest dat op 5 december (pakjesavond) wordt gevierd. Kinderen krijgen cadeautjes."
+      },
+      {
+        "id": "C",
+        "text": "Een feest alleen in Amsterdam",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Het Nederlandse woord voor Kerstmis",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Wat herdenken Nederlanders op 4 mei?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De verjaardag van de Koning",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De oprichting van de Europese Unie",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De stichting van Nederland",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De slachtoffers van de Tweede Wereldoorlog",
+        "isCorrect": true,
+        "explanation": "Op 4 mei (Dodenherdenking) herdenken Nederlanders alle burgers en militairen die sinds de Tweede Wereldoorlog zijn omgekomen. Om 20:00 uur zijn er twee minuten stilte."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Wat wordt er gevierd op 5 mei?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bevrijdingsdag",
+        "isCorrect": true,
+        "explanation": "Op 5 mei vieren Nederlanders Bevrijdingsdag. Op deze dag wordt gevierd dat Nederland in 1945 werd bevrijd van de Duitse bezetting."
+      },
+      {
+        "id": "B",
+        "text": "Koningsdag",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Sinterklaas",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Prinsjesdag",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Wat is typerend voor de Nederlandse cultuur als het gaat om afspraken?",
+    "topics": [
+      "Oefenexamen 1"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Je hoeft niet precies op tijd te komen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Het is normaal om een uur te laat te komen",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Afspraken worden meestal niet nagekomen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Nederlanders vinden stiptheid (op tijd komen) belangrijk",
+        "isCorrect": true,
+        "explanation": "In de Nederlandse cultuur is stiptheid belangrijk. Nederlanders verwachten dat je op tijd komt bij afspraken, vergaderingen en op je werk."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Wat is de huisartsenpost?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een gewone huisartsenpraktijk",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een plek voor spoedeisende hulp in het ziekenhuis",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een huisartsenpraktijk voor avond, nacht en weekend",
+        "isCorrect": true,
+        "explanation": "De huisartsenpost is open buiten kantooruren (avond, nacht en weekend) voor dringende gezondheidsklachten die niet tot de volgende werkdag kunnen wachten."
+      },
+      {
+        "id": "D",
+        "text": "Een apotheek die 24 uur open is",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Bij wie moet je EERST terecht voor psychische klachten?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De huisarts, die kan doorverwijzen naar de GGZ",
+        "isCorrect": true,
+        "explanation": "Bij psychische klachten ga je eerst naar de huisarts. De huisarts kan je doorverwijzen naar de GGZ (Geestelijke Gezondheidszorg)."
+      },
+      {
+        "id": "B",
+        "text": "De apotheek",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Het consultatiebureau",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De tandarts",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Wat dekt de basisverzekering NIET?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een bezoek aan de huisarts",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Ziekenhuisopname",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Medicijnen op recept",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Tandartskosten voor volwassenen",
+        "isCorrect": true,
+        "explanation": "Tandartskosten voor volwassenen zitten niet in de basisverzekering. Hiervoor heb je een aanvullende verzekering nodig. Tandartskosten voor kinderen tot 18 jaar zitten wel in de basisverzekering."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Wat is het Rijksvaccinatieprogramma?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een cursus over gezondheid",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een programma om kinderen gratis te vaccineren tegen ziektes",
+        "isCorrect": true,
+        "explanation": "Via het Rijksvaccinatieprogramma krijgen kinderen in Nederland gratis vaccinaties tegen ernstige ziektes, zoals mazelen en difterie."
+      },
+      {
+        "id": "C",
+        "text": "Een verzekering voor ziekenhuisbezoek",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een sportprogramma voor kinderen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Wat controleert en behandelt de tandarts?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Je ogen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Je bloeddruk",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Je gebit (tanden en kiezen)",
+        "isCorrect": true,
+        "explanation": "De tandarts zorgt voor je tanden en kiezen. Het is belangrijk om twee keer per jaar naar de tandarts te gaan voor een controle."
+      },
+      {
+        "id": "D",
+        "text": "Je huid",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Wat is een uitzendbureau?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een overheidsinstantie voor werklozen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een school voor beroepsonderwijs",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een organisatie die vrijwilligerswerk regelt",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een bedrijf dat mensen tijdelijk werk aanbiedt bij andere bedrijven",
+        "isCorrect": true,
+        "explanation": "Een uitzendbureau bemiddelt tussen werkzoekenden en bedrijven. Je werkt dan tijdelijk bij een bedrijf via het uitzendbureau."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Hoeveel vakantiedagen heeft een werknemer minimaal recht op per jaar?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "4 keer het aantal werkdagen per week",
+        "isCorrect": true,
+        "explanation": "Een werknemer heeft recht op minimaal 4 keer het aantal werkdagen per week aan vakantiedagen per jaar. Bij een werkweek van 5 dagen is dat 20 vakantiedagen."
+      },
+      {
+        "id": "B",
+        "text": "10 dagen",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "30 dagen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Er is geen minimum",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Wat is de functie van een vakbond?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een vakbond is een overheidsinstantie",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een vakbond behartigt de belangen van werknemers",
+        "isCorrect": true,
+        "explanation": "Een vakbond behartigt de belangen van werknemers, bijvoorbeeld bij onderhandelingen over loon en arbeidsvoorwaarden (CAO)."
+      },
+      {
+        "id": "C",
+        "text": "Een vakbond regelt het pensioen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een vakbond is een soort uitzendbureau",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Wat is een ZZP'er?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een werknemer met een vast contract",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een vrijwilliger",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een zelfstandige zonder personeel, iemand die voor zichzelf werkt",
+        "isCorrect": true,
+        "explanation": "Een ZZP'er (Zelfstandige Zonder Personeel) is iemand die voor zichzelf werkt en geen werknemers in dienst heeft. Een ZZP'er is een ondernemer."
+      },
+      {
+        "id": "D",
+        "text": "Een stagiair",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Wat moet je doen als je ziek bent en niet kunt werken?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Niets, je werkgever merkt het vanzelf",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Naar het UWV gaan",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Ontslag nemen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Je ziek melden bij je werkgever",
+        "isCorrect": true,
+        "explanation": "Als je ziek bent, moet je je zo snel mogelijk ziek melden bij je werkgever. Je werkgever moet je loon doorbetalen tijdens ziekte (maximaal 2 jaar)."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Waar kun je een paspoort of identiteitskaart aanvragen?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bij de politie",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Bij de gemeente",
+        "isCorrect": true,
+        "explanation": "Je vraagt een paspoort of identiteitskaart aan bij de gemeente waar je staat ingeschreven."
+      },
+      {
+        "id": "C",
+        "text": "Bij de Belastingdienst",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Bij het UWV",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Wat is de functie van de politie in Nederland?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Het handhaven van de openbare orde en veiligheid",
+        "isCorrect": true,
+        "explanation": "De politie zorgt voor de openbare orde en veiligheid. De politie spoort ook criminelen op en helpt bij noodgevallen."
+      },
+      {
+        "id": "B",
+        "text": "Alleen het uitschrijven van boetes",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Het controleren van belastingen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Het regelen van vergunningen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Wat is het Kadaster?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een school voor volwassenen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een afdeling van de politie",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een register met informatie over grondbezit en huizen",
+        "isCorrect": true,
+        "explanation": "Het Kadaster is een organisatie die bijhoudt wie eigenaar is van grond en gebouwen in Nederland."
+      },
+      {
+        "id": "D",
+        "text": "Een zorginstelling",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Wat is de Rijksoverheid?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De gemeente",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De landelijke overheid, met de minister-president en ministers",
+        "isCorrect": true,
+        "explanation": "De Rijksoverheid is de landelijke overheid van Nederland, geleid door de minister-president en ministers. Zij maken landelijk beleid."
+      },
+      {
+        "id": "C",
+        "text": "De provinciale overheid",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De Europese Unie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Wie betaalt de kinderbijslag in Nederland?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De werkgever",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De gemeente",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De school",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De SVB",
+        "isCorrect": true,
+        "explanation": "De SVB (Sociale Verzekeringsbank) betaalt de kinderbijslag. Ouders krijgen kinderbijslag voor elk kind tot 18 jaar."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Wat is huurtoeslag?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Extra huur die je moet betalen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een verzekering voor je huurwoning",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Geld van de overheid om je huur te helpen betalen",
+        "isCorrect": true,
+        "explanation": "Huurtoeslag is een bijdrage van de overheid als je huur betaalt en een laag inkomen hebt. Je vraagt huurtoeslag aan bij de Belastingdienst."
+      },
+      {
+        "id": "D",
+        "text": "Een boete als je te laat betaalt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Wat is een hypotheek?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een verzekering voor je huis",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een contract met de woningcorporatie",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De huur die je betaalt",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een lening van de bank om een huis te kopen",
+        "isCorrect": true,
+        "explanation": "Een hypotheek is een lening die je afsluit bij een bank om een huis te kopen. Je betaalt de lening in termijnen terug, met rente."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Wat is een huurcontract?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een overeenkomst tussen huurder en verhuurder met afspraken over de huur",
+        "isCorrect": true,
+        "explanation": "Een huurcontract is een schriftelijke overeenkomst tussen de huurder en de verhuurder. Hierin staan afspraken over de huurprijs, de opzegtermijn en de regels."
+      },
+      {
+        "id": "B",
+        "text": "Een bewijs dat je eigenaar bent van een huis",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een contract met de gemeente",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een belastingformulier",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Wat is de Huurcommissie?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een organisatie die huizen verhuurt",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een afdeling van de politie",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een overheidsinstantie die geschillen tussen huurders en verhuurders behandelt",
+        "isCorrect": true,
+        "explanation": "De Huurcommissie is een onafhankelijke organisatie die geschillen tussen huurders en verhuurders behandelt, bijvoorbeeld over de huurprijs of achterstallig onderhoud."
+      },
+      {
+        "id": "D",
+        "text": "Een bank die hypotheken geeft",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Wat is de BRP (vroeger GBA)?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een belastingformulier",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een basisregistratie met gegevens van alle inwoners",
+        "isCorrect": true,
+        "explanation": "De BRP (Basisregistratie Personen, vroeger GBA) is een register met persoonsgegevens van alle inwoners van Nederland. Je schrijft je in bij de gemeente."
+      },
+      {
+        "id": "C",
+        "text": "Een diploma",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een bankrekening",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Welke schooltypen zijn er in het voortgezet onderwijs?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Alleen het gymnasium",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Alleen universiteit",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "MBO en HBO",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "VMBO, HAVO en VWO",
+        "isCorrect": true,
+        "explanation": "Het voortgezet onderwijs (middelbare school) heeft drie niveaus: VMBO, HAVO en VWO. Na de basisschool gaan kinderen naar een van deze niveaus."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Wat is het MBO?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Middelbaar beroepsonderwijs, een praktijkgerichte opleiding",
+        "isCorrect": true,
+        "explanation": "Het MBO (Middelbaar Beroepsonderwijs) is een praktijkgerichte opleiding na het VMBO. Je leert daar een vak, zoals verpleging, techniek of administratie."
+      },
+      {
+        "id": "B",
+        "text": "Middelbaar algemeen onderwijs",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Master in het buitenland onderwijs",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een type basisschool",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Wat is de CITO-toets?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een taaltoets voor inburgeraars",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een rijexamen",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een eindtoets op de basisschool die helpt bepalen naar welk niveau middelbare school een kind gaat",
+        "isCorrect": true,
+        "explanation": "De CITO-toets (of eindtoets) wordt aan het einde van de basisschool afgenomen. De uitslag helpt bij het schooladvies voor het voortgezet onderwijs."
+      },
+      {
+        "id": "D",
+        "text": "Een toets voor het MBO",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Wat is een peuterspeelzaal?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een school voor kinderen van 6 tot 12 jaar",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een buitenschoolse opvang",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een sportclub voor kinderen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een speelplek voor peuters van 2 tot 4 jaar",
+        "isCorrect": true,
+        "explanation": "Een peuterspeelzaal is een plek waar peuters van 2 tot 4 jaar kunnen spelen en leren. Het is goed voor de ontwikkeling en taalvaardigheid van het kind."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Wat is de taak van de Tweede Kamer?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De Tweede Kamer bestuurt de provincies",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De Tweede Kamer controleert de regering en maakt wetten",
+        "isCorrect": true,
+        "explanation": "De Tweede Kamer controleert de regering en heeft samen met de regering de wetgevende taak. De leden worden rechtstreeks gekozen door het volk."
+      },
+      {
+        "id": "C",
+        "text": "De Tweede Kamer kiest de Koning",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De Tweede Kamer stuurt het leger aan",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Wat is een coalitie?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een samenwerking van partijen die samen de regering vormen",
+        "isCorrect": true,
+        "explanation": "Een coalitie is een samenwerking van twee of meer politieke partijen die samen een meerderheid hebben in de Tweede Kamer en de regering vormen."
+      },
+      {
+        "id": "B",
+        "text": "Een politieke partij",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De oppositie in het parlement",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een gemeenteraad",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Wat is de functie van de minister-president?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De minister-president is het staatshoofd",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De minister-president maakt wetten",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De minister-president leidt de ministerraad en is voorzitter van de regering",
+        "isCorrect": true,
+        "explanation": "De minister-president is de voorzitter van de ministerraad (het kabinet) en leidt de regering. Het staatshoofd is de Koning."
+      },
+      {
+        "id": "D",
+        "text": "De minister-president leidt de Tweede Kamer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Wat is een referendum?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een gemeenteraadsvergadering",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een volksstemming over een bepaald onderwerp",
+        "isCorrect": true,
+        "explanation": "Een referendum is een volksstemming waarbij burgers direct hun mening kunnen geven over een bepaald onderwerp of wet."
+      },
+      {
+        "id": "C",
+        "text": "Een verkiezing voor de minister-president",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een vergadering van de Eerste Kamer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Wie heeft stemrecht bij de gemeenteraadsverkiezingen naast Nederlanders?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Niemand, alleen Nederlanders mogen stemmen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Iedereen die in Nederland woont",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "EU-burgers van 18+ en niet-EU-burgers die 5 jaar legaal in Nederland wonen",
+        "isCorrect": true,
+        "explanation": "Bij gemeenteraadsverkiezingen mogen ook EU-burgers van 18 jaar en ouder stemmen en niet-EU-burgers die minimaal 5 jaar onafgebroken en legaal in Nederland wonen."
+      },
+      {
+        "id": "D",
+        "text": "Alleen EU-burgers",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Wanneer had Nederland de Gouden Eeuw?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "In de 15e eeuw",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "In de 19e eeuw",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "In de 17e eeuw",
+        "isCorrect": true,
+        "explanation": "De Gouden Eeuw was in de 17e eeuw (de jaren 1600). Nederland was toen een rijk en machtig land met veel handel, kunst en wetenschap."
+      },
+      {
+        "id": "D",
+        "text": "In de 20e eeuw",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Welke beroemde schilder uit de Gouden Eeuw schilderde De Nachtwacht?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Vincent van Gogh",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Piet Mondriaan",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Karel Appel",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Rembrandt van Rijn",
+        "isCorrect": true,
+        "explanation": "Rembrandt van Rijn (1606-1669) is een van de beroemdste schilders uit de Gouden Eeuw. Zijn bekendste werk is De Nachtwacht."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "question": "In welk jaar werd Nederland bevrijd van de Duitse bezetting?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "1940",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "1945",
+        "isCorrect": true,
+        "explanation": "Nederland werd in mei 1945 bevrijd van de Duitse bezetting. Dit wordt elk jaar gevierd op 5 mei (Bevrijdingsdag)."
+      },
+      {
+        "id": "C",
+        "text": "1950",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "1918",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Welk land bezette Nederland tijdens de Tweede Wereldoorlog?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Engeland",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Frankrijk",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Spanje",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Duitsland",
+        "isCorrect": true,
+        "explanation": "Duitsland bezette Nederland van 1940 tot 1945 tijdens de Tweede Wereldoorlog."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Wat is Prinsjesdag?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De dag waarop de Koning de plannen van de regering voorleest",
+        "isCorrect": true,
+        "explanation": "Op Prinsjesdag (de derde dinsdag van september) leest de Koning de Troonrede voor in de Ridderzaal in Den Haag. Hierin staan de plannen van de regering voor het komende jaar."
+      },
+      {
+        "id": "B",
+        "text": "De verjaardag van de prins",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een feestdag voor kinderen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De dag waarop de Eerste Kamer wordt gekozen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Wat is stamppot?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een Spaans gerecht",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een traditioneel Nederlands gerecht van aardappelen met groenten",
+        "isCorrect": true,
+        "explanation": "Stamppot is een traditioneel Nederlands gerecht. Het is een gerecht van aardappelen gemengd met groenten, zoals boerenkool, zuurkool of hutspot."
+      },
+      {
+        "id": "C",
+        "text": "Een Italiaans gerecht",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een Japans gerecht",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Wat betekent 'doe maar normaal' in de Nederlandse cultuur?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een populair televisieprogramma",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een wet over gedrag in het openbaar",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een groet die je zegt als je weggaat",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een uitdrukking die bescheidenheid en nuchterheid uitdrukt",
+        "isCorrect": true,
+        "explanation": "'Doe maar normaal, dan doe je al gek genoeg' is een bekende Nederlandse uitdrukking. Het drukt de waarde van bescheidenheid en nuchterheid uit in de Nederlandse cultuur."
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Welke taal is de tweede officiële taal van Nederland?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Duits",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Fries",
+        "isCorrect": true,
+        "explanation": "Fries is de tweede officiële taal van Nederland en wordt gesproken in de provincie Friesland. Het is erkend als een aparte taal."
+      },
+      {
+        "id": "C",
+        "text": "Frans",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Spaans",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Wanneer worden er oliebollen gegeten in Nederland?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Met Pasen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Op Koningsdag",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Rond Oud en Nieuw (Nieuwjaar)",
+        "isCorrect": true,
+        "explanation": "Oliebollen worden traditioneel gegeten rond Oud en Nieuw (31 december en 1 januari). Het is een typisch Nederlands gebak."
+      },
+      {
+        "id": "D",
+        "text": "Op Bevrijdingsdag",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "question": "Wat is het niet-spoednummer van de politie?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "112",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "0800-1351",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "0900-8844",
+        "isCorrect": true,
+        "explanation": "0900-8844 is het niet-spoednummer van de politie. Je belt dit nummer voor zaken die niet dringend zijn, zoals aangifte doen van diefstal."
+      },
+      {
+        "id": "D",
+        "text": "144",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Wat is een verplicht onderdeel van het inburgeringsexamen?",
+    "topics": [
+      "Oefenexamen 2"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een rijexamen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een sporttest",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Het KNM-examen (Kennis van de Nederlandse Maatschappij)",
+        "isCorrect": true,
+        "explanation": "Het KNM-examen (Kennis van de Nederlandse Maatschappij) is een verplicht onderdeel van het inburgeringsexamen. Hierbij wordt je kennis over de Nederlandse samenleving getoetst."
+      },
+      {
+        "id": "D",
+        "text": "Een kookexamen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "question": "Wat doet de apotheek?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De apotheek verwijst je door naar een specialist",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De apotheek geeft vaccinaties aan kinderen",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De apotheek is hetzelfde als het ziekenhuis",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De apotheek geeft medicijnen op recept van de huisarts of specialist",
+        "isCorrect": true,
+        "explanation": "De apotheek verstrekt medicijnen op recept van de huisarts of specialist. Je kunt er ook vrij verkrijgbare medicijnen kopen."
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Wat is de verloskundige?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een zorgverlener die zwangere vrouwen begeleidt voor, tijdens en na de bevalling",
+        "isCorrect": true,
+        "explanation": "De verloskundige begeleidt zwangere vrouwen tijdens de zwangerschap, bevalling en kraamtijd. In Nederland bevallen veel vrouwen thuis onder begeleiding van de verloskundige."
+      },
+      {
+        "id": "B",
+        "text": "Een specialist in het ziekenhuis",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een huisarts voor kinderen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een tandarts voor baby's",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "question": "Wat is kraamzorg?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Zorg voor ouderen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Zorg voor moeder en baby in de eerste dagen na de bevalling",
+        "isCorrect": true,
+        "explanation": "Kraamzorg is hulp aan huis in de eerste 8-10 dagen na de bevalling. De kraamverzorgende helpt de moeder met de verzorging van de baby en het huishouden."
+      },
+      {
+        "id": "C",
+        "text": "Kinderopvang voor peuters",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Zorg in het ziekenhuis",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "question": "Wat gebeurt er als je geen zorgverzekering afsluit terwijl het verplicht is?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Er gebeurt niets",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Je mag niet meer naar de huisarts",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Je krijgt een boete en wordt automatisch verzekerd",
+        "isCorrect": true,
+        "explanation": "Als je geen zorgverzekering afsluit, krijg je eerst een waarschuwing en daarna een boete. Uiteindelijk word je door het CAK automatisch verzekerd."
+      },
+      {
+        "id": "D",
+        "text": "Je moet het land verlaten",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Hoeveel weken zwangerschaps- en bevallingsverlof heeft een werkneemster minimaal recht op?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "6 weken",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "10 weken",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "1 jaar",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Minimaal 16 weken",
+        "isCorrect": true,
+        "explanation": "Een werkneemster heeft recht op minimaal 16 weken zwangerschaps- en bevallingsverlof. Dit verlof begint 4 tot 6 weken voor de uitgerekende datum."
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "question": "Wat is een CAO?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een collectieve arbeidsovereenkomst met afspraken over loon en werkomstandigheden",
+        "isCorrect": true,
+        "explanation": "Een CAO (Collectieve Arbeidsovereenkomst) is een overeenkomst tussen werkgevers en vakbonden over arbeidsvoorwaarden zoals loon, werktijden en vakantiedagen voor een hele sector."
+      },
+      {
+        "id": "B",
+        "text": "Een belastingformulier",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een persoonlijk arbeidscontract",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een cursus voor werkzoekenden",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "question": "Wat is vrijwilligerswerk?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Werk waarvoor je betaald wordt door de gemeente",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Werk via een uitzendbureau",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Onbetaald werk dat je doet voor de samenleving",
+        "isCorrect": true,
+        "explanation": "Vrijwilligerswerk is onbetaald werk dat je doet voor de maatschappij, bijvoorbeeld bij een sportclub, school of buurtvereniging. Het is belangrijk in Nederland."
+      },
+      {
+        "id": "D",
+        "text": "Een stage bij een bedrijf",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "question": "Wat moet je doen als je ontslagen wordt?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Wachten tot de werkgever je terugneemt",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Je inschrijven als werkzoekende bij het UWV",
+        "isCorrect": true,
+        "explanation": "Als je ontslagen wordt, moet je je zo snel mogelijk inschrijven als werkzoekende bij het UWV. Het UWV beoordeelt of je recht hebt op een WW-uitkering."
+      },
+      {
+        "id": "C",
+        "text": "Direct een bijstandsuitkering aanvragen bij de gemeente",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Naar het buitenland gaan",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Is discriminatie op de werkvloer toegestaan in Nederland?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ja, de werkgever mag zelf kiezen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Het is alleen verboden bij de overheid",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Het is legaal om onderscheid te maken op basis van afkomst",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Nee, discriminatie is verboden op basis van afkomst, geslacht, geloof of leeftijd",
+        "isCorrect": true,
+        "explanation": "Discriminatie is in Nederland verboden. Het is niet toegestaan om iemand anders te behandelen vanwege afkomst, geslacht, godsdienst, leeftijd of handicap."
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "question": "Wat is het verschil tussen brutoloon en nettoloon?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Er is geen verschil",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Het nettoloon is altijd hoger dan het brutoloon",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Het brutoloon is je loon vóór belasting, het nettoloon is wat je ontvangt na aftrek",
+        "isCorrect": true,
+        "explanation": "Het brutoloon is je totale loon voordat belasting en premies worden afgetrokken. Het nettoloon is het bedrag dat je uiteindelijk op je bankrekening ontvangt."
+      },
+      {
+        "id": "D",
+        "text": "Het brutoloon is wat je ontvangt, het nettoloon is vóór belasting",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "question": "Wat is de Nationale Ombudsman?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een rechter",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een onafhankelijke klachtenbehandelaar bij problemen met de overheid",
+        "isCorrect": true,
+        "explanation": "De Nationale Ombudsman onderzoekt klachten van burgers over de overheid. Het is een onafhankelijke instantie die controleert of de overheid eerlijk handelt."
+      },
+      {
+        "id": "C",
+        "text": "Een minister",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een medewerker van de gemeente",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "question": "Wat is het CBR?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een organisatie voor belastingzaken",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een zorginstelling",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De organisatie die rijbewijzen en rijexamens regelt",
+        "isCorrect": true,
+        "explanation": "Het CBR (Centraal Bureau Rijvaardigheidsbewijzen) is de organisatie die rijexamens afneemt en rijbewijzen verstrekt in Nederland."
+      },
+      {
+        "id": "D",
+        "text": "Een onderwijsinstelling",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Hoeveel bestuurslagen heeft Nederland?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "2: gemeente en Rijksoverheid",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "3: gemeente, provincie en Rijksoverheid",
+        "isCorrect": true,
+        "explanation": "Nederland heeft drie bestuurslagen: de gemeente (stad/dorp), de provincie (regio) en de Rijksoverheid (landelijk). Elke laag heeft eigen taken en verantwoordelijkheden."
+      },
+      {
+        "id": "C",
+        "text": "4: wijk, gemeente, provincie en Rijksoverheid",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "1: alleen de Rijksoverheid",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Waar vraag je zorgtoeslag aan?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bij de zorgverzekeraar",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Bij de gemeente",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Bij de huisarts",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Bij de Belastingdienst",
+        "isCorrect": true,
+        "explanation": "Zorgtoeslag vraag je aan bij de Belastingdienst (via toeslagen.nl). Zorgtoeslag is een bijdrage van de overheid om je zorgverzekering te betalen als je een laag inkomen hebt."
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Wat is de identificatieplicht in Nederland?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Je moet altijd je paspoort dragen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Alleen buitenlanders moeten zich identificeren",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Iedereen van 14 jaar en ouder moet een geldig identiteitsbewijs kunnen tonen",
+        "isCorrect": true,
+        "explanation": "In Nederland geldt de identificatieplicht voor iedereen van 14 jaar en ouder. Je moet een geldig identiteitsbewijs kunnen tonen als de politie of een bevoegde instantie daarom vraagt."
+      },
+      {
+        "id": "D",
+        "text": "Je hoeft je nooit te identificeren",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "question": "Mag je als huurder zomaar je woning onderverhuren?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ja, dat mag altijd",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Nee, je hebt toestemming nodig van de verhuurder",
+        "isCorrect": true,
+        "explanation": "Je mag je huurwoning niet zomaar onderverhuren. Je hebt schriftelijke toestemming nodig van de verhuurder. Onderverhuren zonder toestemming kan leiden tot beëindiging van je huurcontract."
+      },
+      {
+        "id": "C",
+        "text": "Alleen als je in een koopwoning woont",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Alleen als de gemeente het toestaat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Wat is de WOZ-waarde?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De waarde van een woning vastgesteld door de gemeente, gebruikt voor belastingen",
+        "isCorrect": true,
+        "explanation": "De WOZ-waarde (Wet waardering onroerende zaken) is de waarde van je woning die de gemeente jaarlijks vaststelt. Deze waarde wordt gebruikt voor het berekenen van gemeentelijke belastingen."
+      },
+      {
+        "id": "B",
+        "text": "De huurprijs van een woning",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De verkoopprijs van een huis",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De hypotheek op een huis",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "question": "Wat is een buurtvereniging?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een overheidinstantie",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een woningcorporatie",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een vereniging van bewoners die samen activiteiten organiseren voor de buurt",
+        "isCorrect": true,
+        "explanation": "Een buurtvereniging is een groep bewoners die samen de buurt leefbaar houden en activiteiten organiseren, zoals buurtfeesten of opruimacties."
+      },
+      {
+        "id": "D",
+        "text": "Een politieke partij",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "question": "Wat kun je doen bij geluidsoverlast van je buren?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Direct verhuizen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Er is niets aan te doen",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Geluidsoverlast bestaat niet in Nederland",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Eerst met je buren praten, daarna eventueel de gemeente of politie inschakelen",
+        "isCorrect": true,
+        "explanation": "Bij geluidsoverlast is het goed om eerst met je buren te praten. Als dat niet helpt, kun je een klacht indienen bij de gemeente of de politie bellen."
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Waarom moet je afval scheiden in Nederland?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Het is niet verplicht",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Het is beter voor het milieu; papier, plastic, glas en restafval worden apart ingezameld",
+        "isCorrect": true,
+        "explanation": "In Nederland is het verplicht om afval te scheiden. Papier, plastic, glas en restafval worden apart ingezameld. Dit is beter voor het milieu."
+      },
+      {
+        "id": "C",
+        "text": "Omdat afval verbranden in de tuin verboden is",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Alleen in grote steden",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Wat is de kinderopvang?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De basisschool",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een ziekenhuis voor kinderen",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Opvang voor kinderen terwijl de ouders werken of studeren",
+        "isCorrect": true,
+        "explanation": "Kinderopvang is opvang voor kinderen (0-4 jaar) terwijl de ouders werken of studeren. Werkende ouders kunnen kinderopvangtoeslag krijgen van de Belastingdienst."
+      },
+      {
+        "id": "D",
+        "text": "Een sportclub",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Wat is het HBO?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Hoger basisonderwijs",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een type middelbare school",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een opleiding alleen voor buitenlanders",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Hoger beroepsonderwijs, een opleiding op hogescholen",
+        "isCorrect": true,
+        "explanation": "Het HBO (Hoger Beroepsonderwijs) is een opleiding aan een hogeschool. Na het HBO kun je een bachelor-diploma behalen. Je kunt naar het HBO na de HAVO of het MBO."
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Wat is een startkwalificatie?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Het minimale diploma voor een goede kans op de arbeidsmarkt (minimaal MBO-2, HAVO of VWO)",
+        "isCorrect": true,
+        "explanation": "Een startkwalificatie is het minimale opleidingsniveau dat nodig is om een goede kans op de arbeidsmarkt te hebben. Dit is minimaal een diploma op MBO niveau 2, HAVO of VWO."
+      },
+      {
+        "id": "B",
+        "text": "Een certificaat om een bedrijf te starten",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een taalcertificaat",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een rijbewijs",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Wie betaalt het onderwijs op openbare scholen in Nederland?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Alleen de ouders",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De overheid betaalt het onderwijs",
+        "isCorrect": true,
+        "explanation": "Het onderwijs op openbare en bijzondere scholen wordt grotendeels betaald door de overheid. De vrijheid van onderwijs is vastgelegd in de Grondwet."
+      },
+      {
+        "id": "C",
+        "text": "De leerlingen zelf",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Particuliere bedrijven",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "question": "Wat is de Grondwet?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een wet over de grond en het milieu",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een wet over belastingen",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De belangrijkste wet van Nederland met de grondrechten van burgers",
+        "isCorrect": true,
+        "explanation": "De Grondwet is de belangrijkste wet van Nederland. Hierin staan de grondrechten van burgers, zoals vrijheid van meningsuiting, godsdienstvrijheid en het verbod op discriminatie."
+      },
+      {
+        "id": "D",
+        "text": "Een wet die alleen voor de Koning geldt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "question": "Wat is vrijheid van meningsuiting?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Je mag je mening uiten, maar niet discrimineren of oproepen tot geweld",
+        "isCorrect": true,
+        "explanation": "Vrijheid van meningsuiting staat in de Grondwet. Je mag je mening geven, maar het is niet toegestaan om te discrimineren, te beledigen of op te roepen tot geweld."
+      },
+      {
+        "id": "B",
+        "text": "Je mag zeggen wat je wilt, zonder enige beperking",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Alleen de regering mag haar mening geven",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Je mag alleen je mening uiten in het parlement",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "question": "Wat betekent de scheiding van kerk en staat?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Kerken mogen niet in de buurt van overheidsgebouwen staan",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Religie is verboden in Nederland",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Alleen het christendom is toegestaan",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De overheid en religie zijn gescheiden; de overheid bemoeit zich niet met religie",
+        "isCorrect": true,
+        "explanation": "In Nederland is er een scheiding van kerk en staat. De overheid is neutraal en bemoeit zich niet met religie. Iedereen is vrij om een geloof te hebben of niet."
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "question": "Hoe vaak zijn er Tweede Kamerverkiezingen?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Elke 2 jaar",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Elke 4 jaar",
+        "isCorrect": true,
+        "explanation": "Tweede Kamerverkiezingen worden normaal gesproken elke 4 jaar gehouden. Het kan eerder zijn als het kabinet valt."
+      },
+      {
+        "id": "C",
+        "text": "Elke 5 jaar",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Elke 6 jaar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "question": "Wat was de VOC?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een moderne handelsorganisatie",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een politieke partij",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De Verenigde Oost-Indische Compagnie, een handelsbedrijf uit de 17e eeuw",
+        "isCorrect": true,
+        "explanation": "De VOC (Verenigde Oost-Indische Compagnie) was een Nederlands handelsbedrijf opgericht in 1602. Het was een van de eerste multinationals ter wereld en handelde in specerijen uit Azië."
+      },
+      {
+        "id": "D",
+        "text": "Een universiteit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "question": "Welke zee grenst aan de westkant van Nederland?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De Noordzee",
+        "isCorrect": true,
+        "explanation": "De Noordzee grenst aan de westkant van Nederland. Nederland heeft een lange kustlijn aan de Noordzee."
+      },
+      {
+        "id": "B",
+        "text": "De Middellandse Zee",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De Oostzee",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De Atlantische Oceaan",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "question": "Wat zijn de Deltawerken?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een museum over water",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een rivier in Nederland",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een groot waterbouwkundig project om Nederland te beschermen tegen overstromingen",
+        "isCorrect": true,
+        "explanation": "De Deltawerken is een groot waterbouwkundig project in Zeeland en Zuid-Holland. Het werd gebouwd na de Watersnoodramp van 1953 om Nederland te beschermen tegen overstromingen."
+      },
+      {
+        "id": "D",
+        "text": "Een historisch gebouw in Amsterdam",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "question": "Welke landen grenzen aan Nederland?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Duitsland en Frankrijk",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "België en Duitsland",
+        "isCorrect": true,
+        "explanation": "Nederland grenst aan België (in het zuiden) en Duitsland (in het oosten). Aan de westkant ligt de Noordzee."
+      },
+      {
+        "id": "C",
+        "text": "België en Frankrijk",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Duitsland en Denemarken",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "question": "Wat is het poldermodel in de Nederlandse cultuur?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nederlanders nemen beslissingen alleen",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Alleen de baas neemt beslissingen",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Nederlanders overleggen graag en nemen beslissingen samen door consensus",
+        "isCorrect": true,
+        "explanation": "Nederland heeft een overlegcultuur (ook wel poldermodel genoemd). Nederlanders vinden het belangrijk om samen te overleggen en door consensus tot besluiten te komen."
+      },
+      {
+        "id": "D",
+        "text": "Overleggen is onbeleefd in Nederland",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "question": "Wat is een typisch Nederlands vervoermiddel?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De fiets",
+        "isCorrect": true,
+        "explanation": "De fiets is het meest typische Nederlandse vervoermiddel. Nederland heeft meer fietsen dan inwoners en een uitgebreid netwerk van fietspaden."
+      },
+      {
+        "id": "B",
+        "text": "De scooter",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De motor",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De auto",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "question": "Wat is de OV-chipkaart?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een identiteitskaart",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een bankpas",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Een betaalkaart voor het openbaar vervoer (bus, trein, tram, metro)",
+        "isCorrect": true,
+        "explanation": "De OV-chipkaart is een betaalkaart waarmee je kunt reizen met het openbaar vervoer in Nederland, zoals de bus, trein, tram en metro."
+      },
+      {
+        "id": "D",
+        "text": "Een toegangskaart voor musea",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "question": "Wat is de rol van de burgemeester in Nederland?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De burgemeester wordt gekozen door de inwoners",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De burgemeester is het hoofd van de gemeente en is verantwoordelijk voor openbare orde",
+        "isCorrect": true,
+        "explanation": "De burgemeester is het hoofd van de gemeente en voorzitter van de gemeenteraad en het college van B&W. De burgemeester is verantwoordelijk voor openbare orde en veiligheid."
+      },
+      {
+        "id": "C",
+        "text": "De burgemeester maakt landelijke wetten",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "De burgemeester is lid van de Tweede Kamer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "question": "Wat is Kerstmis in Nederland?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Een feestdag op 6 december",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Twee feestdagen op 25 en 26 december",
+        "isCorrect": true,
+        "explanation": "Kerstmis wordt in Nederland gevierd op 25 december (Eerste Kerstdag) en 26 december (Tweede Kerstdag). Het zijn officiële feestdagen."
+      },
+      {
+        "id": "C",
+        "text": "Een feestdag alleen voor kinderen",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Een feest op 1 januari",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "question": "Wat is Anne Frank bekend om?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Zij was een beroemde schilderes",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Zij was koningin van Nederland",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Zij was een Joods meisje dat een dagboek schreef terwijl zij ondergedoken zat tijdens de Tweede Wereldoorlog",
+        "isCorrect": true,
+        "explanation": "Anne Frank was een Joods meisje dat tijdens de Tweede Wereldoorlog met haar familie ondergedoken zat in Amsterdam. Haar dagboek is wereldberoemd en beschrijft het leven in de onderduik."
+      },
+      {
+        "id": "D",
+        "text": "Zij was een beroemde sportvrouw",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Wat is een huismeester in een flatgebouw?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De eigenaar van het gebouw",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Een bewoner die de regels bepaalt",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Iemand die het gebouw onderhoudt en aanspreekpunt is voor bewoners",
+        "isCorrect": true,
+        "explanation": "Een huismeester is iemand die zorgt voor het onderhoud van een flatgebouw en het aanspreekpunt is voor de bewoners bij problemen."
+      },
+      {
+        "id": "D",
+        "text": "Een politieagent",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "question": "Wat is de Waterschapsbelasting?",
+    "topics": [
+      "Oefenexamen 3"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "Belasting voor het gebruik van drinkwater",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Belasting voor het waterbeheer, zoals dijken en waterzuivering",
+        "isCorrect": true,
+        "explanation": "De Waterschapsbelasting betaal je voor het waterbeheer in Nederland. Het waterschap zorgt voor veilige dijken, schoon water en het waterpeil."
+      },
+      {
+        "id": "C",
+        "text": "Belasting voor zwembaden",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Belasting die alleen boeren betalen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "question": "What is the Dutch emergency number?",
+    "topics": [
+      "Kennis van Nederland"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "911",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "112",
+        "isCorrect": true,
+        "explanation": "112 is the emergency number in the Netherlands (and across the EU). Call it for life-threatening situations like fires, accidents, or crimes in progress."
+      },
+      {
+        "id": "C",
+        "text": "0800-1234",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "144",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "question": "Who is the head of state of the Netherlands?",
+    "topics": [
+      "Kennis van Nederland"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "De minister-president",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "De burgemeester van Amsterdam",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "De Koning",
+        "isCorrect": true,
+        "explanation": "The Netherlands is a constitutional monarchy. The King (currently King Willem-Alexander) is the head of state, while the minister-president leads the government."
+      },
+      {
+        "id": "D",
+        "text": "De voorzitter van de Tweede Kamer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "question": "Where do you go first when you feel sick (not an emergency)?",
+    "topics": [
+      "Kennis van Nederland"
+    ],
+    "answers": [
+      {
+        "id": "A",
+        "text": "The hospital (ziekenhuis)",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "The pharmacy (apotheek)",
+        "isCorrect": false
+      },
+      {
+        "id": "C",
+        "text": "Your GP (huisarts)",
+        "isCorrect": true,
+        "explanation": "In the Netherlands, the huisarts (GP) is always your first point of contact for non-emergency health issues. They can refer you to a specialist if needed."
+      },
+      {
+        "id": "D",
+        "text": "The specialist",
+        "isCorrect": false
+      }
+    ]
+  }
+]

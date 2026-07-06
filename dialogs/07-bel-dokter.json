@@ -1,0 +1,18 @@
+{
+  "id": "basis-7-bel-dokter",
+  "category": "basis",
+  "number": 7,
+  "title": "De dokter bellen",
+  "description": "Een telefonische afspraak maken bij de huisarts. Belangrijk vocabulaire voor wie hulp nodig heeft binnen de Nederlandse zorg, inclusief het beschrijven van klachten en het inplannen van een afspraak.",
+  "situation": "Een patiënt belt de praktijk van dokter Jansen om een afspraak te maken vanwege hoofdpijn.",
+  "turns": [
+    { "speaker": "A", "text": "Goedendag, praktijk dokter Jansen. Hoe kan ik u helpen?", "id": "A0368"},
+    { "speaker": "B", "text": "Hallo, ik wil graag een afspraak maken", "id": "A0369"},
+    { "speaker": "A", "text": "Wat zijn uw klachten?", "id": "A0371"},
+    { "speaker": "B", "text": "Ik heb hoofdpijn", "id": "A0371-2"},
+    { "speaker": "A", "text": "Wanneer kunt u komen?", "id": "A0372"},
+    { "speaker": "B", "text": "Op woensdag, alstublieft", "id": "A0372-2"},
+    { "speaker": "A", "text": "Goed, ik zet u erin", "id": "A0373"},
+    { "speaker": "B", "text": "Hartelijk dank.", "id": "A0373-2"}
+  ]
+}

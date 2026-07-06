@@ -1,0 +1,31 @@
+{
+  "id": "basis-3-meet-markus",
+  "category": "basis",
+  "number": 3,
+  "title": "Maak kennis met Markus",
+  "description": "Een complete oefening voor het houden van een eerste kennismaking in het Nederlands.",
+  "situation": "Markus ontmoet iemand voor het eerst en beantwoordt typische kennismakingsvragen over zijn naam, herkomst, beroep en interesses.",
+  "turns": [
+    { "speaker": "A", "text": "Hoe heet jij?", "id": "A0431", "translations": { "en": "What's your name?", "ru": "Как вас зовут?", "de": "Wie heißen Sie?" } },
+    { "speaker": "B", "text": "Ik ben {userName??Markus}.", "id": "A0455", "translations": { "en": "I'm Markus.", "ru": "Меня зовут Маркус Мейер.", "de": "Ich bin Markus." } },
+    { "speaker": "A", "text": "Waar kom jij vandaan?", "id": "A0432", "translations": { "en": "Where are you from?", "ru": "Откуда вы?", "de": "Woher kommst du?" } },
+    { "speaker": "B", "text": "Ik kom uit {userOrigin??Ukraine} en", "id": "A0456", "translations": { "en": "I'm from the Netherlands and", "ru": "Я из Нидерландов и", "de": "Ich komme aus den Niederlanden und" } },
+    { "speaker": "A", "text": "Waar woon jij?", "id": "A0433", "translations": { "en": "Where do you live?", "ru": "Где вы живете?", "de": "Wo wohnst du?" } },
+    { "speaker": "B", "text": "Ik woon in {userAddress??Amsterdam}.", "id": "A0457", "translations": { "en": "I live in Amsterdam.", "ru": "Я живу в Амстердаме.", "de": "Ich wohne in Amsterdam." } },
+    { "speaker": "A", "text": "Wat doe jij voor werk?", "id": "A0434", "translations": { "en": "What do you do for work?", "ru": "Кем вы работаете?", "de": "Was machst du beruflich?" } },
+    { "speaker": "B", "text": "Ik ben {userOccupation??docent}", "id": "A0458", "translations": { "en": "I'm a teacher", "ru": "Я учитель.", "de": "Ich bin Lehrer." } },
+    { "speaker": "A", "text": "Welke talen spreek jij?", "id": "A0435", "translations": { "en": "What languages do you speak?", "ru": "На каких языках вы говорите?", "de": "Welche Sprachen sprechen Sie?" } },
+    { "speaker": "B", "text": "Ik spreek Nederlands en een beetje Engels", "id": "A0459", "translations": { "en": "I speak Dutch and a little English", "ru": "Я говорю по-голландски и немного по-английски.", "de": "Ich spreche Niederländisch und ein bisschen Englisch." } },
+    { "speaker": "A", "text": "Hoe oud ben jij?", "id": "A0436", "translations": { "en": "How old are you?", "ru": "Сколько вам лет?", "de": "Wie alt bist du?" } },
+    { "speaker": "B", "text": "Ik ben vijfendertig jaar oud", "id": "A0460", "translations": { "en": "I'm thirty-five years old", "ru": "Мне тридцать пять лет.", "de": "Ich bin fünfunddreißig Jahre alt." } },
+    { "speaker": "A", "text": "Houd jij van muziek?", "id": "A0437", "translations": { "en": "Do you like music?", "ru": "Вам нравится музыка?", "de": "Magst du Musik?" } },
+    { "speaker": "B", "text": "Ik houd van muziek en talen", "id": "A0461", "translations": { "en": "I like music and languages", "ru": "Мне нравится музыка и языки.", "de": "Ich mag Musik und Sprachen." } },
+    { "speaker": "A", "text": "Wat doe jij graag in je vrije tijd?", "id": "A0438", "translations": { "en": "What do you like to do in your free time?", "ru": "Что вы любите делать в свободное время?", "de": "Was machst du gern in deiner Freizeit?" } },
+    { "speaker": "B", "text": "In mijn vrije tijd lees ik graag boeken", "id": "A0462", "translations": { "en": "In my free time I like to read books", "ru": "В свободное время я люблю читать книги.", "de": "In meiner Freizeit lese ich gern Bücher." } },
+    { "speaker": "B", "text": "Ik leer graag nieuwe dingen", "id": "A0439", "translations": { "en": "I like to learn new things", "ru": "Мне нравится узнавать новое.", "de": "Ich lerne gerne neue Dinge" } },
+    { "speaker": "B", "text": "Ik reis graag en ontdek nieuwe plekken", "id": "A0441", "translations": { "en": "I like to travel and discover new places", "ru": "Мне нравится путешествовать и открывать новые места.", "de": "Ich reise gerne und entdecke neue Orte." } },
+    { "speaker": "A", "text": "Heb jij broers of zussen?", "id": "A0442", "translations": { "en": "Do you have any brothers or sisters?", "ru": "У вас есть братья или сестры?", "de": "Hast du Geschwister?" } },
+    { "speaker": "A", "text": "Heb jij een huisdier?", "id": "A0443", "translations": { "en": "Do you have a pet?", "ru": "У вас есть домашнее животное?", "de": "Hast du ein Haustier?" } },
+    { "speaker": "B", "text": "Ik ben blij je te ontmoeten", "id": "A0444", "translations": { "en": "I'm glad to meet you", "ru": "Я рад с тобой познакомиться", "de": "Ich freue mich, dich kennenzulernen." } }
+  ]
+}

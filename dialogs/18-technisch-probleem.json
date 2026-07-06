@@ -1,0 +1,22 @@
+{
+  "id": "werk-4-technisch-probleem",
+  "category": "werk",
+  "number": 4,
+  "title": "Een Technisch Probleem",
+  "description": "Twee collega's lossen samen een storing op: de website is offline door een serverprobleem. Toont realistisch Nederlands IT-jargon met Engelse leenwoorden in Nederlandse zinsbouw.",
+  "situation": "De website is offline. Een collega vraagt de developer wat er aan de hand is en helpt mee door de logs op de server te controleren.",
+  "turns": [
+    { "speaker": "Collega", "text": "Hé, de website is offline. Weet jij wat er aan de hand is?", "id": "A0867", "translations": { "en": "Hey, the website is offline. Do you know what's going on?", "ru": "Эй, сайт недоступен. Ты знаешь, в чём дело?", "de": "Hey, die Website ist offline. Weißt du, was los ist?" } },
+    { "speaker": "Developer", "text": "Ja, de server geeft een foutmelding. Ik kijk er nu naar.", "id": "A0868", "translations": { "en": "Yes, the server is giving an error. I'm looking into it now.", "ru": "Да, сервер выдаёт ошибку. Я сейчас разбираюсь.", "de": "Ja, der Server gibt eine Fehlermeldung. Ich schaue es mir gerade an." } },
+    { "speaker": "Collega", "text": "Is het de database?", "id": "A0869", "translations": { "en": "Is it the database?", "ru": "Это база данных?", "de": "Ist es die Datenbank?" } },
+    { "speaker": "Developer", "text": "Ja, de database had geen verbinding. Ik moet hem opnieuw configureren.", "id": "A0870", "translations": { "en": "Yes, the database had no connection. I have to reconfigure it.", "ru": "Да, у базы данных не было соединения. Мне нужно её перенастроить.", "de": "Ja, die Datenbank hatte keine Verbindung. Ich muss sie neu konfigurieren." } },
+    { "speaker": "Collega", "text": "Kan ik iets doen?", "id": "A0871", "translations": { "en": "Can I do something?", "ru": "Я могу чем-то помочь?", "de": "Kann ich etwas tun?" } },
+    { "speaker": "Developer", "text": "Kun jij de logs checken op de server?", "id": "A0872", "translations": { "en": "Can you check the logs on the server?", "ru": "Можешь проверить логи на сервере?", "de": "Kannst du die Logs auf dem Server prüfen?" } },
+    { "speaker": "Collega", "text": "Ik zie veel errors rond drie uur vannacht.", "id": "A0873", "translations": { "en": "I see a lot of errors around three o'clock last night.", "ru": "Я вижу много ошибок около трёх часов ночи.", "de": "Ich sehe viele Fehler gegen drei Uhr heute Nacht." } },
+    { "speaker": "Developer", "text": "Oké, dan weet ik genoeg. Ik ga een nieuwe versie deployen.", "id": "A0874", "translations": { "en": "Okay, then I know enough. I'm going to deploy a new version.", "ru": "Хорошо, мне этого достаточно. Я разверну новую версию.", "de": "Okay, dann weiß ich genug. Ich werde eine neue Version deployen." } },
+    { "speaker": "Collega", "text": "Hoe lang duurt dat?", "id": "A0875", "translations": { "en": "How long does that take?", "ru": "Сколько это займёт?", "de": "Wie lange dauert das?" } },
+    { "speaker": "Developer", "text": "De installatie duurt ongeveer tien minuten. Daarna is alles weer online.", "id": "A0876", "translations": { "en": "The installation takes about ten minutes. After that everything is online again.", "ru": "Установка занимает около десяти минут. После этого всё снова будет в сети.", "de": "Die Installation dauert etwa zehn Minuten. Danach ist alles wieder online." } },
+    { "speaker": "Collega", "text": "Top. Laat je het weten als het klaar is?", "id": "A0877", "translations": { "en": "Great. Will you let me know when it's done?", "ru": "Отлично. Дашь знать, когда будет готово?", "de": "Super. Sagst du Bescheid, wenn es fertig ist?" } },
+    { "speaker": "Developer", "text": "Zeker. Ik test eerst of de software goed werkt, dan zet ik het live.", "id": "A0878", "translations": { "en": "Sure. I'll first test whether the software works properly, then I'll put it live.", "ru": "Конечно. Сначала проверю, работает ли программа, потом запущу её.", "de": "Klar. Ich teste erst, ob die Software richtig funktioniert, dann stelle ich es live." } }
+  ]
+}

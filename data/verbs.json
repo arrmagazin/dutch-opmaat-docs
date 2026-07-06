@@ -1,0 +1,5767 @@
+[
+  {
+    "id": "bakken",
+    "infinitive": "bakken",
+    "pastSingular": "bakte",
+    "pastPlural": "bakten",
+    "translation": "bake",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gebakken",
+    "distractors": {
+      "pastSingular": [
+        "bokte",
+        "beekte",
+        "bookte",
+        "biekte"
+      ],
+      "pastPlural": [
+        "bokten",
+        "beekten",
+        "bookten",
+        "biekten"
+      ],
+      "perfectum": [
+        "gebokken",
+        "gebeekken",
+        "gebookken",
+        "gebiekken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "zij bakte een verse plakte.",
+      "pastPlural": "de koks bakten en lakten.",
+      "perfectum": "hij heeft brood gebakken en gehakken."
+    }
+  },
+  {
+    "id": "bedriegen",
+    "infinitive": "bedriegen",
+    "pastSingular": "bedroog",
+    "pastPlural": "bedrogen",
+    "translation": "dupe",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "bedrogen",
+    "distractors": {
+      "pastSingular": [
+        "bedreeg",
+        "bedrieg",
+        "bedrag",
+        "bedrog"
+      ],
+      "pastPlural": [
+        "bedragen",
+        "bedreegen",
+        "bedroogen",
+        "bedriegen"
+      ],
+      "perfectum": [
+        "bedragen",
+        "bedreegen",
+        "bedroogen",
+        "bedriegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de dief bedroog en vloog weg.",
+      "pastPlural": "zij bedrogen en logen erbij.",
+      "perfectum": "hij heeft mij bedrogen, gelogen."
+    }
+  },
+  {
+    "id": "beginnen",
+    "infinitive": "beginnen",
+    "pastSingular": "begon",
+    "pastPlural": "begonnen",
+    "translation": "begin, start",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "begonnen",
+    "distractors": {
+      "pastSingular": [
+        "began",
+        "begeen",
+        "begoon",
+        "begien"
+      ],
+      "pastPlural": [
+        "begannen",
+        "begeennen",
+        "begoonnen",
+        "begiennen"
+      ],
+      "perfectum": [
+        "begannen",
+        "begeennen",
+        "begoonnen",
+        "begiennen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de boer begon naast een ton.",
+      "pastPlural": "de boeren begonnen met tonnen.",
+      "perfectum": "wij zijn begonnen met tonnen."
+    }
+  },
+  {
+    "id": "beschrijven",
+    "infinitive": "beschrijven",
+    "pastSingular": "beschreef",
+    "pastPlural": "beschreven",
+    "translation": "describe",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "beschreven",
+    "distractors": {
+      "pastSingular": [
+        "beschroof",
+        "beschrief",
+        "beschraf",
+        "beschrof"
+      ],
+      "pastPlural": [
+        "beschraven",
+        "beschroven",
+        "beschreeven",
+        "beschrieven"
+      ],
+      "perfectum": [
+        "beschraven",
+        "beschroven",
+        "beschreeven",
+        "beschrieven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij beschreef de reis en bleef.",
+      "pastPlural": "zij beschreven hun leven.",
+      "perfectum": "hij heeft zijn leven beschreven."
+    }
+  },
+  {
+    "id": "besluiten",
+    "infinitive": "besluiten",
+    "pastSingular": "besloot",
+    "pastPlural": "besloten",
+    "translation": "decide",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "besloten",
+    "distractors": {
+      "pastSingular": [
+        "besleet",
+        "besliet",
+        "beslat",
+        "beslot"
+      ],
+      "pastPlural": [
+        "beslaten",
+        "besleeten",
+        "beslooten",
+        "beslieten"
+      ],
+      "perfectum": [
+        "beslaten",
+        "besleeten",
+        "beslooten",
+        "beslieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de baas besloot en goot thee.",
+      "pastPlural": "zij besloten en goten.",
+      "perfectum": "wij hebben besloten te stoten."
+    }
+  },
+  {
+    "id": "bestaan",
+    "infinitive": "bestaan",
+    "pastSingular": "bestond",
+    "pastPlural": "bestaan",
+    "translation": "exist",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "bestaan",
+    "distractors": {
+      "pastSingular": [
+        "bestand",
+        "besteend",
+        "bestoond",
+        "bestiend"
+      ],
+      "pastPlural": [
+        "besteen",
+        "bestoon",
+        "bestien",
+        "beston"
+      ],
+      "perfectum": [
+        "besteen",
+        "bestoon",
+        "bestien",
+        "beston"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het dorp bestond en vond rust.",
+      "pastPlural": "die regels bestaan, ze slaan aan.",
+      "perfectum": "die wet heeft altijd bestaan, gegaan."
+    }
+  },
+  {
+    "id": "bevelen",
+    "infinitive": "bevelen",
+    "pastSingular": "beval",
+    "pastPlural": "bevelen",
+    "translation": "order, command",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "bevolen",
+    "distractors": {
+      "pastSingular": [
+        "bevol",
+        "beveel",
+        "bevool",
+        "beviel"
+      ],
+      "pastPlural": [
+        "bevalen",
+        "bevolen",
+        "beveelen",
+        "bevielen"
+      ],
+      "perfectum": [
+        "bevalen",
+        "beveelen",
+        "bevoolen",
+        "bevielen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de kapitein beval het bevel.",
+      "pastPlural": "de officieren bevelen en spelen.",
+      "perfectum": "hij heeft het bevolen en gestolen."
+    }
+  },
+  {
+    "id": "bewegen",
+    "infinitive": "bewegen",
+    "pastSingular": "bewoog",
+    "pastPlural": "bewogen",
+    "translation": "move",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "bewogen",
+    "distractors": {
+      "pastSingular": [
+        "beweeg",
+        "bewieg",
+        "bewag",
+        "bewog"
+      ],
+      "pastPlural": [
+        "bewagen",
+        "beweegen",
+        "bewoogen",
+        "bewiegen"
+      ],
+      "perfectum": [
+        "bewagen",
+        "beweegen",
+        "bewoogen",
+        "bewiegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de tak bewoog en vloog.",
+      "pastPlural": "de bladeren bewogen en logen.",
+      "perfectum": "de wind heeft alles bewogen en gewogen."
+    }
+  },
+  {
+    "id": "bezoeken",
+    "infinitive": "bezoeken",
+    "pastSingular": "bezocht",
+    "pastPlural": "bezocht",
+    "translation": "visit",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "bezocht",
+    "distractors": {
+      "pastSingular": [
+        "bezacht",
+        "bezeecht",
+        "bezoocht",
+        "beziecht"
+      ],
+      "pastPlural": [
+        "bezacht",
+        "bezeecht",
+        "bezoocht",
+        "beziecht"
+      ],
+      "perfectum": [
+        "bezacht",
+        "bezeecht",
+        "bezoocht",
+        "beziecht"
+      ]
+    },
+    "samples": {
+      "pastSingular": "zij bezocht en zocht hulp.",
+      "pastPlural": "wij bezocht en gezocht het museum.",
+      "perfectum": "ik heb de stad bezocht en gezocht."
+    }
+  },
+  {
+    "id": "bidden",
+    "infinitive": "bidden",
+    "pastSingular": "bad",
+    "pastPlural": "baden",
+    "translation": "pray",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gebeden",
+    "distractors": {
+      "pastSingular": [
+        "bod",
+        "beed",
+        "bood",
+        "bied"
+      ],
+      "pastPlural": [
+        "boden",
+        "beeden",
+        "booden",
+        "bieden"
+      ],
+      "perfectum": [
+        "gebaden",
+        "geboden",
+        "gebeeden",
+        "gebieden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de monnik bad en zat stil.",
+      "pastPlural": "de mensen baden en raden.",
+      "perfectum": "wij hebben samen gebeden en geleden."
+    }
+  },
+  {
+    "id": "bieden",
+    "infinitive": "bieden",
+    "pastSingular": "bood",
+    "pastPlural": "boden",
+    "translation": "offer, present",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geboden",
+    "distractors": {
+      "pastSingular": [
+        "beed",
+        "bied",
+        "bad",
+        "bod"
+      ],
+      "pastPlural": [
+        "baden",
+        "beeden",
+        "booden",
+        "bieden"
+      ],
+      "perfectum": [
+        "gebaden",
+        "gebeeden",
+        "gebooden",
+        "gebieden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij bood en stootte aan.",
+      "pastPlural": "de kopers boden en stookten.",
+      "perfectum": "ik heb een prijs geboden en geleden."
+    }
+  },
+  {
+    "id": "bijten",
+    "infinitive": "bijten",
+    "pastSingular": "beet",
+    "pastPlural": "beten",
+    "translation": "bite",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gebeten",
+    "distractors": {
+      "pastSingular": [
+        "beat",
+        "beot",
+        "beeet",
+        "beiet"
+      ],
+      "pastPlural": [
+        "betan",
+        "beton",
+        "beteen",
+        "betien"
+      ],
+      "perfectum": [
+        "gebaten",
+        "geboten",
+        "gebeeten",
+        "gebieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de hond beet en heette Rex.",
+      "pastPlural": "de muggen beten en eten.",
+      "perfectum": "de kat heeft mij gebeten en geweten."
+    }
+  },
+  {
+    "id": "binden",
+    "infinitive": "binden",
+    "pastSingular": "bond",
+    "pastPlural": "bonden",
+    "translation": "tie up, bind",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gebonden",
+    "distractors": {
+      "pastSingular": [
+        "band",
+        "beend",
+        "boond",
+        "biend"
+      ],
+      "pastPlural": [
+        "banden",
+        "beenden",
+        "boonden",
+        "bienden"
+      ],
+      "perfectum": [
+        "gebanden",
+        "gebeenden",
+        "geboonden",
+        "gebienden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij bond het touw en vond rust.",
+      "pastPlural": "zij bonden en vonden knopen.",
+      "perfectum": "ik heb de bundel gebonden en gevonden."
+    }
+  },
+  {
+    "id": "blazen",
+    "infinitive": "blazen",
+    "pastSingular": "blies",
+    "pastPlural": "blazen",
+    "translation": "blow",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geblazen",
+    "distractors": {
+      "pastSingular": [
+        "blees",
+        "bloos",
+        "blas",
+        "blos"
+      ],
+      "pastPlural": [
+        "blozen",
+        "bleezen",
+        "bloozen",
+        "bliezen"
+      ],
+      "perfectum": [
+        "geblozen",
+        "gebleezen",
+        "gebloozen",
+        "gebliezen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de wind blies en hield niet.",
+      "pastPlural": "de kinderen blazen en razen.",
+      "perfectum": "hij heeft de fluit geblazen en geraasd."
+    }
+  },
+  {
+    "id": "blijken",
+    "infinitive": "blijken",
+    "pastSingular": "bleek",
+    "pastPlural": "bleken",
+    "translation": "appear",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gebleken",
+    "distractors": {
+      "pastSingular": [
+        "blook",
+        "bliek",
+        "blak",
+        "blok"
+      ],
+      "pastPlural": [
+        "blaken",
+        "bloken",
+        "bleeken",
+        "blieken"
+      ],
+      "perfectum": [
+        "geblaken",
+        "gebloken",
+        "gebleeken",
+        "geblieken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het bleek waar en leek zo.",
+      "pastPlural": "de feiten bleken en leken.",
+      "perfectum": "het is later gebleken en geweken."
+    }
+  },
+  {
+    "id": "blijven",
+    "infinitive": "blijven",
+    "pastSingular": "bleef",
+    "pastPlural": "bleven",
+    "translation": "stay, remain",
+    "level": "a",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gebleven",
+    "distractors": {
+      "pastSingular": [
+        "bloof",
+        "blief",
+        "blaf",
+        "blof"
+      ],
+      "pastPlural": [
+        "blaven",
+        "bloven",
+        "bleeven",
+        "blieven"
+      ],
+      "perfectum": [
+        "geblaven",
+        "gebloven",
+        "gebleeven",
+        "geblieven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij bleef thuis en schreef.",
+      "pastPlural": "wij bleven en schreven brieven.",
+      "perfectum": "ik ben thuis gebleven en gebleven kalm."
+    }
+  },
+  {
+    "id": "blinken",
+    "infinitive": "blinken",
+    "pastSingular": "blonk",
+    "pastPlural": "blonken",
+    "translation": "glow",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "geblonken",
+    "distractors": {
+      "pastSingular": [
+        "blank",
+        "bleenk",
+        "bloonk",
+        "blienk"
+      ],
+      "pastPlural": [
+        "blanken",
+        "bleenken",
+        "bloonken",
+        "blienken"
+      ],
+      "perfectum": [
+        "geblanken",
+        "gebleenken",
+        "gebloonken",
+        "geblienken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het goud blonk en zonk niet.",
+      "pastPlural": "de sterren blonken en zonken.",
+      "perfectum": "het zilver heeft geblonken en geschonken licht."
+    }
+  },
+  {
+    "id": "breken",
+    "infinitive": "breken",
+    "pastSingular": "brak",
+    "pastPlural": "braken",
+    "translation": "break",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gebroken",
+    "distractors": {
+      "pastSingular": [
+        "brok",
+        "breek",
+        "brook",
+        "briek"
+      ],
+      "pastPlural": [
+        "broken",
+        "breeken",
+        "brooken",
+        "brieken"
+      ],
+      "perfectum": [
+        "gebraken",
+        "gebreeken",
+        "gebrooken",
+        "gebrieken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het glas brak en zak viel.",
+      "pastPlural": "de takken braken en kraken.",
+      "perfectum": "hij heeft zijn been gebroken en geroken."
+    }
+  },
+  {
+    "id": "brengen",
+    "infinitive": "brengen",
+    "pastSingular": "bracht",
+    "pastPlural": "brachten",
+    "translation": "bring",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gebracht",
+    "distractors": {
+      "pastSingular": [
+        "brocht",
+        "breecht",
+        "broocht",
+        "briecht"
+      ],
+      "pastPlural": [
+        "brochten",
+        "breechten",
+        "broochten",
+        "briechten"
+      ],
+      "perfectum": [
+        "gebrocht",
+        "gebreecht",
+        "gebroocht",
+        "gebriecht"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij bracht het en lachte.",
+      "pastPlural": "zij brachten en lachten samen.",
+      "perfectum": "ik heb cadeaus gebracht en gedacht."
+    }
+  },
+  {
+    "id": "buigen",
+    "infinitive": "buigen",
+    "pastSingular": "boog",
+    "pastPlural": "bogen",
+    "translation": "bend",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gebogen",
+    "distractors": {
+      "pastSingular": [
+        "beeg",
+        "bieg",
+        "bag",
+        "bog"
+      ],
+      "pastPlural": [
+        "bagen",
+        "beegen",
+        "boogen",
+        "biegen"
+      ],
+      "perfectum": [
+        "gebagen",
+        "gebeegen",
+        "geboogen",
+        "gebiegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de tak boog en vloog terug.",
+      "pastPlural": "de bomen bogen en logen niet.",
+      "perfectum": "de man heeft gebogen en gevlogen."
+    }
+  },
+  {
+    "id": "denken",
+    "infinitive": "denken",
+    "pastSingular": "dacht",
+    "pastPlural": "dachten",
+    "translation": "think",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gedacht",
+    "distractors": {
+      "pastSingular": [
+        "docht",
+        "deecht",
+        "doocht",
+        "diecht"
+      ],
+      "pastPlural": [
+        "dochten",
+        "deechten",
+        "doochten",
+        "diechten"
+      ],
+      "perfectum": [
+        "gedocht",
+        "gedeecht",
+        "gedoocht",
+        "gediecht"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij dacht en lachte zacht.",
+      "pastPlural": "wij dachten en wachtten lang.",
+      "perfectum": "ik heb veel gedacht en gelachen."
+    }
+  },
+  {
+    "id": "doen",
+    "infinitive": "doen",
+    "pastSingular": "deed",
+    "pastPlural": "deden",
+    "translation": "do",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gedaan",
+    "distractors": {
+      "pastSingular": [
+        "dood",
+        "died",
+        "dad",
+        "dod"
+      ],
+      "pastPlural": [
+        "daden",
+        "doden",
+        "deeden",
+        "dieden"
+      ],
+      "perfectum": [
+        "gedeen",
+        "gedoon",
+        "gedien",
+        "gedon"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij deed het en kleedde zich.",
+      "pastPlural": "zij deden en kleedden zich.",
+      "perfectum": "ik heb het werk gedaan en begaan."
+    }
+  },
+  {
+    "id": "dragen",
+    "infinitive": "dragen",
+    "pastSingular": "droeg",
+    "pastPlural": "droegen",
+    "translation": "support, bear / wear",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gedragen",
+    "distractors": {
+      "pastSingular": [
+        "dreeg",
+        "droog",
+        "drieg",
+        "drag"
+      ],
+      "pastPlural": [
+        "dreegen",
+        "droogen",
+        "driegen",
+        "dragen"
+      ],
+      "perfectum": [
+        "gedrogen",
+        "gedreegen",
+        "gedroogen",
+        "gedriegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij droeg de last en vroeg hulp.",
+      "pastPlural": "zij droegen en vroegen om hulp.",
+      "perfectum": "ik heb een pak gedragen en gevraagd."
+    }
+  },
+  {
+    "id": "drijven",
+    "infinitive": "drijven",
+    "pastSingular": "dreef",
+    "pastPlural": "dreven",
+    "translation": "float / drive",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gedreven",
+    "distractors": {
+      "pastSingular": [
+        "droof",
+        "drief",
+        "draf",
+        "drof"
+      ],
+      "pastPlural": [
+        "draven",
+        "droven",
+        "dreeven",
+        "drieven"
+      ],
+      "perfectum": [
+        "gedraven",
+        "gedroven",
+        "gedreeven",
+        "gedrieven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de boot dreef en bleef boven.",
+      "pastPlural": "de bladeren dreven en bleven.",
+      "perfectum": "het hout heeft gedreven en geschreven."
+    }
+  },
+  {
+    "id": "drinken",
+    "infinitive": "drinken",
+    "pastSingular": "dronk",
+    "pastPlural": "dronken",
+    "translation": "drink",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gedronken",
+    "distractors": {
+      "pastSingular": [
+        "drank",
+        "dreenk",
+        "droonk",
+        "drienk"
+      ],
+      "pastPlural": [
+        "dranken",
+        "dreenken",
+        "droonken",
+        "drienken"
+      ],
+      "perfectum": [
+        "gedranken",
+        "gedreenken",
+        "gedroonken",
+        "gedrienken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij dronk en zonk in slaap.",
+      "pastPlural": "wij dronken en zonken weg.",
+      "perfectum": "ik heb water gedronken en geschonken."
+    }
+  },
+  {
+    "id": "duiken",
+    "infinitive": "duiken",
+    "pastSingular": "dook",
+    "pastPlural": "doken",
+    "translation": "dive",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gedoken",
+    "distractors": {
+      "pastSingular": [
+        "deek",
+        "diek",
+        "dak",
+        "dok"
+      ],
+      "pastPlural": [
+        "daken",
+        "deeken",
+        "dooken",
+        "dieken"
+      ],
+      "perfectum": [
+        "gedaken",
+        "gedeeken",
+        "gedooken",
+        "gedieken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de vogel dook en rook vis.",
+      "pastPlural": "de jongens doken en roken.",
+      "perfectum": "hij is diep gedoken en geroken."
+    }
+  },
+  {
+    "id": "dwingen",
+    "infinitive": "dwingen",
+    "pastSingular": "dwong",
+    "pastPlural": "dwongen",
+    "translation": "force, oblige",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gedwongen",
+    "distractors": {
+      "pastSingular": [
+        "dwang",
+        "dweeng",
+        "dwoong",
+        "dwieng"
+      ],
+      "pastPlural": [
+        "dwangen",
+        "dweengen",
+        "dwoongen",
+        "dwiengen"
+      ],
+      "perfectum": [
+        "gedwangen",
+        "gedweengen",
+        "gedwoongen",
+        "gedwiengen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de baas dwong en zong streng.",
+      "pastPlural": "zij dwongen en zongen luid.",
+      "perfectum": "men heeft mij gedwongen en gezongen."
+    }
+  },
+  {
+    "id": "eten",
+    "infinitive": "eten",
+    "pastSingular": "at",
+    "pastPlural": "aten",
+    "translation": "eat",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gegeten",
+    "distractors": {
+      "pastSingular": [
+        "ot",
+        "eet",
+        "oot",
+        "iet"
+      ],
+      "pastPlural": [
+        "oten",
+        "eeten",
+        "ooten",
+        "ieten"
+      ],
+      "perfectum": [
+        "gegaten",
+        "gegoten",
+        "gegeeten",
+        "gegieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij at en zat aan tafel.",
+      "pastPlural": "wij aten en praatten samen.",
+      "perfectum": "ik heb soep gegeten en geweten."
+    }
+  },
+  {
+    "id": "fluiten",
+    "infinitive": "fluiten",
+    "pastSingular": "floot",
+    "pastPlural": "floten",
+    "translation": "whistle, play flute",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gefloten",
+    "distractors": {
+      "pastSingular": [
+        "fleet",
+        "fliet",
+        "flat",
+        "flot"
+      ],
+      "pastPlural": [
+        "flaten",
+        "fleeten",
+        "flooten",
+        "flieten"
+      ],
+      "perfectum": [
+        "geflaten",
+        "gefleeten",
+        "geflooten",
+        "geflieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de man floot en schoot raak.",
+      "pastPlural": "de jongens floten naast de sloten.",
+      "perfectum": "hij heeft mooi gefloten en geboten."
+    }
+  },
+  {
+    "id": "gaan",
+    "infinitive": "gaan",
+    "pastSingular": "ging",
+    "pastPlural": "gingen",
+    "translation": "go",
+    "level": "a",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gegaan",
+    "distractors": {
+      "pastSingular": [
+        "gong",
+        "gang",
+        "geeng",
+        "gieng"
+      ],
+      "pastPlural": [
+        "gongen",
+        "gangen",
+        "geengen",
+        "giengen"
+      ],
+      "perfectum": [
+        "gegeen",
+        "gegoon",
+        "gegien",
+        "gegon"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij ging mee als jonge koning.",
+      "pastPlural": "zij gingen samen en zongen.",
+      "perfectum": "ik ben naar huis gegaan en gegaan."
+    }
+  },
+  {
+    "id": "gelden",
+    "infinitive": "gelden",
+    "pastSingular": "gold",
+    "pastPlural": "golden",
+    "translation": "count, be valid",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gegolden",
+    "distractors": {
+      "pastSingular": [
+        "gald",
+        "geeld",
+        "goold",
+        "gield"
+      ],
+      "pastPlural": [
+        "galden",
+        "geelden",
+        "goolden",
+        "gielden"
+      ],
+      "perfectum": [
+        "gegalden",
+        "gegeelden",
+        "gegoolden",
+        "gegielden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "die regel gold als oud gold.",
+      "pastPlural": "de wetten golden voor de bolden.",
+      "perfectum": "dat heeft altijd gegolden en gescholden."
+    }
+  },
+  {
+    "id": "genezen",
+    "infinitive": "genezen",
+    "pastSingular": "genas",
+    "pastPlural": "genazen",
+    "translation": "heal, cure",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "genezen",
+    "distractors": {
+      "pastSingular": [
+        "genos",
+        "genees",
+        "genoos",
+        "genies"
+      ],
+      "pastPlural": [
+        "genozen",
+        "geneezen",
+        "genoozen",
+        "geniezen"
+      ],
+      "perfectum": [
+        "genazen",
+        "genozen",
+        "geneezen",
+        "geniezen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de zieke genas en las weer.",
+      "pastPlural": "de gewonden genazen en bliezen.",
+      "perfectum": "hij is volledig genezen en belezen."
+    }
+  },
+  {
+    "id": "genieten",
+    "infinitive": "genieten",
+    "pastSingular": "genoot",
+    "pastPlural": "genoten",
+    "translation": "enjoy",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "genoten",
+    "distractors": {
+      "pastSingular": [
+        "geneet",
+        "geniet",
+        "genat",
+        "genot"
+      ],
+      "pastPlural": [
+        "genaten",
+        "geneeten",
+        "genooten",
+        "genieten"
+      ],
+      "perfectum": [
+        "genaten",
+        "geneeten",
+        "genooten",
+        "genieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij genoot van het rode brood.",
+      "pastPlural": "de gasten genoten en boten elkaar.",
+      "perfectum": "wij hebben genoten en geboten thee."
+    }
+  },
+  {
+    "id": "geven",
+    "infinitive": "geven",
+    "pastSingular": "gaf",
+    "pastPlural": "gaven",
+    "translation": "give",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gegeven",
+    "distractors": {
+      "pastSingular": [
+        "gof",
+        "geef",
+        "goof",
+        "gief"
+      ],
+      "pastPlural": [
+        "goven",
+        "geeven",
+        "gooven",
+        "gieven"
+      ],
+      "perfectum": [
+        "gegaven",
+        "gegoven",
+        "gegeeven",
+        "gegieven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij gaf een gift en blafte niet.",
+      "pastPlural": "zij gaven en graven samen door.",
+      "perfectum": "ik heb haar bloemen gegeven en geschreven."
+    }
+  },
+  {
+    "id": "gieten",
+    "infinitive": "gieten",
+    "pastSingular": "goot",
+    "pastPlural": "goten",
+    "translation": "pour",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gegoten",
+    "distractors": {
+      "pastSingular": [
+        "geet",
+        "giet",
+        "gat",
+        "got"
+      ],
+      "pastPlural": [
+        "gaten",
+        "geeten",
+        "gooten",
+        "gieten"
+      ],
+      "perfectum": [
+        "gegaten",
+        "gegeeten",
+        "gegooten",
+        "gegieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "zij goot het water in de boot.",
+      "pastPlural": "de buien goten in de sloten.",
+      "perfectum": "hij heeft beton gegoten en geboten."
+    }
+  },
+  {
+    "id": "glijden",
+    "infinitive": "glijden",
+    "pastSingular": "gleed",
+    "pastPlural": "gleden",
+    "translation": "slide",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gegleden",
+    "distractors": {
+      "pastSingular": [
+        "glood",
+        "glied",
+        "glad",
+        "glod"
+      ],
+      "pastPlural": [
+        "gladen",
+        "gloden",
+        "gleeden",
+        "glieden"
+      ],
+      "perfectum": [
+        "gegladen",
+        "gegloden",
+        "gegleeden",
+        "geglieden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het kind gleed en leed geen pijn.",
+      "pastPlural": "de schaatsers gleden en leden kou.",
+      "perfectum": "zij is uitgegleden en geleden."
+    }
+  },
+  {
+    "id": "glimmen",
+    "infinitive": "glimmen",
+    "pastSingular": "glom",
+    "pastPlural": "glommen",
+    "translation": "glow, glisten",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "geglommen",
+    "distractors": {
+      "pastSingular": [
+        "glam",
+        "gleem",
+        "gloom",
+        "gliem"
+      ],
+      "pastPlural": [
+        "glammen",
+        "gleemmen",
+        "gloommen",
+        "gliemmen"
+      ],
+      "perfectum": [
+        "geglammen",
+        "gegleemmen",
+        "gegloommen",
+        "gegliemmen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het goud glom als een dikke dom.",
+      "pastPlural": "de schoenen glommen en brommen niet.",
+      "perfectum": "het heeft mooi geglommen en gezwommen."
+    }
+  },
+  {
+    "id": "graven",
+    "infinitive": "graven",
+    "pastSingular": "groef",
+    "pastPlural": "groeven",
+    "translation": "dig",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gegraven",
+    "distractors": {
+      "pastSingular": [
+        "greef",
+        "groof",
+        "grief",
+        "graf"
+      ],
+      "pastPlural": [
+        "greeven",
+        "grooven",
+        "grieven",
+        "graven"
+      ],
+      "perfectum": [
+        "gegroven",
+        "gegreeven",
+        "gegrooven",
+        "gegrieven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de hond groef en stoof rond.",
+      "pastPlural": "de mannen groeven diepe groeven.",
+      "perfectum": "wij hebben een kuil gegraven en geschaven."
+    }
+  },
+  {
+    "id": "grijpen",
+    "infinitive": "grijpen",
+    "pastSingular": "greep",
+    "pastPlural": "grepen",
+    "translation": "grab",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gegrepen",
+    "distractors": {
+      "pastSingular": [
+        "groop",
+        "griep",
+        "grap",
+        "grop"
+      ],
+      "pastPlural": [
+        "grapen",
+        "gropen",
+        "greepen",
+        "griepen"
+      ],
+      "perfectum": [
+        "gegrapen",
+        "gegropen",
+        "gegreepen",
+        "gegriepen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij greep de zweep stevig vast.",
+      "pastPlural": "zij grepen en riepen luid.",
+      "perfectum": "ik heb de kans gegrepen en geslepen."
+    }
+  },
+  {
+    "id": "hangen",
+    "infinitive": "hangen",
+    "pastSingular": "hing",
+    "pastPlural": "hingen",
+    "translation": "hang",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gehangen",
+    "distractors": {
+      "pastSingular": [
+        "hong",
+        "hang",
+        "heeng",
+        "hieng"
+      ],
+      "pastPlural": [
+        "hongen",
+        "hangen",
+        "heengen",
+        "hiengen"
+      ],
+      "perfectum": [
+        "gehongen",
+        "geheengen",
+        "gehoongen",
+        "gehiengen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de jas hing als een lange slang.",
+      "pastPlural": "de doeken hingen en zongen niet.",
+      "perfectum": "het schilderij heeft gehangen en gevangen."
+    }
+  },
+  {
+    "id": "hebben",
+    "infinitive": "hebben",
+    "pastSingular": "had",
+    "pastPlural": "hadden",
+    "translation": "have",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gehad",
+    "distractors": {
+      "pastSingular": [
+        "hod",
+        "heed",
+        "hood",
+        "hied"
+      ],
+      "pastPlural": [
+        "hodden",
+        "heedden",
+        "hoodden",
+        "hiedden"
+      ],
+      "perfectum": [
+        "gehod",
+        "geheed",
+        "gehood",
+        "gehied"
+      ]
+    },
+    "samples": {
+      "pastSingular": "ik had een blad in de hand.",
+      "pastPlural": "wij hadden en raadden samen.",
+      "perfectum": "hij heeft het druk gehad en gespat."
+    }
+  },
+  {
+    "id": "heffen",
+    "infinitive": "heffen",
+    "pastSingular": "hief",
+    "pastPlural": "hieven",
+    "translation": "lift, raise",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "geheven",
+    "distractors": {
+      "pastSingular": [
+        "heef",
+        "hoof",
+        "haf",
+        "hof"
+      ],
+      "pastPlural": [
+        "heeven",
+        "hooven",
+        "haven",
+        "hoven"
+      ],
+      "perfectum": [
+        "gehaven",
+        "gehoven",
+        "geheeven",
+        "gehieven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij hief het glas, hij liep niet mis.",
+      "pastPlural": "zij hieven en bedrieven niemand.",
+      "perfectum": "wij hebben het glas geheven en geschreven."
+    }
+  },
+  {
+    "id": "helpen",
+    "infinitive": "helpen",
+    "pastSingular": "hielp",
+    "pastPlural": "hielpen",
+    "translation": "help",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "geholpen",
+    "distractors": {
+      "pastSingular": [
+        "heelp",
+        "hoolp",
+        "halp",
+        "holp"
+      ],
+      "pastPlural": [
+        "heelpen",
+        "hoolpen",
+        "halpen",
+        "holpen"
+      ],
+      "perfectum": [
+        "gehalpen",
+        "geheelpen",
+        "gehoolpen",
+        "gehielpen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij hielp en hield zijn woord.",
+      "pastPlural": "zij hielpen en hielden vol.",
+      "perfectum": "ik heb je graag geholpen en bedolven."
+    }
+  },
+  {
+    "id": "heten",
+    "infinitive": "heten",
+    "pastSingular": "heette",
+    "pastPlural": "hetten",
+    "translation": "be named",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geheten",
+    "distractors": {
+      "pastSingular": [
+        "hootte",
+        "hiette",
+        "hatte",
+        "hotte"
+      ],
+      "pastPlural": [
+        "hatten",
+        "hotten",
+        "heetten",
+        "hietten"
+      ],
+      "perfectum": [
+        "gehaten",
+        "gehoten",
+        "geheeten",
+        "gehieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het dorp heette naar de hete zon.",
+      "pastPlural": "de honden hetten en pretten niet.",
+      "perfectum": "hij heeft Jan geheten en gegeten."
+    }
+  },
+  {
+    "id": "houden",
+    "infinitive": "houden",
+    "pastSingular": "hield",
+    "pastPlural": "hielden",
+    "translation": "hold",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gehouden",
+    "distractors": {
+      "pastSingular": [
+        "heeld",
+        "hoold",
+        "hald",
+        "hold"
+      ],
+      "pastPlural": [
+        "heelden",
+        "hoolden",
+        "halden",
+        "holden"
+      ],
+      "perfectum": [
+        "gehooden",
+        "geheeden",
+        "gehieden",
+        "gehoden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij hield het touw in koude wind.",
+      "pastPlural": "zij hielden en bouwden samen.",
+      "perfectum": "ik heb van jou gehouden en gevouwen."
+    }
+  },
+  {
+    "id": "jagen",
+    "infinitive": "jagen",
+    "pastSingular": "joeg",
+    "pastPlural": "joegen",
+    "translation": "hunt",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gejaagd",
+    "distractors": {
+      "pastSingular": [
+        "jeeg",
+        "joog",
+        "jieg",
+        "jag"
+      ],
+      "pastPlural": [
+        "jeegen",
+        "joogen",
+        "jiegen",
+        "jagen"
+      ],
+      "perfectum": [
+        "gejeegd",
+        "gejoogd",
+        "gejiegd",
+        "gejogd"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de boer joeg en ploegde door.",
+      "pastPlural": "de honden joegen en zwoegden.",
+      "perfectum": "hij heeft het wild gejaagd en geknaagd."
+    }
+  },
+  {
+    "id": "kiezen",
+    "infinitive": "kiezen",
+    "pastSingular": "koos",
+    "pastPlural": "kozen",
+    "translation": "choose",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gekozen",
+    "distractors": {
+      "pastSingular": [
+        "kees",
+        "kies",
+        "kas",
+        "kos"
+      ],
+      "pastPlural": [
+        "kazen",
+        "keezen",
+        "koozen",
+        "kiezen"
+      ],
+      "perfectum": [
+        "gekazen",
+        "gekeezen",
+        "gekoozen",
+        "gekiezen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "zij koos en verloos niets.",
+      "pastPlural": "wij kozen en bliezen kaarsen uit.",
+      "perfectum": "ik heb een kleur gekozen en gevrozen."
+    }
+  },
+  {
+    "id": "kijken",
+    "infinitive": "kijken",
+    "pastSingular": "keek",
+    "pastPlural": "keken",
+    "translation": "see, look",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gekeken",
+    "distractors": {
+      "pastSingular": [
+        "kook",
+        "kiek",
+        "kak",
+        "kok"
+      ],
+      "pastPlural": [
+        "kaken",
+        "koken",
+        "keeken",
+        "kieken"
+      ],
+      "perfectum": [
+        "gekaken",
+        "gekoken",
+        "gekeeken",
+        "gekieken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij keek en leek heel rustig.",
+      "pastPlural": "zij keken en bleken verbaasd.",
+      "perfectum": "ik heb tv gekeken en geleken."
+    }
+  },
+  {
+    "id": "klimmen",
+    "infinitive": "klimmen",
+    "pastSingular": "klom",
+    "pastPlural": "klommen",
+    "translation": "climb",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "geklommen",
+    "distractors": {
+      "pastSingular": [
+        "klam",
+        "kleem",
+        "kloom",
+        "kliem"
+      ],
+      "pastPlural": [
+        "klammen",
+        "kleemmen",
+        "kloommen",
+        "kliemmen"
+      ],
+      "perfectum": [
+        "geklammen",
+        "gekleemmen",
+        "gekloommen",
+        "gekliemmen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de kat klom op een hoge stam.",
+      "pastPlural": "de jongens klommen en zwommen.",
+      "perfectum": "hij is hoog geklommen en gezwommen."
+    }
+  },
+  {
+    "id": "klinken",
+    "infinitive": "klinken",
+    "pastSingular": "klonk",
+    "pastPlural": "klonken",
+    "translation": "sound",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geklonken",
+    "distractors": {
+      "pastSingular": [
+        "klank",
+        "kleenk",
+        "kloonk",
+        "klienk"
+      ],
+      "pastPlural": [
+        "klanken",
+        "kleenken",
+        "kloonken",
+        "klienken"
+      ],
+      "perfectum": [
+        "geklanken",
+        "gekleenken",
+        "gekloonken",
+        "geklienken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de bel klonk en blonk in zon.",
+      "pastPlural": "de glazen klonken en blonken.",
+      "perfectum": "het heeft mooi geklonken en gedronken."
+    }
+  },
+  {
+    "id": "komen",
+    "infinitive": "komen",
+    "pastSingular": "kwam",
+    "pastPlural": "kwamen",
+    "translation": "come",
+    "level": "a",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gekomen",
+    "distractors": {
+      "pastSingular": [
+        "kwom",
+        "kweem",
+        "kwoom",
+        "kwiem"
+      ],
+      "pastPlural": [
+        "kwomen",
+        "kweemen",
+        "kwoomen",
+        "kwiemen"
+      ],
+      "perfectum": [
+        "gekamen",
+        "gekeemen",
+        "gekoomen",
+        "gekiemen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij kwam en nam de trein.",
+      "pastPlural": "zij kwamen en namen plaats.",
+      "perfectum": "ik ben te laat gekomen en gestroomen."
+    }
+  },
+  {
+    "id": "kopen",
+    "infinitive": "kopen",
+    "pastSingular": "kocht",
+    "pastPlural": "kochten",
+    "translation": "buy",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gekocht",
+    "distractors": {
+      "pastSingular": [
+        "kacht",
+        "keecht",
+        "koocht",
+        "kiecht"
+      ],
+      "pastPlural": [
+        "kachten",
+        "keechten",
+        "koochten",
+        "kiechten"
+      ],
+      "perfectum": [
+        "gekacht",
+        "gekeecht",
+        "gekoocht",
+        "gekiecht"
+      ]
+    },
+    "samples": {
+      "pastSingular": "zij kocht en zocht een jas.",
+      "pastPlural": "wij kochten en zochten brood.",
+      "perfectum": "hij heeft een huis gekocht en gezocht."
+    }
+  },
+  {
+    "id": "krijgen",
+    "infinitive": "krijgen",
+    "pastSingular": "kreeg",
+    "pastPlural": "kregen",
+    "translation": "receive, get",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gekregen",
+    "distractors": {
+      "pastSingular": [
+        "kroog",
+        "krieg",
+        "krag",
+        "krog"
+      ],
+      "pastPlural": [
+        "kragen",
+        "krogen",
+        "kreegen",
+        "kriegen"
+      ],
+      "perfectum": [
+        "gekragen",
+        "gekrogen",
+        "gekreegen",
+        "gekriegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij kreeg en zweeg toch stil.",
+      "pastPlural": "zij kregen en zwegen blij.",
+      "perfectum": "ik heb een brief gekregen en gezwegen."
+    }
+  },
+  {
+    "id": "krimpen",
+    "infinitive": "krimpen",
+    "pastSingular": "kromp",
+    "pastPlural": "krompen",
+    "translation": "contract, shrink",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gekrompen",
+    "distractors": {
+      "pastSingular": [
+        "kramp",
+        "kreemp",
+        "kroomp",
+        "kriemp"
+      ],
+      "pastPlural": [
+        "krampen",
+        "kreempen",
+        "kroompen",
+        "kriempen"
+      ],
+      "perfectum": [
+        "gekrampen",
+        "gekreempen",
+        "gekroompen",
+        "gekriempen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de trui kromp en stompte af.",
+      "pastPlural": "de stoffen krompen en stompten.",
+      "perfectum": "het is sterk gekrompen en geklompen."
+    }
+  },
+  {
+    "id": "kruipen",
+    "infinitive": "kruipen",
+    "pastSingular": "kroop",
+    "pastPlural": "kropen",
+    "translation": "crawl",
+    "level": "c",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gekropen",
+    "distractors": {
+      "pastSingular": [
+        "kreep",
+        "kriep",
+        "krap",
+        "krop"
+      ],
+      "pastPlural": [
+        "krapen",
+        "kreepen",
+        "kroopen",
+        "kriepen"
+      ],
+      "perfectum": [
+        "gekrapen",
+        "gekreepen",
+        "gekroopen",
+        "gekriepen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de baby kroop en doop niet onder.",
+      "pastPlural": "de kinderen kropen en slopen weg.",
+      "perfectum": "hij is weggekropen en geslopen."
+    }
+  },
+  {
+    "id": "kunnen",
+    "infinitive": "kunnen",
+    "pastSingular": "kon",
+    "pastPlural": "konden",
+    "translation": "be able to, can",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gekund",
+    "distractors": {
+      "pastSingular": [
+        "kan",
+        "keen",
+        "koon",
+        "kien"
+      ],
+      "pastPlural": [
+        "kanden",
+        "keenden",
+        "koonden",
+        "kienden"
+      ],
+      "perfectum": [
+        "gekand",
+        "gekond",
+        "gekeend",
+        "gekoond"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij kon niet, hij zon op iets.",
+      "pastPlural": "zij konden en zonden bericht.",
+      "perfectum": "ik heb het altijd gekund en gegund."
+    }
+  },
+  {
+    "id": "lachen",
+    "infinitive": "lachen",
+    "pastSingular": "lachte",
+    "pastPlural": "lachten",
+    "translation": "laugh",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gelachen",
+    "distractors": {
+      "pastSingular": [
+        "lochte",
+        "leechte",
+        "loochte",
+        "liechte"
+      ],
+      "pastPlural": [
+        "lochten",
+        "leechten",
+        "loochten",
+        "liechten"
+      ],
+      "perfectum": [
+        "gelochen",
+        "geleechen",
+        "geloochen",
+        "geliechen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij lachte zacht en wachtte.",
+      "pastPlural": "de kinderen lachten en klapten zachtjes.",
+      "perfectum": "wij hebben hard gelachen en gesproken."
+    }
+  },
+  {
+    "id": "laden",
+    "infinitive": "laden",
+    "pastSingular": "laadde",
+    "pastPlural": "laadden",
+    "translation": "load",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "geladen",
+    "distractors": {
+      "pastSingular": [
+        "leedde",
+        "loodde",
+        "liedde",
+        "lodde"
+      ],
+      "pastPlural": [
+        "leedden",
+        "loodden",
+        "liedden",
+        "lodden"
+      ],
+      "perfectum": [
+        "geloden",
+        "geleeden",
+        "gelooden",
+        "gelieden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de man laadde de wagen en baadde.",
+      "pastPlural": "zij laadden de boten met manden.",
+      "perfectum": "hij heeft het schip geladen en gevaren."
+    }
+  },
+  {
+    "id": "laten",
+    "infinitive": "laten",
+    "pastSingular": "liet",
+    "pastPlural": "lieten",
+    "translation": "let",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gelaten",
+    "distractors": {
+      "pastSingular": [
+        "leet",
+        "loot",
+        "lat",
+        "lot"
+      ],
+      "pastPlural": [
+        "leeten",
+        "looten",
+        "laten",
+        "loten"
+      ],
+      "perfectum": [
+        "geloten",
+        "geleeten",
+        "gelooten",
+        "gelieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij liet de hond los en hield.",
+      "pastPlural": "zij lieten de deuren open en stootten.",
+      "perfectum": "ik heb hem gaan gelaten, zoals gepraten."
+    }
+  },
+  {
+    "id": "lezen",
+    "infinitive": "lezen",
+    "pastSingular": "las",
+    "pastPlural": "lazen",
+    "translation": "read",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gelezen",
+    "distractors": {
+      "pastSingular": [
+        "los",
+        "lees",
+        "loos",
+        "lies"
+      ],
+      "pastPlural": [
+        "lozen",
+        "leezen",
+        "loozen",
+        "liezen"
+      ],
+      "perfectum": [
+        "gelazen",
+        "gelozen",
+        "geleezen",
+        "geliezen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "zij las een brief en was blij.",
+      "pastPlural": "de leerlingen lazen en blazen niet.",
+      "perfectum": "ik heb het boek gelezen en geprezen."
+    }
+  },
+  {
+    "id": "liegen",
+    "infinitive": "liegen",
+    "pastSingular": "loog",
+    "pastPlural": "logen",
+    "translation": "lie (tell lies)",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gelogen",
+    "distractors": {
+      "pastSingular": [
+        "leeg",
+        "lieg",
+        "lag",
+        "log"
+      ],
+      "pastPlural": [
+        "lagen",
+        "leegen",
+        "loogen",
+        "liegen"
+      ],
+      "perfectum": [
+        "gelagen",
+        "geleegen",
+        "geloogen",
+        "geliegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de jongen loog en boog het hoofd.",
+      "pastPlural": "zij logen vaak en zwogen zwaar.",
+      "perfectum": "hij heeft altijd gelogen en bedrogen."
+    }
+  },
+  {
+    "id": "liggen",
+    "infinitive": "liggen",
+    "pastSingular": "lag",
+    "pastPlural": "lagen",
+    "translation": "lie (be lying)",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gelegen",
+    "distractors": {
+      "pastSingular": [
+        "log",
+        "leeg",
+        "loog",
+        "lieg"
+      ],
+      "pastPlural": [
+        "logen",
+        "leegen",
+        "loogen",
+        "liegen"
+      ],
+      "perfectum": [
+        "gelagen",
+        "gelogen",
+        "geleegen",
+        "geliegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de kat lag stil in de hoek en zag.",
+      "pastPlural": "de boeken lagen op de planken en zagen oud.",
+      "perfectum": "hij heeft lang ziek gelegen en gezwegen."
+    }
+  },
+  {
+    "id": "lijden",
+    "infinitive": "lijden",
+    "pastSingular": "leed",
+    "pastPlural": "leden",
+    "translation": "suffer",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "geleden",
+    "distractors": {
+      "pastSingular": [
+        "lood",
+        "lied",
+        "lad",
+        "lod"
+      ],
+      "pastPlural": [
+        "laden",
+        "loden",
+        "leeden",
+        "lieden"
+      ],
+      "perfectum": [
+        "geladen",
+        "geloden",
+        "geleeden",
+        "gelieden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de patiënt leed pijn en gleed weg.",
+      "pastPlural": "de mensen leden honger en sneden brood.",
+      "perfectum": "zij heeft veel geleden en gestreden."
+    }
+  },
+  {
+    "id": "lijken",
+    "infinitive": "lijken",
+    "pastSingular": "leek",
+    "pastPlural": "leken",
+    "translation": "look like, seem",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geleken",
+    "distractors": {
+      "pastSingular": [
+        "look",
+        "liek",
+        "lak",
+        "lok"
+      ],
+      "pastPlural": [
+        "laken",
+        "loken",
+        "leeken",
+        "lieken"
+      ],
+      "perfectum": [
+        "gelaken",
+        "geloken",
+        "geleeken",
+        "gelieken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het leek mooi maar week af.",
+      "pastPlural": "de tweelingen leken op elkaar en keken.",
+      "perfectum": "het heeft echt geleken en geweken."
+    }
+  },
+  {
+    "id": "lopen",
+    "infinitive": "lopen",
+    "pastSingular": "liep",
+    "pastPlural": "liepen",
+    "translation": "walk, run",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gelopen",
+    "distractors": {
+      "pastSingular": [
+        "leep",
+        "loop",
+        "lap",
+        "lop"
+      ],
+      "pastPlural": [
+        "leepen",
+        "loopen",
+        "lapen",
+        "lopen"
+      ],
+      "perfectum": [
+        "gelapen",
+        "geleepen",
+        "geloopen",
+        "geliepen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij liep snel en riep luid.",
+      "pastPlural": "de honden liepen weg en riepen niet.",
+      "perfectum": "ik heb ver gelopen en geroepen."
+    }
+  },
+  {
+    "id": "meten",
+    "infinitive": "meten",
+    "pastSingular": "mat",
+    "pastPlural": "maten",
+    "translation": "measure",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gemeten",
+    "distractors": {
+      "pastSingular": [
+        "mot",
+        "meet",
+        "moot",
+        "miet"
+      ],
+      "pastPlural": [
+        "moten",
+        "meeten",
+        "mooten",
+        "mieten"
+      ],
+      "perfectum": [
+        "gematen",
+        "gemoten",
+        "gemeeten",
+        "gemieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de timmerman mat de plank en zat.",
+      "pastPlural": "zij maten de kamers en praten zacht.",
+      "perfectum": "hij heeft de afstand gemeten en geweten."
+    }
+  },
+  {
+    "id": "moeten",
+    "infinitive": "moeten",
+    "pastSingular": "moest",
+    "pastPlural": "moesten",
+    "translation": "have to, must",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gemoeten",
+    "distractors": {
+      "pastSingular": [
+        "meest",
+        "moost",
+        "miest",
+        "mast"
+      ],
+      "pastPlural": [
+        "meesten",
+        "moosten",
+        "miesten",
+        "masten"
+      ],
+      "perfectum": [
+        "gemeeten",
+        "gemooten",
+        "gemieten",
+        "gematen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "ik moest werken en roestte niet.",
+      "pastPlural": "zij moesten gaan en proestten van het lachen.",
+      "perfectum": "ik heb echt gemoeten, niet geboet."
+    }
+  },
+  {
+    "id": "mogen",
+    "infinitive": "mogen",
+    "pastSingular": "mocht",
+    "pastPlural": "mochten",
+    "translation": "be allowed to, may",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gemogen",
+    "distractors": {
+      "pastSingular": [
+        "macht",
+        "meecht",
+        "moocht",
+        "miecht"
+      ],
+      "pastPlural": [
+        "machten",
+        "meechten",
+        "moochten",
+        "miechten"
+      ],
+      "perfectum": [
+        "gemagen",
+        "gemeegen",
+        "gemoogen",
+        "gemiegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij mocht komen en kocht brood.",
+      "pastPlural": "de kinderen mochten spelen en pochten erover.",
+      "perfectum": "ik heb hem altijd gemogen en gewogen."
+    }
+  },
+  {
+    "id": "nemen",
+    "infinitive": "nemen",
+    "pastSingular": "nam",
+    "pastPlural": "namen",
+    "translation": "take",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "genomen",
+    "distractors": {
+      "pastSingular": [
+        "nom",
+        "neem",
+        "noom",
+        "niem"
+      ],
+      "pastPlural": [
+        "nomen",
+        "neemen",
+        "noomen",
+        "niemen"
+      ],
+      "perfectum": [
+        "genamen",
+        "geneemen",
+        "genoomen",
+        "geniemen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "zij nam de tas en kwam terug.",
+      "pastPlural": "wij namen de trein en kwamen laat.",
+      "perfectum": "hij heeft de bus genomen, zonder schromen."
+    }
+  },
+  {
+    "id": "ontbijten",
+    "infinitive": "ontbijten",
+    "pastSingular": "ontbeet",
+    "pastPlural": "ontbeten",
+    "translation": "have breakfast",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "ontbeten",
+    "distractors": {
+      "pastSingular": [
+        "ontboot",
+        "ontbiet",
+        "ontbat",
+        "ontbot"
+      ],
+      "pastPlural": [
+        "ontbaten",
+        "ontboten",
+        "ontbeeten",
+        "ontbieten"
+      ],
+      "perfectum": [
+        "ontbaten",
+        "ontboten",
+        "ontbeeten",
+        "ontbieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij ontbeet vroeg en weet veel.",
+      "pastPlural": "zij ontbeten samen en eten brood.",
+      "perfectum": "ik heb stevig ontbeten en geweten."
+    }
+  },
+  {
+    "id": "ontmoeten",
+    "infinitive": "ontmoeten",
+    "pastSingular": "ontmoette",
+    "pastPlural": "ontmoetten",
+    "translation": "meet",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "ontmoet",
+    "distractors": {
+      "pastSingular": [
+        "ontmeette",
+        "ontmootte",
+        "ontmiette",
+        "ontmatte"
+      ],
+      "pastPlural": [
+        "ontmeetten",
+        "ontmootten",
+        "ontmietten",
+        "ontmatten"
+      ],
+      "perfectum": [
+        "ontmeet",
+        "ontmoot",
+        "ontmiet",
+        "ontmat"
+      ]
+    },
+    "samples": {
+      "pastSingular": "ik ontmoette haar en zette koffie.",
+      "pastPlural": "zij ontmoetten elkaar en zetten thee.",
+      "perfectum": "wij hebben hem ontmoet bij de boot."
+    }
+  },
+  {
+    "id": "ontvangen",
+    "infinitive": "ontvangen",
+    "pastSingular": "ontving",
+    "pastPlural": "ontvingen",
+    "translation": "receive, welcome",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "ontvangen",
+    "distractors": {
+      "pastSingular": [
+        "ontvong",
+        "ontvang",
+        "ontveeng",
+        "ontvieng"
+      ],
+      "pastPlural": [
+        "ontvongen",
+        "ontvangen",
+        "ontveengen",
+        "ontviengen"
+      ],
+      "perfectum": [
+        "ontvongen",
+        "ontveengen",
+        "ontvoongen",
+        "ontviengen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij ontving een brief en ging weg.",
+      "pastPlural": "zij ontvingen gasten en gingen koken.",
+      "perfectum": "ik heb het pakket ontvangen en gevangen."
+    }
+  },
+  {
+    "id": "prijzen",
+    "infinitive": "prijzen",
+    "pastSingular": "prees",
+    "pastPlural": "prezen",
+    "translation": "praise",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "geprezen",
+    "distractors": {
+      "pastSingular": [
+        "proos",
+        "pries",
+        "pras",
+        "pros"
+      ],
+      "pastPlural": [
+        "prazen",
+        "prozen",
+        "preezen",
+        "priezen"
+      ],
+      "perfectum": [
+        "geprazen",
+        "geprozen",
+        "gepreezen",
+        "gepriezen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de leraar prees het werk en wees erop.",
+      "pastPlural": "de critici prezen het boek en lezen verder.",
+      "perfectum": "men heeft haar geprezen en bewezen."
+    }
+  },
+  {
+    "id": "raden",
+    "infinitive": "raden",
+    "pastSingular": "raadde",
+    "pastPlural": "raadden",
+    "translation": "guess, advise",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geraden",
+    "distractors": {
+      "pastSingular": [
+        "reedde",
+        "roodde",
+        "riedde",
+        "rodde"
+      ],
+      "pastPlural": [
+        "reedden",
+        "roodden",
+        "riedden",
+        "rodden"
+      ],
+      "perfectum": [
+        "geroden",
+        "gereeden",
+        "gerooden",
+        "gerieden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij raadde het goed en baadde in geluk.",
+      "pastPlural": "de kinderen raadden het en baadden in zon.",
+      "perfectum": "ik heb het juiste geraden en beladen."
+    }
+  },
+  {
+    "id": "rijden",
+    "infinitive": "rijden",
+    "pastSingular": "reed",
+    "pastPlural": "reden",
+    "translation": "drive, ride",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gereden",
+    "distractors": {
+      "pastSingular": [
+        "rood",
+        "ried",
+        "rad",
+        "rod"
+      ],
+      "pastPlural": [
+        "raden",
+        "roden",
+        "reeden",
+        "rieden"
+      ],
+      "perfectum": [
+        "geraden",
+        "geroden",
+        "gereeden",
+        "gerieden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "zij reed de auto en gleed bijna.",
+      "pastPlural": "de mannen reden snel en sneden bochten.",
+      "perfectum": "hij heeft ver gereden en gestreden."
+    }
+  },
+  {
+    "id": "roepen",
+    "infinitive": "roepen",
+    "pastSingular": "riep",
+    "pastPlural": "riepen",
+    "translation": "call, shout",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geroepen",
+    "distractors": {
+      "pastSingular": [
+        "reep",
+        "roop",
+        "rap",
+        "rop"
+      ],
+      "pastPlural": [
+        "reepen",
+        "roopen",
+        "rapen",
+        "ropen"
+      ],
+      "perfectum": [
+        "gereepen",
+        "geroopen",
+        "geriepen",
+        "gerapen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de man riep hard en liep weg.",
+      "pastPlural": "de boeren riepen luid en liepen door.",
+      "perfectum": "ik heb je geroepen, maar je liep door."
+    }
+  },
+  {
+    "id": "ruiken",
+    "infinitive": "ruiken",
+    "pastSingular": "rook",
+    "pastPlural": "roken",
+    "translation": "smell",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geroken",
+    "distractors": {
+      "pastSingular": [
+        "reek",
+        "riek",
+        "rak",
+        "rok"
+      ],
+      "pastPlural": [
+        "raken",
+        "reeken",
+        "rooken",
+        "rieken"
+      ],
+      "perfectum": [
+        "geraken",
+        "gereeken",
+        "gerooken",
+        "gerieken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de hond rook het vlees en kook erop.",
+      "pastPlural": "zij roken de bloemen en koken soep.",
+      "perfectum": "het heeft naar rook geroken en gebroken."
+    }
+  },
+  {
+    "id": "scheiden",
+    "infinitive": "scheiden",
+    "pastSingular": "scheidde",
+    "pastPlural": "scheidden",
+    "translation": "separate, divorce",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gescheiden",
+    "distractors": {
+      "pastSingular": [
+        "scheedde",
+        "schoodde",
+        "schiedde",
+        "schadde"
+      ],
+      "pastPlural": [
+        "scheedden",
+        "schoodden",
+        "schiedden",
+        "schadden"
+      ],
+      "perfectum": [
+        "gescheeden",
+        "geschooden",
+        "geschieden",
+        "geschaden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het paar scheidde en bereidde alles.",
+      "pastPlural": "de wegen scheidden en bereidden ons voor.",
+      "perfectum": "zij zijn gescheiden en bevrijd."
+    }
+  },
+  {
+    "id": "schelden",
+    "infinitive": "schelden",
+    "pastSingular": "schold",
+    "pastPlural": "scholden",
+    "translation": "scold, curse",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gescholden",
+    "distractors": {
+      "pastSingular": [
+        "schald",
+        "scheeld",
+        "schoold",
+        "schield"
+      ],
+      "pastPlural": [
+        "schalden",
+        "scheelden",
+        "schoolden",
+        "schielden"
+      ],
+      "perfectum": [
+        "geschalden",
+        "gescheelden",
+        "geschoolden",
+        "geschielden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij schold luid en hield vol.",
+      "pastPlural": "de mannen scholden en hielden ruzie.",
+      "perfectum": "hij heeft hard gescholden en gemolden."
+    }
+  },
+  {
+    "id": "schenken",
+    "infinitive": "schenken",
+    "pastSingular": "schonk",
+    "pastPlural": "schonken",
+    "translation": "donate, pour",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geschonken",
+    "distractors": {
+      "pastSingular": [
+        "schank",
+        "scheenk",
+        "schoonk",
+        "schienk"
+      ],
+      "pastPlural": [
+        "schanken",
+        "scheenken",
+        "schoonken",
+        "schienken"
+      ],
+      "perfectum": [
+        "geschanken",
+        "gescheenken",
+        "geschoonken",
+        "geschienken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "zij schonk koffie en dronk thee.",
+      "pastPlural": "de gastvrouwen schonken wijn en dronken mee.",
+      "perfectum": "hij heeft veel geld geschonken en gedronken."
+    }
+  },
+  {
+    "id": "scheppen",
+    "infinitive": "scheppen",
+    "pastSingular": "schiep",
+    "pastPlural": "schiepen",
+    "translation": "create",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "geschapen",
+    "distractors": {
+      "pastSingular": [
+        "scheep",
+        "schoop",
+        "schap",
+        "schop"
+      ],
+      "pastPlural": [
+        "scheepen",
+        "schoopen",
+        "schapen",
+        "schopen"
+      ],
+      "perfectum": [
+        "geschopen",
+        "gescheepen",
+        "geschoopen",
+        "geschiepen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de kunstenaar schiep een beeld en riep trots.",
+      "pastPlural": "de goden schiepen de wereld en riepen.",
+      "perfectum": "God heeft de aarde geschapen en gevaren."
+    }
+  },
+  {
+    "id": "scheren",
+    "infinitive": "scheren",
+    "pastSingular": "schoor",
+    "pastPlural": "schoren",
+    "translation": "shave",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "geschoren",
+    "distractors": {
+      "pastSingular": [
+        "scheer",
+        "schier",
+        "schar",
+        "schor"
+      ],
+      "pastPlural": [
+        "scharen",
+        "scheeren",
+        "schooren",
+        "schieren"
+      ],
+      "perfectum": [
+        "gescharen",
+        "gescheeren",
+        "geschooren",
+        "geschieren"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij schoor zijn baard en gloor in de spiegel.",
+      "pastPlural": "de mannen schoren wol en gloren bij dageraad.",
+      "perfectum": "ik heb mij geschoren en gezworen."
+    }
+  },
+  {
+    "id": "schieten",
+    "infinitive": "schieten",
+    "pastSingular": "schoot",
+    "pastPlural": "schoten",
+    "translation": "shoot, kick",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geschoten",
+    "distractors": {
+      "pastSingular": [
+        "scheet",
+        "schiet",
+        "schat",
+        "schot"
+      ],
+      "pastPlural": [
+        "schaten",
+        "scheeten",
+        "schooten",
+        "schieten"
+      ],
+      "perfectum": [
+        "geschaten",
+        "gescheeten",
+        "geschooten",
+        "geschieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de jager schoot raak en stoot voort.",
+      "pastPlural": "de soldaten schoten en stoten op de vijand.",
+      "perfectum": "hij heeft de bal geschoten en gestoten."
+    }
+  },
+  {
+    "id": "schijnen",
+    "infinitive": "schijnen",
+    "pastSingular": "scheen",
+    "pastPlural": "schenen",
+    "translation": "shine, seem",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geschenen",
+    "distractors": {
+      "pastSingular": [
+        "schoon",
+        "schien",
+        "schan",
+        "schon"
+      ],
+      "pastPlural": [
+        "schanen",
+        "schonen",
+        "scheenen",
+        "schienen"
+      ],
+      "perfectum": [
+        "geschanen",
+        "geschonen",
+        "gescheenen",
+        "geschienen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de zon scheen fel en verscheen.",
+      "pastPlural": "de sterren schenen en verschenen aan de hemel.",
+      "perfectum": "de maan heeft helder geschenen en verschenen."
+    }
+  },
+  {
+    "id": "schrijven",
+    "infinitive": "schrijven",
+    "pastSingular": "schreef",
+    "pastPlural": "schreven",
+    "translation": "write, spell",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "geschreven",
+    "distractors": {
+      "pastSingular": [
+        "schroof",
+        "schrief",
+        "schraf",
+        "schrof"
+      ],
+      "pastPlural": [
+        "schraven",
+        "schroven",
+        "schreeven",
+        "schrieven"
+      ],
+      "perfectum": [
+        "geschraven",
+        "geschroven",
+        "geschreeven",
+        "geschrieven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij schreef en bleef heel rustig.",
+      "pastPlural": "de zeven kinderen schreven samen.",
+      "perfectum": "ik heb mijn naam geschreven."
+    }
+  },
+  {
+    "id": "schrikken",
+    "infinitive": "schrikken",
+    "pastSingular": "schrok",
+    "pastPlural": "schrokken",
+    "translation": "be scared, get startled",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "geschrokken",
+    "distractors": {
+      "pastSingular": [
+        "schrak",
+        "schreek",
+        "schrook",
+        "schriek"
+      ],
+      "pastPlural": [
+        "schrakken",
+        "schreekken",
+        "schrookken",
+        "schriekken"
+      ],
+      "perfectum": [
+        "geschrakken",
+        "geschreekken",
+        "geschrookken",
+        "geschriekken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de hond schrok bij het slot.",
+      "pastPlural": "wij schrokken en stokken bleven.",
+      "perfectum": "zij is van de knal geschrokken."
+    }
+  },
+  {
+    "id": "schuiven",
+    "infinitive": "schuiven",
+    "pastSingular": "schoof",
+    "pastPlural": "schoven",
+    "translation": "shove, push",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "geschoven",
+    "distractors": {
+      "pastSingular": [
+        "scheef",
+        "schief",
+        "schaf",
+        "schof"
+      ],
+      "pastPlural": [
+        "schaven",
+        "scheeven",
+        "schooven",
+        "schieven"
+      ],
+      "perfectum": [
+        "geschaven",
+        "gescheeven",
+        "geschooven",
+        "geschieven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij schoof de stoel en sloof.",
+      "pastPlural": "wij schoven de zware oven.",
+      "perfectum": "ik heb de la dichtgeschoven."
+    }
+  },
+  {
+    "id": "slaan",
+    "infinitive": "slaan",
+    "pastSingular": "sloeg",
+    "pastPlural": "sloegen",
+    "translation": "hit, strike",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geslagen",
+    "distractors": {
+      "pastSingular": [
+        "sleeg",
+        "sloog",
+        "slieg",
+        "slag"
+      ],
+      "pastPlural": [
+        "sleegen",
+        "sloogen",
+        "sliegen",
+        "slagen"
+      ],
+      "perfectum": [
+        "geslogen",
+        "gesleegen",
+        "gesloogen",
+        "gesliegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij sloeg en zwoeg de hele dag.",
+      "pastPlural": "de mannen sloegen en zwoegen samen.",
+      "perfectum": "de klok heeft twaalf geslagen."
+    }
+  },
+  {
+    "id": "slapen",
+    "infinitive": "slapen",
+    "pastSingular": "sliep",
+    "pastPlural": "sliepen",
+    "translation": "sleep",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "geslapen",
+    "distractors": {
+      "pastSingular": [
+        "sleep",
+        "sloop",
+        "slap",
+        "slop"
+      ],
+      "pastPlural": [
+        "sleepen",
+        "sloopen",
+        "slapen",
+        "slopen"
+      ],
+      "perfectum": [
+        "geslopen",
+        "gesleepen",
+        "gesloopen",
+        "gesliepen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het kind sliep en piepte zacht.",
+      "pastPlural": "de baby's sliepen en piepten.",
+      "perfectum": "ik heb diep geslapen."
+    }
+  },
+  {
+    "id": "slijten",
+    "infinitive": "slijten",
+    "pastSingular": "sleet",
+    "pastPlural": "sleten",
+    "translation": "wear, wear away",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gesleten",
+    "distractors": {
+      "pastSingular": [
+        "sloot",
+        "sliet",
+        "slat",
+        "slot"
+      ],
+      "pastPlural": [
+        "slaten",
+        "sloten",
+        "sleeten",
+        "slieten"
+      ],
+      "perfectum": [
+        "geslaten",
+        "gesloten",
+        "gesleeten",
+        "geslieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de schoen sleet als een leet.",
+      "pastPlural": "de banden sleten en eten op.",
+      "perfectum": "de jas is helemaal gesleten."
+    }
+  },
+  {
+    "id": "sluiten",
+    "infinitive": "sluiten",
+    "pastSingular": "sloot",
+    "pastPlural": "sloten",
+    "translation": "close, shut",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gesloten",
+    "distractors": {
+      "pastSingular": [
+        "sleet",
+        "sliet",
+        "slat",
+        "slot"
+      ],
+      "pastPlural": [
+        "slaten",
+        "sleeten",
+        "slooten",
+        "slieten"
+      ],
+      "perfectum": [
+        "geslaten",
+        "gesleeten",
+        "geslooten",
+        "geslieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij sloot de poort en de sloot.",
+      "pastPlural": "wij sloten de grote sloten.",
+      "perfectum": "de winkel is al gesloten."
+    }
+  },
+  {
+    "id": "smelten",
+    "infinitive": "smelten",
+    "pastSingular": "smolt",
+    "pastPlural": "smolten",
+    "translation": "melt",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gesmolten",
+    "distractors": {
+      "pastSingular": [
+        "smalt",
+        "smeelt",
+        "smoolt",
+        "smielt"
+      ],
+      "pastPlural": [
+        "smalten",
+        "smeelten",
+        "smoolten",
+        "smielten"
+      ],
+      "perfectum": [
+        "gesmalten",
+        "gesmeelten",
+        "gesmoolten",
+        "gesmielten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het ijs smolt en stolt nooit.",
+      "pastPlural": "de blokken smolten en stolten.",
+      "perfectum": "de sneeuw is gesmolten."
+    }
+  },
+  {
+    "id": "smijten",
+    "infinitive": "smijten",
+    "pastSingular": "smeet",
+    "pastPlural": "smeten",
+    "translation": "throw",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gesmeten",
+    "distractors": {
+      "pastSingular": [
+        "smoot",
+        "smiet",
+        "smat",
+        "smot"
+      ],
+      "pastPlural": [
+        "smaten",
+        "smoten",
+        "smeeten",
+        "smieten"
+      ],
+      "perfectum": [
+        "gesmaten",
+        "gesmoten",
+        "gesmeeten",
+        "gesmieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij smeet de bal en kreet luid.",
+      "pastPlural": "de jongens smeten en eten samen.",
+      "perfectum": "ik heb de deur dichtgesmeten."
+    }
+  },
+  {
+    "id": "snijden",
+    "infinitive": "snijden",
+    "pastSingular": "sneed",
+    "pastPlural": "sneden",
+    "translation": "cut, slice",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gesneden",
+    "distractors": {
+      "pastSingular": [
+        "snood",
+        "snied",
+        "snad",
+        "snod"
+      ],
+      "pastPlural": [
+        "snaden",
+        "snoden",
+        "sneeden",
+        "snieden"
+      ],
+      "perfectum": [
+        "gesnaden",
+        "gesnoden",
+        "gesneeden",
+        "gesnieden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij sneed het brood en kneedde deeg.",
+      "pastPlural": "wij sneden en kneden samen.",
+      "perfectum": "ik heb mijn vinger gesneden."
+    }
+  },
+  {
+    "id": "snuiven",
+    "infinitive": "snuiven",
+    "pastSingular": "snoof",
+    "pastPlural": "snoven",
+    "translation": "snort",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gesnoven",
+    "distractors": {
+      "pastSingular": [
+        "sneef",
+        "snief",
+        "snaf",
+        "snof"
+      ],
+      "pastPlural": [
+        "snaven",
+        "sneeven",
+        "snooven",
+        "snieven"
+      ],
+      "perfectum": [
+        "gesnaven",
+        "gesneeven",
+        "gesnooven",
+        "gesnieven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het paard snoof en stoof weg.",
+      "pastPlural": "de paarden snoven en stoven.",
+      "perfectum": "hij heeft de geur opgesnoven."
+    }
+  },
+  {
+    "id": "spannen",
+    "infinitive": "spannen",
+    "pastSingular": "spande",
+    "pastPlural": "spanden",
+    "translation": "stretch, tense",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gespannen",
+    "distractors": {
+      "pastSingular": [
+        "sponde",
+        "speende",
+        "spoonde",
+        "spiende"
+      ],
+      "pastPlural": [
+        "sponden",
+        "speenden",
+        "spoonden",
+        "spienden"
+      ],
+      "perfectum": [
+        "gesponnen",
+        "gespeennen",
+        "gespoonnen",
+        "gespiennen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij spande het touw en wandelde.",
+      "pastPlural": "wij spanden en wandden de boog.",
+      "perfectum": "het paard is voor de kar gespannen."
+    }
+  },
+  {
+    "id": "spijten",
+    "infinitive": "spijten",
+    "pastSingular": "speet",
+    "pastPlural": "speten",
+    "translation": "regret",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gespeten",
+    "distractors": {
+      "pastSingular": [
+        "spoot",
+        "spiet",
+        "spat",
+        "spot"
+      ],
+      "pastPlural": [
+        "spaten",
+        "spoten",
+        "speeten",
+        "spieten"
+      ],
+      "perfectum": [
+        "gespaten",
+        "gespoten",
+        "gespeeten",
+        "gespieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het speet hem dat hij ze beet.",
+      "pastPlural": "die fouten speten en eten aan hem.",
+      "perfectum": "het heeft mij zeer gespeten."
+    }
+  },
+  {
+    "id": "splijten",
+    "infinitive": "splijten",
+    "pastSingular": "spleet",
+    "pastPlural": "spliten",
+    "translation": "split",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gespleten",
+    "distractors": {
+      "pastSingular": [
+        "sploot",
+        "spliet",
+        "splat",
+        "splot"
+      ],
+      "pastPlural": [
+        "sploten",
+        "splaten",
+        "spleeten",
+        "splieten"
+      ],
+      "perfectum": [
+        "gesplaten",
+        "gesploten",
+        "gespleeten",
+        "gesplieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de bliksem spleet en kleet de boom.",
+      "pastPlural": "de planken spliten en gliten weg.",
+      "perfectum": "de rots is in twee gespleten."
+    }
+  },
+  {
+    "id": "spreken",
+    "infinitive": "spreken",
+    "pastSingular": "sprak",
+    "pastPlural": "spraken",
+    "translation": "speak",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gesproken",
+    "distractors": {
+      "pastSingular": [
+        "sprok",
+        "spreek",
+        "sprook",
+        "spriek"
+      ],
+      "pastPlural": [
+        "sproken",
+        "spreeken",
+        "sprooken",
+        "sprieken"
+      ],
+      "perfectum": [
+        "gespraken",
+        "gespreeken",
+        "gesprooken",
+        "gesprieken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij sprak en brak de stilte.",
+      "pastPlural": "wij spraken en braken het brood.",
+      "perfectum": "ik heb hem net gesproken."
+    }
+  },
+  {
+    "id": "springen",
+    "infinitive": "springen",
+    "pastSingular": "sprong",
+    "pastPlural": "sprongen",
+    "translation": "jump",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gesprongen",
+    "distractors": {
+      "pastSingular": [
+        "sprang",
+        "spreeng",
+        "sproong",
+        "sprieng"
+      ],
+      "pastPlural": [
+        "sprangen",
+        "spreengen",
+        "sproongen",
+        "spriengen"
+      ],
+      "perfectum": [
+        "gesprangen",
+        "gespreengen",
+        "gesproongen",
+        "gespriengen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de kat sprong en zong vrolijk.",
+      "pastPlural": "de kinderen sprongen en zongen.",
+      "perfectum": "hij is over de sloot gesprongen."
+    }
+  },
+  {
+    "id": "spuiten",
+    "infinitive": "spuiten",
+    "pastSingular": "spoot",
+    "pastPlural": "spoten",
+    "translation": "squirt, spurt",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gespoten",
+    "distractors": {
+      "pastSingular": [
+        "speet",
+        "spiet",
+        "spat",
+        "spot"
+      ],
+      "pastPlural": [
+        "spaten",
+        "speeten",
+        "spooten",
+        "spieten"
+      ],
+      "perfectum": [
+        "gespaten",
+        "gespeeten",
+        "gespooten",
+        "gespieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de slang spoot en stoot water.",
+      "pastPlural": "de fonteinen spoten en stoten.",
+      "perfectum": "ik heb de tuin natgespoten."
+    }
+  },
+  {
+    "id": "staan",
+    "infinitive": "staan",
+    "pastSingular": "stond",
+    "pastPlural": "stonden",
+    "translation": "stand",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gestaan",
+    "distractors": {
+      "pastSingular": [
+        "stand",
+        "steend",
+        "stoond",
+        "stiend"
+      ],
+      "pastPlural": [
+        "standen",
+        "steenden",
+        "stoonden",
+        "stienden"
+      ],
+      "perfectum": [
+        "gesteen",
+        "gestoon",
+        "gestien",
+        "geston"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij stond en vond zijn plek.",
+      "pastPlural": "wij stonden en vonden de weg.",
+      "perfectum": "ik heb lang in de rij gestaan."
+    }
+  },
+  {
+    "id": "steken",
+    "infinitive": "steken",
+    "pastSingular": "stak",
+    "pastPlural": "staken",
+    "translation": "stick, sting",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gestoken",
+    "distractors": {
+      "pastSingular": [
+        "stok",
+        "steek",
+        "stook",
+        "stiek"
+      ],
+      "pastPlural": [
+        "stoken",
+        "steeken",
+        "stooken",
+        "stieken"
+      ],
+      "perfectum": [
+        "gestaken",
+        "gesteeken",
+        "gestooken",
+        "gestieken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de bij stak en brak haar angel.",
+      "pastPlural": "de wespen staken en braken.",
+      "perfectum": "ik heb mij aan de doorn gestoken."
+    }
+  },
+  {
+    "id": "stelen",
+    "infinitive": "stelen",
+    "pastSingular": "stal",
+    "pastPlural": "stalen",
+    "translation": "steal",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gestolen",
+    "distractors": {
+      "pastSingular": [
+        "stol",
+        "steel",
+        "stool",
+        "stiel"
+      ],
+      "pastPlural": [
+        "stolen",
+        "steelen",
+        "stoolen",
+        "stielen"
+      ],
+      "perfectum": [
+        "gestalen",
+        "gesteelen",
+        "gestoolen",
+        "gestielen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de dief stal en viel in slaap.",
+      "pastPlural": "de dieven stalen en vielen.",
+      "perfectum": "hij heeft mijn fiets gestolen."
+    }
+  },
+  {
+    "id": "sterven",
+    "infinitive": "sterven",
+    "pastSingular": "stierf",
+    "pastPlural": "stierven",
+    "translation": "die",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gestorven",
+    "distractors": {
+      "pastSingular": [
+        "steerf",
+        "stoorf",
+        "starf",
+        "storf"
+      ],
+      "pastPlural": [
+        "steerven",
+        "stoorven",
+        "starven",
+        "storven"
+      ],
+      "perfectum": [
+        "gestarven",
+        "gesteerven",
+        "gestoorven",
+        "gestierven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de koning stierf en hierf niemand.",
+      "pastPlural": "velen stierven en zwierven rond.",
+      "perfectum": "de oude man is gestorven."
+    }
+  },
+  {
+    "id": "stijgen",
+    "infinitive": "stijgen",
+    "pastSingular": "steeg",
+    "pastPlural": "stegen",
+    "translation": "rise",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gestegen",
+    "distractors": {
+      "pastSingular": [
+        "stoog",
+        "stieg",
+        "stag",
+        "stog"
+      ],
+      "pastPlural": [
+        "stagen",
+        "stogen",
+        "steegen",
+        "stiegen"
+      ],
+      "perfectum": [
+        "gestagen",
+        "gestogen",
+        "gesteegen",
+        "gestiegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de prijs steeg en veegde omhoog.",
+      "pastPlural": "de prijzen stegen en vegen omhoog.",
+      "perfectum": "de temperatuur is gestegen."
+    }
+  },
+  {
+    "id": "strijden",
+    "infinitive": "strijden",
+    "pastSingular": "streed",
+    "pastPlural": "streden",
+    "translation": "compete, fight",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gestreden",
+    "distractors": {
+      "pastSingular": [
+        "strood",
+        "stried",
+        "strad",
+        "strod"
+      ],
+      "pastPlural": [
+        "streeden",
+        "strooden",
+        "strieden",
+        "straden"
+      ],
+      "perfectum": [
+        "gestraden",
+        "gestroden",
+        "gestreeden",
+        "gestrieden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij streed en reed naar voren.",
+      "pastPlural": "de helden streden en reden.",
+      "perfectum": "wij hebben hard gestreden."
+    }
+  },
+  {
+    "id": "strijken",
+    "infinitive": "strijken",
+    "pastSingular": "streek",
+    "pastPlural": "streken",
+    "translation": "iron, stroke",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gestreken",
+    "distractors": {
+      "pastSingular": [
+        "strook",
+        "striek",
+        "strak",
+        "strok"
+      ],
+      "pastPlural": [
+        "straken",
+        "stroken",
+        "streeken",
+        "strieken"
+      ],
+      "perfectum": [
+        "gestraken",
+        "gestroken",
+        "gestreeken",
+        "gestrieken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "zij streek en keek tevreden.",
+      "pastPlural": "de vrouwen streken en keken.",
+      "perfectum": "ik heb het overhemd gestreken."
+    }
+  },
+  {
+    "id": "treden",
+    "infinitive": "treden",
+    "pastSingular": "trad",
+    "pastPlural": "traden",
+    "translation": "step, enter",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "getreden",
+    "distractors": {
+      "pastSingular": [
+        "trod",
+        "treed",
+        "trood",
+        "tried"
+      ],
+      "pastPlural": [
+        "troden",
+        "treeden",
+        "trooden",
+        "trieden"
+      ],
+      "perfectum": [
+        "getraden",
+        "getroden",
+        "getreeden",
+        "getrieden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij trad en bad bij de poort.",
+      "pastPlural": "de gasten traden en baden.",
+      "perfectum": "zij is naar voren getreden."
+    }
+  },
+  {
+    "id": "treffen",
+    "infinitive": "treffen",
+    "pastSingular": "trof",
+    "pastPlural": "troffen",
+    "translation": "encounter, hit",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "getroffen",
+    "distractors": {
+      "pastSingular": [
+        "traf",
+        "treef",
+        "troof",
+        "trief"
+      ],
+      "pastPlural": [
+        "traffen",
+        "treeffen",
+        "trooffen",
+        "trieffen"
+      ],
+      "perfectum": [
+        "getraffen",
+        "getreeffen",
+        "getrooffen",
+        "getrieffen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij trof en stof de bal raak.",
+      "pastPlural": "wij troffen en stoffen elkaar.",
+      "perfectum": "ik heb hem thuis getroffen."
+    }
+  },
+  {
+    "id": "trekken",
+    "infinitive": "trekken",
+    "pastSingular": "trok",
+    "pastPlural": "trokken",
+    "translation": "pull",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "getrokken",
+    "distractors": {
+      "pastSingular": [
+        "trak",
+        "treek",
+        "trook",
+        "triek"
+      ],
+      "pastPlural": [
+        "trakken",
+        "treekken",
+        "trookken",
+        "triekken"
+      ],
+      "perfectum": [
+        "getrakken",
+        "getreekken",
+        "getrookken",
+        "getriekken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij trok en blok aan het touw.",
+      "pastPlural": "wij trokken en blokken samen.",
+      "perfectum": "de tandarts heeft de kies getrokken."
+    }
+  },
+  {
+    "id": "vallen",
+    "infinitive": "vallen",
+    "pastSingular": "viel",
+    "pastPlural": "vielen",
+    "translation": "fall",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gevallen",
+    "distractors": {
+      "pastSingular": [
+        "veel",
+        "vool",
+        "val",
+        "vol"
+      ],
+      "pastPlural": [
+        "veelen",
+        "voolen",
+        "valen",
+        "volen"
+      ],
+      "perfectum": [
+        "gevollen",
+        "geveellen",
+        "gevoollen",
+        "geviellen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het kind viel en gilde luid.",
+      "pastPlural": "de blaadjes vielen en gilden niet.",
+      "perfectum": "hij is van de trap gevallen."
+    }
+  },
+  {
+    "id": "vangen",
+    "infinitive": "vangen",
+    "pastSingular": "ving",
+    "pastPlural": "vingen",
+    "translation": "catch",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gevangen",
+    "distractors": {
+      "pastSingular": [
+        "vong",
+        "vang",
+        "veeng",
+        "vieng"
+      ],
+      "pastPlural": [
+        "vongen",
+        "vangen",
+        "veengen",
+        "viengen"
+      ],
+      "perfectum": [
+        "gevongen",
+        "geveengen",
+        "gevoongen",
+        "geviengen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de kat ving een grote slang.",
+      "pastPlural": "de honden vingen lange slangen.",
+      "perfectum": "hij heeft de bal gevangen en gehangen."
+    }
+  },
+  {
+    "id": "varen",
+    "infinitive": "varen",
+    "pastSingular": "voer",
+    "pastPlural": "voeren",
+    "translation": "sail",
+    "level": "c",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gevaren",
+    "distractors": {
+      "pastSingular": [
+        "veer",
+        "voor",
+        "vier",
+        "var"
+      ],
+      "pastPlural": [
+        "veeren",
+        "vooren",
+        "vieren",
+        "varen"
+      ],
+      "perfectum": [
+        "gevoren",
+        "geveeren",
+        "gevooren",
+        "gevieren"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de schipper voer langs de toer.",
+      "pastPlural": "de mannen voeren samen en zwoeren trouw.",
+      "perfectum": "wij zijn naar het eiland gevaren en ervaren."
+    }
+  },
+  {
+    "id": "vechten",
+    "infinitive": "vechten",
+    "pastSingular": "vocht",
+    "pastPlural": "vochten",
+    "translation": "fight",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gevochten",
+    "distractors": {
+      "pastSingular": [
+        "vacht",
+        "veecht",
+        "voocht",
+        "viecht"
+      ],
+      "pastPlural": [
+        "vachten",
+        "veechten",
+        "voochten",
+        "viechten"
+      ],
+      "perfectum": [
+        "gevachten",
+        "geveechten",
+        "gevoochten",
+        "geviechten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de ridder vocht met volle kracht en pocht.",
+      "pastPlural": "de soldaten vochten en zochten eer.",
+      "perfectum": "hij heeft dapper gevochten en gezocht."
+    }
+  },
+  {
+    "id": "verbergen",
+    "infinitive": "verbergen",
+    "pastSingular": "verborg",
+    "pastPlural": "verborgen",
+    "translation": "hide",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "verborgen",
+    "distractors": {
+      "pastSingular": [
+        "verbarg",
+        "verbeerg",
+        "verboorg",
+        "verbierg"
+      ],
+      "pastPlural": [
+        "verbargen",
+        "verbeergen",
+        "verboorgen",
+        "verbiergen"
+      ],
+      "perfectum": [
+        "verbargen",
+        "verbeergen",
+        "verboorgen",
+        "verbiergen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de dief verborg de buit in bergen.",
+      "pastPlural": "de kinderen verborgen zich in de bergen.",
+      "perfectum": "zij heeft de brief verborgen tussen de bergen."
+    }
+  },
+  {
+    "id": "verbieden",
+    "infinitive": "verbieden",
+    "pastSingular": "verbood",
+    "pastPlural": "verboden",
+    "translation": "forbid",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "verboden",
+    "distractors": {
+      "pastSingular": [
+        "verbeed",
+        "verbied",
+        "verbad",
+        "verbod"
+      ],
+      "pastPlural": [
+        "verbaden",
+        "verbeeden",
+        "verbooden",
+        "verbieden"
+      ],
+      "perfectum": [
+        "verbaden",
+        "verbeeden",
+        "verbooden",
+        "verbieden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de wet verbood de handel in lieden.",
+      "pastPlural": "de regels verboden vele lieden de toegang.",
+      "perfectum": "men heeft het roken verboden voor lieden."
+    }
+  },
+  {
+    "id": "verbinden",
+    "infinitive": "verbinden",
+    "pastSingular": "verbond",
+    "pastPlural": "verbonden",
+    "translation": "connect, join",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "verbonden",
+    "distractors": {
+      "pastSingular": [
+        "verband",
+        "verbeend",
+        "verboond",
+        "verbiend"
+      ],
+      "pastPlural": [
+        "verbanden",
+        "verbeenden",
+        "verboonden",
+        "verbienden"
+      ],
+      "perfectum": [
+        "verbanden",
+        "verbeenden",
+        "verboonden",
+        "verbienden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de zuster verbond de wond met linnen.",
+      "pastPlural": "de kabels verbonden de winden van noord en zuid.",
+      "perfectum": "hij heeft de draden verbonden vol vertrouwen binnen."
+    }
+  },
+  {
+    "id": "verblijven",
+    "infinitive": "verblijven",
+    "pastSingular": "verbleef",
+    "pastPlural": "verbleven",
+    "translation": "stay, remain",
+    "level": "c",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "verbleven",
+    "distractors": {
+      "pastSingular": [
+        "verbloof",
+        "verblief",
+        "verblaf",
+        "verblof"
+      ],
+      "pastPlural": [
+        "verblaven",
+        "verbloven",
+        "verbleeven",
+        "verblieven"
+      ],
+      "perfectum": [
+        "verblaven",
+        "verbloven",
+        "verbleeven",
+        "verblieven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de gast verbleef en bleef tot laat.",
+      "pastPlural": "de toeristen verbleven en bleven een week.",
+      "perfectum": "wij zijn lang gebleven en verbleven daar."
+    }
+  },
+  {
+    "id": "verdwijnen",
+    "infinitive": "verdwijnen",
+    "pastSingular": "verdween",
+    "pastPlural": "verdwenen",
+    "translation": "disappear",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "verdwenen",
+    "distractors": {
+      "pastSingular": [
+        "verdwoon",
+        "verdwien",
+        "verdwan",
+        "verdwon"
+      ],
+      "pastPlural": [
+        "verdwanen",
+        "verdwonen",
+        "verdweenen",
+        "verdwienen"
+      ],
+      "perfectum": [
+        "verdwanen",
+        "verdwonen",
+        "verdweenen",
+        "verdwienen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de zon verdween achter een gordijn.",
+      "pastPlural": "de wolken verdwenen als zeven sterren.",
+      "perfectum": "de sleutel is verdwenen, ook na zeven dagen."
+    }
+  },
+  {
+    "id": "vergelijken",
+    "infinitive": "vergelijken",
+    "pastSingular": "vergeleek",
+    "pastPlural": "vergeleken",
+    "translation": "compare",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "vergeleken",
+    "distractors": {
+      "pastSingular": [
+        "vergaleek",
+        "vergoleek",
+        "vergeeleek",
+        "vergieleek"
+      ],
+      "pastPlural": [
+        "vergaleken",
+        "vergoleken",
+        "vergeeleken",
+        "vergieleken"
+      ],
+      "perfectum": [
+        "vergaleken",
+        "vergoleken",
+        "vergeeleken",
+        "vergieleken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de leraar vergeleek de teksten met een blik.",
+      "pastPlural": "de juryleden vergeleken en bekeken alles.",
+      "perfectum": "ik heb de prijzen vergeleken en bekeken."
+    }
+  },
+  {
+    "id": "vergeten",
+    "infinitive": "vergeten",
+    "pastSingular": "vergat",
+    "pastPlural": "vergaten",
+    "translation": "forget",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "vergeten",
+    "distractors": {
+      "pastSingular": [
+        "vergot",
+        "vergeet",
+        "vergoot",
+        "vergiet"
+      ],
+      "pastPlural": [
+        "vergoten",
+        "vergeeten",
+        "vergooten",
+        "vergieten"
+      ],
+      "perfectum": [
+        "vergaten",
+        "vergoten",
+        "vergeeten",
+        "vergieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij vergat te eten en bleef zitten.",
+      "pastPlural": "wij vergaten te praten en zaten stil.",
+      "perfectum": "zij is haar tas vergeten en versleten."
+    }
+  },
+  {
+    "id": "verkopen",
+    "infinitive": "verkopen",
+    "pastSingular": "verkocht",
+    "pastPlural": "verkochten",
+    "translation": "sell",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "verkocht",
+    "distractors": {
+      "pastSingular": [
+        "verkacht",
+        "verkeecht",
+        "verkoocht",
+        "verkiecht"
+      ],
+      "pastPlural": [
+        "verkachten",
+        "verkeechten",
+        "verkoochten",
+        "verkiechten"
+      ],
+      "perfectum": [
+        "verkacht",
+        "verkeecht",
+        "verkoocht",
+        "verkiecht"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de boer verkocht zijn vee en kocht graan.",
+      "pastPlural": "de kooplui verkochten en kochten van alles.",
+      "perfectum": "hij heeft het huis verkocht en gekocht elders."
+    }
+  },
+  {
+    "id": "verlaten",
+    "infinitive": "verlaten",
+    "pastSingular": "verliet",
+    "pastPlural": "verlieten",
+    "translation": "leave, abandon",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "verlaten",
+    "distractors": {
+      "pastSingular": [
+        "verleet",
+        "verloot",
+        "verlat",
+        "verlot"
+      ],
+      "pastPlural": [
+        "verleeten",
+        "verlooten",
+        "verlaten",
+        "verloten"
+      ],
+      "perfectum": [
+        "verloten",
+        "verleeten",
+        "verlooten",
+        "verlieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de gast verliet en liet de deur open.",
+      "pastPlural": "zij verlieten en lieten het dorp achter.",
+      "perfectum": "wij hebben de stad verlaten en gelaten."
+    }
+  },
+  {
+    "id": "verliezen",
+    "infinitive": "verliezen",
+    "pastSingular": "verloor",
+    "pastPlural": "verloren",
+    "translation": "lose",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "verloren",
+    "distractors": {
+      "pastSingular": [
+        "verleer",
+        "verlier",
+        "verlar",
+        "verlor"
+      ],
+      "pastPlural": [
+        "verlaren",
+        "verleeren",
+        "verlooren",
+        "verlieren"
+      ],
+      "perfectum": [
+        "verlaren",
+        "verleeren",
+        "verlooren",
+        "verlieren"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de speler verloor en zwoer wraak.",
+      "pastPlural": "de teams verloren en zwoeren revanche.",
+      "perfectum": "ik heb mijn sleutels verloren en bezworen."
+    }
+  },
+  {
+    "id": "verschijnen",
+    "infinitive": "verschijnen",
+    "pastSingular": "verscheen",
+    "pastPlural": "verschenen",
+    "translation": "appear, show up",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "verschenen",
+    "distractors": {
+      "pastSingular": [
+        "verschoon",
+        "verschien",
+        "verschan",
+        "verschon"
+      ],
+      "pastPlural": [
+        "verschanen",
+        "verschonen",
+        "verscheenen",
+        "verschienen"
+      ],
+      "perfectum": [
+        "verschanen",
+        "verschonen",
+        "verscheenen",
+        "verschienen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de maan verscheen met fijne schijn.",
+      "pastPlural": "de sterren verschenen als zeven punten.",
+      "perfectum": "het boek is verschenen na zeven jaren."
+    }
+  },
+  {
+    "id": "verslijten",
+    "infinitive": "verslijten",
+    "pastSingular": "versleet",
+    "pastPlural": "versleten",
+    "translation": "wear out",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "versleten",
+    "distractors": {
+      "pastSingular": [
+        "versloot",
+        "versliet",
+        "verslat",
+        "verslot"
+      ],
+      "pastPlural": [
+        "verslaten",
+        "versloten",
+        "versleeten",
+        "verslieten"
+      ],
+      "perfectum": [
+        "verslaten",
+        "versloten",
+        "versleeten",
+        "verslieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de schoen versleet door het krijten op straat.",
+      "pastPlural": "de banden versleten en gleden van de weg.",
+      "perfectum": "de jas is versleten en gesleten."
+    }
+  },
+  {
+    "id": "verslinden",
+    "infinitive": "verslinden",
+    "pastSingular": "verslond",
+    "pastPlural": "verslonden",
+    "translation": "devour",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "verslonden",
+    "distractors": {
+      "pastSingular": [
+        "versland",
+        "versleend",
+        "versloond",
+        "versliend"
+      ],
+      "pastPlural": [
+        "verslanden",
+        "versleenden",
+        "versloonden",
+        "verslienden"
+      ],
+      "perfectum": [
+        "verslanden",
+        "versleenden",
+        "versloonden",
+        "verslienden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de wolf verslond een hond in de winden.",
+      "pastPlural": "de leeuwen verslonden hun prooi in de winden.",
+      "perfectum": "hij heeft het boek verslonden zonder te vinden rust."
+    }
+  },
+  {
+    "id": "verstaan",
+    "infinitive": "verstaan",
+    "pastSingular": "verstond",
+    "pastPlural": "verstonden",
+    "translation": "understand",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "verstaan",
+    "distractors": {
+      "pastSingular": [
+        "verstand",
+        "versteend",
+        "verstoond",
+        "verstiend"
+      ],
+      "pastPlural": [
+        "verstanden",
+        "versteenden",
+        "verstoonden",
+        "verstienden"
+      ],
+      "perfectum": [
+        "versteen",
+        "verstoon",
+        "verstien",
+        "verston"
+      ]
+    },
+    "samples": {
+      "pastSingular": "ik verstond de man die naast me stond.",
+      "pastPlural": "wij verstonden hen die voor ons stonden.",
+      "perfectum": "zij heeft de boodschap verstaan en gegaan."
+    }
+  },
+  {
+    "id": "vertrekken",
+    "infinitive": "vertrekken",
+    "pastSingular": "vertrok",
+    "pastPlural": "vertrokken",
+    "translation": "leave, depart",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "vertrokken",
+    "distractors": {
+      "pastSingular": [
+        "vertrak",
+        "vertreek",
+        "vertrook",
+        "vertriek"
+      ],
+      "pastPlural": [
+        "vertrakken",
+        "vertreekken",
+        "vertrookken",
+        "vertriekken"
+      ],
+      "perfectum": [
+        "vertrakken",
+        "vertreekken",
+        "vertrookken",
+        "vertriekken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de trein vertrok en trok westwaarts.",
+      "pastPlural": "de gasten vertrokken en trokken naar huis.",
+      "perfectum": "het schip is vertrokken en getrokken zee in."
+    }
+  },
+  {
+    "id": "verzenden",
+    "infinitive": "verzenden",
+    "pastSingular": "verzond",
+    "pastPlural": "verzonden",
+    "translation": "send, submit",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "verzonden",
+    "distractors": {
+      "pastSingular": [
+        "verzand",
+        "verzeend",
+        "verzoond",
+        "verziend"
+      ],
+      "pastPlural": [
+        "verzanden",
+        "verzeenden",
+        "verzoonden",
+        "verzienden"
+      ],
+      "perfectum": [
+        "verzanden",
+        "verzeenden",
+        "verzoonden",
+        "verzienden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de klerk verzond de brief naar de winden.",
+      "pastPlural": "zij verzonden de pakketten in de winden.",
+      "perfectum": "ik heb de mail verzonden en gevonden goed."
+    }
+  },
+  {
+    "id": "verzinnen",
+    "infinitive": "verzinnen",
+    "pastSingular": "verzon",
+    "pastPlural": "verzonnen",
+    "translation": "invent, make up",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "verzonnen",
+    "distractors": {
+      "pastSingular": [
+        "verzan",
+        "verzeen",
+        "verzoon",
+        "verzien"
+      ],
+      "pastPlural": [
+        "verzannen",
+        "verzeennen",
+        "verzoonnen",
+        "verziennen"
+      ],
+      "perfectum": [
+        "verzannen",
+        "verzeennen",
+        "verzoonnen",
+        "verziennen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de jongen verzon een leugen om te winnen.",
+      "pastPlural": "de kinderen verzonnen verhalen om te winnen.",
+      "perfectum": "hij heeft een list verzonnen en gewonnen."
+    }
+  },
+  {
+    "id": "vinden",
+    "infinitive": "vinden",
+    "pastSingular": "vond",
+    "pastPlural": "vonden",
+    "translation": "find",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gevonden",
+    "distractors": {
+      "pastSingular": [
+        "vand",
+        "veend",
+        "voond",
+        "viend"
+      ],
+      "pastPlural": [
+        "vanden",
+        "veenden",
+        "voonden",
+        "vienden"
+      ],
+      "perfectum": [
+        "gevanden",
+        "geveenden",
+        "gevoonden",
+        "gevienden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de hond vond een bot bij de blinden.",
+      "pastPlural": "de kinderen vonden schatten en bonden ze samen.",
+      "perfectum": "ik heb de ring gevonden en gebonden."
+    }
+  },
+  {
+    "id": "vliegen",
+    "infinitive": "vliegen",
+    "pastSingular": "vloog",
+    "pastPlural": "vlogen",
+    "translation": "fly",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gevlogen",
+    "distractors": {
+      "pastSingular": [
+        "vleeg",
+        "vlieg",
+        "vlag",
+        "vlog"
+      ],
+      "pastPlural": [
+        "vlagen",
+        "vleegen",
+        "vloogen",
+        "vliegen"
+      ],
+      "perfectum": [
+        "gevlagen",
+        "gevleegen",
+        "gevloogen",
+        "gevliegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de vogel vloog hoog en boog naar links.",
+      "pastPlural": "de ganzen vlogen en bogen zuidwaarts.",
+      "perfectum": "het vliegtuig is gevlogen en bewogen."
+    }
+  },
+  {
+    "id": "voorzien",
+    "infinitive": "voorzien",
+    "pastSingular": "voorzag",
+    "pastPlural": "voorzagen",
+    "translation": "foresee, provide",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "voorzien",
+    "distractors": {
+      "pastSingular": [
+        "veerzag",
+        "vierzag",
+        "varzag",
+        "vorzag"
+      ],
+      "pastPlural": [
+        "veerzagen",
+        "vierzagen",
+        "varzagen",
+        "vorzagen"
+      ],
+      "perfectum": [
+        "veerzien",
+        "vierzien",
+        "varzien",
+        "vorzien"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de wijze voorzag het gevaar en zag meer.",
+      "pastPlural": "de leiders voorzagen de crisis en zagen alles.",
+      "perfectum": "men heeft de stad voorzien van water bovendien."
+    }
+  },
+  {
+    "id": "vragen",
+    "infinitive": "vragen",
+    "pastSingular": "vroeg",
+    "pastPlural": "vroegen",
+    "translation": "ask",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gevraagd",
+    "distractors": {
+      "pastSingular": [
+        "vreeg",
+        "vroog",
+        "vrieg",
+        "vrag"
+      ],
+      "pastPlural": [
+        "vreegen",
+        "vroogen",
+        "vriegen",
+        "vragen"
+      ],
+      "perfectum": [
+        "gevreegd",
+        "gevroogd",
+        "gevriegd",
+        "gevrogd"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het kind vroeg en droeg de tas.",
+      "pastPlural": "de gasten vroegen en droegen hun jas.",
+      "perfectum": "ik heb het netjes gevraagd en behaagd."
+    }
+  },
+  {
+    "id": "vriezen",
+    "infinitive": "vriezen",
+    "pastSingular": "vroor",
+    "pastPlural": "vroren",
+    "translation": "freeze",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gevroren",
+    "distractors": {
+      "pastSingular": [
+        "vreer",
+        "vrier",
+        "vrar",
+        "vror"
+      ],
+      "pastPlural": [
+        "vraren",
+        "vreeren",
+        "vrooren",
+        "vrieren"
+      ],
+      "perfectum": [
+        "gevraren",
+        "gevreeren",
+        "gevrooren",
+        "gevrieren"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het vroor en het spoor lag glad.",
+      "pastPlural": "de meren vroren en de sporen bevroren.",
+      "perfectum": "het water is gevroren en verloren onder ijs."
+    }
+  },
+  {
+    "id": "wassen",
+    "infinitive": "wassen",
+    "pastSingular": "waste",
+    "pastPlural": "wasten",
+    "translation": "wash",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gewassen",
+    "distractors": {
+      "pastSingular": [
+        "woste",
+        "weeste",
+        "wooste",
+        "wieste"
+      ],
+      "pastPlural": [
+        "wosten",
+        "weesten",
+        "woosten",
+        "wiesten"
+      ],
+      "perfectum": [
+        "gewossen",
+        "geweessen",
+        "gewoossen",
+        "gewiessen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "moeder waste de jas in vlassen water.",
+      "pastPlural": "zij wasten en pasten de schone kleren.",
+      "perfectum": "hij heeft de auto gewassen en gepast."
+    }
+  },
+  {
+    "id": "wegen",
+    "infinitive": "wegen",
+    "pastSingular": "woog",
+    "pastPlural": "wogen",
+    "translation": "weigh",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gewogen",
+    "distractors": {
+      "pastSingular": [
+        "weeg",
+        "wieg",
+        "wag",
+        "wog"
+      ],
+      "pastPlural": [
+        "wagen",
+        "weegen",
+        "woogen",
+        "wiegen"
+      ],
+      "perfectum": [
+        "gewagen",
+        "geweegen",
+        "gewoogen",
+        "gewiegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de boer woog de zak op de wegen.",
+      "pastPlural": "de appels wogen zwaar langs de wegen.",
+      "perfectum": "ik heb het pakket gewogen en bewogen."
+    }
+  },
+  {
+    "id": "werpen",
+    "infinitive": "werpen",
+    "pastSingular": "wierp",
+    "pastPlural": "wierpen",
+    "translation": "throw, toss",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "geworpen",
+    "distractors": {
+      "pastSingular": [
+        "weerp",
+        "woorp",
+        "warp",
+        "worp"
+      ],
+      "pastPlural": [
+        "weerpen",
+        "woorpen",
+        "warpen",
+        "worpen"
+      ],
+      "perfectum": [
+        "gewarpen",
+        "geweerpen",
+        "gewoorpen",
+        "gewierpen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de jongen wierp een steen met scherpe blik.",
+      "pastPlural": "de spelers wierpen en scherpten hun mik.",
+      "perfectum": "hij heeft de bal geworpen en gescherpt."
+    }
+  },
+  {
+    "id": "weten",
+    "infinitive": "weten",
+    "pastSingular": "wist",
+    "pastPlural": "wisten",
+    "translation": "know",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "geweten",
+    "distractors": {
+      "pastSingular": [
+        "wost",
+        "wast",
+        "weest",
+        "wiest"
+      ],
+      "pastPlural": [
+        "wosten",
+        "wasten",
+        "weesten",
+        "wiesten"
+      ],
+      "perfectum": [
+        "gewaten",
+        "gewoten",
+        "geweeten",
+        "gewieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij wist het en at een mist.",
+      "pastPlural": "zij wisten het van de kisten.",
+      "perfectum": "ik heb het altijd geweten."
+    }
+  },
+  {
+    "id": "wijten",
+    "infinitive": "wijten",
+    "pastSingular": "weet",
+    "pastPlural": "weten",
+    "translation": "blame, attribute to",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "geweten",
+    "distractors": {
+      "pastSingular": [
+        "woot",
+        "wiet",
+        "wat",
+        "wot"
+      ],
+      "pastPlural": [
+        "waten",
+        "woten",
+        "weeten",
+        "wieten"
+      ],
+      "perfectum": [
+        "gewaten",
+        "gewoten",
+        "geweeten",
+        "gewieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij weet de schuld aan een leet.",
+      "pastPlural": "wij weten de fout aan de eten.",
+      "perfectum": "hij heeft het aan mij geweten."
+    }
+  },
+  {
+    "id": "wijzen",
+    "infinitive": "wijzen",
+    "pastSingular": "wees",
+    "pastPlural": "wezen",
+    "translation": "point, indicate",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gewezen",
+    "distractors": {
+      "pastSingular": [
+        "woos",
+        "wies",
+        "was",
+        "wos"
+      ],
+      "pastPlural": [
+        "wazen",
+        "wozen",
+        "weezen",
+        "wiezen"
+      ],
+      "perfectum": [
+        "gewazen",
+        "gewozen",
+        "geweezen",
+        "gewiezen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij wees naar de lees op tafel.",
+      "pastPlural": "zij wezen naar de wezen daar.",
+      "perfectum": "hij heeft de weg gewezen."
+    }
+  },
+  {
+    "id": "willen",
+    "infinitive": "willen",
+    "pastSingular": "wilde/wou",
+    "pastPlural": "wilden",
+    "translation": "want",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gewild",
+    "distractors": {
+      "pastSingular": [
+        "wolde/wou",
+        "walde/wou",
+        "weelde/wou",
+        "wielde/wou"
+      ],
+      "pastPlural": [
+        "wolden",
+        "walden",
+        "weelden",
+        "wielden"
+      ],
+      "perfectum": [
+        "gewold",
+        "gewald",
+        "geweeld",
+        "gewield"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het kind wilde rusten en bouwen aan een gilde.",
+      "pastPlural": "zij wilden veel en bouwden gilden.",
+      "perfectum": "ik heb het nooit gewild en heb gespild."
+    }
+  },
+  {
+    "id": "winnen",
+    "infinitive": "winnen",
+    "pastSingular": "won",
+    "pastPlural": "wonnen",
+    "translation": "win",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gewonnen",
+    "distractors": {
+      "pastSingular": [
+        "wan",
+        "ween",
+        "woon",
+        "wien"
+      ],
+      "pastPlural": [
+        "wanen",
+        "weenen",
+        "woonen",
+        "wienen"
+      ],
+      "perfectum": [
+        "gewannen",
+        "geweennen",
+        "gewoonnen",
+        "gewiennen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij won de prijs en kwam erbinnen.",
+      "pastPlural": "zij wonnen samen, vrouwen en mannen, in tonnen.",
+      "perfectum": "ons team heeft de wedstrijd gewonnen, en is bezonnen."
+    }
+  },
+  {
+    "id": "worden",
+    "infinitive": "worden",
+    "pastSingular": "werd",
+    "pastPlural": "werden",
+    "translation": "become",
+    "level": "a",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "geworden",
+    "distractors": {
+      "pastSingular": [
+        "ward",
+        "word",
+        "weerd",
+        "wierd"
+      ],
+      "pastPlural": [
+        "warden",
+        "worden",
+        "weerden",
+        "wierden"
+      ],
+      "perfectum": [
+        "gewarden",
+        "geweerden",
+        "gewoorden",
+        "gewierden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij werd ziek en gaf een gil als een werd.",
+      "pastPlural": "zij werden rijk en sloten de orden.",
+      "perfectum": "hij is dokter geworden."
+    }
+  },
+  {
+    "id": "wreken",
+    "infinitive": "wreken",
+    "pastSingular": "wreekte",
+    "pastPlural": "wreken",
+    "translation": "avenge",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gewroken",
+    "distractors": {
+      "pastSingular": [
+        "wrookte",
+        "wriekte",
+        "wrakte",
+        "wrokte"
+      ],
+      "pastPlural": [
+        "wraken",
+        "wroken",
+        "wreeken",
+        "wrieken"
+      ],
+      "perfectum": [
+        "gewraken",
+        "gewreeken",
+        "gewrooken",
+        "gewrieken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij wreekte de moord en bleef preken.",
+      "pastPlural": "zij wreken het kwaad en gaan spreken.",
+      "perfectum": "hij heeft zijn broer gewroken."
+    }
+  },
+  {
+    "id": "wrijven",
+    "infinitive": "wrijven",
+    "pastSingular": "wreef",
+    "pastPlural": "wreven",
+    "translation": "rub, chafe",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gewreven",
+    "distractors": {
+      "pastSingular": [
+        "wroof",
+        "wrief",
+        "wraf",
+        "wrof"
+      ],
+      "pastPlural": [
+        "wraven",
+        "wroven",
+        "wreeven",
+        "wrieven"
+      ],
+      "perfectum": [
+        "gewraven",
+        "gewroven",
+        "gewreeven",
+        "gewrieven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij wreef de vlek en moest blijven.",
+      "pastPlural": "zij wreven hard met zeven doeken te beleven.",
+      "perfectum": "ik heb mijn ogen gewreven en ben gebleven."
+    }
+  },
+  {
+    "id": "wringen",
+    "infinitive": "wringen",
+    "pastSingular": "wrong",
+    "pastPlural": "wrongen",
+    "translation": "wring, twist",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gewrongen",
+    "distractors": {
+      "pastSingular": [
+        "wrang",
+        "wreeng",
+        "wroong",
+        "wrieng"
+      ],
+      "pastPlural": [
+        "wrangen",
+        "wreengen",
+        "wroongen",
+        "wriengen"
+      ],
+      "perfectum": [
+        "gewrangen",
+        "gewreengen",
+        "gewroongen",
+        "gewriengen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij wrong de doek en hoorde een song.",
+      "pastPlural": "zij wrongen de was met sterke tongen.",
+      "perfectum": "hij heeft de doek gewrongen en gezongen."
+    }
+  },
+  {
+    "id": "zeggen",
+    "infinitive": "zeggen",
+    "pastSingular": "zei",
+    "pastPlural": "zeiden",
+    "translation": "say",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gezegd",
+    "distractors": {
+      "pastSingular": [
+        "zee",
+        "zoo",
+        "zie",
+        "za"
+      ],
+      "pastPlural": [
+        "zeeden",
+        "zooden",
+        "zieden",
+        "zaden"
+      ],
+      "perfectum": [
+        "gezagd",
+        "gezogd",
+        "gezeegd",
+        "geziegd"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij zei het en wou een ei.",
+      "pastPlural": "zij zeiden niets en sneden brood te snijden.",
+      "perfectum": "ik heb het al gezegd, netjes gelegd."
+    }
+  },
+  {
+    "id": "zenden",
+    "infinitive": "zenden",
+    "pastSingular": "zond",
+    "pastPlural": "zonden",
+    "translation": "send",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gezonden",
+    "distractors": {
+      "pastSingular": [
+        "zand",
+        "zeend",
+        "zoond",
+        "ziend"
+      ],
+      "pastPlural": [
+        "zanden",
+        "zeenden",
+        "zoonden",
+        "zienden"
+      ],
+      "perfectum": [
+        "gezanden",
+        "gezeenden",
+        "gezoonden",
+        "gezienden"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij zond de brief naar het zuiden, vol wonden.",
+      "pastPlural": "zij zonden pakketten vol zonden.",
+      "perfectum": "ik heb het bericht gezonden en verbonden."
+    }
+  },
+  {
+    "id": "zien",
+    "infinitive": "zien",
+    "pastSingular": "zag",
+    "pastPlural": "zagen",
+    "translation": "see",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gezien",
+    "distractors": {
+      "pastSingular": [
+        "zog",
+        "zeeg",
+        "zoog",
+        "zieg"
+      ],
+      "pastPlural": [
+        "zogen",
+        "zeegen",
+        "zoogen",
+        "ziegen"
+      ],
+      "perfectum": [
+        "gezeen",
+        "gezoon",
+        "gezan",
+        "gezon"
+      ]
+    },
+    "samples": {
+      "pastSingular": "ik zag een vlieg en at een vijg na.",
+      "pastPlural": "wij zagen de wagen op de wegen.",
+      "perfectum": "ik heb de film gezien, misschien."
+    }
+  },
+  {
+    "id": "zijn",
+    "infinitive": "zijn",
+    "pastSingular": "was",
+    "pastPlural": "waren",
+    "translation": "be",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "geweest",
+    "distractors": {
+      "pastSingular": [
+        "wos",
+        "wees",
+        "woos",
+        "wies"
+      ],
+      "pastPlural": [
+        "woren",
+        "weeren",
+        "wooren",
+        "wieren"
+      ],
+      "perfectum": [
+        "gewoost",
+        "gewiest",
+        "gewast",
+        "gewost"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het was klein als een das.",
+      "pastPlural": "zij waren blij in de jaren.",
+      "perfectum": "ik ben er al geweest, als gast op het feest."
+    }
+  },
+  {
+    "id": "zingen",
+    "infinitive": "zingen",
+    "pastSingular": "zong",
+    "pastPlural": "zongen",
+    "translation": "sing",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gezongen",
+    "distractors": {
+      "pastSingular": [
+        "zang",
+        "zeeng",
+        "zoong",
+        "zieng"
+      ],
+      "pastPlural": [
+        "zangen",
+        "zeengen",
+        "zoongen",
+        "ziengen"
+      ],
+      "perfectum": [
+        "gezangen",
+        "gezeengen",
+        "gezoongen",
+        "geziengen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij zong een lied vol jong verdriet.",
+      "pastPlural": "zij zongen luid met sterke longen.",
+      "perfectum": "wij hebben samen gezongen en gesprongen."
+    }
+  },
+  {
+    "id": "zinken",
+    "infinitive": "zinken",
+    "pastSingular": "zonk",
+    "pastPlural": "zonken",
+    "translation": "sink",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gezonken",
+    "distractors": {
+      "pastSingular": [
+        "zank",
+        "zeenk",
+        "zoonk",
+        "zienk"
+      ],
+      "pastPlural": [
+        "zanken",
+        "zeenken",
+        "zoonken",
+        "zienken"
+      ],
+      "perfectum": [
+        "gezanken",
+        "gezeenken",
+        "gezoonken",
+        "gezienken"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de boot zonk diep, ik dronk en pronk.",
+      "pastPlural": "de schepen zonken bij flinke wonkken.",
+      "perfectum": "het schip is gezonken en verdronken."
+    }
+  },
+  {
+    "id": "zitten",
+    "infinitive": "zitten",
+    "pastSingular": "zat",
+    "pastPlural": "zaten",
+    "translation": "sit",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gezeten",
+    "distractors": {
+      "pastSingular": [
+        "zot",
+        "zeet",
+        "zoot",
+        "ziet"
+      ],
+      "pastPlural": [
+        "zoten",
+        "zeeten",
+        "zooten",
+        "zieten"
+      ],
+      "perfectum": [
+        "gezaten",
+        "gezoten",
+        "gezeeten",
+        "gezieten"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij zat op een mat heel plat.",
+      "pastPlural": "zij zaten en praatten en aten.",
+      "perfectum": "ik heb lang gezeten en veel vergeten."
+    }
+  },
+  {
+    "id": "zoeken",
+    "infinitive": "zoeken",
+    "pastSingular": "zocht",
+    "pastPlural": "zochten",
+    "translation": "search, look for",
+    "level": "b",
+    "auxiliary": "hebben",
+    "perfectum": "gezocht",
+    "distractors": {
+      "pastSingular": [
+        "zacht",
+        "zeecht",
+        "zoocht",
+        "ziecht"
+      ],
+      "pastPlural": [
+        "zachten",
+        "zeechten",
+        "zoochten",
+        "ziechten"
+      ],
+      "perfectum": [
+        "gezacht",
+        "gezeecht",
+        "gezoocht",
+        "geziecht"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij zocht en vond een doek vol vocht.",
+      "pastPlural": "zij zochten lang en lieten verzuchten.",
+      "perfectum": "ik heb overal gezocht, maar niets gekocht."
+    }
+  },
+  {
+    "id": "zuigen",
+    "infinitive": "zuigen",
+    "pastSingular": "zoog",
+    "pastPlural": "zogen",
+    "translation": "suck",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gezogen",
+    "distractors": {
+      "pastSingular": [
+        "zeeg",
+        "zieg",
+        "zag",
+        "zog"
+      ],
+      "pastPlural": [
+        "zagen",
+        "zeegen",
+        "zoogen",
+        "ziegen"
+      ],
+      "perfectum": [
+        "gezagen",
+        "gezeegen",
+        "gezoogen",
+        "geziegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "het kind zoog melk en hoorde geploeg.",
+      "pastPlural": "de kalfjes zogen rustig en logen niet.",
+      "perfectum": "de baby heeft melk gezogen en gevlogen in droom."
+    }
+  },
+  {
+    "id": "zullen",
+    "infinitive": "zullen",
+    "pastSingular": "zou",
+    "pastPlural": "zouden",
+    "translation": "will, shall",
+    "level": "a",
+    "auxiliary": "hebben",
+    "perfectum": "gezuld",
+    "distractors": {
+      "pastSingular": [
+        "zoo",
+        "zee",
+        "zie",
+        "zo"
+      ],
+      "pastPlural": [
+        "zooden",
+        "zeeden",
+        "zieden",
+        "zoden"
+      ],
+      "perfectum": [
+        "gezald",
+        "gezold",
+        "gezeeld",
+        "gezoold"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij zou komen om vaten te vullen.",
+      "pastPlural": "zij zouden gaan en hun zakken vouden.",
+      "perfectum": "het is netjes gezuld en gehuld."
+    }
+  },
+  {
+    "id": "zwellen",
+    "infinitive": "zwellen",
+    "pastSingular": "zwol",
+    "pastPlural": "zwollen",
+    "translation": "swell, bloat",
+    "level": "c",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gezwollen",
+    "distractors": {
+      "pastSingular": [
+        "zwal",
+        "zweel",
+        "zwool",
+        "zwiel"
+      ],
+      "pastPlural": [
+        "zwallen",
+        "zweellen",
+        "zwoollen",
+        "zwiellen"
+      ],
+      "perfectum": [
+        "gezwallen",
+        "gezweellen",
+        "gezwoollen",
+        "gezwiellen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "de wond zwol op als een dol.",
+      "pastPlural": "de rivieren zwollen en gingen rollen.",
+      "perfectum": "mijn voet is gezwollen en gezwollen als knollen."
+    }
+  },
+  {
+    "id": "zwemmen",
+    "infinitive": "zwemmen",
+    "pastSingular": "zwom",
+    "pastPlural": "zwommen",
+    "translation": "swim",
+    "level": "b",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gezwommen",
+    "distractors": {
+      "pastSingular": [
+        "zwam",
+        "zweem",
+        "zwoom",
+        "zwiem"
+      ],
+      "pastPlural": [
+        "zwammen",
+        "zweemmen",
+        "zwoommen",
+        "zwiemmen"
+      ],
+      "perfectum": [
+        "gezwammen",
+        "gezweemmen",
+        "gezwoommen",
+        "gezwiemmen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij zwom snel en moest remmen.",
+      "pastPlural": "zij zwommen ver met krachtige stemmen.",
+      "perfectum": "ik heb een uur gezwommen en geklommen."
+    }
+  },
+  {
+    "id": "zweren",
+    "infinitive": "zweren",
+    "pastSingular": "zwoer",
+    "pastPlural": "zwoeren",
+    "translation": "swear",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gezworen",
+    "distractors": {
+      "pastSingular": [
+        "zweer",
+        "zwoor",
+        "zwier",
+        "zwar"
+      ],
+      "pastPlural": [
+        "zweeren",
+        "zwooren",
+        "zwieren",
+        "zwaren"
+      ],
+      "perfectum": [
+        "gezwaren",
+        "gezweeren",
+        "gezwooren",
+        "gezwieren"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij zwoer trouw als een boer.",
+      "pastPlural": "zij zwoeren samen, als ware loeren.",
+      "perfectum": "ik heb het plechtig gezworen en geboren."
+    }
+  },
+  {
+    "id": "zwerven",
+    "infinitive": "zwerven",
+    "pastSingular": "zwierf",
+    "pastPlural": "zwierven",
+    "translation": "wander, ramble",
+    "level": "c",
+    "usesZijn": true,
+    "auxiliary": "zijn",
+    "perfectum": "gezworven",
+    "distractors": {
+      "pastSingular": [
+        "zweerf",
+        "zwoorf",
+        "zwarf",
+        "zworf"
+      ],
+      "pastPlural": [
+        "zweerven",
+        "zwoorven",
+        "zwarven",
+        "zworven"
+      ],
+      "perfectum": [
+        "gezwarven",
+        "gezweerven",
+        "gezwoorven",
+        "gezwierven"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij zwierf rond en kreeg een schierf gevoel.",
+      "pastPlural": "zij zwierven ver en gingen verwerven.",
+      "perfectum": "hij heeft jaren gezworven en verworven."
+    }
+  },
+  {
+    "id": "zwijgen",
+    "infinitive": "zwijgen",
+    "pastSingular": "zweeg",
+    "pastPlural": "zwegen",
+    "translation": "be silent, keep quiet",
+    "level": "c",
+    "auxiliary": "hebben",
+    "perfectum": "gezwegen",
+    "distractors": {
+      "pastSingular": [
+        "zwoog",
+        "zwieg",
+        "zwag",
+        "zwog"
+      ],
+      "pastPlural": [
+        "zwagen",
+        "zwogen",
+        "zweegen",
+        "zwiegen"
+      ],
+      "perfectum": [
+        "gezwagen",
+        "gezwogen",
+        "gezweegen",
+        "gezwiegen"
+      ]
+    },
+    "samples": {
+      "pastSingular": "hij zweeg stil en bleef leeg en veeg.",
+      "pastPlural": "zij zwegen samen en bleven vegen.",
+      "perfectum": "ik heb lang gezwegen en gekregen rust."
+    }
+  }
+]

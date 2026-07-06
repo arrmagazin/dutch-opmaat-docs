@@ -1,0 +1,23 @@
+{
+  "id": "werk-3-de-vergadering",
+  "category": "werk",
+  "number": 3,
+  "title": "De Teamvergadering",
+  "description": "Een korte teamvergadering met een projectupdate, vragen en het maken van afspraken. Perfect voor het oefenen van vergaderzinnen zoals beurt vragen, het eens zijn en hulp aanbieden.",
+  "situation": "Een manager opent de vergadering, stelt een nieuwe collega voor en vraagt om een korte update over het project. Het team bespreekt de deadline.",
+  "turns": [
+    { "speaker": "Manager", "text": "Goedemorgen allemaal. Zullen we beginnen? Dit is mijn collega Sara.", "id": "A0854", "translations": { "en": "Good morning everyone. Shall we start? This is my colleague Sara.", "ru": "Доброе утро всем. Начнём? Это моя коллега Сара.", "de": "Guten Morgen zusammen. Sollen wir anfangen? Das ist meine Kollegin Sara." } },
+    { "speaker": "Sara", "text": "Hallo, leuk jullie te ontmoeten. Ik werk aan het nieuwe project.", "id": "A0855", "translations": { "en": "Hello, nice to meet you all. I work on the new project.", "ru": "Здравствуйте, рада познакомиться. Я работаю над новым проектом.", "de": "Hallo, schön euch kennenzulernen. Ich arbeite am neuen Projekt." } },
+    { "speaker": "Manager", "text": "Sara, kun je ons een korte update geven?", "id": "A0856", "translations": { "en": "Sara, can you give us a short update?", "ru": "Сара, можешь дать нам краткое обновление?", "de": "Sara, kannst du uns ein kurzes Update geben?" } },
+    { "speaker": "Sara", "text": "Ja, natuurlijk. We liggen op schema. De eerste fase is bijna klaar.", "id": "A0857", "translations": { "en": "Yes, of course. We're on schedule. The first phase is almost done.", "ru": "Да, конечно. Мы идём по графику. Первый этап почти готов.", "de": "Ja, natürlich. Wir liegen im Zeitplan. Die erste Phase ist fast fertig." } },
+    { "speaker": "Tom", "text": "Mag ik iets vragen? Wanneer is de deadline?", "id": "A0858", "translations": { "en": "May I ask something? When is the deadline?", "ru": "Можно спросить? Когда крайний срок?", "de": "Darf ich etwas fragen? Wann ist die Deadline?" } },
+    { "speaker": "Sara", "text": "De deadline is volgende vrijdag.", "id": "A0859", "translations": { "en": "The deadline is next Friday.", "ru": "Крайний срок — следующая пятница.", "de": "Die Deadline ist nächsten Freitag." } },
+    { "speaker": "Manager", "text": "Is iedereen het daarmee eens?", "id": "A0860", "translations": { "en": "Does everyone agree with that?", "ru": "Все с этим согласны?", "de": "Sind alle damit einverstanden?" } },
+    { "speaker": "Tom", "text": "Ik ben het eens, maar we hebben misschien meer hulp nodig.", "id": "A0861", "translations": { "en": "I agree, but we might need more help.", "ru": "Я согласен, но нам, возможно, нужна дополнительная помощь.", "de": "Ich bin einverstanden, aber wir brauchen vielleicht mehr Hilfe." } },
+    { "speaker": "Manager", "text": "Goed punt. Tom, kun jij Sara helpen?", "id": "A0862", "translations": { "en": "Good point. Tom, can you help Sara?", "ru": "Хорошее замечание. Том, можешь помочь Саре?", "de": "Guter Punkt. Tom, kannst du Sara helfen?" } },
+    { "speaker": "Tom", "text": "Ja, dat doe ik graag.", "id": "A0863", "translations": { "en": "Yes, I'd be glad to.", "ru": "Да, с удовольствием.", "de": "Ja, das mache ich gern." } },
+    { "speaker": "Manager", "text": "Mooi. Heeft iemand nog een vraag?", "id": "A0864", "translations": { "en": "Great. Does anyone have another question?", "ru": "Отлично. У кого-нибудь есть ещё вопрос?", "de": "Schön. Hat jemand noch eine Frage?" } },
+    { "speaker": "Sara", "text": "Nee, voor mij is het duidelijk.", "id": "A0865", "translations": { "en": "No, it's clear to me.", "ru": "Нет, мне всё ясно.", "de": "Nein, für mich ist es klar." } },
+    { "speaker": "Manager", "text": "Dank jullie wel. Tot de volgende vergadering!", "id": "A0866", "translations": { "en": "Thank you all. Until the next meeting!", "ru": "Спасибо всем. До следующего совещания!", "de": "Vielen Dank euch. Bis zur nächsten Besprechung!" } }
+  ]
+}

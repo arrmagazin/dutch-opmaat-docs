@@ -1,0 +1,24 @@
+{
+  "id": "reizen-1-op-het-station",
+  "category": "reizen",
+  "number": 1,
+  "title": "Op het Station",
+  "description": "Een kaartje kopen aan het loket en vragen naar het juiste spoor, de vertrektijd en de reisduur. Onmisbaar vocabulaire voor wie met het openbaar vervoer reist in Nederland.",
+  "situation": "Een reiziger koopt aan het loket een treinkaartje naar Utrecht en vraagt naar de vertrektijd, het spoor en of hij moet overstappen.",
+  "turns": [
+    { "speaker": "Reiziger", "text": "Goedemiddag, ik wil graag een kaartje naar Utrecht.", "id": "A0801", "translations": { "en": "Good afternoon, I'd like a ticket to Utrecht.", "ru": "Добрый день, я хотел бы билет до Утрехта.", "de": "Guten Tag, ich möchte bitte eine Fahrkarte nach Utrecht." } },
+    { "speaker": "Medewerker", "text": "Goedemiddag! Enkele reis of retour?", "id": "A0802", "translations": { "en": "Good afternoon! One-way or return?", "ru": "Добрый день! В одну сторону или туда-обратно?", "de": "Guten Tag! Einfache Fahrt oder hin und zurück?" } },
+    { "speaker": "Reiziger", "text": "Een retour, alstublieft.", "id": "A0803", "translations": { "en": "A return, please.", "ru": "Туда-обратно, пожалуйста.", "de": "Hin und zurück, bitte." } },
+    { "speaker": "Medewerker", "text": "Eerste of tweede klas?", "id": "A0804", "translations": { "en": "First or second class?", "ru": "Первый или второй класс?", "de": "Erste oder zweite Klasse?" } },
+    { "speaker": "Reiziger", "text": "Tweede klas. Hoeveel kost dat?", "id": "A0805", "translations": { "en": "Second class. How much is that?", "ru": "Второй класс. Сколько это стоит?", "de": "Zweite Klasse. Wie viel kostet das?" } },
+    { "speaker": "Medewerker", "text": "Dat is achttien euro veertig.", "id": "A0806", "translations": { "en": "That's eighteen euros forty.", "ru": "Это восемнадцать евро сорок.", "de": "Das sind achtzehn Euro vierzig." } },
+    { "speaker": "Reiziger", "text": "Hoe laat vertrekt de volgende trein?", "id": "A0807", "translations": { "en": "What time does the next train leave?", "ru": "Во сколько отправляется следующий поезд?", "de": "Wann fährt der nächste Zug ab?" } },
+    { "speaker": "Medewerker", "text": "Om tien voor drie, vanaf spoor vijf.", "id": "A0808", "translations": { "en": "At ten to three, from platform five.", "ru": "Без десяти три, с пятого пути.", "de": "Um zehn vor drei, von Gleis fünf." } },
+    { "speaker": "Reiziger", "text": "Moet ik overstappen?", "id": "A0809", "translations": { "en": "Do I have to change trains?", "ru": "Мне нужно делать пересадку?", "de": "Muss ich umsteigen?" } },
+    { "speaker": "Medewerker", "text": "Nee, het is een directe trein.", "id": "A0810", "translations": { "en": "No, it's a direct train.", "ru": "Нет, это прямой поезд.", "de": "Nein, es ist ein direkter Zug." } },
+    { "speaker": "Reiziger", "text": "En hoe laat ben ik in Utrecht?", "id": "A0811", "translations": { "en": "And what time will I be in Utrecht?", "ru": "А во сколько я буду в Утрехте?", "de": "Und wann bin ich in Utrecht?" } },
+    { "speaker": "Medewerker", "text": "Rond half vier. De reis duurt ongeveer veertig minuten.", "id": "A0812", "translations": { "en": "Around half past three. The trip takes about forty minutes.", "ru": "Около половины четвёртого. Поездка занимает примерно сорок минут.", "de": "Gegen halb vier. Die Fahrt dauert etwa vierzig Minuten." } },
+    { "speaker": "Reiziger", "text": "Dank u wel! Fijne dag.", "id": "A0813", "translations": { "en": "Thank you! Have a nice day.", "ru": "Спасибо! Хорошего дня.", "de": "Vielen Dank! Schönen Tag noch." } },
+    { "speaker": "Medewerker", "text": "Graag gedaan, goede reis!", "id": "A0814", "translations": { "en": "You're welcome, have a good trip!", "ru": "Пожалуйста, хорошей поездки!", "de": "Gern geschehen, gute Reise!" } }
+  ]
+}

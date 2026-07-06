@@ -1,0 +1,30 @@
+{
+  "id": "shopping-5-online",
+  "category": "shopping",
+  "number": 5,
+  "title": "Online Winkelen en Retourneren",
+  "description": "Deze dialoog speelt zich af telefonisch waar een klant contact opneemt met een online winkel over een bestelling en een retour.",
+  "situation": "Jan heeft online schoenen besteld maar ze passen niet goed. Hij belt de klantenservice om ze te ruilen voor een andere maat.",
+  "turns": [
+    { "speaker": "Klantenservice", "text": "Goedemiddag, u spreekt met Klantenservice van Shoes Online. Mijn naam is Erik, hoe kan ik u helpen?", "id": "A0517" },
+    { "speaker": "Jan", "text": "Goedemiddag, Erik. Ik heb vorige week schoenen besteld, bestelnummer 123456. Ze zijn aangekomen maar de maat klopt niet.", "id": "A0518" },
+    { "speaker": "Klantenservice", "text": "Dat vervelend om te horen. Laat me even uw bestelling opzoeken. Mag ik uw naam en postcode?", "id": "A0519" },
+    { "speaker": "Jan", "text": "Jan de Vries, postcode 1012AB.", "id": "A0520" },
+    { "speaker": "Klantenservice", "text": "Dank u. Hier heb ik uw bestelling. U heeft de donkerbruine leren sandalen besteld in maat 43. Klopt dat?", "id": "A0521" },
+    { "speaker": "Jan", "text": "Ja, dat klopt. Ze passen goed, maar ik wil ze graag ruilen voor maat 42.", "id": "A0522" },
+    { "speaker": "Klantenservice", "text": "Begrijpelijk. Maat 42 hebben we op voorraad. Ik kan een omruiling voor u regelen. De nieuwe schoenen worden gratis naar u verzonden.", "id": "A0523" },
+    { "speaker": "Jan", "text": "Geweldig! En de oude schoenen?", "id": "A0524" },
+    { "speaker": "Klantenservice", "text": "U ontvangt een retourlabel per e-mail. Doe de schoenen in de originele doos, plak het label erop en breng ze naar een DHL punt. De kosten worden niet in mindering gebracht op uw tegoed.", "id": "A0525" },
+    { "speaker": "Jan", "text": "Dat is duidelijk. Hoe lang duurt het voordat de nieuwe schoenen aankomen?", "id": "A0526" },
+    { "speaker": "Klantenservice", "text": "Als u de oude schoenen binnen vijf werkdagen terugstuurt, kunt u de nieuwe schoenen binnen twee tot drie werkdagen verwachten.", "id": "A0527" },
+    { "speaker": "Jan", "text": "Perfect. En als de maat 42 ook niet past?", "id": "A0528" },
+    { "speaker": "Klantenservice", "text": "Dan kunt u opnieuw contact opnemen voor een verdere omruiling of een volledige restitutie. U heeft veertien dagen de tijd om te retourneren.", "id": "A0529" },
+    { "speaker": "Jan", "text": "Goed om te weten. Ik heb nog een vraag. Ik zag dat jullie nu ook wandelschoenen verkopen. Zijn die ook gratis te retourneren?", "id": "A0530" },
+    { "speaker": "Klantenservice", "text": "Ja, alle schoenen kunnen gratis worden geretourneerd binnen veertien dagen. U betaalt alleen de verzendkosten voor de heenzending.", "id": "A0531" },
+    { "speaker": "Jan", "text": "Fijn, dat wist ik niet. Dank u voor de informatie.", "id": "A0532" },
+    { "speaker": "Klantenservice", "text": "Graag gedaan. Nog iets anders dat ik voor u kan doen?", "id": "A0533" },
+    { "speaker": "Jan", "text": "Nee, dat was alles. Bedankt voor de snelle service!", "id": "A0534" },
+    { "speaker": "Klantenservice", "text": "Graag gedaan, Jan. Veel succes met de nieuwe schoenen. Tot ziens!", "id": "A0535" },
+    { "speaker": "Jan", "text": "Tot ziens!", "id": "A0536" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "formeel-1-bij-de-gemeente",
+  "category": "formeel",
+  "number": 1,
+  "title": "Bij de Gemeente",
+  "description": "Een nieuw adres inschrijven aan de balie van de gemeente. Belangrijk formeel vocabulaire over afspraken, identiteitsbewijs, formulieren en het gebruik van de beleefde u-vorm.",
+  "situation": "Een burger komt met een afspraak naar de balie van de gemeente om een adreswijziging door te geven.",
+  "turns": [
+    { "speaker": "Medewerker", "text": "Goedemorgen, hebt u een afspraak?", "id": "A0880", "translations": { "en": "Good morning, do you have an appointment?", "ru": "Доброе утро, у вас есть запись?", "de": "Guten Morgen, haben Sie einen Termin?" } },
+    { "speaker": "Burger", "text": "Goedemorgen. Ja, ik kom voor het inschrijven van mijn nieuwe adres.", "id": "A0881", "translations": { "en": "Good morning. Yes, I'm here to register my new address.", "ru": "Доброе утро. Да, я пришёл зарегистрировать новый адрес.", "de": "Guten Morgen. Ja, ich komme, um meine neue Adresse anzumelden." } },
+    { "speaker": "Medewerker", "text": "Mag ik uw paspoort of identiteitskaart zien?", "id": "A0882", "translations": { "en": "May I see your passport or ID card?", "ru": "Могу я увидеть ваш паспорт или удостоверение личности?", "de": "Darf ich Ihren Reisepass oder Personalausweis sehen?" } },
+    { "speaker": "Burger", "text": "Hier is mijn paspoort.", "id": "A0883", "translations": { "en": "Here is my passport.", "ru": "Вот мой паспорт.", "de": "Hier ist mein Reisepass." } },
+    { "speaker": "Medewerker", "text": "Dank u. Kunt u dit formulier invullen met uw oude en nieuwe adres?", "id": "A0884", "translations": { "en": "Thank you. Can you fill in this form with your old and new address?", "ru": "Спасибо. Можете заполнить этот бланк со старым и новым адресом?", "de": "Danke. Können Sie dieses Formular mit Ihrer alten und neuen Adresse ausfüllen?" } },
+    { "speaker": "Burger", "text": "Natuurlijk. Moet ik ook hier tekenen?", "id": "A0885", "translations": { "en": "Of course. Do I have to sign here too?", "ru": "Конечно. Мне нужно ещё здесь расписаться?", "de": "Natürlich. Muss ich auch hier unterschreiben?" } },
+    { "speaker": "Medewerker", "text": "Ja, onderaan, alstublieft. Hebt u een huurcontract of koopakte bij u?", "id": "A0886", "translations": { "en": "Yes, at the bottom, please. Do you have a rental contract or deed of purchase with you?", "ru": "Да, внизу, пожалуйста. У вас есть с собой договор аренды или акт купли-продажи?", "de": "Ja, unten, bitte. Haben Sie einen Mietvertrag oder Kaufvertrag dabei?" } },
+    { "speaker": "Burger", "text": "Ja, hier is mijn huurcontract.", "id": "A0887", "translations": { "en": "Yes, here is my rental contract.", "ru": "Да, вот мой договор аренды.", "de": "Ja, hier ist mein Mietvertrag." } },
+    { "speaker": "Medewerker", "text": "Prima. Vanaf wanneer woont u op het nieuwe adres?", "id": "A0888", "translations": { "en": "Fine. From when do you live at the new address?", "ru": "Хорошо. С какого числа вы живёте по новому адресу?", "de": "Gut. Ab wann wohnen Sie an der neuen Adresse?" } },
+    { "speaker": "Burger", "text": "Vanaf één juli.", "id": "A0889", "translations": { "en": "From the first of July.", "ru": "С первого июля.", "de": "Ab dem ersten Juli." } },
+    { "speaker": "Medewerker", "text": "Goed. De wijziging is genoteerd. U ontvangt een bevestiging per post.", "id": "A0890", "translations": { "en": "Good. The change has been recorded. You'll receive a confirmation by post.", "ru": "Хорошо. Изменение записано. Вы получите подтверждение по почте.", "de": "Gut. Die Änderung ist notiert. Sie erhalten eine Bestätigung per Post." } },
+    { "speaker": "Burger", "text": "Hartelijk dank voor uw hulp.", "id": "A0891", "translations": { "en": "Thank you very much for your help.", "ru": "Большое спасибо за вашу помощь.", "de": "Herzlichen Dank für Ihre Hilfe." } },
+    { "speaker": "Medewerker", "text": "Graag gedaan. Een prettige dag nog.", "id": "A0892", "translations": { "en": "You're welcome. Have a nice day.", "ru": "Пожалуйста. Хорошего дня.", "de": "Gern geschehen. Einen schönen Tag noch." } }
+  ]
+}

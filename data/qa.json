@@ -1,0 +1,4574 @@
+[
+  {
+    "id": 1,
+    "question": "Hallo, hoe heet je?",
+    "answer": "Ik heet ...",
+    "level": "a"
+  },
+  {
+    "id": 2,
+    "question": "Hoe oud ben je?",
+    "answer": "Ik ben ... jaar oud.",
+    "level": "a"
+  },
+  {
+    "id": 3,
+    "question": "Waar kom je vandaan?",
+    "answer": "Ik kom uit ...",
+    "level": "a"
+  },
+  {
+    "id": 4,
+    "question": "In welke stad ben je geboren?",
+    "answer": "Ik ben in ... geboren.",
+    "level": "b"
+  },
+  {
+    "id": 5,
+    "question": "Waar woon je nu?",
+    "answer": "Ik woon nu in Nederland.",
+    "level": "a"
+  },
+  {
+    "id": 6,
+    "question": "In welke stad woon je?",
+    "answer": "Ik woon in ....",
+    "level": "a"
+  },
+  {
+    "id": 7,
+    "question": "Hoe lang woon je al in Amsterdam?",
+    "answer": "Ik woon al twee jaar in Amsterdam.",
+    "level": "a"
+  },
+  {
+    "id": 8,
+    "question": "Vind je Amsterdam leuk?",
+    "answer": "Ja, Amsterdam vind ik erg leuk.",
+    "level": "a"
+  },
+  {
+    "id": 9,
+    "question": "Waarom vind je Amsterdam leuk?",
+    "answer": "Amsterdam is groot en interessant.",
+    "level": "a"
+  },
+  {
+    "id": 10,
+    "question": "Spreek je Nederlands?",
+    "answer": "Ja, ik spreek Nederlands.",
+    "level": "a"
+  },
+  {
+    "id": 11,
+    "question": "Spreek je goed Nederlands?",
+    "answer": "Een beetje, maar ik leer nog.",
+    "level": "a"
+  },
+  {
+    "id": 12,
+    "question": "Hoe lang leer je al Nederlands?",
+    "answer": "Ik leer al twee jaar Nederlands.",
+    "level": "a"
+  },
+  {
+    "id": 13,
+    "question": "Leer je Nederlands op school?",
+    "answer": "Ja, ik leer Nederlands op de taalschool.",
+    "level": "a"
+  },
+  {
+    "id": 14,
+    "question": "Leer je elke dag Nederlands?",
+    "answer": "Ja, ik leer bijna elke dag Nederlands.",
+    "level": "a"
+  },
+  {
+    "id": 15,
+    "question": "Welke talen spreek je nog meer?",
+    "answer": "Ik spreek ... en Engels.",
+    "level": "b"
+  },
+  {
+    "id": 16,
+    "question": "Welke taal spreek je het beste?",
+    "answer": "Het beste spreek ik ...",
+    "level": "a"
+  },
+  {
+    "id": 17,
+    "question": "Werk je of studeer je?",
+    "answer": "Ik werk.",
+    "level": "a"
+  },
+  {
+    "id": 18,
+    "question": "Wat voor werk doe je?",
+    "answer": "Ik werk als leidster.",
+    "level": "b"
+  },
+  {
+    "id": 19,
+    "question": "Werk je fulltime?",
+    "answer": "Ja, ik werk fulltime.",
+    "level": "a"
+  },
+  {
+    "id": 20,
+    "question": "Vind je je werk leuk?",
+    "answer": "Ja, mijn werk vind ik leuk.",
+    "level": "a"
+  },
+  {
+    "id": 21,
+    "question": "Waarom vind je je werk leuk?",
+    "answer": "Ik werk graag met mensen.",
+    "level": "a"
+  },
+  {
+    "id": 22,
+    "question": "Heb je collega's?",
+    "answer": "Ja, ik heb leuke collega's.",
+    "level": "a"
+  },
+  {
+    "id": 23,
+    "question": "Heb je vrienden in Nederland?",
+    "answer": "Ja, ik heb hier vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 24,
+    "question": "Zijn je vrienden uit Nederland?",
+    "answer": "Sommigen komen uit Nederland.",
+    "level": "a"
+  },
+  {
+    "id": 25,
+    "question": "Heb je ook vrienden uit het buitenland?",
+    "answer": "Ja, ik heb internationale vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 26,
+    "question": "Heb je familie in Griekenland?",
+    "answer": "Ja, mijn familie woont in Griekenland.",
+    "level": "a"
+  },
+  {
+    "id": 27,
+    "question": "Wie uit je familie woont daar?",
+    "answer": "Mijn ouders en mijn zus wonen daar.",
+    "level": "a"
+  },
+  {
+    "id": 28,
+    "question": "Bezoek je je familie vaak?",
+    "answer": "Ja, ik bezoek hen meerdere keren per jaar.",
+    "level": "a"
+  },
+  {
+    "id": 29,
+    "question": "Mis je je familie?",
+    "answer": "Ja, ik mis mijn familie.",
+    "level": "a"
+  },
+  {
+    "id": 30,
+    "question": "Mis je je thuisland?",
+    "answer": "Ja, soms mis ik Griekenland.",
+    "level": "a"
+  },
+  {
+    "id": 31,
+    "question": "Wat mis je het meest?",
+    "answer": "Ik mis het eten en de zee.",
+    "level": "a"
+  },
+  {
+    "id": 32,
+    "question": "Voel je je goed in Nederland?",
+    "answer": "Ja, ik voel me hier goed.",
+    "level": "a"
+  },
+  {
+    "id": 33,
+    "question": "Was het in het begin moeilijk?",
+    "answer": "Ja, in het begin was het moeilijk.",
+    "level": "a"
+  },
+  {
+    "id": 34,
+    "question": "Is het nu beter?",
+    "answer": "Ja, nu is het veel beter.",
+    "level": "a"
+  },
+  {
+    "id": 35,
+    "question": "Wil je lang in Nederland blijven?",
+    "answer": "Ja, ik wil hier blijven.",
+    "level": "a"
+  },
+  {
+    "id": 36,
+    "question": "Heb je plannen voor de toekomst?",
+    "answer": "Ja, ik heb plannen voor de toekomst.",
+    "level": "a"
+  },
+  {
+    "id": 37,
+    "question": "Wil je hier blijven werken?",
+    "answer": "Ja, ik wil hier blijven werken.",
+    "level": "a"
+  },
+  {
+    "id": 38,
+    "question": "Ben je hier gelukkig?",
+    "answer": "Ja, ik ben hier gelukkig.",
+    "level": "a"
+  },
+  {
+    "id": 39,
+    "question": "Hoe voel je je vandaag?",
+    "answer": "Vandaag voel ik me goed.",
+    "level": "a"
+  },
+  {
+    "id": 40,
+    "question": "Kijk je uit naar morgen?",
+    "answer": "Ja, ik kijk uit naar morgen.",
+    "level": "a"
+  },
+  {
+    "id": 41,
+    "question": "Wil je nog beter Nederlands spreken?",
+    "answer": "Ja, ik wil heel goed Nederlands spreken.",
+    "level": "a"
+  },
+  {
+    "id": 42,
+    "question": "Geloof je in jezelf?",
+    "answer": "Ja, ik geloof in mezelf.",
+    "level": "a"
+  },
+  {
+    "id": 43,
+    "question": "Hoe ziet jouw dag eruit?",
+    "answer": "Mijn dag is meestal rustig.",
+    "level": "a"
+  },
+  {
+    "id": 44,
+    "question": "Wanneer sta je 's ochtends op?",
+    "answer": "Ik sta om zeven uur op.",
+    "level": "a"
+  },
+  {
+    "id": 45,
+    "question": "Ben je een ochtendmens?",
+    "answer": "Nee, ik ben geen ochtendmens.",
+    "level": "a"
+  },
+  {
+    "id": 46,
+    "question": "Wat doe je na het opstaan?",
+    "answer": "Ik douche en ontbijt.",
+    "level": "a"
+  },
+  {
+    "id": 47,
+    "question": "Wat eet je bij het ontbijt?",
+    "answer": "Ik eet brood en fruit.",
+    "level": "a"
+  },
+  {
+    "id": 48,
+    "question": "Drink je 's ochtends koffie?",
+    "answer": "Ja, ik drink elke ochtend koffie.",
+    "level": "a"
+  },
+  {
+    "id": 49,
+    "question": "Hoe ga je naar je werk?",
+    "answer": "Ik ga met de fiets.",
+    "level": "a"
+  },
+  {
+    "id": 50,
+    "question": "Doe je er lang over?",
+    "answer": "Nee, ik ben er in twintig minuten.",
+    "level": "a"
+  },
+  {
+    "id": 51,
+    "question": "Werk je graag in de ochtend?",
+    "answer": "'s Ochtends werk ik geconcentreerd.",
+    "level": "a"
+  },
+  {
+    "id": 52,
+    "question": "Neem je pauzes op het werk?",
+    "answer": "Ja, ik neem een lunchpauze.",
+    "level": "a"
+  },
+  {
+    "id": 53,
+    "question": "Wat doe je in de lunchpauze?",
+    "answer": "Ik eet iets en rust even uit.",
+    "level": "a"
+  },
+  {
+    "id": 54,
+    "question": "Eet je 's middags warm?",
+    "answer": "Ja, ik eet 's middags warm.",
+    "level": "a"
+  },
+  {
+    "id": 55,
+    "question": "Kook je zelf?",
+    "answer": "Soms kook ik zelf.",
+    "level": "a"
+  },
+  {
+    "id": 56,
+    "question": "Koop je ook eten?",
+    "answer": "Ja, soms koop ik iets.",
+    "level": "a"
+  },
+  {
+    "id": 57,
+    "question": "Drink je genoeg water?",
+    "answer": "Ja, ik drink veel water.",
+    "level": "a"
+  },
+  {
+    "id": 58,
+    "question": "Werk je tot de avond?",
+    "answer": "Ja, ik werk tot vijf uur.",
+    "level": "a"
+  },
+  {
+    "id": 59,
+    "question": "Wat doe je na het werk?",
+    "answer": "Ik ga naar huis.",
+    "level": "a"
+  },
+  {
+    "id": 60,
+    "question": "Zie je vrienden na het werk?",
+    "answer": "Soms zie ik vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 61,
+    "question": "Wat doe je in de avond?",
+    "answer": "'s Avonds kook ik of lees ik.",
+    "level": "a"
+  },
+  {
+    "id": 62,
+    "question": "Kijk je tv?",
+    "answer": "Nee, ik kijk weinig tv.",
+    "level": "a"
+  },
+  {
+    "id": 63,
+    "question": "Lees je graag boeken?",
+    "answer": "Ja, ik lees graag boeken.",
+    "level": "a"
+  },
+  {
+    "id": 64,
+    "question": "Lees je in het Nederlands?",
+    "answer": "Soms lees ik in het Nederlands.",
+    "level": "a"
+  },
+  {
+    "id": 65,
+    "question": "Luister je naar muziek?",
+    "answer": "Ja, ik luister elke dag muziek.",
+    "level": "a"
+  },
+  {
+    "id": 66,
+    "question": "Welke muziek vind je leuk?",
+    "answer": "Ik houd van rustige muziek.",
+    "level": "b"
+  },
+  {
+    "id": 67,
+    "question": "Leer je 's avonds Nederlands?",
+    "answer": "Ja, vaak leer ik 's avonds Nederlands.",
+    "level": "a"
+  },
+  {
+    "id": 68,
+    "question": "Hoe lang leer je per dag?",
+    "answer": "Ik leer ongeveer een uur.",
+    "level": "a"
+  },
+  {
+    "id": 69,
+    "question": "Doe je aan sport?",
+    "answer": "Ja, ik ga wandelen.",
+    "level": "a"
+  },
+  {
+    "id": 70,
+    "question": "Wandel je vaak?",
+    "answer": "Ja, bijna elke dag.",
+    "level": "a"
+  },
+  {
+    "id": 71,
+    "question": "Ga je vroeg slapen?",
+    "answer": "Ja, ik ga meestal vroeg slapen.",
+    "level": "a"
+  },
+  {
+    "id": 72,
+    "question": "Hoe laat ga je naar bed?",
+    "answer": "Ik ga om tien uur naar bed.",
+    "level": "a"
+  },
+  {
+    "id": 73,
+    "question": "Slaap je goed?",
+    "answer": "Ja, ik slaap meestal goed.",
+    "level": "a"
+  },
+  {
+    "id": 74,
+    "question": "Droom je veel?",
+    "answer": "Nee, ik droom niet vaak.",
+    "level": "a"
+  },
+  {
+    "id": 75,
+    "question": "Voel je je fit in de ochtend?",
+    "answer": "Soms voel ik me fit.",
+    "level": "a"
+  },
+  {
+    "id": 76,
+    "question": "Houd je van routines?",
+    "answer": "Ja, routines helpen mij.",
+    "level": "a"
+  },
+  {
+    "id": 77,
+    "question": "Plan je jouw dag?",
+    "answer": "Ja, ik plan mijn dag.",
+    "level": "a"
+  },
+  {
+    "id": 78,
+    "question": "Schrijf je to-dolijsten?",
+    "answer": "Ja, ik schrijf to-dolijsten.",
+    "level": "a"
+  },
+  {
+    "id": 79,
+    "question": "Vergeet je soms dingen?",
+    "answer": "Ja, soms vergeet ik iets.",
+    "level": "a"
+  },
+  {
+    "id": 80,
+    "question": "Ben je georganiseerd?",
+    "answer": "Ja, ik ben best georganiseerd.",
+    "level": "b"
+  },
+  {
+    "id": 81,
+    "question": "Vind je je dag leuk?",
+    "answer": "Ja, ik vind mijn dag leuk.",
+    "level": "a"
+  },
+  {
+    "id": 82,
+    "question": "Wil je iets veranderen?",
+    "answer": "Nee, op dit moment niet.",
+    "level": "a"
+  },
+  {
+    "id": 83,
+    "question": "Ben je tevreden met je dag?",
+    "answer": "Ja, ik ben tevreden met mijn dag.",
+    "level": "a"
+  },
+  {
+    "id": 84,
+    "question": "Kijk je uit naar morgen?",
+    "answer": "Ja, ik kijk uit naar morgen.",
+    "level": "a"
+  },
+  {
+    "id": 85,
+    "question": "Wat doe je in je vrije tijd?",
+    "answer": "In mijn vrije tijd ontspan ik graag.",
+    "level": "a"
+  },
+  {
+    "id": 86,
+    "question": "Wat doe je in het weekend?",
+    "answer": "In het weekend ontmoet ik vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 87,
+    "question": "Blijf je in het weekend thuis?",
+    "answer": "Soms blijf ik thuis.",
+    "level": "a"
+  },
+  {
+    "id": 88,
+    "question": "Ga je graag naar buiten?",
+    "answer": "Ja, ik ga graag naar buiten.",
+    "level": "a"
+  },
+  {
+    "id": 89,
+    "question": "Waar ga je graag naartoe?",
+    "answer": "Ik ga graag naar parken.",
+    "level": "a"
+  },
+  {
+    "id": 90,
+    "question": "Wandel je graag?",
+    "answer": "Ja, ik wandel graag.",
+    "level": "a"
+  },
+  {
+    "id": 91,
+    "question": "Ga je ook hardlopen?",
+    "answer": "Nee, ik hardloop niet.",
+    "level": "a"
+  },
+  {
+    "id": 92,
+    "question": "Sport je in de sportschool?",
+    "answer": "Nee, ik sport niet in de sportschool.",
+    "level": "a"
+  },
+  {
+    "id": 93,
+    "question": "Dans je graag?",
+    "answer": "Ja, ik dans graag.",
+    "level": "a"
+  },
+  {
+    "id": 94,
+    "question": "Luister je dan naar muziek?",
+    "answer": "Ja, ik luister dan naar muziek.",
+    "level": "a"
+  },
+  {
+    "id": 95,
+    "question": "Welke muziek luister je?",
+    "answer": "Ik luister popmuziek.",
+    "level": "a"
+  },
+  {
+    "id": 96,
+    "question": "Speel je een instrument?",
+    "answer": "Nee, ik speel geen instrument.",
+    "level": "a"
+  },
+  {
+    "id": 97,
+    "question": "Zing je graag?",
+    "answer": "Ja, ik zing graag.",
+    "level": "a"
+  },
+  {
+    "id": 98,
+    "question": "Zing je alleen of met anderen?",
+    "answer": "Ik zing meestal alleen.",
+    "level": "a"
+  },
+  {
+    "id": 99,
+    "question": "Kijk je graag films?",
+    "answer": "Ja, ik kijk graag films.",
+    "level": "a"
+  },
+  {
+    "id": 100,
+    "question": "Kijk je films thuis?",
+    "answer": "Ja, ik kijk films thuis.",
+    "level": "a"
+  },
+  {
+    "id": 101,
+    "question": "Ga je ook naar de bioscoop?",
+    "answer": "Ja, soms ga ik naar de bioscoop.",
+    "level": "a"
+  },
+  {
+    "id": 102,
+    "question": "Welke films vind je leuk?",
+    "answer": "Ik houd van komedies.",
+    "level": "b"
+  },
+  {
+    "id": 103,
+    "question": "Kijk je series?",
+    "answer": "Ja, ik kijk series.",
+    "level": "a"
+  },
+  {
+    "id": 104,
+    "question": "Kijk je series in het Nederlands?",
+    "answer": "Soms kijk ik series in het Nederlands.",
+    "level": "a"
+  },
+  {
+    "id": 105,
+    "question": "Begrijp je alles?",
+    "answer": "Nee, ik begrijp niet alles.",
+    "level": "a"
+  },
+  {
+    "id": 106,
+    "question": "Vind je leren leuk?",
+    "answer": "Ja, leren vind ik leuk.",
+    "level": "a"
+  },
+  {
+    "id": 107,
+    "question": "Lees je in je vrije tijd?",
+    "answer": "Ja, ik lees in mijn vrije tijd.",
+    "level": "a"
+  },
+  {
+    "id": 108,
+    "question": "Welke boeken lees je?",
+    "answer": "Ik lees romans.",
+    "level": "a"
+  },
+  {
+    "id": 109,
+    "question": "Lees je vaak?",
+    "answer": "Ja, ik lees vaak.",
+    "level": "a"
+  },
+  {
+    "id": 110,
+    "question": "Kook je graag in je vrije tijd?",
+    "answer": "Ja, ik kook graag.",
+    "level": "a"
+  },
+  {
+    "id": 111,
+    "question": "Kook je alleen?",
+    "answer": "Ja, ik kook meestal alleen.",
+    "level": "a"
+  },
+  {
+    "id": 112,
+    "question": "Kook je voor vrienden?",
+    "answer": "Ja, soms kook ik voor vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 113,
+    "question": "Eet je graag samen?",
+    "answer": "Ja, ik eet graag samen.",
+    "level": "a"
+  },
+  {
+    "id": 114,
+    "question": "Zie je je vrienden vaak?",
+    "answer": "Ja, ik zie hen vaak.",
+    "level": "a"
+  },
+  {
+    "id": 115,
+    "question": "Praat je graag met vrienden?",
+    "answer": "Ja, ik praat graag met vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 116,
+    "question": "Schrijf je berichten?",
+    "answer": "Ja, ik schrijf veel berichten.",
+    "level": "a"
+  },
+  {
+    "id": 117,
+    "question": "Bel je ook?",
+    "answer": "Ja, soms bel ik.",
+    "level": "a"
+  },
+  {
+    "id": 118,
+    "question": "Houd je van rustige avonden?",
+    "answer": "Ja, ik houd van rustige avonden.",
+    "level": "a"
+  },
+  {
+    "id": 119,
+    "question": "Houd je ook van feestjes?",
+    "answer": "Ja, maar niet vaak.",
+    "level": "a"
+  },
+  {
+    "id": 120,
+    "question": "Ben je graag onder mensen?",
+    "answer": "Ja, maar niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 121,
+    "question": "Heb je soms rust nodig?",
+    "answer": "Ja, ik heb soms rust nodig.",
+    "level": "a"
+  },
+  {
+    "id": 122,
+    "question": "Voel je je goed in je vrije tijd?",
+    "answer": "Ja, ik voel me goed.",
+    "level": "a"
+  },
+  {
+    "id": 123,
+    "question": "Helpt vrije tijd je ontspannen?",
+    "answer": "Ja, vrije tijd helpt me veel.",
+    "level": "a"
+  },
+  {
+    "id": 124,
+    "question": "Zie je uit naar volgend weekend?",
+    "answer": "Ja, ik kijk uit naar volgend weekend.",
+    "level": "a"
+  },
+  {
+    "id": 125,
+    "question": "Hoe begint jouw ochtend meestal?",
+    "answer": "Mijn ochtend start vaak met een korte blik uit het raam.",
+    "level": "a"
+  },
+  {
+    "id": 126,
+    "question": "Sta je doordeweeks vroeg op?",
+    "answer": "Ja, doordeweeks sta ik vroeg op.",
+    "level": "a"
+  },
+  {
+    "id": 127,
+    "question": "En in het weekend?",
+    "answer": "In het weekend slaap ik graag langer.",
+    "level": "a"
+  },
+  {
+    "id": 128,
+    "question": "Wat is het eerste dat je ’s ochtends doet?",
+    "answer": "Ik drink eerst een glas water.",
+    "level": "a"
+  },
+  {
+    "id": 129,
+    "question": "Kijk je meteen op je mobiel?",
+    "answer": "Nee, ik wacht daar even mee.",
+    "level": "a"
+  },
+  {
+    "id": 130,
+    "question": "Waarom wacht je?",
+    "answer": "Ik wil rustig aan de dag beginnen.",
+    "level": "a"
+  },
+  {
+    "id": 131,
+    "question": "Ga je meteen naar de badkamer?",
+    "answer": "Ja, daarna ga ik naar de badkamer.",
+    "level": "a"
+  },
+  {
+    "id": 132,
+    "question": "Douche je liever kort of lang?",
+    "answer": "Ik douche liever kort.",
+    "level": "a"
+  },
+  {
+    "id": 133,
+    "question": "Luister je daarbij muziek?",
+    "answer": "Nee, ’s ochtends hou ik van stilte.",
+    "level": "a"
+  },
+  {
+    "id": 134,
+    "question": "Maak je ontbijt voor jezelf?",
+    "answer": "Ja, ik maak een klein ontbijt.",
+    "level": "a"
+  },
+  {
+    "id": 135,
+    "question": "Eet je zoet of hartig?",
+    "answer": "Meestal eet ik iets zoets.",
+    "level": "a"
+  },
+  {
+    "id": 136,
+    "question": "Drink je elke ochtend koffie?",
+    "answer": "Nee, soms drink ik thee.",
+    "level": "a"
+  },
+  {
+    "id": 137,
+    "question": "Wanneer drink je koffie?",
+    "answer": "Meestal pas op het werk.",
+    "level": "a"
+  },
+  {
+    "id": 138,
+    "question": "Kleed je je snel aan?",
+    "answer": "Ja, ik weet meestal al wat ik draag.",
+    "level": "a"
+  },
+  {
+    "id": 139,
+    "question": "Leg je je kleren ’s avonds klaar?",
+    "answer": "Ja, dat bespaart me tijd in de ochtend.",
+    "level": "a"
+  },
+  {
+    "id": 140,
+    "question": "Heb je ’s ochtends stress?",
+    "answer": "Nee, ik plan genoeg tijd.",
+    "level": "a"
+  },
+  {
+    "id": 141,
+    "question": "Kom je toch soms te laat?",
+    "answer": "Zelden, maar het gebeurt.",
+    "level": "a"
+  },
+  {
+    "id": 142,
+    "question": "Hoe reageer je dan?",
+    "answer": "Ik blijf rustig en zeg sorry.",
+    "level": "a"
+  },
+  {
+    "id": 143,
+    "question": "Luister je ’s ochtends radio of nieuws?",
+    "answer": "Ja, ik luister kort naar het nieuws.",
+    "level": "a"
+  },
+  {
+    "id": 144,
+    "question": "Interesseert het nieuws je?",
+    "answer": "Ja, ik wil geïnformeerd zijn.",
+    "level": "a"
+  },
+  {
+    "id": 145,
+    "question": "Kijk je naar het weer?",
+    "answer": "Ja, vooral in de winter.",
+    "level": "a"
+  },
+  {
+    "id": 146,
+    "question": "Waarom in de winter?",
+    "answer": "Omdat ik dan beter moet plannen.",
+    "level": "b"
+  },
+  {
+    "id": 147,
+    "question": "Ga je lopend of rijd je?",
+    "answer": "Ik kies afhankelijk van het weer.",
+    "level": "a"
+  },
+  {
+    "id": 148,
+    "question": "Vind je de weg naar het werk leuk?",
+    "answer": "Ja, hij is rustig en groen.",
+    "level": "a"
+  },
+  {
+    "id": 149,
+    "question": "Denk je onderweg veel na?",
+    "answer": "Ja, vaak over de dag.",
+    "level": "a"
+  },
+  {
+    "id": 150,
+    "question": "Plan je in je hoofd?",
+    "answer": "Ja, ik plan mijn taken.",
+    "level": "a"
+  },
+  {
+    "id": 151,
+    "question": "Kom je bekende mensen tegen?",
+    "answer": "Ja, soms ontmoet ik buren.",
+    "level": "a"
+  },
+  {
+    "id": 152,
+    "question": "Groet je hen?",
+    "answer": "Ja, ik groet altijd vriendelijk.",
+    "level": "a"
+  },
+  {
+    "id": 153,
+    "question": "Maakt dat je vrolijk?",
+    "answer": "Ja, kleine praatjes doen goed.",
+    "level": "a"
+  },
+  {
+    "id": 154,
+    "question": "Luister je onderweg muziek?",
+    "answer": "Ja, soms luister ik podcasts.",
+    "level": "a"
+  },
+  {
+    "id": 155,
+    "question": "Waarom podcasts?",
+    "answer": "Ik leer dan nieuwe dingen.",
+    "level": "a"
+  },
+  {
+    "id": 156,
+    "question": "Ben je ’s ochtends gemotiveerd?",
+    "answer": "Meestal wel, vooral bij mooi weer.",
+    "level": "a"
+  },
+  {
+    "id": 157,
+    "question": "Wat motiveert je?",
+    "answer": "Een duidelijk plan en rust.",
+    "level": "a"
+  },
+  {
+    "id": 158,
+    "question": "Voel je je ’s ochtends fit?",
+    "answer": "Niet altijd, maar genoeg.",
+    "level": "a"
+  },
+  {
+    "id": 159,
+    "question": "Helpt je routine je?",
+    "answer": "Ja, ze geeft me zekerheid.",
+    "level": "a"
+  },
+  {
+    "id": 160,
+    "question": "Zou je je ochtend veranderen?",
+    "answer": "Misschien wat meer tijd voor mij.",
+    "level": "b"
+  },
+  {
+    "id": 161,
+    "question": "Wat zou je dan doen?",
+    "answer": "Ik zou kort mediteren.",
+    "level": "b"
+  },
+  {
+    "id": 162,
+    "question": "Vind je je ochtend interessant?",
+    "answer": "Ja, omdat elke dag anders is.",
+    "level": "b"
+  },
+  {
+    "id": 163,
+    "question": "Begint je dag meestal goed?",
+    "answer": "Ja, meestal begin ik positief.",
+    "level": "a"
+  },
+  {
+    "id": 164,
+    "question": "Denk je dat de ochtend de dag beïnvloedt?",
+    "answer": "Ja, een goede ochtend helpt veel.",
+    "level": "b"
+  },
+  {
+    "id": 165,
+    "question": "Vind je je werk altijd leuk?",
+    "answer": "Nee, niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 166,
+    "question": "Zijn er dagen dat je geen zin hebt?",
+    "answer": "Ja, die dagen zijn er.",
+    "level": "b"
+  },
+  {
+    "id": 167,
+    "question": "Weet je altijd precies wat je moet doen?",
+    "answer": "Nee, soms weet ik het niet precies.",
+    "level": "a"
+  },
+  {
+    "id": 168,
+    "question": "Vraag je dan om hulp?",
+    "answer": "Ja, dan vraag ik collega's.",
+    "level": "a"
+  },
+  {
+    "id": 169,
+    "question": "Heb je soms stress op het werk?",
+    "answer": "Ja, soms heb ik stress.",
+    "level": "a"
+  },
+  {
+    "id": 170,
+    "question": "Heb je vandaag stress?",
+    "answer": "Nee, vandaag heb ik geen stress.",
+    "level": "a"
+  },
+  {
+    "id": 171,
+    "question": "Weet je al wat je morgen doet?",
+    "answer": "Nee, dat weet ik nog niet.",
+    "level": "a"
+  },
+  {
+    "id": 172,
+    "question": "Plan je je week van tevoren?",
+    "answer": "Soms, maar niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 173,
+    "question": "Kun je goed opschieten met alle collega's?",
+    "answer": "Nee, niet met allemaal.",
+    "level": "a"
+  },
+  {
+    "id": 174,
+    "question": "Is dat een probleem voor je?",
+    "answer": "Nee, meestal niet.",
+    "level": "a"
+  },
+  {
+    "id": 175,
+    "question": "Weet je hoe lang je daar wilt werken?",
+    "answer": "Nee, dat weet ik nog niet.",
+    "level": "a"
+  },
+  {
+    "id": 176,
+    "question": "Wil je van baan veranderen?",
+    "answer": "Op dit moment niet.",
+    "level": "a"
+  },
+  {
+    "id": 177,
+    "question": "Denk je soms aan een ander beroep?",
+    "answer": "Ja, soms denk ik daarover.",
+    "level": "a"
+  },
+  {
+    "id": 178,
+    "question": "Weet je al wat je later wilt doen?",
+    "answer": "Nee, dat is nog open.",
+    "level": "a"
+  },
+  {
+    "id": 179,
+    "question": "Ben je tevreden met je salaris?",
+    "answer": "Ja, ik ben tevreden.",
+    "level": "a"
+  },
+  {
+    "id": 180,
+    "question": "Wil je meer geld verdienen?",
+    "answer": "Ja, dat wil ik wel.",
+    "level": "b"
+  },
+  {
+    "id": 181,
+    "question": "Weet je hoe dat kan?",
+    "answer": "Nee, dat weet ik niet precies.",
+    "level": "a"
+  },
+  {
+    "id": 182,
+    "question": "Spreek je op het werk altijd Nederlands?",
+    "answer": "Ja, meestal wel.",
+    "level": "a"
+  },
+  {
+    "id": 183,
+    "question": "Spreek je ook wel eens Engels?",
+    "answer": "Ja, soms spreek ik Engels.",
+    "level": "a"
+  },
+  {
+    "id": 184,
+    "question": "Is Nederlands op het werk moeilijk?",
+    "answer": "Ja, soms is het moeilijk.",
+    "level": "a"
+  },
+  {
+    "id": 185,
+    "question": "Begrijp je altijd alles?",
+    "answer": "Nee, ik begrijp niet altijd alles.",
+    "level": "a"
+  },
+  {
+    "id": 186,
+    "question": "Vraag je het als je iets niet begrijpt?",
+    "answer": "Ja, meestal vraag ik het.",
+    "level": "b"
+  },
+  {
+    "id": 187,
+    "question": "Ben je bang om fouten te maken?",
+    "answer": "Ja, soms ben ik bang.",
+    "level": "a"
+  },
+  {
+    "id": 188,
+    "question": "Ga je dan toch door?",
+    "answer": "Ja, ik probeer het toch.",
+    "level": "a"
+  },
+  {
+    "id": 189,
+    "question": "Weet je of je alles goed doet?",
+    "answer": "Nee, dat weet ik niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 190,
+    "question": "Krijg je feedback?",
+    "answer": "Ja, soms krijg ik feedback.",
+    "level": "a"
+  },
+  {
+    "id": 191,
+    "question": "Is die feedback positief?",
+    "answer": "Meestal wel.",
+    "level": "a"
+  },
+  {
+    "id": 192,
+    "question": "Helpt die feedback je?",
+    "answer": "Ja, het helpt me.",
+    "level": "a"
+  },
+  {
+    "id": 193,
+    "question": "Is er iets dat je niet leuk vindt?",
+    "answer": "Ja, sommige taken vind ik niet leuk.",
+    "level": "b"
+  },
+  {
+    "id": 194,
+    "question": "Zeg je dat openlijk?",
+    "answer": "Nee, liever niet.",
+    "level": "b"
+  },
+  {
+    "id": 195,
+    "question": "Waarom niet?",
+    "answer": "Ik wil geen ruzie.",
+    "level": "a"
+  },
+  {
+    "id": 196,
+    "question": "Voel je je veilig op het werk?",
+    "answer": "Ja, meestal voel ik me veilig.",
+    "level": "a"
+  },
+  {
+    "id": 197,
+    "question": "Zijn er al moeilijke situaties geweest?",
+    "answer": "Ja, een paar keer.",
+    "level": "a"
+  },
+  {
+    "id": 198,
+    "question": "Weet je dan hoe je moet reageren?",
+    "answer": "Niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 199,
+    "question": "Leer je van zulke situaties?",
+    "answer": "Ja, ik leer ervan.",
+    "level": "a"
+  },
+  {
+    "id": 200,
+    "question": "Maakt je werk je moe?",
+    "answer": "Ja, soms maakt het me moe.",
+    "level": "a"
+  },
+  {
+    "id": 201,
+    "question": "'s Avonds uitgeput?",
+    "answer": "Ja, vaak ben ik moe.",
+    "level": "a"
+  },
+  {
+    "id": 202,
+    "question": "Heb je spijt van je beroepskeuze?",
+    "answer": "Nee, daar heb ik geen spijt van.",
+    "level": "a"
+  },
+  {
+    "id": 203,
+    "question": "Zou je de baan opnieuw kiezen?",
+    "answer": "Ja, waarschijnlijk wel.",
+    "level": "b"
+  },
+  {
+    "id": 204,
+    "question": "Ben je in het algemeen tevreden?",
+    "answer": "Ja, in het algemeen ben ik tevreden.",
+    "level": "a"
+  },
+  {
+    "id": 205,
+    "question": "Heb je vandaag al gegeten?",
+    "answer": "Ja, ik heb al gegeten.",
+    "level": "a"
+  },
+  {
+    "id": 206,
+    "question": "Had je vandaag veel honger?",
+    "answer": "Nee, niet zo veel.",
+    "level": "a"
+  },
+  {
+    "id": 207,
+    "question": "Weet je al wat je vandaag kookt?",
+    "answer": "Nee, dat weet ik nog niet.",
+    "level": "a"
+  },
+  {
+    "id": 208,
+    "question": "Kook je vandaag zelf?",
+    "answer": "Ja, waarschijnlijk kook ik zelf.",
+    "level": "a"
+  },
+  {
+    "id": 209,
+    "question": "Eet je liever thuis of buiten?",
+    "answer": "Meestal eet ik liever thuis.",
+    "level": "a"
+  },
+  {
+    "id": 210,
+    "question": "Bestel je soms eten?",
+    "answer": "Ja, soms bestel ik eten.",
+    "level": "a"
+  },
+  {
+    "id": 211,
+    "question": "Weet je waar men hier goed kan eten?",
+    "answer": "Ja, ik ken een paar goede restaurants.",
+    "level": "a"
+  },
+  {
+    "id": 212,
+    "question": "Eet je graag alleen?",
+    "answer": "Nee, liever met anderen.",
+    "level": "a"
+  },
+  {
+    "id": 213,
+    "question": "Eet je vaak met vrienden?",
+    "answer": "Ja, ik eet vaak met vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 214,
+    "question": "Kook je graag voor gasten?",
+    "answer": "Ja, dat doe ik graag.",
+    "level": "a"
+  },
+  {
+    "id": 215,
+    "question": "Wat kook je dan?",
+    "answer": "Meestal kook ik simpele gerechten.",
+    "level": "a"
+  },
+  {
+    "id": 216,
+    "question": "Houd je van pittig eten?",
+    "answer": "Nee, pittig eten vind ik niet zo lekker.",
+    "level": "a"
+  },
+  {
+    "id": 217,
+    "question": "Eet je vlees?",
+    "answer": "Ja, maar niet elke dag.",
+    "level": "a"
+  },
+  {
+    "id": 218,
+    "question": "Eet je ook vegetarisch?",
+    "answer": "Ja, soms eet ik vegetarisch.",
+    "level": "a"
+  },
+  {
+    "id": 219,
+    "question": "Weet je wat gezond eten is?",
+    "answer": "Ja, maar niet altijd precies.",
+    "level": "a"
+  },
+  {
+    "id": 220,
+    "question": "Let je op gezonde voeding?",
+    "answer": "Ja, een beetje.",
+    "level": "a"
+  },
+  {
+    "id": 221,
+    "question": "Drink je genoeg water?",
+    "answer": "Meestal wel.",
+    "level": "a"
+  },
+  {
+    "id": 222,
+    "question": "Drink je zoete drankjes?",
+    "answer": "Nee, maar zelden.",
+    "level": "a"
+  },
+  {
+    "id": 223,
+    "question": "Drink je alcohol?",
+    "answer": "Nee, bijna nooit.",
+    "level": "a"
+  },
+  {
+    "id": 224,
+    "question": "Weet je hoe je goed kookt?",
+    "answer": "Nee, ik leer nog.",
+    "level": "a"
+  },
+  {
+    "id": 225,
+    "question": "Leer je nieuwe recepten?",
+    "answer": "Ja, soms probeer ik iets nieuws.",
+    "level": "a"
+  },
+  {
+    "id": 226,
+    "question": "Kook je volgens recept?",
+    "answer": "Ja, vaak kook ik volgens recept.",
+    "level": "a"
+  },
+  {
+    "id": 227,
+    "question": "Kook je spontaan?",
+    "answer": "Soms wel.",
+    "level": "a"
+  },
+  {
+    "id": 228,
+    "question": "Ga je graag boodschappen doen?",
+    "answer": "Nee, boodschappen doen vind ik niet zo leuk.",
+    "level": "a"
+  },
+  {
+    "id": 229,
+    "question": "Vergeet je soms ingrediënten?",
+    "answer": "Ja, dat gebeurt.",
+    "level": "b"
+  },
+  {
+    "id": 230,
+    "question": "Erger je je dan?",
+    "answer": "Ja, een beetje.",
+    "level": "a"
+  },
+  {
+    "id": 231,
+    "question": "Improviseer je dan?",
+    "answer": "Ja, meestal improviseer ik.",
+    "level": "a"
+  },
+  {
+    "id": 232,
+    "question": "Smaakt het dan toch?",
+    "answer": "Ja, vaak smaakt het toch goed.",
+    "level": "a"
+  },
+  {
+    "id": 233,
+    "question": "Eet je langzaam?",
+    "answer": "Nee, ik eet vrij snel.",
+    "level": "a"
+  },
+  {
+    "id": 234,
+    "question": "Weet je waarom?",
+    "answer": "Nee, daar heb ik nooit over nagedacht.",
+    "level": "a"
+  },
+  {
+    "id": 235,
+    "question": "Neem je tijd om te eten?",
+    "answer": "Niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 236,
+    "question": "Wil je dat veranderen?",
+    "answer": "Ja, dat zou beter zijn.",
+    "level": "b"
+  },
+  {
+    "id": 237,
+    "question": "Eet je graag ontbijt?",
+    "answer": "Ja, ik hou veel van ontbijt.",
+    "level": "a"
+  },
+  {
+    "id": 238,
+    "question": "Sla je het ontbijt soms over?",
+    "answer": "Ja, soms wel.",
+    "level": "a"
+  },
+  {
+    "id": 239,
+    "question": "Voel je je dan slecht?",
+    "answer": "Ja, vaak heb ik dan minder energie.",
+    "level": "b"
+  },
+  {
+    "id": 240,
+    "question": "Weet je wat goed voor je is?",
+    "answer": "Ja, langzaam leer ik dat.",
+    "level": "a"
+  },
+  {
+    "id": 241,
+    "question": "Maakt eten je blij?",
+    "answer": "Ja, eten maakt mij blij.",
+    "level": "a"
+  },
+  {
+    "id": 242,
+    "question": "Verbindt eten mensen?",
+    "answer": "Ja, dat vind ik ook.",
+    "level": "b"
+  },
+  {
+    "id": 243,
+    "question": "Heb je een lievelingsgerecht?",
+    "answer": "Ja, maar ik kan niet kiezen.",
+    "level": "a"
+  },
+  {
+    "id": 244,
+    "question": "Is dat erg?",
+    "answer": "Nee, dat is niet erg.",
+    "level": "a"
+  },
+  {
+    "id": 245,
+    "question": "Hoe breng jij je vrije tijd door?",
+    "answer": "In mijn vrije tijd ontspan ik graag.",
+    "level": "a"
+  },
+  {
+    "id": 246,
+    "question": "Heb je veel vrije tijd?",
+    "answer": "Nee, niet zo veel.",
+    "level": "a"
+  },
+  {
+    "id": 247,
+    "question": "Weet je al wat je in het weekend doet?",
+    "answer": "Nee, dat weet ik nog niet.",
+    "level": "a"
+  },
+  {
+    "id": 248,
+    "question": "Blijf je soms gewoon thuis?",
+    "answer": "Ja, dat doe ik vaak.",
+    "level": "a"
+  },
+  {
+    "id": 249,
+    "question": "Wandel je graag?",
+    "answer": "Ja, heel graag.",
+    "level": "a"
+  },
+  {
+    "id": 250,
+    "question": "Wandel je liever alleen of met anderen?",
+    "answer": "Soms alleen, soms met vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 251,
+    "question": "Doe je aan sport?",
+    "answer": "Nee, niet regelmatig.",
+    "level": "a"
+  },
+  {
+    "id": 252,
+    "question": "Wil je meer sporten?",
+    "answer": "Ja, eigenlijk wel.",
+    "level": "a"
+  },
+  {
+    "id": 253,
+    "question": "Weet je welke sport?",
+    "answer": "Nee, nog niet.",
+    "level": "a"
+  },
+  {
+    "id": 254,
+    "question": "Luister je graag naar muziek in je vrije tijd?",
+    "answer": "Ja, bijna elke dag.",
+    "level": "a"
+  },
+  {
+    "id": 255,
+    "question": "Welke muziek vind je leuk?",
+    "answer": "Ik luister graag rustige muziek.",
+    "level": "b"
+  },
+  {
+    "id": 256,
+    "question": "Luister je actief of op de achtergrond?",
+    "answer": "Meestal op de achtergrond.",
+    "level": "a"
+  },
+  {
+    "id": 257,
+    "question": "Kijk je graag films?",
+    "answer": "Ja, heel graag.",
+    "level": "a"
+  },
+  {
+    "id": 258,
+    "question": "Weet je welke film je laatst zag?",
+    "answer": "Ja, ik zag een komedie.",
+    "level": "a"
+  },
+  {
+    "id": 259,
+    "question": "Was de film goed?",
+    "answer": "Ja, hij was best grappig.",
+    "level": "b"
+  },
+  {
+    "id": 260,
+    "question": "Kijk je films alleen?",
+    "answer": "Nee, liever met anderen.",
+    "level": "a"
+  },
+  {
+    "id": 261,
+    "question": "Kijk je series?",
+    "answer": "Ja, soms.",
+    "level": "a"
+  },
+  {
+    "id": 262,
+    "question": "Kijk je series regelmatig?",
+    "answer": "Nee, niet regelmatig.",
+    "level": "a"
+  },
+  {
+    "id": 263,
+    "question": "Lees je boeken in je vrije tijd?",
+    "answer": "Ja, soms lees ik boeken.",
+    "level": "a"
+  },
+  {
+    "id": 264,
+    "question": "Weet je welk boek je nu leest?",
+    "answer": "Nee, ik lees nu geen boek.",
+    "level": "a"
+  },
+  {
+    "id": 265,
+    "question": "Ga je graag naar een café?",
+    "answer": "Ja, heel graag.",
+    "level": "a"
+  },
+  {
+    "id": 266,
+    "question": "Spreek je daar met vrienden af?",
+    "answer": "Ja, daar ontmoet ik vaak vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 267,
+    "question": "Praat je graag veel?",
+    "answer": "Nee, liever niet.",
+    "level": "a"
+  },
+  {
+    "id": 268,
+    "question": "Luister je liever?",
+    "answer": "Ja, ik luister liever.",
+    "level": "a"
+  },
+  {
+    "id": 269,
+    "question": "Houd je van rustige plekken?",
+    "answer": "Ja, heel erg.",
+    "level": "a"
+  },
+  {
+    "id": 270,
+    "question": "Vermijd je luide plekken?",
+    "answer": "Ja, meestal wel.",
+    "level": "a"
+  },
+  {
+    "id": 271,
+    "question": "Weet je waarom?",
+    "answer": "Nee, misschien heb ik rust nodig.",
+    "level": "b"
+  },
+  {
+    "id": 272,
+    "question": "Maak je graag plannen voor je vrije tijd?",
+    "answer": "Nee, liever spontaan.",
+    "level": "a"
+  },
+  {
+    "id": 273,
+    "question": "Verander je vaak je plannen?",
+    "answer": "Ja, dat gebeurt vaak.",
+    "level": "b"
+  },
+  {
+    "id": 274,
+    "question": "Erger je je daarover?",
+    "answer": "Nee, eigenlijk niet.",
+    "level": "a"
+  },
+  {
+    "id": 275,
+    "question": "Voel je je vrij in je vrije tijd?",
+    "answer": "Ja, erg.",
+    "level": "a"
+  },
+  {
+    "id": 276,
+    "question": "Heb je vrije tijd nodig om uit te rusten?",
+    "answer": "Ja, zeker.",
+    "level": "a"
+  },
+  {
+    "id": 277,
+    "question": "Helpt vrije tijd je om af te schakelen?",
+    "answer": "Ja, het helpt me erg.",
+    "level": "a"
+  },
+  {
+    "id": 278,
+    "question": "Denk je in je vrije tijd aan werk?",
+    "answer": "Soms helaas wel.",
+    "level": "a"
+  },
+  {
+    "id": 279,
+    "question": "Kun je goed afschakelen?",
+    "answer": "Niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 280,
+    "question": "Wil je dat leren?",
+    "answer": "Ja, dat zou goed zijn.",
+    "level": "b"
+  },
+  {
+    "id": 281,
+    "question": "Vind je vrije tijd belangrijk?",
+    "answer": "Ja, vrije tijd is heel belangrijk.",
+    "level": "a"
+  },
+  {
+    "id": 282,
+    "question": "Ben je tevreden met je vrije tijd?",
+    "answer": "Ja, over het algemeen wel.",
+    "level": "a"
+  },
+  {
+    "id": 283,
+    "question": "Wil je iets veranderen?",
+    "answer": "Misschien wat meer tijd.",
+    "level": "b"
+  },
+  {
+    "id": 284,
+    "question": "Denk je dat dat nog komt?",
+    "answer": "Ja, hopelijk.",
+    "level": "b"
+  },
+  {
+    "id": 285,
+    "question": "Hoe leer jij Nederlands?",
+    "answer": "Ik leer Nederlands met cursussen en alleen.",
+    "level": "a"
+  },
+  {
+    "id": 286,
+    "question": "Leer je liever alleen of met anderen?",
+    "answer": "Meestal leer ik liever alleen.",
+    "level": "a"
+  },
+  {
+    "id": 287,
+    "question": "Waarom leer je liever alleen?",
+    "answer": "Dan kan ik me beter concentreren.",
+    "level": "b"
+  },
+  {
+    "id": 288,
+    "question": "Leer je elke dag Nederlands?",
+    "answer": "Nee, niet elke dag.",
+    "level": "a"
+  },
+  {
+    "id": 289,
+    "question": "Weet je hoeveel minuten je leert?",
+    "answer": "Nee, dat weet ik niet precies.",
+    "level": "a"
+  },
+  {
+    "id": 290,
+    "question": "Leer je ’s ochtends of ’s avonds?",
+    "answer": "Meestal leer ik ’s avonds.",
+    "level": "a"
+  },
+  {
+    "id": 291,
+    "question": "Ben je ’s avonds gemotiveerd?",
+    "answer": "Ja, vaak ben ik gemotiveerd.",
+    "level": "a"
+  },
+  {
+    "id": 292,
+    "question": "Leer je met een boek?",
+    "answer": "Ja, ik gebruik een boek.",
+    "level": "a"
+  },
+  {
+    "id": 293,
+    "question": "Leer je ook met je mobiel?",
+    "answer": "Ja, soms leer ik met apps.",
+    "level": "a"
+  },
+  {
+    "id": 294,
+    "question": "Helpen apps jou?",
+    "answer": "Ja, ze helpen me.",
+    "level": "a"
+  },
+  {
+    "id": 295,
+    "question": "Hoor je Nederlands in het dagelijks leven?",
+    "answer": "Ja, ik hoor veel Nederlands.",
+    "level": "a"
+  },
+  {
+    "id": 296,
+    "question": "Kijk je naar Nederlandse tv?",
+    "answer": "Ja, soms kijk ik Nederlandse series.",
+    "level": "a"
+  },
+  {
+    "id": 297,
+    "question": "Begrijp je alles?",
+    "answer": "Nee, ik begrijp niet alles.",
+    "level": "a"
+  },
+  {
+    "id": 298,
+    "question": "Wat doe je als je iets niet begrijpt?",
+    "answer": "Dan vraag ik of zoek ik op.",
+    "level": "b"
+  },
+  {
+    "id": 299,
+    "question": "Schrijf je nieuwe woorden op?",
+    "answer": "Ja, ik schrijf nieuwe woorden op.",
+    "level": "a"
+  },
+  {
+    "id": 300,
+    "question": "Herhaal je die woorden?",
+    "answer": "Ja, maar niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 301,
+    "question": "Vergeet je woorden snel?",
+    "answer": "Ja, soms vergeet ik ze.",
+    "level": "a"
+  },
+  {
+    "id": 302,
+    "question": "Vind je grammatica moeilijk?",
+    "answer": "Ja, grammatica vind ik moeilijk.",
+    "level": "a"
+  },
+  {
+    "id": 303,
+    "question": "Vind je uitspraak moeilijk?",
+    "answer": "Nee, uitspraak gaat beter.",
+    "level": "b"
+  },
+  {
+    "id": 304,
+    "question": "Ben je bang om te spreken?",
+    "answer": "Ja, soms ben ik bang.",
+    "level": "a"
+  },
+  {
+    "id": 305,
+    "question": "Spreek je toch Nederlands?",
+    "answer": "Ja, ik spreek toch Nederlands.",
+    "level": "a"
+  },
+  {
+    "id": 306,
+    "question": "Met wie spreek je Nederlands?",
+    "answer": "Met collega’s en vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 307,
+    "question": "Verbeteren mensen je?",
+    "answer": "Ja, soms verbeteren ze me.",
+    "level": "a"
+  },
+  {
+    "id": 308,
+    "question": "Vind je dat goed?",
+    "answer": "Ja, dat helpt me.",
+    "level": "b"
+  },
+  {
+    "id": 309,
+    "question": "Maak je veel fouten?",
+    "answer": "Ja, ik maak fouten.",
+    "level": "a"
+  },
+  {
+    "id": 310,
+    "question": "Is dat erg?",
+    "answer": "Nee, dat is niet erg.",
+    "level": "a"
+  },
+  {
+    "id": 311,
+    "question": "Leer je van fouten?",
+    "answer": "Ja, ik leer daarvan.",
+    "level": "a"
+  },
+  {
+    "id": 312,
+    "question": "Voel je je beter dan vroeger?",
+    "answer": "Ja, ik voel me beter.",
+    "level": "b"
+  },
+  {
+    "id": 313,
+    "question": "Heb je vooruitgang geboekt?",
+    "answer": "Ja, ik heb vooruitgang geboekt.",
+    "level": "a"
+  },
+  {
+    "id": 314,
+    "question": "Merk je dat in het dagelijks leven?",
+    "answer": "Ja, ik merk dat.",
+    "level": "a"
+  },
+  {
+    "id": 315,
+    "question": "Is Nederlands leren leuk?",
+    "answer": "Ja, meestal is het leuk.",
+    "level": "a"
+  },
+  {
+    "id": 316,
+    "question": "Zijn er dagen zonder zin?",
+    "answer": "Ja, die zijn er.",
+    "level": "a"
+  },
+  {
+    "id": 317,
+    "question": "Leer je dan toch?",
+    "answer": "Nee, dan pauzeer ik.",
+    "level": "a"
+  },
+  {
+    "id": 318,
+    "question": "Vind je pauzes belangrijk?",
+    "answer": "Ja, pauzes zijn belangrijk.",
+    "level": "a"
+  },
+  {
+    "id": 319,
+    "question": "Wil je vloeiend spreken?",
+    "answer": "Ja, dat is mijn doel.",
+    "level": "a"
+  },
+  {
+    "id": 320,
+    "question": "Denk je dat je dat haalt?",
+    "answer": "Ja, ik geloof dat.",
+    "level": "b"
+  },
+  {
+    "id": 321,
+    "question": "Wanneer wil je het halen?",
+    "answer": "Ik weet het niet precies.",
+    "level": "a"
+  },
+  {
+    "id": 322,
+    "question": "Blijf je volhouden?",
+    "answer": "Ja, ik blijf volhouden.",
+    "level": "a"
+  },
+  {
+    "id": 323,
+    "question": "Ben je trots op jezelf?",
+    "answer": "Ja, ik ben een beetje trots.",
+    "level": "a"
+  },
+  {
+    "id": 324,
+    "question": "Hoe is je leven in Nederland?",
+    "answer": "Mijn leven in Nederland is nu best oké.",
+    "level": "a"
+  },
+  {
+    "id": 325,
+    "question": "Was het begin moeilijk?",
+    "answer": "Ja, het begin was behoorlijk moeilijk.",
+    "level": "a"
+  },
+  {
+    "id": 326,
+    "question": "Was je daarop voorbereid?",
+    "answer": "Nee, niet echt.",
+    "level": "a"
+  },
+  {
+    "id": 327,
+    "question": "Was je snel gewend?",
+    "answer": "Nee, het duurde lang.",
+    "level": "a"
+  },
+  {
+    "id": 328,
+    "question": "Weet je nog waarom het zwaar was?",
+    "answer": "Ja, alles was nieuw en vreemd.",
+    "level": "a"
+  },
+  {
+    "id": 329,
+    "question": "Had je in het begin hulp?",
+    "answer": "Ja, een paar mensen hielpen me.",
+    "level": "a"
+  },
+  {
+    "id": 330,
+    "question": "Voelde je je altijd welkom?",
+    "answer": "Nee, niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 331,
+    "question": "Waren er ook slechte ervaringen?",
+    "answer": "Ja, helaas waren die er.",
+    "level": "b"
+  },
+  {
+    "id": 332,
+    "question": "Waren dat grote problemen?",
+    "answer": "Nee, eerder kleine problemen.",
+    "level": "b"
+  },
+  {
+    "id": 333,
+    "question": "Was de taal een probleem?",
+    "answer": "Ja, de taal was een groot probleem.",
+    "level": "a"
+  },
+  {
+    "id": 334,
+    "question": "Is de taal nu makkelijker?",
+    "answer": "Ja, nu gaat het beter.",
+    "level": "a"
+  },
+  {
+    "id": 335,
+    "question": "Zijn er nog moeilijke situaties?",
+    "answer": "Ja, soms wel.",
+    "level": "a"
+  },
+  {
+    "id": 336,
+    "question": "Voel je je vandaag veilig?",
+    "answer": "Ja, meestal voel ik me veilig.",
+    "level": "a"
+  },
+  {
+    "id": 337,
+    "question": "Heb je een vaste woning?",
+    "answer": "Ja, nu heb ik een woning.",
+    "level": "a"
+  },
+  {
+    "id": 338,
+    "question": "Was het zoeken makkelijk?",
+    "answer": "Nee, het was heel moeilijk.",
+    "level": "a"
+  },
+  {
+    "id": 339,
+    "question": "Heb je nu aardige buren?",
+    "answer": "Ja, de meesten zijn aardig.",
+    "level": "a"
+  },
+  {
+    "id": 340,
+    "question": "Ken je hier veel mensen?",
+    "answer": "Nee, niet zo veel.",
+    "level": "a"
+  },
+  {
+    "id": 341,
+    "question": "Heb je hechte vrienden gevonden?",
+    "answer": "Ja, een paar goede vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 342,
+    "question": "Voel je je soms eenzaam?",
+    "answer": "Ja, soms voel ik me eenzaam.",
+    "level": "a"
+  },
+  {
+    "id": 343,
+    "question": "Weet je waarom dat zo is?",
+    "answer": "Nee, dat weet ik niet precies.",
+    "level": "a"
+  },
+  {
+    "id": 344,
+    "question": "Bel je vaak met je familie?",
+    "answer": "Ja, ik bel vaak met hen.",
+    "level": "a"
+  },
+  {
+    "id": 345,
+    "question": "Helpt dat?",
+    "answer": "Ja, dat helpt me veel.",
+    "level": "a"
+  },
+  {
+    "id": 346,
+    "question": "Mis je je thuisland?",
+    "answer": "Ja, soms mis ik het erg.",
+    "level": "a"
+  },
+  {
+    "id": 347,
+    "question": "Wil je teruggaan?",
+    "answer": "Nee, op dit moment niet.",
+    "level": "a"
+  },
+  {
+    "id": 348,
+    "question": "Weet je hoe lang je wilt blijven?",
+    "answer": "Nee, dat weet ik nog niet.",
+    "level": "a"
+  },
+  {
+    "id": 349,
+    "question": "Heb je doelen in Nederland?",
+    "answer": "Ja, maar ze zijn nog niet duidelijk.",
+    "level": "a"
+  },
+  {
+    "id": 350,
+    "question": "Zijn die doelen werkgerelateerd?",
+    "answer": "Gedeeltelijk wel.",
+    "level": "a"
+  },
+  {
+    "id": 351,
+    "question": "Heb je ook privédoelen?",
+    "answer": "Ja, die heb ik.",
+    "level": "b"
+  },
+  {
+    "id": 352,
+    "question": "Denk je vaak aan de toekomst?",
+    "answer": "Ja, soms denk ik veel.",
+    "level": "a"
+  },
+  {
+    "id": 353,
+    "question": "Maakt de toekomst je bang?",
+    "answer": "Nee, niet echt.",
+    "level": "a"
+  },
+  {
+    "id": 354,
+    "question": "Ben je optimistisch?",
+    "answer": "Meestal wel.",
+    "level": "a"
+  },
+  {
+    "id": 355,
+    "question": "Waren er momenten van twijfel?",
+    "answer": "Ja, die waren er.",
+    "level": "b"
+  },
+  {
+    "id": 356,
+    "question": "Weet je of je de juiste keuze maakte?",
+    "answer": "Dat weet ik niet zeker.",
+    "level": "a"
+  },
+  {
+    "id": 357,
+    "question": "Heb je spijt van je stap?",
+    "answer": "Nee, die spijt heb ik niet.",
+    "level": "b"
+  },
+  {
+    "id": 358,
+    "question": "Ben je veranderd?",
+    "answer": "Ja, ik ben veranderd.",
+    "level": "a"
+  },
+  {
+    "id": 359,
+    "question": "Vind je dat goed?",
+    "answer": "Ja, in het algemeen wel.",
+    "level": "b"
+  },
+  {
+    "id": 360,
+    "question": "Zou je het opnieuw doen?",
+    "answer": "Ja, waarschijnlijk wel.",
+    "level": "b"
+  },
+  {
+    "id": 361,
+    "question": "Ben je nu blijer dan vroeger?",
+    "answer": "Ja, zeker.",
+    "level": "b"
+  },
+  {
+    "id": 362,
+    "question": "Voel je je thuisgekomen?",
+    "answer": "Nog niet helemaal.",
+    "level": "a"
+  },
+  {
+    "id": 363,
+    "question": "Denk je dat het nog komt?",
+    "answer": "Ja, ik hoop het.",
+    "level": "b"
+  },
+  {
+    "id": 364,
+    "question": "Hoe gaat het met je gezondheid?",
+    "answer": "Met mijn gezondheid gaat het nu goed.",
+    "level": "a"
+  },
+  {
+    "id": 365,
+    "question": "Ben je zelden ziek?",
+    "answer": "Ja, ik ben zelden ziek.",
+    "level": "a"
+  },
+  {
+    "id": 366,
+    "question": "Was je dit jaar al ziek?",
+    "answer": "Ja, ik was dit jaar één keer ziek.",
+    "level": "a"
+  },
+  {
+    "id": 367,
+    "question": "Ga je dan naar de dokter?",
+    "answer": "Soms ga ik dan naar de dokter.",
+    "level": "a"
+  },
+  {
+    "id": 368,
+    "question": "Waarom ga je soms niet naar de dokter?",
+    "answer": "Soms ga ik niet naar de dokter, omdat het snel beter wordt.",
+    "level": "b"
+  },
+  {
+    "id": 369,
+    "question": "Neem je regelmatig medicijnen?",
+    "answer": "Nee, ik neem maar zelden medicijnen.",
+    "level": "a"
+  },
+  {
+    "id": 370,
+    "question": "Heb je huismiddeltjes?",
+    "answer": "Ja, ik gebruik vaak huismiddeltjes.",
+    "level": "a"
+  },
+  {
+    "id": 371,
+    "question": "Wat helpt jou bij verkoudheid?",
+    "answer": "Bij verkoudheid helpt warme thee.",
+    "level": "a"
+  },
+  {
+    "id": 372,
+    "question": "Drink je veel thee?",
+    "answer": "Ja, ik drink vooral in de winter veel thee.",
+    "level": "a"
+  },
+  {
+    "id": 373,
+    "question": "Let je op je gezondheid?",
+    "answer": "Ja, ik let steeds meer op mijn gezondheid.",
+    "level": "b"
+  },
+  {
+    "id": 374,
+    "question": "Slaap je genoeg?",
+    "answer": "Ja, meestal slaap ik genoeg.",
+    "level": "a"
+  },
+  {
+    "id": 375,
+    "question": "Hoeveel uur slaap je?",
+    "answer": "Ik slaap ongeveer zeven uur per nacht.",
+    "level": "a"
+  },
+  {
+    "id": 376,
+    "question": "Zijn zeven uur slaap genoeg voor jou?",
+    "answer": "Ja, zeven uur slaap is meestal genoeg.",
+    "level": "a"
+  },
+  {
+    "id": 377,
+    "question": "Doe je sport voor je gezondheid?",
+    "answer": "Nee, ik sport niet regelmatig.",
+    "level": "a"
+  },
+  {
+    "id": 378,
+    "question": "Wil je meer sporten?",
+    "answer": "Ja, ik wil meer sporten.",
+    "level": "a"
+  },
+  {
+    "id": 379,
+    "question": "Waarom sport je niet meer?",
+    "answer": "Ik sport vaak niet, omdat ik weinig tijd heb.",
+    "level": "b"
+  },
+  {
+    "id": 380,
+    "question": "Weet je welke sport goed voor je is?",
+    "answer": "Ik denk dat wandelen goed voor mij is.",
+    "level": "b"
+  },
+  {
+    "id": 381,
+    "question": "Ga je vaak wandelen?",
+    "answer": "Ja, ik wandel bijna elke dag.",
+    "level": "a"
+  },
+  {
+    "id": 382,
+    "question": "Eet je gezond?",
+    "answer": "Ja, ik eet meestal gezond.",
+    "level": "a"
+  },
+  {
+    "id": 383,
+    "question": "Eet je veel groente?",
+    "answer": "Ja, ik eet graag en vaak groente.",
+    "level": "a"
+  },
+  {
+    "id": 384,
+    "question": "Eet je ook snoep?",
+    "answer": "Ja, soms eet ik snoep.",
+    "level": "a"
+  },
+  {
+    "id": 385,
+    "question": "Voel je je daarna slecht?",
+    "answer": "Nee, ik voel me alleen slecht als ik te veel eet.",
+    "level": "b"
+  },
+  {
+    "id": 386,
+    "question": "Drink je genoeg water?",
+    "answer": "Ja, ik drink elke dag genoeg water.",
+    "level": "a"
+  },
+  {
+    "id": 387,
+    "question": "Drink je koffie?",
+    "answer": "Ja, ik drink elke dag koffie.",
+    "level": "a"
+  },
+  {
+    "id": 388,
+    "question": "Drink je te veel koffie?",
+    "answer": "Nee, ik drink niet te veel koffie.",
+    "level": "a"
+  },
+  {
+    "id": 389,
+    "question": "Luister je naar je lichaam?",
+    "answer": "Ja, ik luister steeds beter naar mijn lichaam.",
+    "level": "a"
+  },
+  {
+    "id": 390,
+    "question": "Merk je het als je moe bent?",
+    "answer": "Ja, ik merk snel als ik moe ben.",
+    "level": "b"
+  },
+  {
+    "id": 391,
+    "question": "Gun je jezelf pauzes?",
+    "answer": "Ja, ik neem regelmatig pauzes.",
+    "level": "a"
+  },
+  {
+    "id": 392,
+    "question": "Lukt dat makkelijk?",
+    "answer": "Nee, pauzes vallen mij niet altijd makkelijk.",
+    "level": "a"
+  },
+  {
+    "id": 393,
+    "question": "Waarom zijn pauzes moeilijk voor je?",
+    "answer": "Pauzes zijn moeilijk, omdat ik vaak veel te doen heb.",
+    "level": "b"
+  },
+  {
+    "id": 394,
+    "question": "Heb je vaak stress?",
+    "answer": "Ja, soms heb ik stress.",
+    "level": "a"
+  },
+  {
+    "id": 395,
+    "question": "Weet je hoe je stress kunt verminderen?",
+    "answer": "Nee, ik weet niet altijd hoe ik stress kan verminderen.",
+    "level": "a"
+  },
+  {
+    "id": 396,
+    "question": "Helpt rust je?",
+    "answer": "Ja, rust helpt mij veel.",
+    "level": "a"
+  },
+  {
+    "id": 397,
+    "question": "Praat je over je stress?",
+    "answer": "Ja, ik praat met vrienden over mijn stress.",
+    "level": "a"
+  },
+  {
+    "id": 398,
+    "question": "Helpt praten je?",
+    "answer": "Ja, praten helpt mij.",
+    "level": "a"
+  },
+  {
+    "id": 399,
+    "question": "Voel je je meestal gezond?",
+    "answer": "Ja, over het algemeen voel ik me gezond.",
+    "level": "b"
+  },
+  {
+    "id": 400,
+    "question": "Wil je iets aan je gezondheid veranderen?",
+    "answer": "Ja, ik wil beter op mijn gezondheid letten.",
+    "level": "b"
+  },
+  {
+    "id": 401,
+    "question": "Denk je dat je dat gaat lukken?",
+    "answer": "Ja, ik denk dat het lukt.",
+    "level": "b"
+  },
+  {
+    "id": 402,
+    "question": "Is gezondheid belangrijk voor jou?",
+    "answer": "Ja, gezondheid is voor mij heel belangrijk.",
+    "level": "a"
+  },
+  {
+    "id": 403,
+    "question": "Denk je nu meer aan je gezondheid dan vroeger?",
+    "answer": "Ja, ik denk nu meer aan mijn gezondheid dan vroeger.",
+    "level": "b"
+  },
+  {
+    "id": 404,
+    "question": "Hoe woon je nu?",
+    "answer": "Ik woon in een kleine woning.",
+    "level": "a"
+  },
+  {
+    "id": 405,
+    "question": "Woon je alleen?",
+    "answer": "Ja, ik woon alleen.",
+    "level": "a"
+  },
+  {
+    "id": 406,
+    "question": "Vind je je woning leuk?",
+    "answer": "Ja, mijn woning bevalt me.",
+    "level": "a"
+  },
+  {
+    "id": 407,
+    "question": "Is de woning groot genoeg?",
+    "answer": "Ja, hij is groot genoeg voor mij.",
+    "level": "a"
+  },
+  {
+    "id": 408,
+    "question": "Heb je een eigen kamer?",
+    "answer": "Ja, ik heb een slaapkamer.",
+    "level": "a"
+  },
+  {
+    "id": 409,
+    "question": "Is er ook een woonkamer?",
+    "answer": "Ja, ik heb een kleine woonkamer.",
+    "level": "a"
+  },
+  {
+    "id": 410,
+    "question": "Heb je een balkon?",
+    "answer": "Nee, ik heb geen balkon.",
+    "level": "a"
+  },
+  {
+    "id": 411,
+    "question": "Mis je een balkon?",
+    "answer": "Ja, soms mis ik een balkon.",
+    "level": "a"
+  },
+  {
+    "id": 412,
+    "question": "Op welke verdieping woon je?",
+    "answer": "Ik woon op de derde verdieping.",
+    "level": "a"
+  },
+  {
+    "id": 413,
+    "question": "Is er een lift?",
+    "answer": "Nee, er is geen lift.",
+    "level": "a"
+  },
+  {
+    "id": 414,
+    "question": "Is dat vermoeiend voor je?",
+    "answer": "Ja, soms is het vermoeiend.",
+    "level": "a"
+  },
+  {
+    "id": 415,
+    "question": "Hoelang woon je daar al?",
+    "answer": "Ik woon er sinds een jaar.",
+    "level": "a"
+  },
+  {
+    "id": 416,
+    "question": "Was het moeilijk de woning te vinden?",
+    "answer": "Ja, het was heel moeilijk.",
+    "level": "a"
+  },
+  {
+    "id": 417,
+    "question": "Had je hulp bij het zoeken?",
+    "answer": "Nee, ik heb zelf gezocht.",
+    "level": "a"
+  },
+  {
+    "id": 418,
+    "question": "Ben je nu tevreden?",
+    "answer": "Ja, op dit moment ben ik tevreden.",
+    "level": "a"
+  },
+  {
+    "id": 419,
+    "question": "Zijn je buren vriendelijk?",
+    "answer": "Ja, de meeste buren zijn vriendelijk.",
+    "level": "a"
+  },
+  {
+    "id": 420,
+    "question": "Ken je je buren goed?",
+    "answer": "Nee, ik ken ze niet goed.",
+    "level": "a"
+  },
+  {
+    "id": 421,
+    "question": "Groeten jullie elkaar in het huis?",
+    "answer": "Ja, we groeten elkaar.",
+    "level": "a"
+  },
+  {
+    "id": 422,
+    "question": "Is het rustig in je woning?",
+    "answer": "Meestal is het rustig.",
+    "level": "a"
+  },
+  {
+    "id": 423,
+    "question": "Is er soms lawaai?",
+    "answer": "Ja, soms is er lawaai.",
+    "level": "a"
+  },
+  {
+    "id": 424,
+    "question": "Stoort het lawaai je?",
+    "answer": "Nee, meestal stoort het me niet.",
+    "level": "a"
+  },
+  {
+    "id": 425,
+    "question": "Zijn er huisdieren in het gebouw?",
+    "answer": "Ja, sommige buren hebben huisdieren.",
+    "level": "a"
+  },
+  {
+    "id": 426,
+    "question": "Houd je van huisdieren?",
+    "answer": "Ja, ik houd van huisdieren.",
+    "level": "a"
+  },
+  {
+    "id": 427,
+    "question": "Mag je zelf huisdieren houden?",
+    "answer": "Nee, ik mag geen huisdieren houden.",
+    "level": "a"
+  },
+  {
+    "id": 428,
+    "question": "Is dat een probleem voor je?",
+    "answer": "Nee, op dit moment is dat geen probleem.",
+    "level": "a"
+  },
+  {
+    "id": 429,
+    "question": "Hoe is je woning ingericht?",
+    "answer": "Mijn woning is eenvoudig ingericht.",
+    "level": "a"
+  },
+  {
+    "id": 430,
+    "question": "Heb je veel meubels?",
+    "answer": "Nee, ik heb niet veel meubels.",
+    "level": "a"
+  },
+  {
+    "id": 431,
+    "question": "Heb je alles wat je nodig hebt?",
+    "answer": "Ja, ik heb alles wat belangrijk is.",
+    "level": "a"
+  },
+  {
+    "id": 432,
+    "question": "Koop je graag meubels?",
+    "answer": "Nee, meubels kopen vind ik niet zo leuk.",
+    "level": "a"
+  },
+  {
+    "id": 433,
+    "question": "Waarom niet?",
+    "answer": "Meubels zijn vaak duur.",
+    "level": "a"
+  },
+  {
+    "id": 434,
+    "question": "Heb je al iets gerepareerd?",
+    "answer": "Nee, nog niets.",
+    "level": "a"
+  },
+  {
+    "id": 435,
+    "question": "Weet je hoe je moet repareren?",
+    "answer": "Nee, dat weet ik niet goed.",
+    "level": "a"
+  },
+  {
+    "id": 436,
+    "question": "Vraag je dan iemand?",
+    "answer": "Ja, dan vraag ik vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 437,
+    "question": "Voel je je prettig in je woning?",
+    "answer": "Ja, ik voel me daar prettig.",
+    "level": "a"
+  },
+  {
+    "id": 438,
+    "question": "Is je thuis belangrijk voor je?",
+    "answer": "Ja, mijn thuis is heel belangrijk.",
+    "level": "a"
+  },
+  {
+    "id": 439,
+    "question": "Wil je later verhuizen?",
+    "answer": "Misschien, maar ik weet het nog niet.",
+    "level": "b"
+  },
+  {
+    "id": 440,
+    "question": "Ga je graag winkelen?",
+    "answer": "Nee, winkelen doe ik niet zo graag.",
+    "level": "a"
+  },
+  {
+    "id": 441,
+    "question": "Waarom ga je niet graag winkelen?",
+    "answer": "Winkelen kost tijd en geld.",
+    "level": "a"
+  },
+  {
+    "id": 442,
+    "question": "Plan je je aankopen?",
+    "answer": "Ja, meestal plan ik mijn aankopen.",
+    "level": "a"
+  },
+  {
+    "id": 443,
+    "question": "Schrijf je een boodschappenlijst?",
+    "answer": "Ja, bijna altijd schrijf ik een lijst.",
+    "level": "a"
+  },
+  {
+    "id": 444,
+    "question": "Houd je je aan de lijst?",
+    "answer": "Meestal houd ik me aan de lijst.",
+    "level": "a"
+  },
+  {
+    "id": 445,
+    "question": "Koop je toch soms extra dingen?",
+    "answer": "Ja, soms koop ik extra dingen.",
+    "level": "a"
+  },
+  {
+    "id": 446,
+    "question": "Erger je je daarna?",
+    "answer": "Ja, soms erger ik me.",
+    "level": "a"
+  },
+  {
+    "id": 447,
+    "question": "Let je op prijzen?",
+    "answer": "Ja, ik let op prijzen.",
+    "level": "a"
+  },
+  {
+    "id": 448,
+    "question": "Vergelijk je prijzen?",
+    "answer": "Ja, ik vergelijk prijzen.",
+    "level": "a"
+  },
+  {
+    "id": 449,
+    "question": "Koop je graag aanbiedingen?",
+    "answer": "Ja, aanbiedingen koop ik graag.",
+    "level": "a"
+  },
+  {
+    "id": 450,
+    "question": "Spaar je geld?",
+    "answer": "Ja, ik spaar wat geld.",
+    "level": "a"
+  },
+  {
+    "id": 451,
+    "question": "Heb je een vast budget?",
+    "answer": "Nee, ik heb geen vast budget.",
+    "level": "a"
+  },
+  {
+    "id": 452,
+    "question": "Weet je hoeveel geld je uitgeeft?",
+    "answer": "Nee, dat weet ik niet precies.",
+    "level": "b"
+  },
+  {
+    "id": 453,
+    "question": "Betaal je vaak contant?",
+    "answer": "Nee, ik betaal meestal met pinpas.",
+    "level": "a"
+  },
+  {
+    "id": 454,
+    "question": "Betaal je ook met je mobiel?",
+    "answer": "Ja, soms betaal ik met mijn mobiel.",
+    "level": "a"
+  },
+  {
+    "id": 455,
+    "question": "Vind je dat handig?",
+    "answer": "Ja, ik vind dat erg handig.",
+    "level": "b"
+  },
+  {
+    "id": 456,
+    "question": "Bewaar je bonnetjes?",
+    "answer": "Nee, bonnetjes bewaar ik zelden.",
+    "level": "a"
+  },
+  {
+    "id": 457,
+    "question": "Waarom bewaar je ze niet?",
+    "answer": "Ik vergeet ze vaak.",
+    "level": "a"
+  },
+  {
+    "id": 458,
+    "question": "Heb je maandelijkse uitgaven?",
+    "answer": "Ja, ik heb vaste maandelijkse kosten.",
+    "level": "a"
+  },
+  {
+    "id": 459,
+    "question": "Zijn die kosten hoog?",
+    "answer": "Ja, ze zijn best hoog.",
+    "level": "b"
+  },
+  {
+    "id": 460,
+    "question": "Betaal je de huur op tijd?",
+    "answer": "Ja, ik betaal de huur op tijd.",
+    "level": "a"
+  },
+  {
+    "id": 461,
+    "question": "Heb je soms geldzorgen?",
+    "answer": "Ja, soms heb ik geldzorgen.",
+    "level": "a"
+  },
+  {
+    "id": 462,
+    "question": "Praat je daarover?",
+    "answer": "Nee, daarover praat ik zelden.",
+    "level": "a"
+  },
+  {
+    "id": 463,
+    "question": "Waarom praat je er niet over?",
+    "answer": "Geld is voor mij iets privés.",
+    "level": "a"
+  },
+  {
+    "id": 464,
+    "question": "Koop je ook iets leuks voor jezelf?",
+    "answer": "Ja, soms trakteer ik mezelf.",
+    "level": "a"
+  },
+  {
+    "id": 465,
+    "question": "Wat trakteer je jezelf dan?",
+    "answer": "Ik koop dan koffie of boeken.",
+    "level": "a"
+  },
+  {
+    "id": 466,
+    "question": "Denk je lang na voor je koopt?",
+    "answer": "Ja, meestal denk ik lang na.",
+    "level": "a"
+  },
+  {
+    "id": 467,
+    "question": "Koop je spontaan?",
+    "answer": "Nee, zelden koop ik spontaan.",
+    "level": "a"
+  },
+  {
+    "id": 468,
+    "question": "Heb je soms spijt van aankopen?",
+    "answer": "Ja, dat gebeurt.",
+    "level": "b"
+  },
+  {
+    "id": 469,
+    "question": "Leer je daarvan?",
+    "answer": "Ja, ik leer daarvan.",
+    "level": "a"
+  },
+  {
+    "id": 470,
+    "question": "Is geld belangrijk voor jou?",
+    "answer": "Ja, geld is belangrijk.",
+    "level": "a"
+  },
+  {
+    "id": 471,
+    "question": "Is geld alles voor jou?",
+    "answer": "Nee, geld is niet alles.",
+    "level": "a"
+  },
+  {
+    "id": 472,
+    "question": "Wat is belangrijker dan geld?",
+    "answer": "Gezondheid en tijd zijn belangrijker.",
+    "level": "b"
+  },
+  {
+    "id": 473,
+    "question": "Voel je je veilig met je geld?",
+    "answer": "Meestal voel ik me veilig.",
+    "level": "b"
+  },
+  {
+    "id": 474,
+    "question": "Wil je beter met geld omgaan?",
+    "answer": "Ja, dat wil ik graag.",
+    "level": "b"
+  },
+  {
+    "id": 475,
+    "question": "Weet je hoe je dat kunt leren?",
+    "answer": "Nee, dat weet ik nog niet.",
+    "level": "a"
+  },
+  {
+    "id": 476,
+    "question": "Zoek je daar informatie over?",
+    "answer": "Ja, soms zoek ik informatie.",
+    "level": "a"
+  },
+  {
+    "id": 477,
+    "question": "Denk je dat het helpt?",
+    "answer": "Ja, ik denk dat het helpt.",
+    "level": "b"
+  },
+  {
+    "id": 478,
+    "question": "Hoe ga jij in het dagelijks leven van A naar B?",
+    "answer": "Meestal reis ik met het openbaar vervoer.",
+    "level": "a"
+  },
+  {
+    "id": 479,
+    "question": "Ga je vaak met de bus?",
+    "answer": "Ja, ik ga vaak met de bus.",
+    "level": "a"
+  },
+  {
+    "id": 480,
+    "question": "Neem je ook de metro?",
+    "answer": "Ja, ik neem ook de metro.",
+    "level": "a"
+  },
+  {
+    "id": 481,
+    "question": "Heb je een maandabonnement?",
+    "answer": "Ja, ik heb een maandabonnement.",
+    "level": "a"
+  },
+  {
+    "id": 482,
+    "question": "Vind je dat handig?",
+    "answer": "Ja, dat is heel handig.",
+    "level": "b"
+  },
+  {
+    "id": 483,
+    "question": "Ga je soms met de fiets?",
+    "answer": "Ja, bij goed weer fiets ik.",
+    "level": "a"
+  },
+  {
+    "id": 484,
+    "question": "Heb je een eigen fiets?",
+    "answer": "Ja, ik heb een eigen fiets.",
+    "level": "a"
+  },
+  {
+    "id": 485,
+    "question": "Voel je je veilig in het verkeer?",
+    "answer": "Meestal voel ik me veilig.",
+    "level": "a"
+  },
+  {
+    "id": 486,
+    "question": "Is er veel verkeer in jouw stad?",
+    "answer": "Ja, er is veel verkeer.",
+    "level": "a"
+  },
+  {
+    "id": 487,
+    "question": "Sta je vaak in de file?",
+    "answer": "Nee, dat gebeurt zelden.",
+    "level": "b"
+  },
+  {
+    "id": 488,
+    "question": "Kom je meestal op tijd aan?",
+    "answer": "Ja, meestal kom ik op tijd aan.",
+    "level": "a"
+  },
+  {
+    "id": 489,
+    "question": "Erger jij je over vertragingen?",
+    "answer": "Ja, vertragingen ergeren mij.",
+    "level": "a"
+  },
+  {
+    "id": 490,
+    "question": "Weet je hoe je tijd kunt besparen?",
+    "answer": "Nee, dat weet ik niet precies.",
+    "level": "a"
+  },
+  {
+    "id": 491,
+    "question": "Plan je je routes vooraf?",
+    "answer": "Ja, vaak plan ik mijn routes.",
+    "level": "a"
+  },
+  {
+    "id": 492,
+    "question": "Gebruik je daar een app voor?",
+    "answer": "Ja, ik gebruik een app.",
+    "level": "a"
+  },
+  {
+    "id": 493,
+    "question": "Helpt die app je?",
+    "answer": "Ja, ze helpt me veel.",
+    "level": "a"
+  },
+  {
+    "id": 494,
+    "question": "Rijd je graag auto?",
+    "answer": "Nee, autorijden vind ik niet zo leuk.",
+    "level": "a"
+  },
+  {
+    "id": 495,
+    "question": "Waarom vind je het niet leuk?",
+    "answer": "Omdat het vaak stressvol is.",
+    "level": "b"
+  },
+  {
+    "id": 496,
+    "question": "Gebruik je een deelauto?",
+    "answer": "Ja, soms gebruik ik een deelauto.",
+    "level": "a"
+  },
+  {
+    "id": 497,
+    "question": "Vind je een deelauto handig?",
+    "answer": "Ja, ik vind het handig.",
+    "level": "a"
+  },
+  {
+    "id": 498,
+    "question": "Loop je ook te voet?",
+    "answer": "Ja, korte afstanden loop ik.",
+    "level": "a"
+  },
+  {
+    "id": 499,
+    "question": "Vind je lopen leuk?",
+    "answer": "Ja, dat is ontspannend.",
+    "level": "b"
+  },
+  {
+    "id": 500,
+    "question": "Luister je onderweg naar muziek?",
+    "answer": "Ja, vaak luister ik muziek.",
+    "level": "a"
+  },
+  {
+    "id": 501,
+    "question": "Luister je ook podcasts?",
+    "answer": "Ja, soms luister ik podcasts.",
+    "level": "a"
+  },
+  {
+    "id": 502,
+    "question": "Leer je dan iets?",
+    "answer": "Ja, ik leer nieuwe dingen.",
+    "level": "a"
+  },
+  {
+    "id": 503,
+    "question": "Verlies je onderweg wel eens tijd?",
+    "answer": "Ja, dat gebeurt.",
+    "level": "b"
+  },
+  {
+    "id": 504,
+    "question": "Blijf je dan rustig?",
+    "answer": "Ja, meestal blijf ik rustig.",
+    "level": "a"
+  },
+  {
+    "id": 505,
+    "question": "Vraag je de weg als je onzeker bent?",
+    "answer": "Ja, dan vraag ik.",
+    "level": "b"
+  },
+  {
+    "id": 506,
+    "question": "Vind je dat makkelijk?",
+    "answer": "Ja, dat vind ik makkelijk.",
+    "level": "b"
+  },
+  {
+    "id": 507,
+    "question": "Helpt dat je verder?",
+    "answer": "Ja, bijna altijd.",
+    "level": "a"
+  },
+  {
+    "id": 508,
+    "question": "Red je je goed in jouw stad?",
+    "answer": "Ja, ik red me goed.",
+    "level": "a"
+  },
+  {
+    "id": 509,
+    "question": "Ben je aan het verkeer gewend?",
+    "answer": "Ja, ik ben eraan gewend.",
+    "level": "a"
+  },
+  {
+    "id": 510,
+    "question": "Is er iets dat je zou veranderen?",
+    "answer": "Ja, ik zou minder verkeer willen.",
+    "level": "b"
+  },
+  {
+    "id": 511,
+    "question": "Denk je dat dat kan?",
+    "answer": "Ik weet het niet.",
+    "level": "b"
+  },
+  {
+    "id": 512,
+    "question": "Ben je in het algemeen tevreden?",
+    "answer": "Ja, over het algemeen ben ik tevreden.",
+    "level": "a"
+  },
+  {
+    "id": 513,
+    "question": "Vind je mobiliteit belangrijk?",
+    "answer": "Ja, mobiliteit is heel belangrijk.",
+    "level": "a"
+  },
+  {
+    "id": 514,
+    "question": "Heb je veel vrienden?",
+    "answer": "Nee, ik heb niet veel vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 515,
+    "question": "Heb je wel hechte vrienden?",
+    "answer": "Ja, ik heb een paar hechte vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 516,
+    "question": "Hoe lang ken je je vrienden al?",
+    "answer": "Sommigen ken ik al vele jaren.",
+    "level": "a"
+  },
+  {
+    "id": 517,
+    "question": "Heb je vrienden uit verschillende landen?",
+    "answer": "Ja, ik heb vrienden uit verschillende landen.",
+    "level": "a"
+  },
+  {
+    "id": 518,
+    "question": "Zie je je vrienden vaak?",
+    "answer": "Nee, niet zo vaak als vroeger.",
+    "level": "b"
+  },
+  {
+    "id": 519,
+    "question": "Waarom zien jullie elkaar minder?",
+    "answer": "Omdat iedereen het druk heeft.",
+    "level": "b"
+  },
+  {
+    "id": 520,
+    "question": "Stuur je je vrienden berichtjes?",
+    "answer": "Ja, ik stuur ze regelmatig berichten.",
+    "level": "a"
+  },
+  {
+    "id": 521,
+    "question": "Bel je ook met hen?",
+    "answer": "Ja, soms bel ik met hen.",
+    "level": "a"
+  },
+  {
+    "id": 522,
+    "question": "Praat je met vrienden over problemen?",
+    "answer": "Ja, ik praat open over problemen.",
+    "level": "a"
+  },
+  {
+    "id": 523,
+    "question": "Helpt praten je?",
+    "answer": "Ja, praten helpt me veel.",
+    "level": "a"
+  },
+  {
+    "id": 524,
+    "question": "Luister je goed naar je vrienden?",
+    "answer": "Ja, ik luister aandachtig.",
+    "level": "a"
+  },
+  {
+    "id": 525,
+    "question": "Ben je een goede vriendin?",
+    "answer": "Ik hoop dat ik een goede vriendin ben.",
+    "level": "b"
+  },
+  {
+    "id": 526,
+    "question": "Help je je vrienden graag?",
+    "answer": "Ja, ik help mijn vrienden graag.",
+    "level": "a"
+  },
+  {
+    "id": 527,
+    "question": "Verwacht je hulp terug?",
+    "answer": "Nee, dat verwacht ik niet.",
+    "level": "b"
+  },
+  {
+    "id": 528,
+    "question": "Heb je al vriendschappen verloren?",
+    "answer": "Ja, sommige vriendschappen zijn voorbijgegaan.",
+    "level": "a"
+  },
+  {
+    "id": 529,
+    "question": "Was dat moeilijk voor je?",
+    "answer": "Ja, dat was moeilijk voor me.",
+    "level": "b"
+  },
+  {
+    "id": 530,
+    "question": "Kon je ermee omgaan?",
+    "answer": "Ja, na een tijd ging het beter.",
+    "level": "b"
+  },
+  {
+    "id": 531,
+    "question": "Leer je van vriendschappen?",
+    "answer": "Ja, ik leer er veel van.",
+    "level": "a"
+  },
+  {
+    "id": 532,
+    "question": "Vertrouw je je vrienden?",
+    "answer": "Ja, ik vertrouw hen.",
+    "level": "a"
+  },
+  {
+    "id": 533,
+    "question": "Vind je vertrouwen makkelijk?",
+    "answer": "Nee, vertrouwen is niet altijd makkelijk.",
+    "level": "a"
+  },
+  {
+    "id": 534,
+    "question": "Waarom niet?",
+    "answer": "Omdat ik voorzichtig ben.",
+    "level": "b"
+  },
+  {
+    "id": 535,
+    "question": "Heb je ook vrienden op het werk?",
+    "answer": "Ja, ik heb vrienden op het werk.",
+    "level": "a"
+  },
+  {
+    "id": 536,
+    "question": "Zie je hen ook privé?",
+    "answer": "Soms zie ik hen privé.",
+    "level": "a"
+  },
+  {
+    "id": 537,
+    "question": "Is vriendschap belangrijk voor je?",
+    "answer": "Ja, vriendschap is heel belangrijk voor me.",
+    "level": "a"
+  },
+  {
+    "id": 538,
+    "question": "Heb je veel contact nodig?",
+    "answer": "Nee, niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 539,
+    "question": "Is weinig contact genoeg?",
+    "answer": "Ja, kwaliteit is belangrijker voor me.",
+    "level": "a"
+  },
+  {
+    "id": 540,
+    "question": "Ben je graag alleen?",
+    "answer": "Ja, soms ben ik graag alleen.",
+    "level": "a"
+  },
+  {
+    "id": 541,
+    "question": "Voel je je dan eenzaam?",
+    "answer": "Nee, meestal niet.",
+    "level": "b"
+  },
+  {
+    "id": 542,
+    "question": "Ken je je grenzen?",
+    "answer": "Ja, steeds beter.",
+    "level": "a"
+  },
+  {
+    "id": 543,
+    "question": "Zeg je ook nee tegen vrienden?",
+    "answer": "Ja, als het nodig is.",
+    "level": "b"
+  },
+  {
+    "id": 544,
+    "question": "Is dat lastig voor je?",
+    "answer": "Ja, soms is het lastig.",
+    "level": "a"
+  },
+  {
+    "id": 545,
+    "question": "Respecteren vrienden dat?",
+    "answer": "Ja, goede vrienden respecteren dat.",
+    "level": "a"
+  },
+  {
+    "id": 546,
+    "question": "Leer je nu nieuwe mensen kennen?",
+    "answer": "Ja, langzaam leer ik nieuwe mensen kennen.",
+    "level": "a"
+  },
+  {
+    "id": 547,
+    "question": "Sta je open voor nieuwe vriendschappen?",
+    "answer": "Ja, ik sta ervoor open.",
+    "level": "a"
+  },
+  {
+    "id": 548,
+    "question": "Denk je dat vriendschappen veranderen?",
+    "answer": "Ja, vriendschappen veranderen met de tijd.",
+    "level": "b"
+  },
+  {
+    "id": 549,
+    "question": "Vind je dat oké?",
+    "answer": "Ja, dat vind ik oké.",
+    "level": "b"
+  },
+  {
+    "id": 550,
+    "question": "Voel je je veilig bij vrienden?",
+    "answer": "Ja, ik voel me veilig.",
+    "level": "a"
+  },
+  {
+    "id": 551,
+    "question": "Maken vrienden je leven beter?",
+    "answer": "Ja, vrienden maken mijn leven beter.",
+    "level": "a"
+  },
+  {
+    "id": 552,
+    "question": "Wil je meer tijd met vrienden?",
+    "answer": "Ja, dat wil ik graag.",
+    "level": "b"
+  },
+  {
+    "id": 553,
+    "question": "Denk je dat het gaat lukken?",
+    "answer": "Ik weet het niet, maar ik hoop het.",
+    "level": "b"
+  },
+  {
+    "id": 554,
+    "question": "Hoe breng jij je avonden door?",
+    "answer": "Mijn avonden zijn meestal rustig.",
+    "level": "a"
+  },
+  {
+    "id": 555,
+    "question": "Ben je 's avonds vaak moe?",
+    "answer": "'s Avonds ben ik vaak moe.",
+    "level": "a"
+  },
+  {
+    "id": 556,
+    "question": "Kun jij na het werk snel ontspannen?",
+    "answer": "Nee, dat duurt soms.",
+    "level": "a"
+  },
+  {
+    "id": 557,
+    "question": "Wat helpt jou om te relaxen?",
+    "answer": "Muziek en lezen helpen mij relaxen.",
+    "level": "a"
+  },
+  {
+    "id": 558,
+    "question": "Kijk je 's avonds tv?",
+    "answer": "Nee, ik kijk 's avonds zelden tv.",
+    "level": "a"
+  },
+  {
+    "id": 559,
+    "question": "Lees je liever boeken of nieuws?",
+    "answer": "Ik lees liever boeken.",
+    "level": "a"
+  },
+  {
+    "id": 560,
+    "question": "Lees je elke avond?",
+    "answer": "Nee, niet elke avond.",
+    "level": "a"
+  },
+  {
+    "id": 561,
+    "question": "Luister je 's avonds muziek?",
+    "answer": "Ja, vaak luister ik 's avonds muziek.",
+    "level": "a"
+  },
+  {
+    "id": 562,
+    "question": "Welke muziek luister je 's avonds?",
+    "answer": "Ik luister 's avonds rustige muziek.",
+    "level": "a"
+  },
+  {
+    "id": 563,
+    "question": "Gebruik je je mobiel 's avonds veel?",
+    "answer": "Ja, soms gebruik ik mijn mobiel te veel.",
+    "level": "a"
+  },
+  {
+    "id": 564,
+    "question": "Wil je dat veranderen?",
+    "answer": "Ja, dat wil ik veranderen.",
+    "level": "a"
+  },
+  {
+    "id": 565,
+    "question": "Leg je je mobiel bewust weg?",
+    "answer": "Nee, dat vind ik lastig.",
+    "level": "b"
+  },
+  {
+    "id": 566,
+    "question": "Stuur je 's avonds berichten?",
+    "answer": "Ja, ik stuur vaak berichten.",
+    "level": "a"
+  },
+  {
+    "id": 567,
+    "question": "Bel je ook 's avonds?",
+    "answer": "Nee, 's avonds bel ik zelden.",
+    "level": "a"
+  },
+  {
+    "id": 568,
+    "question": "Kook je 's avonds?",
+    "answer": "Ja, meestal kook ik 's avonds.",
+    "level": "a"
+  },
+  {
+    "id": 569,
+    "question": "Kook je graag in de avond?",
+    "answer": "Ja, koken ontspant mij.",
+    "level": "a"
+  },
+  {
+    "id": 570,
+    "question": "Eet je laat op de avond?",
+    "answer": "Nee, ik eet liever eerder.",
+    "level": "a"
+  },
+  {
+    "id": 571,
+    "question": "Waarom eet je liever eerder?",
+    "answer": "Dan slaap ik beter.",
+    "level": "b"
+  },
+  {
+    "id": 572,
+    "question": "Drink je 's avonds iets warms?",
+    "answer": "Ja, vaak drink ik thee.",
+    "level": "a"
+  },
+  {
+    "id": 573,
+    "question": "Helpt thee jou met inslapen?",
+    "answer": "Ja, thee helpt mij erg.",
+    "level": "a"
+  },
+  {
+    "id": 574,
+    "question": "Ga je vroeg naar bed?",
+    "answer": "Nee, niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 575,
+    "question": "Hoe laat ga je slapen?",
+    "answer": "Meestal ga ik om elf uur slapen.",
+    "level": "a"
+  },
+  {
+    "id": 576,
+    "question": "Val je snel in slaap?",
+    "answer": "Nee, soms heb ik tijd nodig.",
+    "level": "a"
+  },
+  {
+    "id": 577,
+    "question": "Denk je 's avonds veel na?",
+    "answer": "'s Avonds denk ik vaak na.",
+    "level": "a"
+  },
+  {
+    "id": 578,
+    "question": "Waar denk je dan aan?",
+    "answer": "Ik denk na over de dag.",
+    "level": "b"
+  },
+  {
+    "id": 579,
+    "question": "Geven je gedachten stress?",
+    "answer": "Ja, soms geven ze mij stress.",
+    "level": "a"
+  },
+  {
+    "id": 580,
+    "question": "Weet je hoe je dat stopt?",
+    "answer": "Nee, dat weet ik niet precies.",
+    "level": "a"
+  },
+  {
+    "id": 581,
+    "question": "Schrijf je je gedachten op?",
+    "answer": "Nee, dat doe ik zelden.",
+    "level": "a"
+  },
+  {
+    "id": 582,
+    "question": "Zou dat jou helpen?",
+    "answer": "Misschien zou het mij helpen.",
+    "level": "b"
+  },
+  {
+    "id": 583,
+    "question": "Luister je ontspanningsmuziek?",
+    "answer": "Ja, soms luister ik ontspanningsmuziek.",
+    "level": "a"
+  },
+  {
+    "id": 584,
+    "question": "Doe je ademhalingsoefeningen?",
+    "answer": "Nee, dat doe ik niet.",
+    "level": "a"
+  },
+  {
+    "id": 585,
+    "question": "Wil je dat proberen?",
+    "answer": "Ja, misschien probeer ik het.",
+    "level": "b"
+  },
+  {
+    "id": 586,
+    "question": "Voel je je 's avonds veilig thuis?",
+    "answer": "Ja, ik voel me veilig.",
+    "level": "a"
+  },
+  {
+    "id": 587,
+    "question": "Sluit je 's avonds alles af?",
+    "answer": "Ja, ik sluit alles af.",
+    "level": "a"
+  },
+  {
+    "id": 588,
+    "question": "Is veiligheid belangrijk voor je?",
+    "answer": "Ja, veiligheid is belangrijk voor mij.",
+    "level": "a"
+  },
+  {
+    "id": 589,
+    "question": "Voel je je 's avonds goed?",
+    "answer": "Ja, meestal voel ik me goed.",
+    "level": "a"
+  },
+  {
+    "id": 590,
+    "question": "Zie je uit naar de volgende dag?",
+    "answer": "Soms wel, soms niet.",
+    "level": "a"
+  },
+  {
+    "id": 591,
+    "question": "Waarom soms niet?",
+    "answer": "Omdat ik moe ben.",
+    "level": "b"
+  },
+  {
+    "id": 592,
+    "question": "Ga je toch positief slapen?",
+    "answer": "Ja, meestal ga ik positief slapen.",
+    "level": "a"
+  },
+  {
+    "id": 593,
+    "question": "Denk je dat goede avonden belangrijk zijn?",
+    "answer": "Ja, goede avonden zijn erg belangrijk.",
+    "level": "b"
+  },
+  {
+    "id": 594,
+    "question": "Helpt een rustige avond jou?",
+    "answer": "Ja, een rustige avond helpt mij erg.",
+    "level": "a"
+  },
+  {
+    "id": 595,
+    "question": "Wil je je avonden veranderen?",
+    "answer": "Nee, op dit moment niet.",
+    "level": "a"
+  },
+  {
+    "id": 596,
+    "question": "Ben je tevreden met je avonden?",
+    "answer": "Ja, in het algemeen ben ik tevreden.",
+    "level": "a"
+  },
+  {
+    "id": 597,
+    "question": "Hoe ga jij met techniek om?",
+    "answer": "Ik kan goed met techniek omgaan.",
+    "level": "a"
+  },
+  {
+    "id": 598,
+    "question": "Gebruik je je mobiel vaak?",
+    "answer": "Ja, ik gebruik mijn mobiel vaak.",
+    "level": "a"
+  },
+  {
+    "id": 599,
+    "question": "Waarvoor gebruik je je mobiel het meest?",
+    "answer": "Ik gebruik hem voor berichten en internet.",
+    "level": "a"
+  },
+  {
+    "id": 600,
+    "question": "Gebruik je je mobiel ook om te leren?",
+    "answer": "Ja, soms leer ik met de mobiel.",
+    "level": "a"
+  },
+  {
+    "id": 601,
+    "question": "Heb je een laptop?",
+    "answer": "Ja, ik heb een laptop.",
+    "level": "a"
+  },
+  {
+    "id": 602,
+    "question": "Gebruik je de laptop elke dag?",
+    "answer": "Nee, niet elke dag.",
+    "level": "a"
+  },
+  {
+    "id": 603,
+    "question": "Waarvoor gebruik je de laptop?",
+    "answer": "Ik gebruik hem voor werk en leren.",
+    "level": "a"
+  },
+  {
+    "id": 604,
+    "question": "Vind je techniek handig?",
+    "answer": "Ja, techniek is erg handig.",
+    "level": "a"
+  },
+  {
+    "id": 605,
+    "question": "Zijn er ook problemen met techniek?",
+    "answer": "Ja, soms zijn er problemen.",
+    "level": "a"
+  },
+  {
+    "id": 606,
+    "question": "Heb je vaak technische problemen?",
+    "answer": "Nee, niet heel vaak.",
+    "level": "a"
+  },
+  {
+    "id": 607,
+    "question": "Weet je dan wat je moet doen?",
+    "answer": "Nee, soms weet ik het niet.",
+    "level": "a"
+  },
+  {
+    "id": 608,
+    "question": "Vraag je dan iemand?",
+    "answer": "Ja, dan vraag ik vrienden.",
+    "level": "a"
+  },
+  {
+    "id": 609,
+    "question": "Zoek je oplossingen op internet?",
+    "answer": "Ja, vaak zoek ik online.",
+    "level": "a"
+  },
+  {
+    "id": 610,
+    "question": "Helpt dat meestal?",
+    "answer": "Ja, meestal helpt dat.",
+    "level": "a"
+  },
+  {
+    "id": 611,
+    "question": "Ben je bang voor nieuwe techniek?",
+    "answer": "Nee, geen angst, maar respect.",
+    "level": "a"
+  },
+  {
+    "id": 612,
+    "question": "Leer je graag nieuwe apps?",
+    "answer": "Ja, ik probeer graag nieuwe apps.",
+    "level": "a"
+  },
+  {
+    "id": 613,
+    "question": "Vergeet je soms wachtwoorden?",
+    "answer": "Ja, dat gebeurt vaak.",
+    "level": "b"
+  },
+  {
+    "id": 614,
+    "question": "Schrijf je wachtwoorden op?",
+    "answer": "Nee, dat doe ik niet.",
+    "level": "a"
+  },
+  {
+    "id": 615,
+    "question": "Waarom niet?",
+    "answer": "Omdat dat niet veilig is.",
+    "level": "a"
+  },
+  {
+    "id": 616,
+    "question": "Gebruik je elke dag internet?",
+    "answer": "Ja, elke dag.",
+    "level": "a"
+  },
+  {
+    "id": 617,
+    "question": "Zou je zonder internet kunnen leven?",
+    "answer": "Nee, dat zou moeilijk zijn.",
+    "level": "b"
+  },
+  {
+    "id": 618,
+    "question": "Waarom zou dat moeilijk zijn?",
+    "answer": "Omdat veel dingen online zijn.",
+    "level": "b"
+  },
+  {
+    "id": 619,
+    "question": "Koop je online?",
+    "answer": "Ja, soms koop ik online.",
+    "level": "a"
+  },
+  {
+    "id": 620,
+    "question": "Vertrouw je webwinkels?",
+    "answer": "Ja, maar alleen bekende winkels.",
+    "level": "a"
+  },
+  {
+    "id": 621,
+    "question": "Had je al slechte ervaringen?",
+    "answer": "Nee, nog niet.",
+    "level": "a"
+  },
+  {
+    "id": 622,
+    "question": "Betaal je online met kaart?",
+    "answer": "Ja, meestal met kaart.",
+    "level": "a"
+  },
+  {
+    "id": 623,
+    "question": "Heb je ook internetbankieren?",
+    "answer": "Ja, ik gebruik internetbankieren.",
+    "level": "a"
+  },
+  {
+    "id": 624,
+    "question": "Vind je dat handig?",
+    "answer": "Ja, heel handig.",
+    "level": "b"
+  },
+  {
+    "id": 625,
+    "question": "Ben je bang voor fraude?",
+    "answer": "Ja, een beetje ben ik bang.",
+    "level": "a"
+  },
+  {
+    "id": 626,
+    "question": "Let je daarom goed op?",
+    "answer": "Ja, ik ben voorzichtig.",
+    "level": "a"
+  },
+  {
+    "id": 627,
+    "question": "Gebruik je sociale media?",
+    "answer": "Ja, ik gebruik sociale media.",
+    "level": "a"
+  },
+  {
+    "id": 628,
+    "question": "Gebruik je ze vaak?",
+    "answer": "Nee, niet heel vaak.",
+    "level": "a"
+  },
+  {
+    "id": 629,
+    "question": "Waarom niet?",
+    "answer": "Omdat ik pauzes nodig heb.",
+    "level": "b"
+  },
+  {
+    "id": 630,
+    "question": "Vind je pauzes van techniek belangrijk?",
+    "answer": "Ja, pauzes zijn belangrijk.",
+    "level": "a"
+  },
+  {
+    "id": 631,
+    "question": "Leg je je mobiel bewust weg?",
+    "answer": "Soms leg ik hem bewust weg.",
+    "level": "a"
+  },
+  {
+    "id": 632,
+    "question": "Is dat makkelijk?",
+    "answer": "Nee, niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 633,
+    "question": "Wil je bewuster met techniek omgaan?",
+    "answer": "Ja, dat wil ik.",
+    "level": "a"
+  },
+  {
+    "id": 634,
+    "question": "Denk je dat het kan?",
+    "answer": "Ja, met oefening kan dat.",
+    "level": "b"
+  },
+  {
+    "id": 635,
+    "question": "Maakt techniek je leven makkelijker?",
+    "answer": "Ja, meestal maakt zij het makkelijker.",
+    "level": "a"
+  },
+  {
+    "id": 636,
+    "question": "Geeft techniek ook stress?",
+    "answer": "Ja, soms geeft zij stress.",
+    "level": "a"
+  },
+  {
+    "id": 637,
+    "question": "Weet je hoe je daarmee omgaat?",
+    "answer": "Ik weet het nog niet precies.",
+    "level": "a"
+  },
+  {
+    "id": 638,
+    "question": "Ben je dat nu aan het leren?",
+    "answer": "Ja, ik leer dat nu.",
+    "level": "b"
+  },
+  {
+    "id": 639,
+    "question": "Sta je open voor veranderingen?",
+    "answer": "Ja, ik sta open voor veranderingen.",
+    "level": "a"
+  },
+  {
+    "id": 640,
+    "question": "Hoe belangrijk is reizen voor jou?",
+    "answer": "Reizen is heel belangrijk voor mij.",
+    "level": "a"
+  },
+  {
+    "id": 641,
+    "question": "Reis je graag?",
+    "answer": "Ja, ik reis heel graag.",
+    "level": "a"
+  },
+  {
+    "id": 642,
+    "question": "Reis je liever alleen of met anderen?",
+    "answer": "Ik reis liever met anderen.",
+    "level": "a"
+  },
+  {
+    "id": 643,
+    "question": "Waarom reis je liever met anderen?",
+    "answer": "Omdat je ervaringen kunt delen.",
+    "level": "b"
+  },
+  {
+    "id": 644,
+    "question": "Reis je vaak?",
+    "answer": "Nee, helaas niet zo vaak.",
+    "level": "a"
+  },
+  {
+    "id": 645,
+    "question": "Waarom reis je niet zo vaak?",
+    "answer": "Omdat reizen tijd en geld kost.",
+    "level": "b"
+  },
+  {
+    "id": 646,
+    "question": "Weet je al waar je straks heen wilt?",
+    "answer": "Nee, dat weet ik nog niet.",
+    "level": "a"
+  },
+  {
+    "id": 647,
+    "question": "Heb je een lievelingsland?",
+    "answer": "Ja, ik hou veel van Griekenland.",
+    "level": "a"
+  },
+  {
+    "id": 648,
+    "question": "Komt dat door je afkomst?",
+    "answer": "Ja, dat speelt een grote rol.",
+    "level": "a"
+  },
+  {
+    "id": 649,
+    "question": "Ga je liever naar steden of natuur?",
+    "answer": "Ik ga liever naar steden.",
+    "level": "a"
+  },
+  {
+    "id": 650,
+    "question": "Hou je van grote steden?",
+    "answer": "Ja, grote steden vind ik leuk.",
+    "level": "a"
+  },
+  {
+    "id": 651,
+    "question": "Wat doe je graag op reis?",
+    "answer": "Ik bekijk bezienswaardigheden.",
+    "level": "a"
+  },
+  {
+    "id": 652,
+    "question": "Bezoek je graag musea?",
+    "answer": "Ja, maar niet te veel.",
+    "level": "a"
+  },
+  {
+    "id": 653,
+    "question": "Waarom niet te veel?",
+    "answer": "Anders wordt het vermoeiend.",
+    "level": "a"
+  },
+  {
+    "id": 654,
+    "question": "Probeer je graag nieuw eten op vakantie?",
+    "answer": "Ja, heel graag.",
+    "level": "a"
+  },
+  {
+    "id": 655,
+    "question": "Heb je al verrassingen meegemaakt?",
+    "answer": "Ja, soms was het eten vreemd.",
+    "level": "a"
+  },
+  {
+    "id": 656,
+    "question": "Vind je dat leuk?",
+    "answer": "Ja, dat is spannend.",
+    "level": "b"
+  },
+  {
+    "id": 657,
+    "question": "Plan je reizen lang van tevoren?",
+    "answer": "Nee, ik plan vaak spontaan.",
+    "level": "a"
+  },
+  {
+    "id": 658,
+    "question": "Maakt dat je nerveus?",
+    "answer": "Nee, het maakt me flexibel.",
+    "level": "a"
+  },
+  {
+    "id": 659,
+    "question": "Boek je verblijven online?",
+    "answer": "Ja, meestal boek ik online.",
+    "level": "a"
+  },
+  {
+    "id": 660,
+    "question": "Weet je waar je op moet letten?",
+    "answer": "Ja, ik lees beoordelingen.",
+    "level": "a"
+  },
+  {
+    "id": 661,
+    "question": "Reis je liever met de trein of het vliegtuig?",
+    "answer": "Ik reis liever met de trein.",
+    "level": "a"
+  },
+  {
+    "id": 662,
+    "question": "Waarom liever met de trein?",
+    "answer": "Omdat het relaxter is.",
+    "level": "b"
+  },
+  {
+    "id": 663,
+    "question": "Rijd je ook graag auto op vakantie?",
+    "answer": "Nee, dat doe ik niet graag.",
+    "level": "a"
+  },
+  {
+    "id": 664,
+    "question": "Waarom niet?",
+    "answer": "Dan kan ik niet ontspannen.",
+    "level": "a"
+  },
+  {
+    "id": 665,
+    "question": "Maak je veel foto's op vakantie?",
+    "answer": "Ja, ik maak veel foto's.",
+    "level": "a"
+  },
+  {
+    "id": 666,
+    "question": "Kijk je ze later terug?",
+    "answer": "Ja, soms kijk ik ze.",
+    "level": "a"
+  },
+  {
+    "id": 667,
+    "question": "Stuur je foto's naar vrienden?",
+    "answer": "Ja, ik stuur foto's.",
+    "level": "a"
+  },
+  {
+    "id": 668,
+    "question": "Mis je thuis op reis?",
+    "answer": "Nee, meestal niet.",
+    "level": "a"
+  },
+  {
+    "id": 669,
+    "question": "Is er iets dat je mist?",
+    "answer": "Ja, soms mijn eigen bed.",
+    "level": "a"
+  },
+  {
+    "id": 670,
+    "question": "Blijf je graag lang op één plek?",
+    "answer": "Nee, ik wissel graag plek.",
+    "level": "a"
+  },
+  {
+    "id": 671,
+    "question": "Vind je dat vermoeiend?",
+    "answer": "Soms wel.",
+    "level": "b"
+  },
+  {
+    "id": 672,
+    "question": "Rust je toch goed uit?",
+    "answer": "Ja, uiteindelijk wel.",
+    "level": "a"
+  },
+  {
+    "id": 673,
+    "question": "Kom je graag terug naar huis?",
+    "answer": "Ja, thuiskomen is fijn.",
+    "level": "a"
+  },
+  {
+    "id": 674,
+    "question": "Maakt reizen je leven rijker?",
+    "answer": "Ja, reizen verrijkt mijn leven.",
+    "level": "a"
+  },
+  {
+    "id": 675,
+    "question": "Wil je nog veel reizen?",
+    "answer": "Ja, dat wil ik graag.",
+    "level": "a"
+  },
+  {
+    "id": 676,
+    "question": "Denk je dat het kan?",
+    "answer": "Ik hoop het.",
+    "level": "b"
+  },
+  {
+    "id": 677,
+    "question": "Droom je van een grote reis?",
+    "answer": "Ja, daarvan droom ik.",
+    "level": "a"
+  },
+  {
+    "id": 678,
+    "question": "Weet je al waarheen?",
+    "answer": "Nee, nog niet precies.",
+    "level": "a"
+  },
+  {
+    "id": 679,
+    "question": "Vind je dromen belangrijk?",
+    "answer": "Ja, dromen zijn belangrijk.",
+    "level": "a"
+  },
+  {
+    "id": 680,
+    "question": "Geeft reizen je motivatie?",
+    "answer": "Ja, reizen motiveert me.",
+    "level": "a"
+  },
+  {
+    "id": 681,
+    "question": "Voel je je vrij op reis?",
+    "answer": "Ja, dan voel ik me vrij.",
+    "level": "b"
+  },
+  {
+    "id": 682,
+    "question": "Wil je dat gevoel vaker?",
+    "answer": "Ja, zo vaak mogelijk.",
+    "level": "a"
+  },
+  {
+    "id": 683,
+    "question": "Hoe belangrijk is familie voor jou?",
+    "answer": "Familie is heel belangrijk voor mij.",
+    "level": "a"
+  },
+  {
+    "id": 684,
+    "question": "Heb je veel contact met je familie?",
+    "answer": "Ja, ik heb regelmatig contact.",
+    "level": "a"
+  },
+  {
+    "id": 685,
+    "question": "Bel je vaak met je familie?",
+    "answer": "Ja, ik bel meerdere keren per week.",
+    "level": "a"
+  },
+  {
+    "id": 686,
+    "question": "Stuur je ook berichten?",
+    "answer": "Ja, ik stuur veel berichten.",
+    "level": "a"
+  },
+  {
+    "id": 687,
+    "question": "Woont je familie ver weg?",
+    "answer": "Ja, mijn familie woont in het buitenland.",
+    "level": "a"
+  },
+  {
+    "id": 688,
+    "question": "Is dat soms moeilijk voor je?",
+    "answer": "Ja, soms is dat moeilijk.",
+    "level": "a"
+  },
+  {
+    "id": 689,
+    "question": "Mis je je familie vaak?",
+    "answer": "Ja, vooral op feestdagen.",
+    "level": "a"
+  },
+  {
+    "id": 690,
+    "question": "Bezoek je je familie regelmatig?",
+    "answer": "Ja, ik probeer hen vaak te bezoeken.",
+    "level": "a"
+  },
+  {
+    "id": 691,
+    "question": "Weet je al wanneer je hen weer ziet?",
+    "answer": "Nee, dat weet ik nog niet precies.",
+    "level": "a"
+  },
+  {
+    "id": 692,
+    "question": "Heb je broers of zussen?",
+    "answer": "Ja, ik heb broers en zussen.",
+    "level": "a"
+  },
+  {
+    "id": 693,
+    "question": "Kun je goed met hen opschieten?",
+    "answer": "Ja, meestal gaan we goed samen.",
+    "level": "a"
+  },
+  {
+    "id": 694,
+    "question": "Is er ook weleens ruzie?",
+    "answer": "Ja, soms is er ruzie.",
+    "level": "a"
+  },
+  {
+    "id": 695,
+    "question": "Vind je dat normaal?",
+    "answer": "Ja, dat hoort erbij.",
+    "level": "b"
+  },
+  {
+    "id": 696,
+    "question": "Praat je open met je familie?",
+    "answer": "Ja, meestal praat ik open.",
+    "level": "a"
+  },
+  {
+    "id": 697,
+    "question": "Zijn er onderwerpen die je vermijdt?",
+    "answer": "Ja, over sommige onderwerpen praat ik niet.",
+    "level": "a"
+  },
+  {
+    "id": 698,
+    "question": "Waarom niet?",
+    "answer": "Omdat ze erg privé zijn.",
+    "level": "a"
+  },
+  {
+    "id": 699,
+    "question": "Geeft je familie steun?",
+    "answer": "Ja, mijn familie geeft me steun.",
+    "level": "a"
+  },
+  {
+    "id": 700,
+    "question": "Voel je je gesteund door hen?",
+    "answer": "Ja, ik voel me gesteund.",
+    "level": "b"
+  },
+  {
+    "id": 701,
+    "question": "Is je band met familie veranderd?",
+    "answer": "Ja, met de tijd is hij veranderd.",
+    "level": "a"
+  },
+  {
+    "id": 702,
+    "question": "Is hij sterker geworden?",
+    "answer": "Ja, hij is sterker geworden.",
+    "level": "a"
+  },
+  {
+    "id": 703,
+    "question": "Denk je vaak aan je familie?",
+    "answer": "Ja, ik denk vaak aan hen.",
+    "level": "a"
+  },
+  {
+    "id": 704,
+    "question": "Geeft dat een goed gevoel?",
+    "answer": "Ja, meestal wel.",
+    "level": "b"
+  },
+  {
+    "id": 705,
+    "question": "Voel je je soms schuldig omdat je weg bent?",
+    "answer": "Ja, soms voel ik me schuldig.",
+    "level": "b"
+  },
+  {
+    "id": 706,
+    "question": "Praat je daarover?",
+    "answer": "Nee, niet zo vaak.",
+    "level": "a"
+  },
+  {
+    "id": 707,
+    "question": "Weet je waarom?",
+    "answer": "Nee, dat weet ik niet precies.",
+    "level": "a"
+  },
+  {
+    "id": 708,
+    "question": "Wil je later dichter bij familie wonen?",
+    "answer": "Misschien, ik weet het nog niet.",
+    "level": "b"
+  },
+  {
+    "id": 709,
+    "question": "Kun je je voorstellen hier een eigen gezin te starten?",
+    "answer": "Ja, dat kan ik me voorstellen.",
+    "level": "a"
+  },
+  {
+    "id": 710,
+    "question": "Denk je al aan kinderen?",
+    "answer": "Ja, maar nu nog niet.",
+    "level": "a"
+  },
+  {
+    "id": 711,
+    "question": "Voel je je al klaar daarvoor?",
+    "answer": "Nee, op dit moment nog niet.",
+    "level": "a"
+  },
+  {
+    "id": 712,
+    "question": "Is dat oké voor jou?",
+    "answer": "Ja, dat is oké voor mij.",
+    "level": "a"
+  },
+  {
+    "id": 713,
+    "question": "Respecteert je familie jouw keuzes?",
+    "answer": "Ja, mijn familie respecteert dat.",
+    "level": "a"
+  },
+  {
+    "id": 714,
+    "question": "Geeft dat je zekerheid?",
+    "answer": "Ja, dat geeft me zekerheid.",
+    "level": "b"
+  },
+  {
+    "id": 715,
+    "question": "Ben je dankbaar voor je familie?",
+    "answer": "Ja, ik ben heel dankbaar.",
+    "level": "a"
+  },
+  {
+    "id": 716,
+    "question": "Zeg je dat ook tegen hen?",
+    "answer": "Ja, ik zeg het tegen hen.",
+    "level": "a"
+  },
+  {
+    "id": 717,
+    "question": "Maakt familie je blij?",
+    "answer": "Ja, familie maakt me blij.",
+    "level": "a"
+  },
+  {
+    "id": 718,
+    "question": "Geeft familie je kracht?",
+    "answer": "Ja, ze geven me veel kracht.",
+    "level": "a"
+  },
+  {
+    "id": 719,
+    "question": "Denk je dat familie altijd belangrijk blijft?",
+    "answer": "Ja, familie blijft altijd belangrijk.",
+    "level": "b"
+  },
+  {
+    "id": 720,
+    "question": "Denk je vaak aan de toekomst?",
+    "answer": "Ja, ik denk vaak aan de toekomst.",
+    "level": "a"
+  },
+  {
+    "id": 721,
+    "question": "Maak je je veel zorgen?",
+    "answer": "Ja, soms maak ik me veel zorgen.",
+    "level": "a"
+  },
+  {
+    "id": 722,
+    "question": "Heb je duidelijke doelen?",
+    "answer": "Nee, mijn doelen zijn nog niet helder.",
+    "level": "a"
+  },
+  {
+    "id": 723,
+    "question": "Weet je wat je volgend jaar wilt doen?",
+    "answer": "Nee, dat weet ik nog niet precies.",
+    "level": "a"
+  },
+  {
+    "id": 724,
+    "question": "Heb je een droom?",
+    "answer": "Ja, ik heb een grote droom.",
+    "level": "a"
+  },
+  {
+    "id": 725,
+    "question": "Wil je erover praten?",
+    "answer": "Ja, ik praat er graag over.",
+    "level": "a"
+  },
+  {
+    "id": 726,
+    "question": "Wat is jouw droom?",
+    "answer": "Ik wil een vervuld leven leiden.",
+    "level": "a"
+  },
+  {
+    "id": 727,
+    "question": "Hoort werk daarbij?",
+    "answer": "Ja, werk hoort erbij voor mij.",
+    "level": "a"
+  },
+  {
+    "id": 728,
+    "question": "Wil je van beroep veranderen?",
+    "answer": "Misschien, maar nu nog niet.",
+    "level": "b"
+  },
+  {
+    "id": 729,
+    "question": "Wil je verder leren?",
+    "answer": "Ja, ik wil verder leren.",
+    "level": "a"
+  },
+  {
+    "id": 730,
+    "question": "Wat wil je leren?",
+    "answer": "Ik wil mijn Nederlands verbeteren.",
+    "level": "a"
+  },
+  {
+    "id": 731,
+    "question": "Wil je examens doen?",
+    "answer": "Ja, misschien doe ik een examen.",
+    "level": "b"
+  },
+  {
+    "id": 732,
+    "question": "Weet je welk examen?",
+    "answer": "Nee, dat weet ik nog niet.",
+    "level": "a"
+  },
+  {
+    "id": 733,
+    "question": "Wil je nieuwe vaardigheden leren?",
+    "answer": "Ja, nieuwe vaardigheden interesseren me.",
+    "level": "a"
+  },
+  {
+    "id": 734,
+    "question": "Denk je aan een opleiding?",
+    "answer": "Ja, daar denk ik over na.",
+    "level": "a"
+  },
+  {
+    "id": 735,
+    "question": "Ben je bang voor veranderingen?",
+    "answer": "Ja, een beetje ben ik bang.",
+    "level": "a"
+  },
+  {
+    "id": 736,
+    "question": "Houdt dat je tegen?",
+    "answer": "Nee, het houdt me niet tegen.",
+    "level": "a"
+  },
+  {
+    "id": 737,
+    "question": "Geloof je in jezelf?",
+    "answer": "Ja, ik geloof steeds meer in mezelf.",
+    "level": "b"
+  },
+  {
+    "id": 738,
+    "question": "Heb je geduld met jezelf?",
+    "answer": "Ja, ik leer geduldig te zijn.",
+    "level": "a"
+  },
+  {
+    "id": 739,
+    "question": "Vergelijk je jezelf met anderen?",
+    "answer": "Ja, soms vergelijk ik me.",
+    "level": "a"
+  },
+  {
+    "id": 740,
+    "question": "Is dat goed voor je?",
+    "answer": "Nee, niet altijd.",
+    "level": "a"
+  },
+  {
+    "id": 741,
+    "question": "Probeer je daarmee te stoppen?",
+    "answer": "Ja, ik werk eraan.",
+    "level": "a"
+  },
+  {
+    "id": 742,
+    "question": "Luister je naar je gevoel?",
+    "answer": "Ja, steeds vaker luister ik.",
+    "level": "a"
+  },
+  {
+    "id": 743,
+    "question": "Neem je makkelijk beslissingen?",
+    "answer": "Nee, beslissingen vind ik moeilijk.",
+    "level": "a"
+  },
+  {
+    "id": 744,
+    "question": "Neem je er tijd voor?",
+    "answer": "Ja, ik neem tijd.",
+    "level": "a"
+  },
+  {
+    "id": 745,
+    "question": "Heb je spijt van beslissingen?",
+    "answer": "Nee, meestal niet.",
+    "level": "a"
+  },
+  {
+    "id": 746,
+    "question": "Leer je van fouten?",
+    "answer": "Ja, van fouten leer ik veel.",
+    "level": "a"
+  },
+  {
+    "id": 747,
+    "question": " Zie je fouten als iets negatiefs?",
+    "answer": "Nee, ik zie ze als ervaring.",
+    "level": "b"
+  },
+  {
+    "id": 748,
+    "question": "Heb je hoop voor de toekomst?",
+    "answer": "Ja, ik heb hoop.",
+    "level": "b"
+  },
+  {
+    "id": 749,
+    "question": "Wat geeft je hoop?",
+    "answer": "Kleine successen geven mij hoop.",
+    "level": "b"
+  },
+  {
+    "id": 750,
+    "question": "Verheug je je op nieuwe kansen?",
+    "answer": "Ja, nieuwe kansen maken me blij.",
+    "level": "a"
+  },
+  {
+    "id": 751,
+    "question": "Denk je dat alles op tijd komt?",
+    "answer": "Ja, dat denk ik.",
+    "level": "b"
+  },
+  {
+    "id": 752,
+    "question": "Blijf je open voor iets nieuws?",
+    "answer": "Ja, ik blijf open.",
+    "level": "a"
+  },
+  {
+    "id": 753,
+    "question": "Wil je moediger zijn?",
+    "answer": "Ja, ik wil moediger worden.",
+    "level": "a"
+  },
+  {
+    "id": 754,
+    "question": "Werk je daaraan?",
+    "answer": "Ja, stap voor stap.",
+    "level": "a"
+  },
+  {
+    "id": 755,
+    "question": "Zie jij jezelf over vijf jaar hier?",
+    "answer": "Ik weet het niet.",
+    "level": "a"
+  },
+  {
+    "id": 756,
+    "question": "Is dat oké voor je?",
+    "answer": "Ja, dat is oké.",
+    "level": "a"
+  },
+  {
+    "id": 757,
+    "question": "Vertrouw je op het leven?",
+    "answer": "Ja, steeds meer.",
+    "level": "a"
+  },
+  {
+    "id": 758,
+    "question": "Ben je benieuwd naar wat komt?",
+    "answer": "Ja, ik ben heel benieuwd.",
+    "level": "a"
+  },
+  {
+    "id": 759,
+    "question": "Verheug je je op jouw weg?",
+    "answer": "Ja, ik verheug me op mijn weg.",
+    "level": "a"
+  },
+  {
+    "id": 760,
+    "question": "Denk je dat je op de juiste weg bent?",
+    "answer": "Ja, dat denk ik.",
+    "level": "b"
+  },
+  {
+    "id": 761,
+    "question": "Zou je vandaag weer zo beginnen?",
+    "answer": "Ja, ik zou het opnieuw doen.",
+    "level": "b"
+  },
+  {
+    "id": 762,
+    "question": "Ben je trots op jezelf?",
+    "answer": "Ja, een beetje ben ik trots.",
+    "level": "a"
+  }
+]

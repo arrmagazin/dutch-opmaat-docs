@@ -1,0 +1,21 @@
+{
+  "id": "basis-8-hulp-nodig",
+  "category": "basis",
+  "number": 8,
+  "title": "Hulp nodig!",
+  "description": "Noodsituatie: hulp inroepen via 112 en uitleggen wat er aan de hand is. Bevat zinnen om medische klachten te beschrijven en richtingen te vragen.",
+  "situation": "Iemand belt het noodnummer en beschrijft de situatie aan de operator: een inbraak, verwondingen en de weg naar het ziekenhuis.",
+  "turns": [
+    { "speaker": "A", "text": "Help! Bel de politie! 112!", "id": "A0393", "translations": { "en": "Help! Call the police! 911!", "ru": "Помогите! Вызовите полицию! 911!", "de": "Hilfe! Rufen Sie die Polizei! 911!" } },
+    { "speaker": "B", "text": "Wat is er gebeurd?", "id": "A0394", "translations": { "en": "What happened?", "ru": "Что случилось?", "de": "Was ist passiert?" } },
+    { "speaker": "A", "text": "Ik heb hulp nodig. Er is iemand in mijn huis.", "id": "A0395", "translations": { "en": "I need help. There's someone in my house.", "ru": "Мне нужна помощь. В моём доме кто-то есть.", "de": "Ich brauche Hilfe. Da ist jemand in meinem Haus." } },
+    { "speaker": "B", "text": "Heb je ook medische hulp nodig?", "id": "A0396", "translations": { "en": "Do you need medical assistance as well?", "ru": "Вам также нужна медицинская помощь?", "de": "Benötigen Sie auch medizinische Hilfe?" } },
+    { "speaker": "A", "text": "Ja… Ik heb een dokter nodig.", "id": "A0397", "translations": { "en": "Yes… I need a doctor.", "ru": "Да… Мне нужен врач.", "de": "Ja … ich brauche einen Arzt." } },
+    { "speaker": "B", "text": "Ben je gewond?", "id": "A0398", "translations": { "en": "Are you injured?", "ru": "Вы ранены?", "de": "Sind Sie verletzt?" } },
+    { "speaker": "A", "text": "Ik ben gewond aan mijn arm, en ik voel me niet goed… eigenlijk slecht.", "id": "A0399", "translations": { "en": "I injured my arm, and I don't feel well… actually bad.", "ru": "Я повредил руку и чувствую себя нехорошо… на самом деле плохо.", "de": "Ich habe mir den Arm verletzt und fühle mich nicht gut … eigentlich schlecht." } },
+    { "speaker": "B", "text": "Heb je nog andere klachten?", "id": "A0400", "translations": { "en": "Do you have any other complaints?", "ru": "У вас есть еще какие-нибудь жалобы?", "de": "Haben Sie noch weitere Beschwerden?" } },
+    { "speaker": "A", "text": "Ja, hoofdpijn, buikpijn… en ik denk dat ik koorts heb.", "id": "A0401", "translations": { "en": "Yes, headache, stomach ache… and I think I have a fever.", "ru": "Да, головная боль, боли в животе… и, кажется, у меня жар.", "de": "Ja, Kopfschmerzen, Bauchschmerzen … und ich glaube, ich habe Fieber." } },
+    { "speaker": "A", "text": "Waar is het ziekenhuis?", "id": "A0402", "translations": { "en": "Where is the hospital?", "ru": "Где находится больница?", "de": "Wo ist das Krankenhaus?" } },
+    { "speaker": "B", "text": "Het is twee straten verder, naast de apotheek.", "id": "A0403", "translations": { "en": "It's two streets over, next to the pharmacy.", "ru": "Это через две улицы, рядом с аптекой.", "de": "Es ist zwei Straßen weiter, neben der Apotheke." } }
+  ]
+}

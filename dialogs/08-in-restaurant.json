@@ -1,0 +1,27 @@
+{
+  "id": "eten-2-restaurant",
+  "category": "eten",
+  "number": 2,
+  "title": "In het Restaurant",
+  "description": "Deze dialoog speelt zich af in een gezellig restaurant waar een stel een romantisch diner heeft. Het is een uitstekende oefening voor restaurantvocabulaire en het bestellen van maaltijden. Let op hoe reservaties worden gemaakt, menu's worden besproken, en de maaltijd wordt geserveerd.",
+  "situation": "Thomas en Emma hebben een tafel gereserveerd in restaurant \"De Molen\" voor hun trouwdag.",
+  "turns": [
+    { "speaker": "Ober", "text": "Goedenavond en welkom bij De Molen. Hebt u een reservering?", "id": "A0463" },
+    { "speaker": "Thomas", "text": "Ja, voor twee personen onder de naam Thomas. Om zeven uur.", "id": "A0464" },
+    { "speaker": "Ober", "text": "Ja, ik zie het. Loopt u maar mee, ik heb een mooie tafel voor u bij het raam.", "id": "A0465" },
+    { "speaker": "Thomas", "text": "Dank u. Wat fijn dat we uitzicht hebben op de molen.", "id": "A0466" },
+    { "speaker": "Ober", "text": "Ja, het is prachtig bij zonsondergang. Hier is uw menukaart. Mogen wij beginnen met een aperitief?", "id": "A0467" },
+    { "speaker": "Emma", "text": "Een glas prosecco alstublieft.", "id": "A0468" },
+    { "speaker": "Thomas", "text": "En voor mij een glas witte wijn, droog.", "id": "A0469" },
+    { "speaker": "Ober", "text": "Uitstekend. Zijn jullie al bekend met ons menu, of kan ik iets aanraden?", "id": "A0470" },
+    { "speaker": "Emma", "text": "Wat raadt u aan? We houden van vis.", "id": "A0471" },
+    { "speaker": "Ober", "text": "Dan adviseer ik onze zalm met asperges. Die is seizoensgebonden en komt vers van de markt. Als voorgerecht hebben we heerlijke mosselen.", "id": "A0472" },
+    { "speaker": "Thomas", "text": "Dat klinkt perfect. We nemen de mosselen als voorgerecht en de zalm als hoofdgerecht.", "id": "A0473" },
+    { "speaker": "Emma", "text": "Hebben jullie ook vegetarische opties? Mijn zus is vegetariër.", "id": "A0474" },
+    { "speaker": "Ober", "text": "Ja, we hebben een pasta met truffel en seizoensgroenten. Die is erg populair.", "id": "A0475" },
+    { "speaker": "Emma", "text": "Goed om te weten. Dank u voor de informatie.", "id": "A0476" },
+    { "speaker": "Ober", "text": "Mag ik nu de bestelling opnemen? Twee aperitieven, mosselen als voorgerecht, zalm voor hem en zullen we de pasta voor straks bewaren als bijgerecht?", "id": "A0477" },
+    { "speaker": "Thomas", "text": "Ja, dat is perfect.", "id": "A0478" },
+    { "speaker": "Ober", "text": "Uitstekend. Ik ga de bestelling doorgeven. Eet smakelijk straks!", "id": "A0479" }
+  ]
+}

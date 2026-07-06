@@ -1,0 +1,24 @@
+{
+  "id": "werk-2-op-kantoor",
+  "category": "werk",
+  "number": 2,
+  "title": "Problemen op Kantoor",
+  "description": "Een medewerker meldt twee problemen bij de IT-helper: de printer werkt niet en de computer is langzaam. Ideaal voor kantoor- en computervocabulaire en het beschrijven van kleine technische problemen.",
+  "situation": "Een medewerker loopt naar de IT-helper om een kapotte printer en een trage computer te melden.",
+  "turns": [
+    { "speaker": "Medewerker", "text": "Hoi, sorry dat ik stoor. De printer werkt niet.", "id": "A0840", "translations": { "en": "Hi, sorry to bother you. The printer isn't working.", "ru": "Привет, извини за беспокойство. Принтер не работает.", "de": "Hallo, Entschuldigung für die Störung. Der Drucker funktioniert nicht." } },
+    { "speaker": "IT-helper", "text": "Geen probleem. Wat zegt het scherm precies?", "id": "A0841", "translations": { "en": "No problem. What does the screen say exactly?", "ru": "Не проблема. Что именно показывает экран?", "de": "Kein Problem. Was steht genau auf dem Bildschirm?" } },
+    { "speaker": "Medewerker", "text": "Er staat 'geen papier', maar het papier zit erin.", "id": "A0842", "translations": { "en": "It says 'no paper', but the paper is in there.", "ru": "Написано «нет бумаги», но бумага вставлена.", "de": "Da steht 'kein Papier', aber das Papier ist drin." } },
+    { "speaker": "IT-helper", "text": "Misschien zit het papier vast. Ik kom even kijken.", "id": "A0843", "translations": { "en": "Maybe the paper is jammed. I'll come take a look.", "ru": "Возможно, бумага застряла. Я подойду посмотреть.", "de": "Vielleicht ist das Papier verklemmt. Ich schaue mal nach." } },
+    { "speaker": "Medewerker", "text": "Dank je. En mijn computer is heel langzaam vandaag.", "id": "A0844", "translations": { "en": "Thanks. And my computer is very slow today.", "ru": "Спасибо. И ещё мой компьютер сегодня очень медленный.", "de": "Danke. Und mein Computer ist heute sehr langsam." } },
+    { "speaker": "IT-helper", "text": "Heb je hem vandaag al opnieuw opgestart?", "id": "A0845", "translations": { "en": "Have you restarted it today?", "ru": "Ты сегодня его перезагружал?", "de": "Hast du ihn heute schon neu gestartet?" } },
+    { "speaker": "Medewerker", "text": "Nee, nog niet.", "id": "A0846", "translations": { "en": "No, not yet.", "ru": "Нет, ещё нет.", "de": "Nein, noch nicht." } },
+    { "speaker": "IT-helper", "text": "Start hem even opnieuw op, dat helpt vaak.", "id": "A0847", "translations": { "en": "Restart it, that often helps.", "ru": "Перезагрузи его, это часто помогает.", "de": "Starte ihn mal neu, das hilft oft." } },
+    { "speaker": "Medewerker", "text": "Oké. En ik heb ook geen wifi op mijn telefoon.", "id": "A0848", "translations": { "en": "Okay. And I also have no wifi on my phone.", "ru": "Хорошо. И ещё у меня нет вайфая на телефоне.", "de": "Okay. Und ich habe auch kein WLAN auf meinem Handy." } },
+    { "speaker": "IT-helper", "text": "Welk netwerk gebruik je?", "id": "A0849", "translations": { "en": "Which network are you using?", "ru": "Какую сеть ты используешь?", "de": "Welches Netzwerk benutzt du?" } },
+    { "speaker": "Medewerker", "text": "Het gastennetwerk.", "id": "A0850", "translations": { "en": "The guest network.", "ru": "Гостевую сеть.", "de": "Das Gästenetzwerk." } },
+    { "speaker": "IT-helper", "text": "Gebruik het kantoornetwerk, dan werkt het beter. Ik geef je het wachtwoord.", "id": "A0851", "translations": { "en": "Use the office network, it works better. I'll give you the password.", "ru": "Используй офисную сеть, так будет работать лучше. Я дам тебе пароль.", "de": "Benutze das Büronetzwerk, dann funktioniert es besser. Ich gebe dir das Passwort." } },
+    { "speaker": "Medewerker", "text": "Top, dank je wel!", "id": "A0852", "translations": { "en": "Great, thank you!", "ru": "Отлично, спасибо!", "de": "Super, danke dir!" } },
+    { "speaker": "IT-helper", "text": "Graag gedaan. Laat het weten als het weer gebeurt.", "id": "A0853", "translations": { "en": "You're welcome. Let me know if it happens again.", "ru": "Пожалуйста. Дай знать, если это повторится.", "de": "Gern geschehen. Sag Bescheid, wenn es wieder passiert." } }
+  ]
+}

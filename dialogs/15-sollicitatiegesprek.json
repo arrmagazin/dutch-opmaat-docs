@@ -1,0 +1,23 @@
+{
+  "id": "werk-1-sollicitatiegesprek",
+  "category": "werk",
+  "number": 1,
+  "title": "Het Sollicitatiegesprek",
+  "description": "Een mock-sollicitatiegesprek met typische vragen over ervaring, sterke punten en motivatie. Perfect voor het oefenen van beleefde, zelfverzekerde antwoorden in een formele werkcontext.",
+  "situation": "Een kandidaat heeft een sollicitatiegesprek voor de functie van programmeur. De recruiter stelt vragen over zijn ervaring en motivatie.",
+  "turns": [
+    { "speaker": "Recruiter", "text": "Goedemorgen, welkom. Gaat u zitten. Vertelt u eens iets over uzelf.", "id": "A0827", "translations": { "en": "Good morning, welcome. Please have a seat. Tell me something about yourself.", "ru": "Доброе утро, добро пожаловать. Присаживайтесь. Расскажите немного о себе.", "de": "Guten Morgen, willkommen. Setzen Sie sich. Erzählen Sie etwas über sich." } },
+    { "speaker": "Kandidaat", "text": "Goedemorgen. Ik werk al vijf jaar als programmeur en ik leer graag nieuwe dingen.", "id": "A0828", "translations": { "en": "Good morning. I have been working as a programmer for five years and I like learning new things.", "ru": "Доброе утро. Я работаю программистом уже пять лет и люблю узнавать новое.", "de": "Guten Morgen. Ich arbeite seit fünf Jahren als Programmierer und lerne gern neue Dinge." } },
+    { "speaker": "Recruiter", "text": "Wat zijn uw sterke punten?", "id": "A0829", "translations": { "en": "What are your strengths?", "ru": "Каковы ваши сильные стороны?", "de": "Was sind Ihre Stärken?" } },
+    { "speaker": "Kandidaat", "text": "Mijn sterke punt is dat ik goed in een team werk en snel leer.", "id": "A0830", "translations": { "en": "My strength is that I work well in a team and learn quickly.", "ru": "Моя сильная сторона в том, что я хорошо работаю в команде и быстро учусь.", "de": "Meine Stärke ist, dass ich gut im Team arbeite und schnell lerne." } },
+    { "speaker": "Recruiter", "text": "Wat is uw ervaring met projectmanagement?", "id": "A0831", "translations": { "en": "What is your experience with project management?", "ru": "Какой у вас опыт в управлении проектами?", "de": "Welche Erfahrung haben Sie mit Projektmanagement?" } },
+    { "speaker": "Kandidaat", "text": "Ik heb ervaring met het leiden van kleine projecten.", "id": "A0832", "translations": { "en": "I have experience leading small projects.", "ru": "У меня есть опыт руководства небольшими проектами.", "de": "Ich habe Erfahrung mit der Leitung kleiner Projekte." } },
+    { "speaker": "Recruiter", "text": "Waarom wilt u bij ons werken?", "id": "A0833", "translations": { "en": "Why do you want to work for us?", "ru": "Почему вы хотите работать у нас?", "de": "Warum möchten Sie bei uns arbeiten?" } },
+    { "speaker": "Kandidaat", "text": "Ik vind uw bedrijf innovatief en ik wil graag nieuwe dingen leren.", "id": "A0834", "translations": { "en": "I find your company innovative and I'd like to learn new things.", "ru": "Ваша компания кажется мне инновационной, и я хочу узнавать новое.", "de": "Ich finde Ihr Unternehmen innovativ und möchte gern Neues lernen." } },
+    { "speaker": "Recruiter", "text": "Heeft u zelf nog vragen?", "id": "A0835", "translations": { "en": "Do you have any questions yourself?", "ru": "У вас есть вопросы?", "de": "Haben Sie selbst noch Fragen?" } },
+    { "speaker": "Kandidaat", "text": "Ja, hoe ziet een typische werkdag eruit?", "id": "A0836", "translations": { "en": "Yes, what does a typical workday look like?", "ru": "Да, как выглядит типичный рабочий день?", "de": "Ja, wie sieht ein typischer Arbeitstag aus?" } },
+    { "speaker": "Recruiter", "text": "We werken veel samen en hebben elke ochtend een korte vergadering.", "id": "A0837", "translations": { "en": "We collaborate a lot and have a short meeting every morning.", "ru": "Мы много работаем вместе и каждое утро проводим короткое совещание.", "de": "Wir arbeiten viel zusammen und haben jeden Morgen eine kurze Besprechung." } },
+    { "speaker": "Kandidaat", "text": "Dat klinkt goed. Dank u voor het gesprek.", "id": "A0838", "translations": { "en": "That sounds good. Thank you for the interview.", "ru": "Звучит хорошо. Спасибо за беседу.", "de": "Das klingt gut. Danke für das Gespräch." } },
+    { "speaker": "Recruiter", "text": "Graag gedaan. We nemen volgende week contact met u op.", "id": "A0839", "translations": { "en": "You're welcome. We'll contact you next week.", "ru": "Пожалуйста. Мы свяжемся с вами на следующей неделе.", "de": "Gern geschehen. Wir melden uns nächste Woche bei Ihnen." } }
+  ]
+}

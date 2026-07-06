@@ -1,0 +1,22 @@
+{
+  "id": "zorg-1-in-de-apotheek",
+  "category": "zorg",
+  "number": 1,
+  "title": "In de Apotheek",
+  "description": "Medicijnen ophalen met een recept en vragen om een pijnstiller zonder recept. Bevat belangrijke zinnen over dosering en gebruik voor wie naar de Nederlandse apotheek gaat.",
+  "situation": "Een klant komt met een recept naar de apotheek, vraagt hoe hij het medicijn moet innemen en koopt ook een pijnstiller zonder recept.",
+  "turns": [
+    { "speaker": "Klant", "text": "Goedemiddag, ik heb een recept van mijn huisarts.", "id": "A0815", "translations": { "en": "Good afternoon, I have a prescription from my doctor.", "ru": "Добрый день, у меня есть рецепт от моего врача.", "de": "Guten Tag, ich habe ein Rezept von meinem Hausarzt." } },
+    { "speaker": "Apotheker", "text": "Goedemiddag. Mag ik het recept zien? Dank u. Hebt u dit medicijn eerder gebruikt?", "id": "A0816", "translations": { "en": "Good afternoon. May I see the prescription? Thank you. Have you used this medicine before?", "ru": "Добрый день. Можно посмотреть рецепт? Спасибо. Вы раньше принимали это лекарство?", "de": "Guten Tag. Darf ich das Rezept sehen? Danke. Haben Sie dieses Medikament schon einmal verwendet?" } },
+    { "speaker": "Klant", "text": "Nee, dit is de eerste keer.", "id": "A0817", "translations": { "en": "No, this is the first time.", "ru": "Нет, это в первый раз.", "de": "Nein, das ist das erste Mal." } },
+    { "speaker": "Apotheker", "text": "Goed. U neemt twee keer per dag een tablet, na het eten.", "id": "A0818", "translations": { "en": "All right. You take one tablet twice a day, after meals.", "ru": "Хорошо. Принимайте по одной таблетке два раза в день, после еды.", "de": "Gut. Sie nehmen zweimal täglich eine Tablette, nach dem Essen." } },
+    { "speaker": "Klant", "text": "Moet ik er iets bij eten?", "id": "A0819", "translations": { "en": "Do I need to eat something with it?", "ru": "Нужно ли что-то есть вместе с ним?", "de": "Muss ich etwas dazu essen?" } },
+    { "speaker": "Apotheker", "text": "Ja, neem het met wat water, na de maaltijd.", "id": "A0820", "translations": { "en": "Yes, take it with some water, after the meal.", "ru": "Да, принимайте с водой, после еды.", "de": "Ja, nehmen Sie es mit etwas Wasser, nach der Mahlzeit." } },
+    { "speaker": "Klant", "text": "Heeft u ook iets tegen hoofdpijn? Zonder recept?", "id": "A0821", "translations": { "en": "Do you also have something for a headache? Without a prescription?", "ru": "У вас есть что-нибудь от головной боли? Без рецепта?", "de": "Haben Sie auch etwas gegen Kopfschmerzen? Ohne Rezept?" } },
+    { "speaker": "Apotheker", "text": "Ja, deze pijnstiller kunt u zonder recept krijgen. Maximaal drie per dag.", "id": "A0822", "translations": { "en": "Yes, you can get this painkiller without a prescription. At most three a day.", "ru": "Да, это обезболивающее можно купить без рецепта. Максимум три в день.", "de": "Ja, dieses Schmerzmittel bekommen Sie ohne Rezept. Höchstens drei pro Tag." } },
+    { "speaker": "Klant", "text": "Dank u. Hoeveel kost alles samen?", "id": "A0823", "translations": { "en": "Thank you. How much is everything together?", "ru": "Спасибо. Сколько всё вместе стоит?", "de": "Danke. Wie viel kostet alles zusammen?" } },
+    { "speaker": "Apotheker", "text": "Het medicijn is gratis met uw verzekering, de pijnstiller is vier euro vijftig.", "id": "A0824", "translations": { "en": "The medicine is free with your insurance, the painkiller is four euros fifty.", "ru": "Лекарство бесплатно по вашей страховке, обезболивающее — четыре евро пятьдесят.", "de": "Das Medikament ist mit Ihrer Versicherung kostenlos, das Schmerzmittel kostet vier Euro fünfzig." } },
+    { "speaker": "Klant", "text": "Prima, alstublieft.", "id": "A0825", "translations": { "en": "Fine, here you go.", "ru": "Хорошо, вот, пожалуйста.", "de": "In Ordnung, bitte schön." } },
+    { "speaker": "Apotheker", "text": "Hier is uw medicijn. Beterschap!", "id": "A0826", "translations": { "en": "Here is your medicine. Get well soon!", "ru": "Вот ваше лекарство. Выздоравливайте!", "de": "Hier ist Ihr Medikament. Gute Besserung!" } }
+  ]
+}

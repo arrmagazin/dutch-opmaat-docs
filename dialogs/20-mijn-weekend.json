@@ -1,0 +1,20 @@
+{
+  "id": "basis-9-mijn-weekend",
+  "category": "basis",
+  "number": 9,
+  "title": "Mijn Weekend",
+  "description": "Een gesprek over wat iemand het afgelopen weekend heeft gedaan. Perfect voor het oefenen van de verleden tijd (perfectum) met 'hebben' en 'zijn' en reactiewoorden zoals leuk en interessant.",
+  "situation": "Twee vrienden praten op maandag over hun weekend. De een vertelt over een uitje naar Amsterdam en een rustige zondag thuis.",
+  "turns": [
+    { "speaker": "A", "text": "Hé! Wat heb je dit weekend gedaan?", "id": "A0893", "translations": { "en": "Hey! What did you do this weekend?", "ru": "Привет! Что ты делал в эти выходные?", "de": "Hey! Was hast du dieses Wochenende gemacht?" } },
+    { "speaker": "B", "text": "Ik heb een leuk weekend gehad! Zaterdag ben ik naar Amsterdam geweest.", "id": "A0894", "translations": { "en": "I had a nice weekend! On Saturday I went to Amsterdam.", "ru": "У меня были приятные выходные! В субботу я ездил в Амстердам.", "de": "Ich hatte ein schönes Wochenende! Samstag bin ich nach Amsterdam gefahren." } },
+    { "speaker": "A", "text": "Wat heb je daar gedaan?", "id": "A0895", "translations": { "en": "What did you do there?", "ru": "Что ты там делал?", "de": "Was hast du dort gemacht?" } },
+    { "speaker": "B", "text": "Ik heb een museum bezocht en daarna heb ik met een vriend koffie gedronken.", "id": "A0896", "translations": { "en": "I visited a museum and then I had coffee with a friend.", "ru": "Я посетил музей, а потом выпил кофе с другом.", "de": "Ich habe ein Museum besucht und danach habe ich mit einem Freund Kaffee getrunken." } },
+    { "speaker": "A", "text": "Klinkt gezellig! En zondag?", "id": "A0897", "translations": { "en": "Sounds nice! And Sunday?", "ru": "Звучит здорово! А в воскресенье?", "de": "Klingt gemütlich! Und am Sonntag?" } },
+    { "speaker": "B", "text": "Zondag ben ik thuis gebleven. Ik heb gekookt en een film gekeken.", "id": "A0898", "translations": { "en": "Sunday I stayed home. I cooked and watched a film.", "ru": "В воскресенье я остался дома. Я готовил и смотрел фильм.", "de": "Sonntag bin ich zu Hause geblieben. Ich habe gekocht und einen Film geschaut." } },
+    { "speaker": "A", "text": "Wat heb je gekookt?", "id": "A0899", "translations": { "en": "What did you cook?", "ru": "Что ты приготовил?", "de": "Was hast du gekocht?" } },
+    { "speaker": "B", "text": "Ik heb pasta gemaakt. Het was heerlijk.", "id": "A0900", "translations": { "en": "I made pasta. It was delicious.", "ru": "Я приготовил пасту. Было очень вкусно.", "de": "Ich habe Pasta gemacht. Es war köstlich." } },
+    { "speaker": "A", "text": "Wat leuk! Heb je je goed ontspannen?", "id": "A0901", "translations": { "en": "How nice! Did you relax well?", "ru": "Как здорово! Ты хорошо отдохнул?", "de": "Wie schön! Hast du dich gut entspannt?" } },
+    { "speaker": "B", "text": "Ja, het was een rustig en interessant weekend.", "id": "A0902", "translations": { "en": "Yes, it was a quiet and interesting weekend.", "ru": "Да, это были спокойные и интересные выходные.", "de": "Ja, es war ein ruhiges und interessantes Wochenende." } }
+  ]
+}

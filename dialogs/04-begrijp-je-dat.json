@@ -1,0 +1,18 @@
+{
+  "id": "basis-5-begrijp-je-dat",
+  "category": "basis",
+  "number": 5,
+  "title": "Begrijp je dat?",
+  "description": "Onmisbare zinnen voor wanneer je iets niet begrijpt of meer informatie nodig hebt tijdens een gesprek. Vraag om herhaling, uitleg of een langzamere uitspraak.",
+  "situation": "Een leerling vraagt om verduidelijking, herhaling of uitleg tijdens een conversatie in het Nederlands.",
+  "turns": [
+    { "speaker": "A", "text": "Ik weet het niet", "id": "A0360", "translations": { "en": "I don't know", "ru": "Я не знаю", "de": "Ich weiß nicht" } },
+    { "speaker": "A", "text": "Begrijp je dat? -- Ik begrijp je niet.", "id": "A0361", "translations": { "en": "Do you understand that? -- I don't understand you.", "ru": "Вы это понимаете? -- Я вас не понимаю.", "de": "Verstehst du das? – Ich verstehe dich nicht." } },
+    { "speaker": "A", "text": "Schrijf dat in het schrift, Jij pakt je pen en schrijft", "id": "A0362", "translations": { "en": "Write that in the notebook, You take your pen and write", "ru": "Запиши это в блокнот, возьми ручку и напиши", "de": "Schreib das ins Notizbuch. Du nimmst deinen Stift und schreibst" } },
+    { "speaker": "A", "text": "Kunt u dat alstublieft herhalen? of", "id": "A0363", "translations": { "en": "Could you please repeat that? or", "ru": "Не могли бы вы повторить это? или", "de": "Könnten Sie das bitte wiederholen?" } },
+    { "speaker": "A", "text": "Kun je langzamer praten?", "id": "A0364", "translations": { "en": "Can you talk slower?", "ru": "Вы можете говорить медленнее?", "de": "Können Sie langsamer sprechen?" } },
+    { "speaker": "A", "text": "Wat betekent dit woord?", "id": "A0365", "translations": { "en": "What does this word mean?", "ru": "Что означает это слово?", "de": "Was bedeutet dieses Wort?" } },
+    { "speaker": "A", "text": "Hoe spreek je dat uit? Hoe schrijf je dat?", "id": "A0366", "translations": { "en": "How do you pronounce that? How do you write that?", "ru": "Как это произносится? Как это пишется?", "de": "Wie spricht man das aus? Wie schreibt man das?" } },
+    { "speaker": "A", "text": "Hoe heet dat in het Nederlands?", "id": "A0367", "translations": { "en": "What is that called in Dutch?", "ru": "Как это называется по-голландски?", "de": "Wie heißt das auf Niederländisch?" } }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "basis-6-elke-dag",
+  "category": "basis",
+  "number": 6,
+  "title": "Elke dag oefenen",
+  "description": "Bemoedigende woorden van een leraar over het belang van dagelijks oefenen. Bevat motiverende zinnen en tips om je Nederlands stap voor stap te verbeteren.",
+  "situation": "Een leraar moedigt een leerling aan om elke dag een paar minuten Nederlands te oefenen en hardop zinnen te herhalen.",
+  "turns": [
+    { "speaker": "A", "text": "Dat is geweldig! Je maakt grote vooruitgang", "id": "A0374", "translations": { "en": "That's great! You're making great progress.", "ru": "Это здорово! Вы делаете большой прогресс.", "de": "Das ist großartig! Du machst tolle Fortschritte." } },
+    { "speaker": "B", "text": "Spreek elke dag een paar minuten Nederlands", "id": "A0375", "translations": { "en": "Speak Dutch for a few minutes every day", "ru": "Говорите по-голландски несколько минут каждый день", "de": "Sprich jeden Tag ein paar Minuten Niederländisch." } },
+    { "speaker": "B", "text": "Herhaal de zinnen hardop", "id": "A0376", "translations": { "en": "Repeat the sentences out loud", "ru": "Повторите предложения вслух.", "de": "Wiederhole die Sätze laut" } },
+    { "speaker": "B", "text": "Je hersenen onthouden de woorden", "id": "A0377", "translations": { "en": "Your brain remembers the words", "ru": "Ваш мозг запоминает слова", "de": "Dein Gehirn erinnert sich an die Worte" } },
+    { "speaker": "B", "text": "Je mond leert ze goed uit te spreken.", "id": "A0378", "translations": { "en": "Your mouth learns to pronounce them properly.", "ru": "Ваш рот учится произносить их правильно.", "de": "Dein Mund lernt, sie richtig auszusprechen." } },
+    { "speaker": "A", "text": "Elke dag word je beter", "id": "A0380", "translations": { "en": "Every day you get better", "ru": "С каждым днем ​​ты становишься лучше", "de": "Du wirst jeden Tag besser" } },
+    { "speaker": "B", "text": "Als je fouten maakt, is dat goed. Zo leer je.", "id": "A0379", "translations": { "en": "Making mistakes is okay. That's how you learn.", "ru": "Ошибаться — это нормально. Так учатся.", "de": "Fehler zu machen ist okay. So lernt man." } },
+    { "speaker": "B", "text": "Je Nederlands wordt duidelijker, zekerder en natuurlijker", "id": "A0381", "translations": { "en": "Your Dutch will become clearer, more confident and more natural", "ru": "Ваш голландский станет более понятным, уверенным и естественным.", "de": "Ihr Niederländisch wird klarer, selbstbewusster und natürlicher klingen." } },
+    { "speaker": "A", "text": "Wees trots op jezelf", "id": "A0382", "translations": { "en": "Be proud of yourself", "ru": "Гордись собой", "de": "Sei stolz auf dich!" } },
+    { "speaker": "A", "text": "Je hebt veel bereikt", "id": "A0383", "translations": { "en": "You have achieved a lot", "ru": "Вы многого достигли.", "de": "Du hast viel erreicht." } },
+    { "speaker": "B", "text": "Ik ben blij dat je met mij hebt geleerd.", "id": "A0384", "translations": { "en": "I'm glad you learned with me.", "ru": "Я рад, что ты учился вместе со мной.", "de": "Ich freue mich, dass du mit mir gelernt hast." } },
+    { "speaker": "B", "text": "Zeg nu alles nog een keer samen met mij", "id": "A0385", "translations": { "en": "Now say it all again with me", "ru": "А теперь повтори всё это вместе со мной.", "de": "Sag es mir jetzt noch einmal nach." } },
+    { "speaker": "A", "text": "Dit is het begin, Ga door, Jij kunt het!", "id": "A0386", "translations": { "en": "This is the beginning, Go ahead, You can do it!", "ru": "Это начало. Вперед, вы сможете!", "de": "Dies ist der Anfang, nur zu, du schaffst das!" } }
+  ]
+}
