@@ -103,43 +103,8 @@ Soften the force of a statement.
 
 ## Maak kennis met Markus
 
-*Markus ontmoet iemand voor het eerst en beantwoordt typische kennismakingsvragen over zijn naam, herkomst, beroep en interesses.*
-
-| Speaker | Nederlands | English |
-|---|---|---|
-| A | Hoe heet jij? | What's your name? |
-| B | Ik ben Markus. | I'm Markus. |
-| A | Waar kom jij vandaan? | Where are you from? |
-| B | Ik kom uit Ukraine en | I'm from the Netherlands and |
-| A | Waar woon jij? | Where do you live? |
-| B | Ik woon in Amsterdam. | I live in Amsterdam. |
-| A | Wat doe jij voor werk? | What do you do for work? |
-| B | Ik ben docent | I'm a teacher |
-| A | Welke talen spreek jij? | What languages do you speak? |
-| B | Ik spreek Nederlands en een beetje Engels | I speak Dutch and a little English |
-| A | Hoe oud ben jij? | How old are you? |
-| B | Ik ben vijfendertig jaar oud | I'm thirty-five years old |
-| A | Houd jij van muziek? | Do you like music? |
-| B | Ik houd van muziek en talen | I like music and languages |
-| A | Wat doe jij graag in je vrije tijd? | What do you like to do in your free time? |
-| B | In mijn vrije tijd lees ik graag boeken | In my free time I like to read books |
-| B | Ik leer graag nieuwe dingen | I like to learn new things |
-| B | Ik reis graag en ontdek nieuwe plekken | I like to travel and discover new places |
-| A | Heb jij broers of zussen? | Do you have any brothers or sisters? |
-| A | Heb jij een huisdier? | Do you have a pet? |
-| B | Ik ben blij je te ontmoeten | I'm glad to meet you |
+`dialog:03-meet-markus`
 
 ## Begrijp je dat?
 
-*Een leerling vraagt om verduidelijking, herhaling of uitleg tijdens een conversatie in het Nederlands.*
-
-| Speaker | Nederlands | English |
-|---|---|---|
-| A | Ik weet het niet | I don't know |
-| A | Begrijp je dat? -- Ik begrijp je niet. | Do you understand that? -- I don't understand you. |
-| A | Schrijf dat in het schrift, Jij pakt je pen en schrijft | Write that in the notebook, You take your pen and write |
-| A | Kunt u dat alstublieft herhalen? of | Could you please repeat that? or |
-| A | Kun je langzamer praten? | Can you talk slower? |
-| A | Wat betekent dit woord? | What does this word mean? |
-| A | Hoe spreek je dat uit? Hoe schrijf je dat? | How do you pronounce that? How do you write that? |
-| A | Hoe heet dat in het Nederlands? | What is that called in Dutch? |
+`dialog:04-begrijp-je-dat`

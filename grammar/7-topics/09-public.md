@@ -95,33 +95,8 @@
 
 ## Hulp nodig!
 
-*Iemand belt het noodnummer en beschrijft de situatie aan de operator: een inbraak, verwondingen en de weg naar het ziekenhuis.*
-
-| Speaker | Nederlands | English |
-|---|---|---|
-| A | Help! Bel de politie! 112! | Help! Call the police! 911! |
-| B | Wat is er gebeurd? | What happened? |
-| A | Ik heb hulp nodig. Er is iemand in mijn huis. | I need help. There's someone in my house. |
-| B | Heb je ook medische hulp nodig? | Do you need medical assistance as well? |
-| A | Ja… Ik heb een dokter nodig. | Yes… I need a doctor. |
-| B | Ben je gewond? | Are you injured? |
-| A | Ik ben gewond aan mijn arm, en ik voel me niet goed… eigenlijk slecht. | I injured my arm, and I don't feel well… actually bad. |
-| B | Heb je nog andere klachten? | Do you have any other complaints? |
-| A | Ja, hoofdpijn, buikpijn… en ik denk dat ik koorts heb. | Yes, headache, stomach ache… and I think I have a fever. |
-| A | Waar is het ziekenhuis? | Where is the hospital? |
-| B | Het is twee straten verder, naast de apotheek. | It's two streets over, next to the pharmacy. |
+`dialog:05-hulp-nodig`
 
 ## De dokter bellen
 
-*Een patiënt belt de praktijk van dokter Jansen om een afspraak te maken vanwege hoofdpijn.*
-
-| Speaker | Nederlands | English |
-|---|---|---|
-| A | Goedendag, praktijk dokter Jansen. Hoe kan ik u helpen? |  |
-| B | Hallo, ik wil graag een afspraak maken |  |
-| A | Wat zijn uw klachten? |  |
-| B | Ik heb hoofdpijn |  |
-| A | Wanneer kunt u komen? |  |
-| B | Op woensdag, alstublieft |  |
-| A | Goed, ik zet u erin |  |
-| B | Hartelijk dank. |  |
+`dialog:07-bel-dokter`

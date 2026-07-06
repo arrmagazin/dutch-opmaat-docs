@@ -4,20 +4,7 @@ Language for everyday life in the Netherlands.
 
 ## Mijn dag
 
-*Iemand vertelt stap voor stap over zijn dagelijkse activiteiten, van ochtend tot avond.*
-
-| Speaker | Nederlands | English |
-|---|---|---|
-| A | Ik sta op. | I stand up. |
-| A | Ik ga naar de badkamer. Ik was mijn gezicht. Ik poets mijn tanden | I'm going to the bathroom. I'm washing my face. I'm brushing my teeth. |
-| A | Ik ontbijt. Ik drink koffie | I have breakfast. I drink coffee. |
-| A | Ik ga naar mijn werk. Ik neem een pauze. Ik lunch. | I'm going to work. I'm taking a break. I'm having lunch. |
-| A | Ik ga naar huis | I'm going home |
-| A | Ik rust uit. Ik kijk televisie. Ik lees een boek. | I'm resting. I'm watching TV. I'm reading a book. |
-| A | Ik bel met vrienden | I call friends |
-| A | Ik eet avondeten | I am eating dinner |
-| A | Ik ga naar de badkamer, Ik douche, Ik was mijn handen | I go to the bathroom, I take a shower, I wash my hands |
-| A | Ik ga slapen | I'm going to sleep |
+`dialog:06-mijn-dag`
 
 ## Naar het restaurant
 
@@ -140,76 +127,12 @@ Inviting
 
 ## In het Restaurant
 
-*Thomas en Emma hebben een tafel gereserveerd in restaurant "De Molen" voor hun trouwdag.*
-
-| Speaker | Nederlands | English |
-|---|---|---|
-| Ober | Goedenavond en welkom bij De Molen. Hebt u een reservering? |  |
-| Thomas | Ja, voor twee personen onder de naam Thomas. Om zeven uur. |  |
-| Ober | Ja, ik zie het. Loopt u maar mee, ik heb een mooie tafel voor u bij het raam. |  |
-| Thomas | Dank u. Wat fijn dat we uitzicht hebben op de molen. |  |
-| Ober | Ja, het is prachtig bij zonsondergang. Hier is uw menukaart. Mogen wij beginnen met een aperitief? |  |
-| Emma | Een glas prosecco alstublieft. |  |
-| Thomas | En voor mij een glas witte wijn, droog. |  |
-| Ober | Uitstekend. Zijn jullie al bekend met ons menu, of kan ik iets aanraden? |  |
-| Emma | Wat raadt u aan? We houden van vis. |  |
-| Ober | Dan adviseer ik onze zalm met asperges. Die is seizoensgebonden en komt vers van de markt. Als voorgerecht hebben we heerlijke mosselen. |  |
-| Thomas | Dat klinkt perfect. We nemen de mosselen als voorgerecht en de zalm als hoofdgerecht. |  |
-| Emma | Hebben jullie ook vegetarische opties? Mijn zus is vegetariër. |  |
-| Ober | Ja, we hebben een pasta met truffel en seizoensgroenten. Die is erg populair. |  |
-| Emma | Goed om te weten. Dank u voor de informatie. |  |
-| Ober | Mag ik nu de bestelling opnemen? Twee aperitieven, mosselen als voorgerecht, zalm voor hem en zullen we de pasta voor straks bewaren als bijgerecht? |  |
-| Thomas | Ja, dat is perfect. |  |
-| Ober | Uitstekend. Ik ga de bestelling doorgeven. Eet smakelijk straks! |  |
+`dialog:08-in-restaurant`
 
 ## Koken met Vrienden
 
-*Lisa, Jan en Bram staan in Lisa's keuken om samen te koken voor Lisa's verjaardag.*
-
-| Speaker | Nederlands | English |
-|---|---|---|
-| Lisa | Jongens, wat fijn dat jullie komen helpen! Ik heb het recept voor jullie uitgeprint. |  |
-| Jan | Waar moeten we beginnen? Ik kan de ui snijden als je wilt. |  |
-| Lisa | Ja, graag! De uien moeten in kleine stukjes. En Bram, kun jij de aardappelen schillen? |  |
-| Bram | Tuurlijk! Hoeveel aardappelen hebben we nodig? |  |
-| Lisa | Een kilo denk ik. We maken stamppot met boerenkool. |  |
-| Jan | Heerlijk! Dat is typisch Hollands. Ik ben benieuwd hoeveel aardappelen ik moet koken. |  |
-| Lisa | Je kookt ze net zo lang tot ze zacht zijn. Ongeveer twintig minuten. |  |
-| Bram | En de boerenkool? Moet die ook gekookt? |  |
-| Lisa | Ja, maar niet te lang. Anders wordt het papperig. Ongeveer tien minuten in kokend water. |  |
-| Jan | Ik heb de uien al gesneden. Wat nu? |  |
-| Lisa | Bak ze even in de pan met wat boter. Ze moeten glazig worden. |  |
-| Bram | Ik ben klaar met de aardappelen! Wacht, ik had hulp nodig. Lisa, hoeveel water moet erin de pan? |  |
-| Lisa | Vul de pan tot net onder de aardappelen. En zet het vuur hoog. |  |
-| Jan | Ik ben klaar met bakken. Moet ik nu de kaas raspen? |  |
-| Lisa | Ja! De goudse kaas. We hebben ongeveer honderd gram nodik. |  |
-| Bram | Die ruikt lekker! Hoe weet je wanneer de aardappelen klaar zijn? |  |
-| Lisa | Prik erin met een vork. Als de vork er gemakkelijk in gaat, zijn ze gaar. |  |
-| Jan | Perfect! De aardappelen zijn gaar. Nu de stamppot? |  |
-| Lisa | Ja! Giet de aardappelen af en prak ze met een aardappelstamper. Voeg dan de boerenkool toe en de gebakken ui. |  |
-| Bram | En de rookworst? Die moet erdoor? |  |
-| Lisa | Ja, snijd de rookworst in plakjes en leg ze bovenop. |  |
-| Jan | Het ruikt hier heerlijk! Ik kan niet wachten om te proeven. |  |
-| Lisa | Laat me even proeven of het op smaak is. Mmm, heerlijk! We moeten alleen nog wat peper toevoegen. |  |
-| Bram | Kan ik even proeven? Dit smaakt fantastisch! |  |
-| Lisa | Dank jullie wel voor de hulp! Zonder jullie was dit niet gelukt. |  |
+`dialog:08-koken`
 
 ## Elke dag oefenen
 
-*Een leraar moedigt een leerling aan om elke dag een paar minuten Nederlands te oefenen en hardop zinnen te herhalen.*
-
-| Speaker | Nederlands | English |
-|---|---|---|
-| A | Dat is geweldig! Je maakt grote vooruitgang | That's great! You're making great progress. |
-| B | Spreek elke dag een paar minuten Nederlands | Speak Dutch for a few minutes every day |
-| B | Herhaal de zinnen hardop | Repeat the sentences out loud |
-| B | Je hersenen onthouden de woorden | Your brain remembers the words |
-| B | Je mond leert ze goed uit te spreken. | Your mouth learns to pronounce them properly. |
-| A | Elke dag word je beter | Every day you get better |
-| B | Als je fouten maakt, is dat goed. Zo leer je. | Making mistakes is okay. That's how you learn. |
-| B | Je Nederlands wordt duidelijker, zekerder en natuurlijker | Your Dutch will become clearer, more confident and more natural |
-| A | Wees trots op jezelf | Be proud of yourself |
-| A | Je hebt veel bereikt | You have achieved a lot |
-| B | Ik ben blij dat je met mij hebt geleerd. | I'm glad you learned with me. |
-| B | Zeg nu alles nog een keer samen met mij | Now say it all again with me |
-| A | Dit is het begin, Ga door, Jij kunt het! | This is the beginning, Go ahead, You can do it! |
+`dialog:12-elke-dag`
