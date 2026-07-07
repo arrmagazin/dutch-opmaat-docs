@@ -18,12 +18,12 @@ How to talk about *when* things happen — clock time, days, parts of the day, w
 
 ## Parts of the Day
 
-| Dutch | English | Example |
-|-------|---------|---------|
-| `(de) ochtend` | morning | In de **ochtend** drink ik koffie. (In the morning I drink coffee.) |
-| `(de) middag` | afternoon | We eten 's **middags** warm. (We eat a warm meal in the afternoon.) |
-| `(de) avond` | evening | 's **Avonds** kijk ik tv. (In the evening I watch TV.) |
-| `(de) nacht` | night | Ik sliep slecht vannacht, de hele **nacht** wakker. (I slept badly, awake the whole night.) |
+| Dutch | English | Example | ExampleEn |
+|-------|---------|---------|---------|
+| `(de) ochtend` | morning | In de **ochtend** drink ik koffie. | In the morning I drink coffee. |
+| `(de) middag` | afternoon | We eten 's **middags** warm. | We eat a warm meal in the afternoon. |
+| `(de) avond` | evening | 's **Avonds** kijk ik tv. | In the evening I watch TV. |
+| `(de) nacht` | night | Ik sliep slecht vannacht, de hele **nacht** wakker. | I slept badly, awake the whole night. |
 
 Combine with **van-** for *this* or anchor words for *that*:
 
@@ -38,15 +38,15 @@ Combine with **van-** for *this* or anchor words for *that*:
 
 Lowercase in Dutch.
 
-| Dutch | English | Example |
-|-------|---------|---------|
-| `maandag` | Monday | Op **maandag** begint de week. (The week starts on Monday.) |
-| `dinsdag` | Tuesday | Ik heb **dinsdag** een afspraak. (I have an appointment on Tuesday.) |
-| `woensdag` | Wednesday | `Woensdag** is de kinderen vrij. (On Wednesday the children are off.) |
-| `donderdag` | Thursday | We sporten elke **donderdag**. (We do sports every Thursday.) |
-| `vrijdag` | Friday | `Vrijdag** ga ik vroeg naar huis. (On Friday I go home early.) |
-| `zaterdag` | Saturday | Op **zaterdag** doe ik boodschappen. (On Saturday I do the shopping.) |
-| `zondag` | Sunday | `Zondag** slaap ik uit. (On Sunday I sleep in.) |
+| Dutch | English | Example | ExampleEn |
+|-------|---------|---------|---------|
+| `maandag` | Monday | Op **maandag** begint de week. | The week starts on Monday. |
+| `dinsdag` | Tuesday | Ik heb **dinsdag** een afspraak. | I have an appointment on Tuesday. |
+| `woensdag` | Wednesday | `Woensdag** is de kinderen vrij. | On Wednesday the children are off. |
+| `donderdag` | Thursday | We sporten elke **donderdag**. | We do sports every Thursday. |
+| `vrijdag` | Friday | `Vrijdag** ga ik vroeg naar huis. | On Friday I go home early. |
+| `zaterdag` | Saturday | Op **zaterdag** doe ik boodschappen. | On Saturday I do the shopping. |
+| `zondag` | Sunday | `Zondag** slaap ik uit. | On Sunday I sleep in. |
 
 Use **op** before a day for "on Monday":
 
@@ -61,31 +61,31 @@ Past/future days:
 
 ## Months
 
-| Dutch | English | Example |
-|-------|---------|---------|
-| `januari` | January | In **januari** is het koud. (In January it's cold.) |
-| `februari` | February | `Februari** is de kortste maand. (February is the shortest month.) |
-| `maart` | March | In **maart** begint de lente. (Spring starts in March.) |
-| `april` | April | In **april** regent het vaak. (In April it often rains.) |
-| `mei` | May | Mijn verjaardag is in **mei**. (My birthday is in May.) |
-| `juni` | June | In **juni** worden de dagen lang. (In June the days get long.) |
-| `juli` | July | We gaan in **juli** op vakantie. (We go on holiday in July.) |
-| `augustus` | August | `Augustus** is meestal warm. (August is usually warm.) |
-| `september` | September | In **september** begint school weer. (School starts again in September.) |
-| `oktober` | October | In **oktober** vallen de bladeren. (In October the leaves fall.) |
-| `november` | November | `November** is een donkere maand. (November is a dark month.) |
-| `december` | December | In **december** vieren we kerst. (In December we celebrate Christmas.) |
+| Dutch | English | Example | ExampleEn |
+|-------|---------|---------|---------|
+| `januari` | January | In **januari** is het koud. | In January it's cold. |
+| `februari` | February | `Februari** is de kortste maand. | February is the shortest month. |
+| `maart` | March | In **maart** begint de lente. | Spring starts in March. |
+| `april` | April | In **april** regent het vaak. | In April it often rains. |
+| `mei` | May | Mijn verjaardag is in **mei**. | My birthday is in May. |
+| `juni` | June | In **juni** worden de dagen lang. | In June the days get long. |
+| `juli` | July | We gaan in **juli** op vakantie. | We go on holiday in July. |
+| `augustus` | August | `Augustus** is meestal warm. | August is usually warm. |
+| `september` | September | In **september** begint school weer. | School starts again in September. |
+| `oktober` | October | In **oktober** vallen de bladeren. | In October the leaves fall. |
+| `november` | November | `November** is een donkere maand. | November is a dark month. |
+| `december` | December | In **december** vieren we kerst. | In December we celebrate Christmas. |
 
 Use **in** before a month: *in mei*, *in november*.
 
 ### Seasons
 
-| Dutch | English | Example |
-|-------|---------|---------|
-| `de lente / het voorjaar` | spring | In de **lente** bloeien de bloemen. (In spring the flowers bloom.) |
-| `de zomer` | summer | In de **zomer** gaan we naar het strand. (In summer we go to the beach.) |
-| `de herfst / het najaar` | autumn | In de **herfst** waait het hard. (In autumn it's windy.) |
-| `de winter` | winter | In de **winter** sneeuwt het soms. (In winter it sometimes snows.) |
+| Dutch | English | Example | ExampleEn |
+|-------|---------|---------|---------|
+| `de lente / het voorjaar` | spring | In de **lente** bloeien de bloemen. | In spring the flowers bloom. |
+| `de zomer` | summer | In de **zomer** gaan we naar het strand. | In summer we go to the beach. |
+| `de herfst / het najaar` | autumn | In de **herfst** waait het hard. | In autumn it's windy. |
+| `de winter` | winter | In de **winter** sneeuwt het soms. | In winter it sometimes snows. |
 
 Use **in** before a season: *in de zomer*, *in de winter*.
 

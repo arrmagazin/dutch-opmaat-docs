@@ -18,7 +18,8 @@
 - **Google Translate.** For reading, writing, listening, and speaking.
 - **A 1:1 tutor.** The best way to supplement your learning. Mine was a retired-teacher neighbour — not a professional. I asked her for just two things: (1) pronunciation and (2) basic grammar. About 10–15 hours is enough.
 - **_De Opmaat naar NT2-niveau A2._** The grammar book my tutor used. In hindsight it's far more than the exam needs, but the opening chapters helped.
-- **Practice, practice, practice.** It just takes time.
+
+`dialog:12-elke-dag:Oefen Elke Dag`
 
 ## How I studied
 

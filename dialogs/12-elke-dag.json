@@ -14,10 +14,9 @@
     { "speaker": "A", "text": "Elke dag word je beter", "id": "A0380", "translations": { "en": "Every day you get better", "ru": "С каждым днем ​​ты становишься лучше", "de": "Du wirst jeden Tag besser" } },
     { "speaker": "B", "text": "Als je fouten maakt, is dat goed. Zo leer je.", "id": "A0379", "translations": { "en": "Making mistakes is okay. That's how you learn.", "ru": "Ошибаться — это нормально. Так учатся.", "de": "Fehler zu machen ist okay. So lernt man." } },
     { "speaker": "B", "text": "Je Nederlands wordt duidelijker, zekerder en natuurlijker", "id": "A0381", "translations": { "en": "Your Dutch will become clearer, more confident and more natural", "ru": "Ваш голландский станет более понятным, уверенным и естественным.", "de": "Ihr Niederländisch wird klarer, selbstbewusster und natürlicher klingen." } },
-    { "speaker": "A", "text": "Wees trots op jezelf", "id": "A0382", "translations": { "en": "Be proud of yourself", "ru": "Гордись собой", "de": "Sei stolz auf dich!" } },
-    { "speaker": "A", "text": "Je hebt veel bereikt", "id": "A0383", "translations": { "en": "You have achieved a lot", "ru": "Вы многого достигли.", "de": "Du hast viel erreicht." } },
+    { "speaker": "A", "text": "Je hebt veel bereikt. Wees trots op jezelf", "id": "A0382", "translations": { "en": "You have achieved a lot. Be proud of yourself", "ru": "Вы многого достигли. Гордись собой", "de": "Du hast viel erreicht.Sei stolz auf dich!" } },
     { "speaker": "B", "text": "Ik ben blij dat je met mij hebt geleerd.", "id": "A0384", "translations": { "en": "I'm glad you learned with me.", "ru": "Я рад, что ты учился вместе со мной.", "de": "Ich freue mich, dass du mit mir gelernt hast." } },
-    { "speaker": "B", "text": "Zeg nu alles nog een keer samen met mij", "id": "A0385", "translations": { "en": "Now say it all again with me", "ru": "А теперь повтори всё это вместе со мной.", "de": "Sag es mir jetzt noch einmal nach." } },
-    { "speaker": "A", "text": "Dit is het begin, Ga door, Jij kunt het!", "id": "A0386", "translations": { "en": "This is the beginning, Go ahead, You can do it!", "ru": "Это начало. Вперед, вы сможете!", "de": "Dies ist der Anfang, nur zu, du schaffst das!" } }
+    { "speaker": "A", "text": "Dit is het begin, Ga door, Jij kunt het!", "id": "A0386", "translations": { "en": "This is the beginning, Go ahead, You can do it!", "ru": "Это начало. Вперед, вы сможете!", "de": "Dies ist der Anfang, nur zu, du schaffst das!" } },
+    { "speaker": "B", "text": "Zeg nu alles nog een keer samen met mij", "id": "A0385", "translations": { "en": "Now say it all again with me", "ru": "А теперь повтори всё это вместе со мной.", "de": "Sag es mir jetzt noch einmal nach." } }
   ]
 }

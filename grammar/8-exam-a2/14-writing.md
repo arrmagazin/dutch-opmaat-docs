@@ -5,6 +5,10 @@
 - Keep them _super_ simple — the more you write, the more you can get wrong.
 - Reuse the same sentence structure, and stick to `omdat` or `want` for "because" so the pattern becomes automatic.
 
+## Mijn dag
+
+`dialog:06-mijn-dag:Mijn dag`
+
 ## situation sentences
 
 | Key | NL | EN |

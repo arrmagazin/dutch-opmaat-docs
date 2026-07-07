@@ -11,6 +11,7 @@ On their own they carry almost no weight — their job is to **set the tone**: s
 | toch | `vse gh taki` | still / anyway / after all |
 | even | `navprost` | briefly / just / quickly |
 | echt | `sapraudy` | really / genuinely |
+| eigenlijk | `ulasno` | actually / really |
 | erg | `veljmi` | very / bad (it matters) |
 | nog | `esqe` | still / yet / more |
 | nou | `nu` | well / come on |
@@ -20,18 +21,27 @@ On their own they carry almost no weight — their job is to **set the tone**: s
 | dus | `na tym` |  therefore |
 | gewoon | `zvyqajno` | simply |
 | eens | `razok` | once |
-| wat | `troxa` | a bit / somewhat |
-| best | `davoli` | quite / rather / willing to |
 | net | `amalj` | just now / almost exactly |
-| eigenlijk | `ulasno` | actually / really |
 | zeker | `napevna` | surely / I bet / by any chance |
 | soms | `qasam` | by any chance (in questions) |
 | al | `uzho` | already / emphasis |
 | zo | `zaraz` | just / shortly / in a sec |
 | pas | `tolki` | only just / not until |
-| lekker | `smaqna` | nicely / just (defiant) |
+| lekker | `gusto` | nicely / just (defiant) |
 | gerust | `spakojna` | feel free / safely |
 | juist | `akurat` | precisely / on the contrary |
+
+Soften the force of a statement
+
+| Dutch | Bel/English | Example |
+|-------|---------|---------|
+| wat | `troxa` | a bit / somewhat |
+| een beetje | `troxa` a little | *Het is een beetje moeilijk.* |
+| nogal | `davoli` quite / rather  | *Het is nogal duur.* |
+| best | `davoli` quite / pretty | *Het is best goed.* |
+| tamelijk | `slushna` fairly | *Dat is tamelijk interessant.* |
+| redelijk | `slushna` reasonably | *Dat is redelijk duur.* |
+| vrij | `xutqej` fairly / rather | *Dat is vrij goed.* |
 
 ## toch
 
