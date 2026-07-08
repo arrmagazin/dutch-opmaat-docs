@@ -18,12 +18,6 @@ Words and phrases for filling in forms and planning appointments in your diary.
 | De woonplaats | The place of residence | Amsterdam is mijn **woonplaats**. | Amsterdam is my place of residence. |
 | Het burgerservicenummer | The citizen service number | U heeft uw **burgerservicenummer** nodig. | You need your citizen service number. |
 | De agenda | The diary | Ik schrijf de afspraak in mijn **agenda**. | I write the appointment in my diary. |
-| De afspraak | The appointment | Ik heb morgen een **afspraak** bij de dokter. | I have an appointment at the doctor tomorrow. |
-| De datum | The date | Wat is de **datum** van vandaag? | What is today's date? |
-| De week | The week | Volgende **week** ben ik vrij. | Next week I am free. |
-| De maand | The month | In welke **maand** ben je jarig? | In which month is your birthday? |
-| Het jaar | The year | Dit **jaar** ga ik naar Spanje. | This year I am going to Spain. |
-| De kalender | The calendar | De feestdagen staan op de **kalender**. | The holidays are on the calendar. |
 
 ## Uitdrukkingen — Common phrases
 

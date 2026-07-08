@@ -6,8 +6,6 @@ Words and phrases for looking for a place to live and renting or buying a home.
 
 | Nederlands | English | Example | ExampleEn |
 |------------|---------|---------|---------|
-| De woning | The home | Wij zoeken een grotere **woning**. | We are looking for a bigger home. |
-| Het appartement | The apartment | Zij huren een **appartement** in het centrum. | They rent an apartment in the center. |
 | Huren | To rent | Wij willen een huis **huren** in deze buurt. | We want to rent a house in this neighborhood. |
 | Kopen | To buy | Ze willen graag een eigen huis **kopen**. | They would like to buy their own house. |
 | De huur | The rent | De **huur** is deze maand omhoog gegaan. | The rent went up this month. |
@@ -19,11 +17,14 @@ Words and phrases for looking for a place to live and renting or buying a home.
 | De borg | The deposit | Je betaalt een maand **borg** vooraf. | You pay one month's deposit in advance. |
 | De kamer | The room | Het appartement heeft twee slaapkamers en een grote **kamer**. | The apartment has two bedrooms and a big room. |
 | Gemeubileerd | Furnished | De woning is helemaal **gemeubileerd**. | The home is fully furnished. |
-| Het balkon | The balcony | Vanaf het **balkon** zie je het park. | From the balcony you can see the park. |
 | De buurt | The neighborhood | Dit is een rustige **buurt** met veel groen. | This is a quiet neighborhood with lots of greenery. |
+| De wijk | The district | Ik woon in een rustige **wijk**. | I live in a quiet district. |
 | Verhuizen | To move | Volgende maand gaan wij **verhuizen**. | Next month we are going to move. |
-| Het adres | The address | Wat is het **adres** van de nieuwe woning? | What is the address of the new home? |
 | De sleutel | The key | Bij de bezichtiging krijg je nog geen **sleutel**. | At the viewing you don't get a key yet. |
+| De huisbaas | The landlord | **De huisbaas** komt de verwarming maken. | The landlord is coming to fix the heating. |
+| Een hypotheek | A mortgage | Voor dit huis hebben we **een hypotheek** nodig. | For this house we need a mortgage. |
+| Samenwonen | To live together | Wij gaan volgende maand **samenwonen**. | We are going to live together next month. |
+| De buren | The neighbors | **De buren** zijn erg aardig. | The neighbors are very nice. |
 
 ## Uitdrukkingen — Common phrases
 
@@ -39,17 +40,6 @@ Words and phrases for looking for a place to live and renting or buying a home.
 | Wanneer kan ik erin? | When can I move in? | **Wanneer kan ik erin**, volgende maand? | When can I move in, next month? |
 | Het contract tekenen | To sign the contract | We gaan morgen **het contract tekenen**. | We are going to sign the contract tomorrow. |
 | Het valt binnen mijn budget | It fits within my budget | Deze huur **valt binnen mijn budget**. | This rent fits within my budget. |
-
-## Buurt & kopen — Neighborhood & buying
-
-| Nederlands | English | Example | ExampleEn |
-|------------|---------|---------|---------|
-| De huisbaas | The landlord | **De huisbaas** komt de verwarming maken. | The landlord is coming to fix the heating. |
-| Een hypotheek | A mortgage | Voor dit huis hebben we **een hypotheek** nodig. | For this house we need a mortgage. |
-| Samenwonen | To live together | Wij gaan volgende maand **samenwonen**. | We are going to live together next month. |
-| De buren | The neighbors | **De buren** zijn erg aardig. | The neighbors are very nice. |
-| De wijk | The district | Ik woon in een rustige **wijk**. | I live in a quiet district. |
-| Gezellig | Cozy / sociable | Wat een **gezellig** café! | What a cozy café! |
 
 ## Koopwoning-advertentie — Home-for-sale ad
 
@@ -81,9 +71,6 @@ Gelegen in een rustige volksbuurt op loopafstand van het strand. Interesse? Neem
 
 ## Dialoog — Short dialog
 
-Jasper bezichtigt een appartement met makelaar Ilse.
+`dialog:29-de-bezichtiging: bezichtigt een appartement`
 
-`dialog:29-de-bezichtiging`
-
-Zie ook (inrichten):
 `dialog:11-in-een-woonwinkel:In een Woonwinkel`

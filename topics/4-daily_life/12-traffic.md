@@ -12,6 +12,7 @@ Words and phrases for getting around by car, bike, and public transport.
 | De bus | The bus | De **bus** stopt bij ons huis. | The bus stops at our house. |
 | De tram | The tram | In de stad rijdt een **tram**. | A tram runs in the city. |
 | De trein | The train | De **trein** naar Amsterdam vertrekt om acht uur. | The train to Amsterdam leaves at eight o'clock. |
+| De metro | The metro | **De metro** is de snelste manier door de stad. | The metro is the fastest way through the city. |
 | Het station | The station | We wachten op het **station**. | We are waiting at the station. |
 | De halte | The stop | Bij de volgende **halte** stap ik uit. | I get off at the next stop. |
 | Het stoplicht | The traffic light | Wacht, het **stoplicht** staat op rood. | Wait, the traffic light is red. |
@@ -39,12 +40,6 @@ Words and phrases for getting around by car, bike, and public transport.
 | Kijk uit! | Watch out! | **Kijk uit**, er komt een fiets aan! | Watch out, a bike is coming! |
 | Het licht staat op groen | The light is green | Rijden maar, **het licht staat op groen**. | Go ahead, the light is green. |
 | Neem de trein | Take the train | **Neem de trein**, dat is sneller. | Take the train, that's faster. |
-
-## Openbaar vervoer & de fiets — Public transport & the bike
-
-| Nederlands | English | Example | ExampleEn |
-|------------|---------|---------|---------|
-| De metro | The metro | **De metro** is de snelste manier door de stad. | The metro is the fastest way through the city. |
 | Een enkele reis | A one-way ticket | Ik wil graag **een enkele reis** naar Den Haag. | I'd like a one-way ticket to The Hague. |
 | Een retour | A return ticket | Mag ik **een retour** naar Rotterdam? | May I have a return ticket to Rotterdam? |
 | De OV-chipkaart | The public transport card | Vergeet je **OV-chipkaart** niet. | Don't forget your public transport card. |

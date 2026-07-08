@@ -1,39 +1,16 @@
 # Connecting to speaker
 
-## Opinion
+## Opinion starter
 
 | Dutch | Function | Example | ExampleEn |
 |-------|----------|---------|---------|
 | ik vind dat | I think that | **Ik vind dat** we moeten gaan. | I think we should go. |
 | Ik denk dat … | I think that … | **Ik denk dat** het morgen regent. | I think that it will rain tomorrow. |
+| volgens mij | in my opinion | **Volgens mij** heb je gelijk. | In my opinion, you're right. |
 | naar mijn idee | in my view | **Naar mijn idee** is het waar. | In my view, it's true. |
 | in mijn ogen | in my eyes/view | **In mijn ogen** heb je ongelijk. | In my view, you're wrong. |
-| volgens mij | in my opinion | **Volgens mij** heb je gelijk. | In my opinion, you're right. |
 | persoonlijk | personally | **Persoonlijk** vind ik het lekker. | Personally, I think it's nice. |
 | wat mij betreft | as far as I'm concerned | **Wat mij betreft** hoeft dat niet. | As far as I'm concerned, that's not necessary. |
-
-## Attitude and Preferences
-
-| Dutch | Function | Example | ExampleEn |
-|-------|----------|---------|---------|
-| Ik wil graag dit | I would like this || |
-| Ik doe graag … | I like doing … | Ik lees **graag** in de tuin. | I like reading in the garden. |
-| Ik heb liever … | I'd rather have … | **Ik heb liever** koffie. | I'd rather have coffee. |
-| Ik vind … leuk / niet leuk(saai) | I (don't) like … | Ik vind voetbal **leuk**. | I like football. |
-| Ik vind het prima | I'm fine with it | **Ik vind het prima** zo. | I'm fine with it this way. |
-| Ik hou(geniet) van … | I love / I'm fond of … | **Ik hou van** koffie. | I love coffee. |
-| Ik ben dol op … | I'm crazy about … | **Ik ben dol op** chocolade. | I'm crazy about chocolate. |
-| Het belangrijkste voor mij is dat ...  ||| |
-| Ik heb een hekel aan … | I hate / can't stand … | **Ik heb een hekel aan** wachten. | I hate waiting. |
-| Ik kan … niet uitstaan | I can't stand … | **Ik kan** dat geluid **niet uitstaan**. | I can't stand that sound. |
-| Ik geef de voorkeur aan … | I prefer … | **Ik geef de voorkeur aan** thee. | I prefer tea. |
-| Ik ben gek op … | I'm mad about … | **Ik ben gek op** reizen. | I'm mad about travelling. |
-| Het kan me niet schelen | I don't care | **Het kan me niet schelen** wat hij zegt. | I don't care what he says. |
-| Ik ben benieuwd | I'm curious | **Ik ben benieuwd** naar de uitslag. | I'm curious about the result. |
-| Ik heb er zin in | I'm looking forward to it | **Ik heb er zin in**! | I'm looking forward to it! |
-| Ik heb er geen zin in | I don't feel like it | **Ik heb er geen zin in** vandaag. | I don't feel like it today. |
-
-> After Ik denk dat / Ik vind dat the verb moves to the end of the clause: *Ik denk dat het leuk is* — not *…dat het is leuk*.
 
 ## Affirmatives and Certainty
 
@@ -52,7 +29,6 @@
 | ik denk van niet | I don't think so | "Regent het morgen?" "**Ik denk van niet**." | "Will it rain tomorrow?" "I don't think so." |
 | Dat geeft niet. | That's okay. || |
 | Dat hoop ik. / ik hoop van wel | I hope so |  | |
-| denk ik | I think (filler) | Ja, **denk ik**. | Yes, I think so. |
 | zo is het | that's how it is | Tja, **zo is het** nu eenmaal. | Well, that's just how it is. |
 | dat spreekt | that goes without saying | **Dat spreekt** vanzelf. | That goes without saying. |
 | uiteraard | naturally/certainly | **Uiteraard** ga ik mee. | Naturally, I'm coming along. |
@@ -84,3 +60,39 @@
 | integendeel | on the contrary | **Integendeel**, het ging goed. | On the contrary, it went well. |
 | eerder | rather | Dat is **eerder** een voordeel. | That's rather an advantage. |
 | ik weet het niet zeker | I'm not sure | **Ik weet het niet zeker**, vraag het hem maar. | I'm not sure, just ask him. |
+
+## Attitude and Preferences
+
+| Dutch | Function | Example | ExampleEn |
+|-------|----------|---------|---------|
+| Ik wil graag dit | I would like this || |
+| Ik doe graag … | I like doing … | Ik lees **graag** in de tuin. | I like reading in the garden. |
+| Ik heb liever … | I'd rather have … | **Ik heb liever** koffie. | I'd rather have coffee. |
+| Ik vind … leuk / niet leuk(saai) | I (don't) like … | Ik vind voetbal **leuk**. | I like football. |
+| Ik vind het prima | I'm fine with it | **Ik vind het prima** zo. | I'm fine with it this way. |
+| Ik hou(geniet) van … | I love / I'm fond of … | **Ik hou van** koffie. | I love coffee. |
+| Ik ben dol op … | I'm crazy about … | **Ik ben dol op** chocolade. | I'm crazy about chocolate. |
+| Het belangrijkste voor mij is dat ...  ||| |
+| Ik heb een hekel aan … | I hate / can't stand … | **Ik heb een hekel aan** wachten. | I hate waiting. |
+| Ik kan … niet uitstaan | I can't stand … | **Ik kan** dat geluid **niet uitstaan**. | I can't stand that sound. |
+| Ik geef de voorkeur aan … | I prefer … | **Ik geef de voorkeur aan** thee. | I prefer tea. |
+| Ik ben gek op … | I'm mad about … | **Ik ben gek op** reizen. | I'm mad about travelling. |
+| Het kan me niet schelen | I don't care | **Het kan me niet schelen** wat hij zegt. | I don't care what he says. |
+| Ik ben benieuwd | I'm curious | **Ik ben benieuwd** naar de uitslag. | I'm curious about the result. |
+| Ik heb er zin in | I'm looking forward to it | **Ik heb er zin in**! | I'm looking forward to it! |
+| Ik heb er geen zin in | I don't feel like it | **Ik heb er geen zin in** vandaag. | I don't feel like it today. |
+
+> After Ik denk dat / Ik vind dat the verb moves to the end of the clause: *Ik denk dat het leuk is* — not *…dat het is leuk*.
+
+## Gevoelens — Feelings
+
+| Nederlands | English | Example | ExampleEn |
+|------------|---------|---------|---------|
+| Blij | Happy | Ik ben **blij** met mijn cadeau. | I am happy with my present. |
+| Verdrietig | Sad | Zij is **verdrietig** omdat haar hond ziek is. | She is sad because her dog is ill. |
+| Boos | Angry | Mijn vader was **boos** op mij. | My father was angry with me. |
+| Bang | Afraid | De hond is **bang** voor onweer. | The dog is afraid of thunderstorms. |
+| Moe | Tired | Ik ben **moe** na een lange dag werken. | I am tired after a long day of work. |
+| Verbaasd | Surprised | Wij waren **verbaasd** over het goede nieuws. | We were surprised by the good news. |
+| Gezellig | Cozy / sociable | Wat een **gezellig** café! | What a cozy café! |
+

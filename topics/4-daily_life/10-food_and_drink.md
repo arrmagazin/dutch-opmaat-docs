@@ -2,13 +2,18 @@
 
 Words and phrases for meals, food and drinks in everyday Dutch.
 
-## Food and Drink — Vocabulary
+## Vocabulary
 
 | Nederlands | English | Example | ExampleEn |
 |------------|---------|---------|---------|
 | Het ontbijt | The breakfast | Ik eet altijd brood bij het **ontbijt**. | I always eat bread for breakfast. |
 | De lunch | The lunch | We hebben om twaalf uur **lunch**. | We have lunch at twelve o'clock. |
 | Het avondeten | The dinner | Het **avondeten** is om zes uur klaar. | Dinner is ready at six o'clock. |
+
+Food
+
+| Nederlands | English | Example | ExampleEn |
+|------------|---------|---------|---------|
 | Het brood | The bread | Wil je nog een boterham met vers **brood**? | Would you like another sandwich with fresh bread? |
 | De kaas | The cheese | Op mijn boterham doe ik graag **kaas**. | I like cheese on my sandwich. |
 | Het ei | The egg | 's Ochtends kook ik een **ei**. | In the morning I boil an egg. |
@@ -18,6 +23,11 @@ Words and phrases for meals, food and drinks in everyday Dutch.
 | De soep | The soup | De **soep** is nog te heet. | The soup is still too hot. |
 | De rijst | The rice | Bij de kip eten we **rijst**. | We eat rice with the chicken. |
 | De pasta | The pasta | Vanavond maak ik **pasta** met tomatensaus. | Tonight I'll make pasta with tomato sauce. |
+
+Drinks
+
+| Nederlands | English | Example | ExampleEn |
+|------------|---------|---------|---------|
 | De koffie | The coffee | Ik drink 's ochtends graag een kop **koffie**. | In the morning I like to drink a cup of coffee. |
 | De thee | The tea | Wil je liever **thee** of koffie? | Would you rather have tea or coffee? |
 | Het water | The water | Mag ik een glas **water**, alstublieft? | May I have a glass of water, please? |
@@ -25,7 +35,7 @@ Words and phrases for meals, food and drinks in everyday Dutch.
 | Het bier | The beer | Op het terras drinkt hij een koud **bier**. | On the terrace he drinks a cold beer. |
 | De wijn | The wine | Bij het eten drinken we soms **wijn**. | With dinner we sometimes drink wine. |
 
-## Vegetables and Fruit — Vocabulary
+Vegetables and Fruit
 
 | Nederlands | English | Example | ExampleEn |
 |------------|---------|---------|---------|
@@ -62,11 +72,6 @@ Words and phrases for meals, food and drinks in everyday Dutch.
 | Zonder suiker, alstublieft | Without sugar, please | Doe de koffie **zonder suiker, alstublieft**. | Make the coffee without sugar, please. |
 | De rekening, alstublieft | The bill, please | Mag ik **de rekening, alstublieft**? | May I have the bill, please? |
 | Ik heb er zin in | I feel like it | Een lekker etentje? **Ik heb er zin in**! | A nice meal out? I feel like it! |
-
-## Uit eten — Dining phrases
-
-| Nederlands | English | Example | ExampleEn |
-|------------|---------|---------|---------|
 | Mag ik een koffie, alstublieft? | Can I have a coffee, please? | **Mag ik een koffie, alstublieft**? | Can I have a coffee, please? |
 | Wil je iets drinken? | Would you like a drink? | **Wil je iets drinken**? | Would you like a drink? |
 | Waar is het toilet? | Where's the toilet? | **Waar is het toilet**? | Where's the toilet? |

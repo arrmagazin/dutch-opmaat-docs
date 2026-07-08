@@ -1,5 +1,15 @@
 # How to Pass Dutch Inburgering A2 Exam
 
+## How I studied
+
+- [Strategies](https://inburgeren-ai.nl/strategies)
+- [Self assess](https://learn-dutch-with-ai.com/dutch-language-self-assessment-test/)
+- Prepare materials
+- Practice every day
+  - [mock exams](https://learn-dutch-with-ai.com/inburgering-mock-exams/)
+  - [inburgeren.nl](https://www.inburgeren.nl/examen-doen/oefenen.jsp)
+  - [oefenen.nl](https://oefenen.nl/program/overview)
+
 ## What did NOT help me
 
 - **Guilt.** This is genuinely hard. Be gentle with yourself.
@@ -21,18 +31,15 @@
 
 `dialog:12-elke-dag:Oefen Elke Dag`
 
-## How I studied
+## Logistic
 
-- I took Reading + Writing on one day (December) and Listening + Speaking on another (March).
-- About **6 hours a week for 6 months**, then about **20 hours a week for the last 2 weeks** before each exam. I work full-time, so this was evenings and weekends.
-
-## Before the exam
+Before the exam
 
 - Log in to your **inburgeren.nl** account to see the level you need to pass.
 - Sign up for exams on that site. Slots fill quickly — book early.
 - You can move an exam to another date, so it's better to book and reschedule than to have no slot. Note the last date you're allowed to reschedule.
 
-## At the location (Rijswijk)
+At the location (Rijswijk)
 
 - Staff speak **only Dutch**. Be prepared.
 - **Check in immediately** at the desk (to the right as you enter). Your letter gives your room number — go sit by that room.
@@ -40,3 +47,6 @@
 - When the door opens, join the queue. You're checked in and given a computer number (watch the list if listening is hard). Sit at that computer and wait for everyone to start together.
 - Someone talks through the exam at length. Don't worry about what you don't understand — if you did the practice exams, you don't need it.
 - When you're done, you leave.
+
+
+

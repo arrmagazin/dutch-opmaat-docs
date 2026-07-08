@@ -21,18 +21,18 @@ Words and phrases for the kitchen, appliances, and cooking at home.
 | De lepel | The spoon | Roer de soep met een **lepel**. | Stir the soup with a spoon. |
 | De vaatwasser | The dishwasher | Zet de borden in de **vaatwasser**. | Put the plates in the dishwasher. |
 | De magnetron | The microwave | Warm de soep op in de **magnetron**. | Heat the soup in the microwave. |
-| Koken | To cook | Vanavond ga ik pasta **koken**. | Tonight I'm going to cook pasta. |
-| Bakken | To fry | Ik ga eieren **bakken** voor het ontbijt. | I'm going to fry eggs for breakfast. |
-| Snijden | To cut | Kun je de ui **snijden**? | Can you cut the onion? |
 
 ## Uitdrukkingen — Common phrases
 
 | Nederlands | English | Example | ExampleEn |
 |------------|---------|---------|---------|
+| Koken | To cook | Vanavond ga ik pasta **koken**. | Tonight I'm going to cook pasta. |
 | Wat eten we vanavond? | What are we eating tonight? | **Wat eten we vanavond**? | What are we having for dinner tonight? |
 | Ik heb honger | I'm hungry | **Ik heb honger**, is het eten al klaar? | I'm hungry, is the food ready yet? |
 | Het eten is klaar | The food is ready | **Het eten is klaar**, kom aan tafel. | The food is ready, come to the table. |
 | Eet smakelijk! | Enjoy your meal! | **Eet smakelijk**, allemaal! | Enjoy your meal, everyone! |
+| Bakken | To fry | Ik ga eieren **bakken** voor het ontbijt. | I'm going to fry eggs for breakfast. |
+| Snijden | To cut | Kun je de ui **snijden**? | Can you cut the onion? |
 | Kun je helpen met koken? | Can you help cook? | **Kun je helpen met koken** vanavond? | Can you help cook tonight? |
 | De afwas doen | To do the dishes | Ik moet nog **de afwas doen**. | I still have to do the dishes. |
 | De tafel dekken | To set the table | Wil jij **de tafel dekken**? | Will you set the table? |

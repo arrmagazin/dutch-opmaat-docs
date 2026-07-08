@@ -4,26 +4,6 @@ Words and phrases for talking about money, prices and your monthly budget.
 
 ## Woordenschat — Vocabulary
 
-| Nederlands | English | Example | ExampleEn |
-|------------|---------|---------|---------|
-| Het geld | The money | Ik heb niet veel **geld** bij me. | I don't have much money on me. |
-| De euro | The euro | Dat kost tien **euro**. | That costs ten euros. |
-| De bank | The bank | Ik ga naar de **bank** voor een nieuwe pas. | I'm going to the bank for a new card. |
-| Betalen | To pay | Kan ik met de kaart **betalen**? | Can I pay by card? |
-| Pinnen | To pay by card | Ik wil graag **pinnen**. | I'd like to pay by card. |
-| De rekening | The bill | Mag ik de **rekening**, alstublieft? | May I have the bill, please? |
-| Sparen | To save | We **sparen** voor een vakantie. | We're saving for a holiday. |
-| De spaarrekening | The savings account | Het geld staat op mijn **spaarrekening**. | The money is in my savings account. |
-| De prijs | The price | De **prijs** is te hoog. | The price is too high. |
-| Duur | Expensive | Deze schoenen zijn te **duur**. | These shoes are too expensive. |
-| Goedkoop | Cheap | De trein is nu **goedkoop**. | The train is cheap now. |
-| De huur | The rent | Ik betaal elke maand de **huur**. | I pay the rent every month. |
-| De kosten | The costs | De **kosten** zijn dit jaar hoger. | The costs are higher this year. |
-| De uitgaven | The expenses | Mijn **uitgaven** zijn deze maand hoog. | My expenses are high this month. |
-| Het inkomen | The income | Zijn **inkomen** is niet zo hoog. | His income is not so high. |
-| Het budget | The budget | We hebben maar een klein **budget**. | We only have a small budget. |
-| Lenen | To borrow | Mag ik wat geld van je **lenen**? | May I borrow some money from you? |
-| De lening | The loan | We betalen de **lening** in vijf jaar terug. | We pay back the loan in five years. |
 
 ## Uitdrukkingen — Common phrases
 

@@ -1,6 +1,4 @@
-# The Body
-
-Words and phrases for talking about the body and simple aches and pains.
+# Body and Apperance
 
 ## Woordenschat — Vocabulary
 
@@ -12,6 +10,8 @@ Het Lichaam — The Body
 | Het haar | The hair | Zij heeft lang, blond **haar**. | She has long, blond hair. |
 | Het oog | The eye | Mijn linker **oog** doet pijn. | My left eye hurts. |
 | Het oor | The ear | Ik fluister iets in zijn **oor**. | I whisper something in his ear. |
+| Het hart | The heart | Na het rennen klopt mijn **hart** snel. | After running my heart beats fast. |
+| Het been | The leg | Ik heb mijn **been** bezeerd tijdens het rennen. | I hurt my leg while running. |
 | De neus | The nose | Ik snuit mijn **neus** met een zakdoek. | I blow my nose with a tissue. |
 | De mond | The mouth | Doe je **mond** open bij de tandarts. | Open your mouth at the dentist. |
 | De tand | The tooth | Er zit een gaatje in mijn **tand**. | There's a cavity in my tooth. |
@@ -21,10 +21,8 @@ Het Lichaam — The Body
 | De vinger | The finger | Ik heb mijn **vinger** gesneden. | I cut my finger. |
 | De buik | The belly | Na het eten heb ik een volle **buik**. | After eating I have a full belly. |
 | De rug | The back | Mijn **rug** doet pijn na het tuinieren. | My back hurts after gardening. |
-| Het been | The leg | Ik heb mijn **been** bezeerd tijdens het rennen. | I hurt my leg while running. |
 | De knie | The knee | Ik viel en bezeerde mijn **knie**. | I fell and hurt my knee. |
 | De voet | The foot | Deze schoen past niet om mijn **voet**. | This shoe doesn't fit my foot. |
-| Het hart | The heart | Na het rennen klopt mijn **hart** snel. | After running my heart beats fast. |
 | De keel | The throat | Ik heb een zere **keel**. | I have a sore throat. |
 | De arm | The arm | Zij draagt de tas onder haar **arm**. | She carries the bag under her arm. |
 

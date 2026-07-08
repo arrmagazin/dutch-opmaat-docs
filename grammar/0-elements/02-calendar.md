@@ -2,6 +2,15 @@
 
 How to talk about *when* things happen — clock time, days, parts of the day, weeks, months, and seasons.
 
+| Dutch | English | Example | ExampleEn |
+|-------|---------|---------|---------|
+| De datum | The date | Wat is de **datum** van vandaag? | What is today's date? |
+| De week | The week | Volgende **week** ben ik vrij. | Next week I am free. |
+| De maand | The month | In welke **maand** ben je jarig? | In which month is your birthday? |
+| Het jaar | The year | Dit **jaar** ga ik naar Spanje. | This year I am going to Spain. |
+| De kalender | The calendar | De feestdagen staan op de **kalender**. | The holidays are on the calendar. |
+
+
 ## The Three Anchor Words
 
 | Dutch | English |

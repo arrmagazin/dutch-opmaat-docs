@@ -19,9 +19,10 @@
 | Word | Effect | Example | ExampleEn |
 |------|--------|---------|---------|
 | alstublieft / alsjeblieft | please | Mag ik een glas water, *alstublieft?* | |
+| Graag gedaan | You're welcome | | |
 | Dank u wel! Bedankt! | Thank you! Thanks! || |
 | Goed, dank je | Good, thank you | | |
-| Graag gedaan | You're welcome | | |
+| nee bedankt | no thank you |
 | excuseer | excuse me | Excuseer, kunt u dat herhalen? | Excuse me, can you repeat that? |
 | pardon | pardon | Pardon, waar is het station? | Pardon, where is the station? |
 | Sorry, wat jammer! | Sorry, what a pity || |
@@ -31,34 +32,36 @@
 | niet erg | don't mention it / it's nothing || |
 | Het is oké | It's okay || |
 
-# Asking for Help
+## Asking for Help
 
 | text | text_en |
 |------|---------|
 | Kun je me helpen? | Can you help me? |
 | Heb je een momentje? | Do you have a moment? |
-| ik snap het | I understand |
-| dat weet ik niet | I don't know |
-| nee bedankt | no thank you |
+| Heb je tijd op...? | Do you have time on...? |
+
 | doe maar | just do it / go ahead |
 | maakt niet uit | doesn't matter |
 | en wat dan | so what |
 | nou en | so what / big deal |
-| Hoe laat is het? | What time is it? |
+
+## Understanding and clarification
 
 | Wrapper | Example | ExampleEn |
 |---------|---------|---------|
+| ik snap het | I understand |
+| dat weet ik niet | I don't know |
 | Mag ik vragen … | **Mag ik vragen** waar je vandaan komt? | |
 | Zou je me kunnen vertellen … | **Zou je me kunnen vertellen** hoeveel dat kost? | |
 | Weet je toevallig … | **Weet je toevallig** hoe laat de bus komt? | |
 | Ik vroeg me af … | **Ik vroeg me af** of er nog plekken zijn.*| |
 | Heb je zin in...? | **Heb je zin in** een kopje koffie? | Do you feel like a cup of coffee? |
+| Hoe laat is het? | What time is it? |
 
 ## Afsprak maken
 
 | text | text_en |
 |------|---------|
-| Heb je tijd op...? | Do you have time on...? |
 | Zullen we afspreken? | Shall we meet up? |
 | Hoe laat spreken we af? | What time shall we meet? |
 | Waar zien we elkaar? | Where shall we meet? |
