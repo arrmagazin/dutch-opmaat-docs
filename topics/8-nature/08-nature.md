@@ -41,6 +41,4 @@ Words and phrases for talking about nature, the outdoors, and the landscape.
 
 ## Dialoog — Short dialog
 
-Sanne en Daan maken een wandeling in het bos.
-
-`dialog:27-in-het-bos`
+`dialog:27-in-het-bos:wandeling in het bos`

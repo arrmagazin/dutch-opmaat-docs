@@ -95,4 +95,3 @@
 | Moe | Tired | Ik ben **moe** na een lange dag werken. | I am tired after a long day of work. |
 | Verbaasd | Surprised | Wij waren **verbaasd** over het goede nieuws. | We were surprised by the good news. |
 | Gezellig | Cozy / sociable | Wat een **gezellig** café! | What a cozy café! |
-

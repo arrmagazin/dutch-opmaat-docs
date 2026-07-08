@@ -13,18 +13,16 @@
 | 27 april | Koningsdag (King's Day) | Birthday of Koning Willem-Alexander [Q1, Q71] |
 | 4 mei | Dodenherdenking (Remembrance Day) | 2 minutes' silence at 20:00 [Q73] |
 | 5 mei | Bevrijdingsdag (Liberation Day) | NL liberated from German occupation in 1945 [Q74, Q107] |
+| 11 november |Sint-Maarten | St. Martin's Day |
 | 5 december | Sinterklaas (pakjesavond) | Children's gift-giving evening [Q3, Q72] |
-| 25 december | Eerste Kerstdag | First Christmas Day [Q8, Q152] |
+| 25 december | Kerstmis, Eerste Kerstdag | Christmas, First Christmas Day [Q8, Q152] |
 | 26 december | Tweede Kerstdag | Second Christmas Day [Q8, Q152] |
-| 31 december → 1 januari | Oud en Nieuw | Oliebollen tradition [Q10, Q113] |
-
-Movable / relative dates
-
-| Holiday | Timing |
-|---|---|
-| Hemelvaartsdag (Ascension Day) | 40 days after Easter [Q25] |
-| Pinksteren (Pentecost) | 50 days after Easter; celebrated over 2 days (Eerste/Tweede Pinksterdag) [Q26] |
-| Carnaval | February or March; **3-day** festival, mainly in Noord-Brabant & Limburg [Q20] |
+| 31 december → 1 januari | Oudejaarsavond, Oud en Nieuw | Oliebollen tradition [Q10, Q113] |
+| Movable | Pasen | Easter |
+| Movable | Hemelvaartsdag (Ascension Day) | 40 days after Easter [Q25] |
+| Movable | Pinksteren (Pentecost) | 50 days after Easter; celebrated over 2 days (Eerste/Tweede Pinksterdag) [Q26] |
+| Movable | Carnaval | February or March; **3-day** festival, mainly in Noord-Brabant & Limburg [Q20] |
+| Movable | Witte Donderdag, Goede Vrijdag | White Thursday, Good Friday |
 
 Historical years
 

@@ -53,25 +53,6 @@ Words and phrases for talking about Dutch culture, traditions and typical custom
 | Een kaartje sturen | To send a card | Ik ga haar **een kaartje sturen**. | I'm going to send her a card. |
 | Bloemen meenemen | To bring flowers | Zullen we **bloemen meenemen** voor de gastvrouw? | Shall we bring flowers for the hostess? |
 
-## Feestdagen — Dutch holidays
-
-| Nederlands | English |
-|------------|---------|
-| Kerstmis | Christmas |
-| Pasen | Easter |
-| Pinksteren | Whitsun / Pentecost |
-| Hemelvaart | Ascension Day |
-| Goede Vrijdag | Good Friday |
-| Carnaval | Carnival |
-| Bevrijdingsdag | Liberation Day |
-| Dodenherdenking | Remembrance Day |
-| Sint-Maarten | St. Martin's Day |
-| Dierendag | Animal Day |
-| Moederdag | Mother's Day |
-| Vaderdag | Father's Day |
-| Valentijnsdag | Valentine's Day |
-| Oudejaarsavond | New Year's Eve |
-
 ## Dialoog — Short dialog
 
 Een uitwisselingsstudent, Marco, vraagt Fleur naar Nederlandse gewoontes.

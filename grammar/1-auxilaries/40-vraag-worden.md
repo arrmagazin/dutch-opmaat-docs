@@ -9,6 +9,7 @@
 | **wat voor (een)** | what kind of | **Wat voor** muziek luister je? (What kind of music do you listen to?) | a kind / type |
 | **waar** | where | *Waar woon je?* — Where do you live? | a place|
 | **wanneer** | when | **Wanneer** kom je terug? (When are you coming back?) | a time (date / general) |
+| `tot wanneer` | until when | **Tot wanneer** blijf je? (Until when are you staying?) | time limit |
 | **hoe** | how |  *Hoe gaat het?* — How are you?| manner / state|
 | **waarom** | why | *Waarom huil je?* — Why are you crying? |a reason|
 | **hoeveel** | how much / how many | **Hoeveel** kost dit? (How much does this cost?) | a quantity |

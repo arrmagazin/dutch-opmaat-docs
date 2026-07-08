@@ -21,27 +21,11 @@
 | `meteen` / `zo meteen` | immediately/shortly | Ik kom **zo meteen**. (I'm coming shortly.) |
 | `binnenkort` | soon, in a moment | We zien elkaar **binnenkort**. (We'll see each other soon.) |
 | `straks` | soon/later today | Ik kom **straks** langs. (I'll stop by soon.) |
-| `vandaag` | today | Ik werk **vandaag** thuis. (I'm working from home today.) |
-| `overdag` | during the day | **Overdag** ben ik op kantoor. (During the day I'm at the office.) |
-
-## Sync
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| `eerst` | first | **Eerst** drink ik koffie, dan ga ik werken. (First I drink coffee, then I go to work.) |
-| `voor` / `voordat` | before | Voor*het eten was ik moe. Voordat* ik vertrek, bel ik. |
-| `na` / `nadat` | after | `Nadat* ik at, wandelde ik.  |
-| `later` | later | Ik bel je **later** terug. (I'll call you back later.) |
-| `dan / daarna` | then / afterwards | We eten, **daarna** kijken we een film. (We eat, then we watch a film.) |
-| `toen` | then (past tense) | **Toen** was ik nog jong. (Then I was still young.) |
-| `zodra` | as soon as | Bel me *zodra* je aankomt. (Call me as soon as you arrive.) |
-| `over` | in (X time from now) | Ik bel je **over** vijf minuten. |
-| `geleden` | ago (X time before now) | Ik ben hier drie jaar **geleden** begonnen. |
-| `tevoren` | beforehand | Ik had het je **van tevoren** gezegd. (I'd told you beforehand.) |
-| `uiterlijk` | at the latest / no later than | Ik ben er **uiterlijk** om acht uur. (I'll be there by eight at the latest.) |
-| `alsnog` | after all / belatedly | Hij besloot **alsnog** te komen. (He decided to come after all.) |
-
-> *toen* vs *dan*: both mean "then," but `toen` is only used with past-tense events; `dan` with present/future or sequencing.
+| **plotseling / opeens** | suddenly | **Opeens** stond hij op en vertrok. |
+| **ineens** | all at once | Het **ineens** begon te regenen. |
+| **op een dag** | one day | **Op een dag** kwam er een vreemdeling. |
+| **kort daarna** | shortly after | **Kort daarna** belde ze me. |
+| **uren later** | hours later | **Uren later** waren we nog onderweg. |
 
 ## Duration
 
@@ -58,7 +42,7 @@
 | `van … tot …` | from … to … | `Van** maandag **tot** vrijdag werk ik. |
 | `vlug` | quickly | Moet **vlug** gaan. (Have to go quickly.) |
 | `tijdelijk` | temporarily | Ik woon **tijdelijk** bij mijn ouders. (I'm living with my parents temporarily.) |
-| `tot wanneer` | until when | **Tot wanneer** blijf je? (Until when are you staying?) |
+| `overdag` | during the day |
 
 > *Over een uur* = "in an hour from now". *Binnen een uur* = "within the next hour" (any time before that limit).
 >

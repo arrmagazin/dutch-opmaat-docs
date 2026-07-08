@@ -2,6 +2,12 @@
 
 A **relative clause** attaches extra information to a noun (the *antecedent*). In Dutch, the relative pronoun is chosen by the noun's **gender** (de-word vs. het-word), not by its grammatical role in the clause. Like all subordinate clauses, the verb goes to the **end**.
 
+A relative clause attaches after the noun and is verb-final inside:
+
+- *de vrouw **die naast me woont*** — the woman who lives next to me
+- *het huis **dat we kochten*** — the house that we bought
+- *de stad **waar ik woon*** — the city where I live
+
 ## The core choice: **die** vs. **dat**
 
 | Antecedent | Pronoun | Example |

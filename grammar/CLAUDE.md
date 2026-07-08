@@ -10,26 +10,12 @@ Three sections: how the folder is organised, how a page should look, and what te
 
 The `grammar/` folder is a graded reference for Dutch grammar, served as raw markdown to the opmaat app. Each subfolder covers one layer of the language; pages inside go from simpler to more complex.
 
-```
-0-particles/        sub-word units: letters, sounds, morphology
-1-auxiliaries/      discourse helpers & reference words (connectors, time, place, er, question words)
-2-parts-of-speech/  word classes: pronouns, nouns, verbs, adjectives, adverbs, comparatives
-3-phrases/          phrase-level structures: noun phrases, PPs, te+inf, participles
-4-modes/            clause modes: indicative, negative, modal, narrative, imperative, interrogative, passive
-5-sentences/        complex sentences: coordination, subordination, relative clauses, reported speech
-```
-
 **Naming conventions:**
 
 - Folders: `N-kebab-case/` where `N` is a single digit indicating the layer.
 - Files: `NN-kebab-case.md` where `NN` orders the page inside the folder.
 - The prefix digits get stripped for display by `prettifyName` in the app; keep them — they control sort order.
 - `CLAUDE.md`, `INDEX.md`, and any file starting with `_` are filtered out of the docs tree. Use those names for maintainer-only content.
-
-**Two legacy notes:**
-
-- `1-auxiliaries/` is a historical name — its actual content is "discourse helpers & reference words". Do **not** rename the folder: existing bookmarks and any external links rely on the path. Future pages that fit this theme belong here.
-- `1-auxiliaries/` skips `04-`. New files in this folder may take that slot or any unused number; don't renumber existing files.
 
 **Adding a new page:**
 

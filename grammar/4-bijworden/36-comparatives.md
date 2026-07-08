@@ -37,7 +37,7 @@ Add `-er` for Comparatives, `het + -st` - for Superlatives.
 |----------|-------------|-------------|---------|
 | `snel` | sneller | het snelst | *Zij loopt `sneller` dan ik, maar hij loopt het `snelst`.* |
 | `vaak` | vaker | het vaakst | *Ik kom hier nu `vaker`, maar jij komt het `vaakst`.* |
-| `graag` | liever | het liefst | *Ik drink `liever` thee, maar koffie drink ik het `liefst`.* |
+| `note:graag` | liever | het liefst | *Ik drink `liever` thee, maar koffie drink ik het `liefst`.* |
 | `goed` | beter | het best | *Hij speelt `beter` dan vroeger, maar zij speelt het `best`.* |
 | `veel` | meer | het meest | *Zij weet `meer` dan ik, maar hij weet het `meest`.* |
 | `weinig` | minder | het minst | *Dit kost `minder`, maar dat kost het `minst`.* |

@@ -14,7 +14,8 @@ The same letter sounds different depending on whether it's followed by one or tw
 | **o** | b**o**s | /ɔ/ | b**oo**t | /oː/ | *"hot"* vs *"boat"* |
 | **u** | b**u**s | /ʏ/ | v**uu**r | /y/ | French *"tu"* (short vs long) |
 
-> In a closed syllable (ending in a consonant), a single vowel = short. To make it long, **double the vowel**: *man* → *manen* (one *a*, but the syllable is open) vs *mannen* (double *n* keeps the *a* short).
+> In a closed syllable (ending in a consonant), a single vowel = short: *mannen* (double *n* keeps the *a* short)
+> To make it long, **double the vowel**: *man* → *manen* (one *a*, but the syllable is open).
 
 ## Tweeklanken & digraphs
 
@@ -68,7 +69,7 @@ These letter combinations represent **single sounds** that are not predictable f
 | **Y y**.sə i/ | bab**y** | /i/, /ɛi/ | rare — only in loanwords |
 | **Z z** | **z**ee | /z/ | *"zoo"* |
 
-#### Uitspraak Tips
+## Uitspraak Tips
 
 - **g** / **ch** = guttural /ɣ/ or /x/, harder than English *h* (softer in the south, harsher in the north)
 - **w** = /ʋ/, lips less rounded than English *w* — closer to a soft *v*

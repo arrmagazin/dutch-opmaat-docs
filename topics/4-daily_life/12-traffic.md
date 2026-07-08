@@ -8,7 +8,7 @@ Words and phrases for getting around by car, bike, and public transport.
 |------------|---------|---------|---------|
 | Het verkeer | The traffic | In de ochtend is er veel **verkeer**. | In the morning there is a lot of traffic. |
 | De auto | The car | Ik ga met de **auto** naar mijn werk. | I go to work by car. |
-| De fiets | The bicycle | Zij pakt elke dag de **fiets**. | She takes the bicycle every day. |
+| De fiets | The bicycle | Ik ga met de **fiets** naar mijn werk. | I go to work by bicycle. |
 | De bus | The bus | De **bus** stopt bij ons huis. | The bus stops at our house. |
 | De tram | The tram | In de stad rijdt een **tram**. | A tram runs in the city. |
 | De trein | The train | De **trein** naar Amsterdam vertrekt om acht uur. | The train to Amsterdam leaves at eight o'clock. |

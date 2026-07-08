@@ -42,6 +42,4 @@ Words and phrases for talking about your holiday, travel, and time away.
 
 ## Dialoog — Short dialog
 
-Twee vrienden praten over hun vakantieplannen voor de zomer.
-
 `dialog:20-mijn-weekend:Mijn Weekend`

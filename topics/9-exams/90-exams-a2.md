@@ -1,16 +1,12 @@
 # How to Pass Dutch Inburgering A2 Exam
 
-## How I studied
+## How to be prepared
 
 - [Strategies](https://inburgeren-ai.nl/strategies)
 - [Self assess](https://learn-dutch-with-ai.com/dutch-language-self-assessment-test/)
-- Prepare materials
-- Practice every day
-  - [mock exams](https://learn-dutch-with-ai.com/inburgering-mock-exams/)
-  - [inburgeren.nl](https://www.inburgeren.nl/examen-doen/oefenen.jsp)
-  - [oefenen.nl](https://oefenen.nl/program/overview)
+- Listen to practice exams until the words start to make sense. Over and over.
 
-## What did NOT help me
+### What did NOT help me
 
 - **Guilt.** This is genuinely hard. Be gentle with yourself.
 - **Spending money on endless apps and classes.** Get focused; figure out what works and stop.
@@ -20,7 +16,7 @@
 - **Talking to people.** Real life doesn't mimic the exam. You'll never say "Hi, my name is Rae Ann" on the exam.
 - **Skip vocabulary drilling. Go straight to practice exams.** It's slow at first — you translate every question and answer in Google Translate to learn what they mean — but you quickly pick up the vocabulary you actually need.
 
-## What DID help me
+### What DID help me
 
 - **A paid AI chatbot (ChatGPT).** Use it as a personal tutor — it's amazing.
 - **The Use Dutch app.** The most modern, easy-to-follow, and helpful of the paid apps I tried.
@@ -48,5 +44,41 @@ At the location (Rijswijk)
 - Someone talks through the exam at length. Don't worry about what you don't understand — if you did the practice exams, you don't need it.
 - When you're done, you leave.
 
+## External resources for  A2 exam
 
+- Practice every day
+  - [mock exams](https://learn-dutch-with-ai.com/inburgering-mock-exams/)
+  - [inburgeren.nl](https://www.inburgeren.nl/examen-doen/oefenen.jsp)
+  - [oefenen.nl](https://oefenen.nl/program/overview)
 
+### Reading
+
+- Do practice exams, over and over. Start with them — not with `table:/reading?columns=name_en#Reading lexic`.
+- Watch for **repeats** — focus on them.
+
+### Speaking
+
+- [Ad Appel: A2 – Spreken 2025](https://www.youtube.com/watch?v=0ZwElCYAfzI&list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf)
+- [Ad Appel: A2 – Spreken 2025](https://www.youtube.com/watch?v=_tkoK4nhpVU&list=PLXhM-IdBEVjgVPw6drrCScntDW05asFzL)
+
+### Listening
+
+- [inburgeren.nl](https://inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)
+- **Use Dutch app**
+
+> I skipped TV and other media — they don't speak at exam level. To just pass, stick to exam examples.
+
+### Writing
+
+- Work through the practice exams (Use Dutch + official Inburgering).
+- **Build a list of ready-made sentences** to reuse in the exam.
+- Keep them _super_ simple — the more you write, the more you can get wrong.
+- Reuse the same sentence structure, and stick to `omdat` or `want` for "because" so the pattern becomes automatic.
+
+`dialog:06-mijn-dag:Mijn dag`
+
+## Next level
+
+- [Staatsexamen NT2-I Spreken (B1)](https://nt2-oefenomgeving.facet.onl/facet-openbaar-portaal/oefenen/examens/NT2-I/Spreken)
+
+- [Staatsexamen NT2-II Spreken (B2)](https://nt2-oefenomgeving.facet.onl/facet-openbaar-portaal/oefenen/examens/NT2-II/Spreken)

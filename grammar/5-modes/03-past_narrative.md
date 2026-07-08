@@ -19,24 +19,6 @@ Common mistakes
 - Applying the kofschip rule to the wrong consonant — say the *stem*, not the infinitive, in your head.
 - Putting the past participle in the middle of the sentence rather than at the end.
 
-## Sequencing Events: First, Then, Finally
-
-Once you can build single-tense sentences, the next step is **stitching events into a narrative** — sequencing them in time, distinguishing past habits from past events, and weaving present commentary into past stories. This file covers the connectives, tense shifts, and discourse markers that make natural-sounding Dutch narratives possible.
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| **eerst** | first | **Eerst** stonden we op. (First we got up.) |
-| **daarna** | then / after that | **Daarna** ontbeten we samen. (After that we had breakfast together.) |
-| **vervolgens** | subsequently / next | **Vervolgens** namen we de fiets naar het station. (Next we took the bike to the station.) |
-| **toen** | then (at that point) | **Toen** ging het licht uit. (Then the light went out.) |
-| **even later** | a little later | **Even later** zaten we al in de trein. (A little later we were already on the train.) |
-| **uiteindelijk** | eventually | **Uiteindelijk** kwamen we aan. (Eventually we arrived.) |
-| **ten slotte / tenslotte** | finally / lastly | **Ten slotte** kwamen we om elf uur in Utrecht aan. (Finally we arrived in Utrecht at eleven.) |
-
-> Each of these can sit at the start of the clause; remember the **V2 rule** — when an adverb opens, the verb still comes second: *Daarna **ontbeten** we …*.
-
----
-
 ## **toen** vs **als** vs **wanneer** — Three Words for "When"
 
 This is the single biggest source of mistakes in Dutch narration.
@@ -68,8 +50,6 @@ Time subordinators (*toen, terwijl, voordat, nadat, zodra, totdat, sinds*) send 
 - *Bel me **zodra** je **aankomt**.*
 - ***Nadat** we **gegeten hadden**, gingen we wandelen.* (note pluperfect for the earlier event)
 
-> For the full vocabulary of these subordinators with translations see [subordinating conjunctions](/#/grammar?doc=5-sentences/03-subordinating-conjunctions.md). The general subordinate-clause word-order rule is in [word order](/#/grammar?doc=4-modes/00-indicative.md).
-
 ## The Pluperfect (Voltooid Verleden Tijd, VVT)
 
 For events that happened **before** another past event — equivalent to English "had + past participle".
@@ -88,20 +68,14 @@ The auxiliary takes the verb-second position; the past participle goes to the en
 - *Ik **heb** gisteren een brief **geschreven**.* — I wrote a letter yesterday.
 - *Hij **is** vanmorgen naar Amsterdam **gegaan**.* — He went to Amsterdam this morning.
 
-## Discourse Markers: Sounding Natural
-
-| Dutch | Function | Example |
-|-------|----------|---------|
-| **plotseling / opeens** | suddenly | **Opeens** stond hij op en vertrok. |
-| **ineens** | all at once | Het **ineens** begon te regenen. |
-| **op een dag** | one day | **Op een dag** kwam er een vreemdeling. |
-| **kort daarna** | shortly after | **Kort daarna** belde ze me. |
-| **uren later** | hours later | **Uren later** waren we nog onderweg. |
-| **uiteindelijk** | in the end | **Uiteindelijk** kwam alles goed. |
-
 ## A Worked Example: Mini-Story
 
-> ***Vorige week** ging ik naar Amsterdam. **Toen** ik daar **aankwam**, **regende** het hard. Ik **had** mijn paraplu **vergeten**, dus ik **rende** naar het dichtstbijzijnde café. **Daar** dronk ik een warme chocolademelk **terwijl** de regen **viel**. **Even later** kwam de zon weer en **vervolgde** ik mijn wandeling. **Uiteindelijk** kwam ik **'s avonds** moe maar tevreden thuis.*
+ ***Vorige week** ging ik naar Amsterdam.
+ **Toen** ik daar **aankwam**, **regende** het hard.
+ Ik **had** mijn paraplu **vergeten**, dus ik **rende** naar het dichtstbijzijnde café.
+ **Daar** dronk ik een warme chocolademelk **terwijl** de regen **viel**.
+ **Even later** kwam de zon weer en **vervolgde** ik mijn wandeling.
+ **Uiteindelijk** kwam ik **'s avonds** moe maar tevreden thuis.*
 
 Watch:
 

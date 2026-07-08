@@ -10,6 +10,8 @@
 | `of` | or | thee **of** koffie (tea or coffee) |
 | `maar` | but | Ik hou van je, **maar**... (I love you, but...) |
 | `ook` | also | Ik **ook** wil gaan. (I also want to go.) |
+| `bovendien` | moreover | Het is duur, **bovendien** is het ver. (It's expensive, moreover it's far.) |
+| `daarnaast` | besides | **Daarnaast** is er nog een probleem. (Besides, there's another problem.) |
 | `zonder` | without | Koffie *zonder* suiker. |
 | `omdat` | because | Ik kom laat **omdat** ik ziek was. (I'm late because I was sick.) |
 | `want` | for/because | Hij is thuis **want** hij is ziek. (He's home because he's sick.) |
@@ -49,13 +51,41 @@ Prepositions play three roles in Dutch:
 | `over` target | about | Een boek *over* geschiedenis. |
 | `tegen` target | against / to (someone) | Hij praat *tegen* zijn baas. |
 
-## Conversation flow
+## Sequencing Events
+
+Once you can build single-tense sentences, the next step is **stitching events into a narrative** — sequencing them in time, distinguishing past habits from past events, and weaving present commentary into past stories. This file covers the connectives, tense shifts, and discourse markers that make natural-sounding Dutch narratives possible.
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| `eerst` | first | **Eerst** drink ik koffie, dan ga ik werken. (First I drink coffee, then I go to work.) |
+| `voor` / `voordat` | before | Voor*het eten was ik moe. Voordat* ik vertrek, bel ik. |
+| `na` / `nadat` | after | `Nadat* ik at, wandelde ik.  |
+| `later` | later | Ik bel je **later** terug. (I'll call you back later.) |
+| `dan / daarna` | then / afterwards | We eten, **daarna** kijken we een film. (We eat, then we watch a film.) |
+| `toen` | then (past tense) | **Toen** was ik nog jong. (Then I was still young.) |
+| `zodra` | as soon as | Bel me *zodra* je aankomt. (Call me as soon as you arrive.) |
+| `over` | in (X time from now) | Ik bel je **over** vijf minuten. |
+| `geleden` | ago (X time before now) | Ik ben hier drie jaar **geleden** begonnen. |
+| `tevoren` | beforehand | Ik had het je **van tevoren** gezegd. (I'd told you beforehand.) |
+| `uiterlijk` | at the latest / no later than | Ik ben er **uiterlijk** om acht uur. (I'll be there by eight at the latest.) |
+| `alsnog` | after all / belatedly | Hij besloot **alsnog** te komen. (He decided to come after all.) |
+| **vervolgens** | subsequently / next | **Vervolgens** namen we de fiets naar het station. (Next we took the bike to the station.) |
+| **even later** | a little later | **Even later** zaten we al in de trein. (A little later we were already on the train.) |
+| **uiteindelijk** | eventually | **Uiteindelijk** kwamen we aan. (Eventually we arrived.) |
+| **ten slotte / tenslotte** | finally / lastly | **Ten slotte** kwamen we om elf uur in Utrecht aan. (Finally we arrived in Utrecht at eleven.) |
+| `eindelijk` / `uiteindelijk` | finally | **Uiteindelijk** kwam de trein aan. (Finally the train arrived.) |
+| `doorgaan` | to continue / go on | De les gaat `door`. (The lesson goes ahead.) — separable: *gaan … door*. |
+| `volgen` | to follow / take (a course) | Ik `volg` een cursus Nederlands. (I'm taking a Dutch course.) |
+
+> Each of these can sit at the start of the clause; remember the **V2 rule** — when an adverb opens, the verb still comes second: *Daarna **ontbeten** we …*.
+
+> *toen* vs *dan*: both mean "then," but `toen` is only used with past-tense events; `dan` with present/future or sequencing.
+
+## Conversation support
 
 | Dutch | English | Usage |
 |-------|---------|-------|
-| `bovendien` | moreover | Het is duur, **bovendien** is het ver. (It's expensive, moreover it's far.) |
 | `trouwens` | by the way | **Trouwens**, hoe gaat het met je? (By the way, how are you?) |
-| `daarnaast` | besides | **Daarnaast** is er nog een probleem. (Besides, there's another problem.) |
 | `nog wat` / `wat nu` | also, another thing | En **nog wat**, bel me later. (Also, call me later.) |
 | `niet alleen...maar ook` | not only...but also | **Niet alleen** ik, **maar ook** mijn broer. (Not only me, but also my brother.) |
 | `kijk` | look/see | **Kijk**, zo werkt het. (Look, this is how it works.) |
@@ -68,10 +98,7 @@ Prepositions play three roles in Dutch:
 | `hoe zal ik het zeggen` | how shall I put it | **Hoe zal ik het zeggen**... (How shall I put it...) |
 | `hé` | hey | **Hé**, wat leuk! (Hey, how nice!) |
 | `bijvoorbeeld` | for example | Ik hou van fruit, **bijvoorbeeld** appels. (I like fruit, for example apples.) |
+| `voorbeeld` | example | Geef een `voorbeeld`. (Give an example.) — cf. `bijvoorbeeld` (for example). |
 | `namelijk` | namely / you see | Ik kom niet, ik ben `namelijk` ziek. (I'm not coming; I'm ill, you see.) |
 | `kortom` | in short | **Kortom**, het was een disaster. (In short, it was a disaster.) |
 | `al met al` | all in all | **Al met al** was het goed. (All in all, it was good.) |
-| `eindelijk` / `uiteindelijk` | finally | **Uiteindelijk** kwam de trein aan. (Finally the train arrived.) |
-| `doorgaan` | to continue / go on | De les gaat `door`. (The lesson goes ahead.) — separable: *gaan … door*. |
-| `volgen` | to follow / take (a course) | Ik `volg` een cursus Nederlands. (I'm taking a Dutch course.) |
-| `voorbeeld` | example | Geef een `voorbeeld`. (Give an example.) — cf. `bijvoorbeeld` (for example). |
