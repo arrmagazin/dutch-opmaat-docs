@@ -1,0 +1,20 @@
+{
+  "id": "22-de-eerste-schooldag",
+  "category": "school",
+  "number": 2,
+  "title": "De eerste schooldag",
+  "description": "Emma vraagt haar buurjongen Tim naar zijn eerste schooldag.",
+  "situation": "Emma vraagt haar buurjongen Tim naar zijn eerste schooldag.",
+  "turns": [
+    { "speaker": "Emma", "text": "Hoi Tim, hoe was je eerste schooldag?", "hint": "Hi Tim, how was your first day of school?" },
+    { "speaker": "Tim", "text": "Heel leuk! Ik zit in een gezellige klas.", "hint": "Really nice! I'm in a friendly class." },
+    { "speaker": "Emma", "text": "En hoe is je leraar?", "hint": "And what is your teacher like?" },
+    { "speaker": "Tim", "text": "Aardig. Hij legt de les rustig uit.", "hint": "Nice. He explains the lesson calmly." },
+    { "speaker": "Emma", "text": "Heb je al veel huiswerk gekregen?", "hint": "Did you already get a lot of homework?" },
+    { "speaker": "Tim", "text": "Ja, ik moet een hoofdstuk lezen uit mijn boek.", "hint": "Yes, I have to read a chapter from my book." },
+    { "speaker": "Emma", "text": "Wat is je favoriete vak?", "hint": "What is your favourite subject?" },
+    { "speaker": "Tim", "text": "Ik vind aardrijkskunde het leukst.", "hint": "I like geography best." },
+    { "speaker": "Emma", "text": "En hebben jullie een lange pauze?", "hint": "And do you have a long break?" },
+    { "speaker": "Tim", "text": "Ja, dan spelen we op het schoolplein.", "hint": "Yes, then we play in the schoolyard." }
+  ]
+}

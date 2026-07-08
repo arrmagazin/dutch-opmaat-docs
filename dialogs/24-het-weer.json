@@ -1,0 +1,19 @@
+{
+  "id": "24-het-weer",
+  "category": "weer",
+  "number": 4,
+  "title": "Het weer",
+  "description": "Lisa en Bram kijken naar buiten en praten over het weer.",
+  "situation": "Lisa en Bram kijken naar buiten en praten over het weer.",
+  "turns": [
+    { "speaker": "Lisa", "text": "Kijk eens naar buiten, wat een mooi weer!", "hint": "Look outside, what lovely weather!" },
+    { "speaker": "Bram", "text": "Ja, de zon schijnt. Zullen we gaan wandelen?", "hint": "Yes, the sun is shining. Shall we go for a walk?" },
+    { "speaker": "Lisa", "text": "Goed idee. Maar het weerbericht zei dat het later gaat regenen.", "hint": "Good idea. But the forecast said it's going to rain later." },
+    { "speaker": "Bram", "text": "Echt? Hoeveel graden is het nu?", "hint": "Really? How many degrees is it now?" },
+    { "speaker": "Lisa", "text": "Ongeveer achttien graden, dus lekker warm.", "hint": "About eighteen degrees, so nice and warm." },
+    { "speaker": "Bram", "text": "Dan nemen we voor de zekerheid een paraplu mee.", "hint": "Then let's bring an umbrella just in case." },
+    { "speaker": "Lisa", "text": "Prima. Ik zie al donkere wolken in de verte.", "hint": "Fine. I already see dark clouds in the distance." },
+    { "speaker": "Bram", "text": "Als het gaat onweren, gaan we snel naar huis.", "hint": "If there's a thunderstorm, we'll go home quickly." },
+    { "speaker": "Lisa", "text": "Afgesproken. Kom, laten we van de zon genieten!", "hint": "Deal. Come on, let's enjoy the sun!" }
+  ]
+}

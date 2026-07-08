@@ -1,0 +1,20 @@
+{
+  "id": "23-de-familiefoto",
+  "category": "familie",
+  "number": 3,
+  "title": "De familiefoto",
+  "description": "Nour laat Sam een foto van haar familie zien en vertelt over haar familieleden.",
+  "situation": "Nour laat Sam een foto van haar familie zien.",
+  "turns": [
+    { "speaker": "Nour", "text": "Kijk, dit is een foto van mijn familie.", "hint": "Look, this is a photo of my family." },
+    { "speaker": "Sam", "text": "Wat een grote familie! Wie zijn dit?", "hint": "What a big family! Who are these people?" },
+    { "speaker": "Nour", "text": "Dit zijn mijn ouders, mijn vader en mijn moeder.", "hint": "These are my parents, my father and my mother." },
+    { "speaker": "Sam", "text": "En dit meisje naast jou?", "hint": "And this girl next to you?" },
+    { "speaker": "Nour", "text": "Dat is mijn zus. Ik heb ook een broer.", "hint": "That's my sister. I also have a brother." },
+    { "speaker": "Sam", "text": "Wonen jullie allemaal bij elkaar in de buurt?", "hint": "Do you all live near each other?" },
+    { "speaker": "Nour", "text": "Ja, mijn opa en oma wonen ook dichtbij.", "hint": "Yes, my grandpa and grandma live close by too." },
+    { "speaker": "Sam", "text": "Leuk. Is je zus getrouwd?", "hint": "Nice. Is your sister married?" },
+    { "speaker": "Nour", "text": "Ja, en ze heeft twee kinderen. Ik ben dus tante!", "hint": "Yes, and she has two children. So I'm an aunt!" },
+    { "speaker": "Sam", "text": "Wat leuk! Je hebt een gezellig gezin.", "hint": "How nice! You have a lovely family." }
+  ]
+}

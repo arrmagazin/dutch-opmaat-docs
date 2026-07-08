@@ -68,6 +68,8 @@ Dutch combines `er` with the preposition into a single word — called an **er-w
 | af | *eraf* | Haal het label eraf.* — Take the label off (it). |
 | omheen | *eromheen* | Er staat een hek omheen. Er staat een hek **eromheen**.* — There's a fence around it. |
 
+The er-word `eruit` also forms the fixed verb *eruitzien* — "to look / appear": *Je ziet er moe uit.* (You look tired.)
+
 > **Person vs. thing:** Er-words only replace **things**. For people, use the regular preposition + pronoun:
 >
 > - *Ik denk aan hem.* (I'm thinking about him.) — NOT ~~*ik denk eraan*~~ for a person
@@ -86,3 +88,15 @@ Er-words can — and often must — be **split** when other words (adverbs, nega
 
 > The split form is extremely common in speech.
 > Beginners often produce the unsplit form, which is grammatical but sounds bookish.
+
+## Demonstrative daar-words
+
+Swap `er` for `daar` and you get the **stressed, pointing** version — "in *that*", "for *that*". Same formation, more emphasis.
+
+| Daar-word | English | Example |
+|-----------|---------|---------|
+| `daarin` | in it / in there | Er zit iets `daarin`. (There's something in there.) |
+| `daarvoor` | for that / before that | Ik heb `daarvoor` betaald. (I paid for that.) — ook: de dag `daarvoor` (the day before that). |
+| `daarvan` | of that / of them | Ik heb `daarvan` gehoord. (I've heard of that.) |
+
+> `daarom` (therefore) and `daarna` (after that) belong to the same family — `daar` + preposition frozen into a fixed adverb.

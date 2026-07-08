@@ -23,7 +23,7 @@ The `grammar/` folder is split into six layers; each subfolder contains short ma
 | `4-modes/` | clause modes: indicative, negative, modal, narrative, imperative, interrogative, passive |
 | `5-sentences/` | coordination, subordination, relative clauses, reported speech |
 
-Pages carry a CEFR level marker (*(A1)*, *(A2)*, *(B1)*, *(B2)*) next to the title so learners can self-sequence.
+Pages carry a CEFR level marker (, *(A2)*, *(B1)*, *(B2)*) next to the title so learners can self-sequence.
 
 ## How the content is served
 

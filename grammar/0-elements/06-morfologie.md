@@ -105,8 +105,6 @@ Suffixes change a word's **part of speech** or its **shade of meaning**.
 | **-s** | turns adj. → adverb | dagelijk**s**, plotseling**s** | *daily*, *suddenly* |
 | **-lijks** | recurring time | jaar**lijks**, week**lijks** | *yearly*, *weekly* |
 
----
-
 ## Flexies (Inflections)
 
 Inflectional endings attach to the very edge of a word and signal **grammatical role**.

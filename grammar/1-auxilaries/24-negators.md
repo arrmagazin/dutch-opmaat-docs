@@ -1,6 +1,6 @@
 # Negation in Dutch  *(A2)*
 
-Dutch has two main negators: **niet** (not) and **geen** (no/not any).
+Dutch has two main negators: `niet` (not) and `note:geen` (no/not any).
 
 Choosing between them is rule-based; placing **niet** correctly is the trickier skill.
 
@@ -66,21 +66,6 @@ If a sentence ends in a participle, infinitive, or a separable prefix at the end
 | Ik heb hem **niet** gezien. |
 | Ik wil **niet** komen. |
 | Hij staat **niet** op. |
-
-## **geen** in Detail
-
-**geen** replaces **een** or *no article* in the negative.
-
-| Positive | Negative |
-|----------|----------|
-| Ik heb **een** broer. | Ik heb **geen** broer. |
-| Hij heeft **vrienden**. | Hij heeft **geen** vrienden. |
-| Er is **brood**. | Er is **geen** brood. |
-
-Like the article *een*, **geen** doesn't change for gender, but adjectives after it follow the same inflection rules:
-
-- *geen **groot** huis* (het-word, indefinite singular → no -e)
-- *geen **grote** auto* (de-word → -e)
 
 ## Other Negative Words
 

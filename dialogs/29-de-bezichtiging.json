@@ -1,0 +1,20 @@
+{
+  "id": "29-de-bezichtiging",
+  "category": "wonen",
+  "number": 9,
+  "title": "De bezichtiging",
+  "description": "Jasper bezichtigt een appartement met makelaar Ilse.",
+  "situation": "Jasper bezichtigt een appartement met makelaar Ilse.",
+  "turns": [
+    { "speaker": "Jasper", "text": "Goedemiddag, ik kom voor de bezichtiging van het appartement.", "hint": "Good afternoon, I'm here for the viewing of the apartment." },
+    { "speaker": "Ilse", "text": "Welkom! Kom binnen. Dit is de woonkamer met een balkon.", "hint": "Welcome! Come in. This is the living room with a balcony." },
+    { "speaker": "Jasper", "text": "Wat een licht appartement. Is het gemeubileerd?", "hint": "What a bright apartment. Is it furnished?" },
+    { "speaker": "Ilse", "text": "Ja, het is gemeubileerd. De keuken en de badkamer zijn hier.", "hint": "Yes, it's furnished. The kitchen and the bathroom are here." },
+    { "speaker": "Jasper", "text": "Mooie buurt ook. Wat is de huur per maand?", "hint": "Nice neighborhood too. What is the rent per month?" },
+    { "speaker": "Ilse", "text": "De huur is 950 euro, inclusief gas en licht.", "hint": "The rent is 950 euros, including gas and electricity." },
+    { "speaker": "Jasper", "text": "En hoeveel borg moet ik betalen?", "hint": "And how much deposit must I pay?" },
+    { "speaker": "Ilse", "text": "Eén maand borg, en daarna tekenen we het huurcontract.", "hint": "One month's deposit, and then we sign the rental contract." },
+    { "speaker": "Jasper", "text": "Prima. Wanneer kan ik erin?", "hint": "Great. When can I move in?" },
+    { "speaker": "Ilse", "text": "De vorige huurder verhuist volgende week, dus daarna krijg je de sleutel.", "hint": "The previous tenant moves out next week, so after that you get the key." }
+  ]
+}

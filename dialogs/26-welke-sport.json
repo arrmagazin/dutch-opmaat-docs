@@ -1,0 +1,19 @@
+{
+  "id": "26-welke-sport",
+  "category": "sport",
+  "number": 6,
+  "title": "Welke sport doe jij?",
+  "description": "Karim vraagt Eva welke sport zij doet.",
+  "situation": "Karim vraagt Eva welke sport zij doet.",
+  "turns": [
+    { "speaker": "Karim", "text": "Hoi Eva, doe jij aan sport?", "hint": "Hi Eva, do you do any sports?" },
+    { "speaker": "Eva", "text": "Ja, ik ga twee keer per week zwemmen. En jij?", "hint": "Yes, I go swimming twice a week. And you?" },
+    { "speaker": "Karim", "text": "Ik voetbal in een team. Zondag hebben we een wedstrijd.", "hint": "I play football in a team. On Sunday we have a match." },
+    { "speaker": "Eva", "text": "Leuk! Winnen jullie vaak?", "hint": "Nice! Do you win often?" },
+    { "speaker": "Karim", "text": "Soms. Vorige week verloren we, maar het was leuk.", "hint": "Sometimes. Last week we lost, but it was fun." },
+    { "speaker": "Eva", "text": "Sporten is gezond. Ik ga soms ook hardlopen.", "hint": "Doing sports is healthy. I sometimes go running too." },
+    { "speaker": "Karim", "text": "Ga je ook naar de sportschool?", "hint": "Do you also go to the gym?" },
+    { "speaker": "Eva", "text": "Ja, om te trainen. Ga je mee, zaterdag?", "hint": "Yes, to train. Are you coming along on Saturday?" },
+    { "speaker": "Karim", "text": "Goed idee! Dan blijf ik lekker in vorm.", "hint": "Good idea! Then I'll stay nicely in shape." }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "30-de-uitgaven",
+  "category": "geld",
+  "number": 10,
+  "title": "De uitgaven",
+  "description": "Rob en Nina praten over hun uitgaven deze maand en maken een budget.",
+  "situation": "Rob en Nina praten over hun uitgaven deze maand.",
+  "turns": [
+    { "speaker": "Nina", "text": "Rob, we hebben deze maand veel geld uitgegeven.", "hint": "Rob, we've spent a lot of money this month." },
+    { "speaker": "Rob", "text": "Ja, dat klopt. De huur was ook hoger dan vorig jaar.", "hint": "Yes, that's right. The rent was higher than last year too." },
+    { "speaker": "Nina", "text": "En de boodschappen zijn ook duurder geworden.", "hint": "And the groceries have become more expensive too." },
+    { "speaker": "Rob", "text": "Misschien moeten we een budget maken.", "hint": "Maybe we should make a budget." },
+    { "speaker": "Nina", "text": "Goed idee. Dan zien we precies onze uitgaven.", "hint": "Good idea. Then we see exactly what our expenses are." },
+    { "speaker": "Rob", "text": "We kunnen ook elke maand wat sparen.", "hint": "We can also save a bit every month." },
+    { "speaker": "Nina", "text": "Ja, ik zet honderd euro op de spaarrekening.", "hint": "Yes, I'll put a hundred euros in the savings account." },
+    { "speaker": "Rob", "text": "En we letten voortaan op de kleintjes.", "hint": "And from now on we watch the pennies." },
+    { "speaker": "Nina", "text": "Precies. Dan kunnen we straks weer op vakantie.", "hint": "Exactly. Then later we can go on holiday again." },
+    { "speaker": "Rob", "text": "Afgesproken! Ik betaal vanavond met de pinpas.", "hint": "Deal! I'll pay by card tonight." }
+  ]
+}

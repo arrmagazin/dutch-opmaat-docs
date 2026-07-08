@@ -1,0 +1,19 @@
+{
+  "id": "21-het-nieuwe-huis",
+  "category": "wonen",
+  "number": 1,
+  "title": "Het nieuwe huis",
+  "description": "Sofie geeft Daan een rondleiding door haar nieuwe huis.",
+  "situation": "Sofie laat haar vriend Daan haar nieuwe huis zien.",
+  "turns": [
+    { "speaker": "Sofie", "text": "Welkom! Kom binnen, dit is ons nieuwe huis.", "hint": "Welcome! Come in, this is our new house." },
+    { "speaker": "Daan", "text": "Wat een mooi huis! Doe ik mijn schoenen uit?", "hint": "What a nice house! Shall I take off my shoes?" },
+    { "speaker": "Sofie", "text": "Ja, graag. Je kunt ze in de gang zetten.", "hint": "Yes, please. You can put them in the hallway." },
+    { "speaker": "Daan", "text": "Is dit de woonkamer? Wat is het hier gezellig.", "hint": "Is this the living room? How cozy it is here." },
+    { "speaker": "Sofie", "text": "Dank je. De keuken is hiernaast en boven zijn de slaapkamers.", "hint": "Thanks. The kitchen is next door and the bedrooms are upstairs." },
+    { "speaker": "Daan", "text": "En heb je ook een tuin?", "hint": "And do you also have a garden?" },
+    { "speaker": "Sofie", "text": "Ja, een kleine tuin achter het huis.", "hint": "Yes, a small garden behind the house." },
+    { "speaker": "Daan", "text": "Heerlijk. Bedankt voor de rondleiding!", "hint": "Lovely. Thanks for the tour!" },
+    { "speaker": "Sofie", "text": "Graag gedaan. Wil je iets drinken?", "hint": "You're welcome. Would you like something to drink?" }
+  ]
+}

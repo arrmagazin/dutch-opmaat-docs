@@ -45,17 +45,17 @@ When **wat** is the object of a preposition for a *thing*, use **waar + preposit
 
 ## **hoe** — manner, state, and combinations
 
-By itself, **hoe** asks "how?". It also combines with adjectives to form quantitative or qualitative questions: **hoe + adjective + verb + subject + …?**
+By itself, `hoe` asks "how?". It also combines with adjectives to form quantitative or qualitative questions: **hoe + adjective + verb + subject + …?**
 
 | Combo | English | Example |
 |-------|---------|---------|
-| **hoe oud** | how old | **Hoe oud** ben je? |
-| **hoe lang** | how long | **Hoe lang** woon je hier? |
-| **hoe ver** | how far | **Hoe ver** is het? |
-| **hoe groot** | how big | **Hoe groot** is je huis? |
-| **hoe vaak** | how often | **Hoe vaak** sport je? |
-| **hoe duur** | how expensive | **Hoe duur** is dat? |
-| **hoe laat** | what time | **Hoe laat** is het? |
+| `hoe oud` | how old | **Hoe oud** ben je? |
+| `hoe lang` | how long | **Hoe lang** woon je hier? |
+| `hoe ver` | how far | **Hoe ver** is het? |
+| `hoe groot` | how big | **Hoe groot** is je huis? |
+| `hoe vaak` | how often | **Hoe vaak** sport je? |
+| `hoe duur` | how expensive | **Hoe duur** is dat? |
+| `hoe laat` | what time | **Hoe laat** is het? |
 
 ## **welk / welke** — agreement
 
@@ -70,7 +70,7 @@ Without a following noun, use **welke** for both: *Er staan twee fietsen — **w
 
 ## **hoeveel** — invariant
 
-Doesn't change for gender or number. Works for countable and uncountable:
+`hoeveel` doesn't change for gender or number. Works for countable and uncountable:
 
 - *Hoeveel **broers** heb je?* — How many brothers?
 - *Hoeveel **suiker** wil je?* — How much sugar?
@@ -117,8 +117,9 @@ To ask a question about an er-word, replace `er` with `waar`:
 
 | Statement | Question |
 |-----------|----------|
-| Ik denk **er**aan. | **Waar**denk je aan?* — What are you thinking about? |
-| Hij betaalt **er**voor. | **Waar**voor betaalt hij?* — What is he paying for? |
-| Ze zitten **er**op te wachten. | **Waar**op zitten ze te wachten?* — What are they waiting for? |
+| Ik denk **er**aan. | `Waaraan` denk je? — What are you thinking about? |
+| Hij betaalt **er**voor. | `Waarvoor` betaalt hij? — What is he paying for? |
+| Ze zitten **er**op te wachten. | `Waarop` zitten ze te wachten? — What are they waiting for? |
+| We praten **er**over. | `Waarover` praat je? — What are you talking about? |
 
 > Like er-words, waar-words can also split: *Waar denk je **aan**?*

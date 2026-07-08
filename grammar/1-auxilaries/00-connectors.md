@@ -1,5 +1,7 @@
 # Connectors
 
+ `table:videos?columns=words&groupBy=level`
+
 ## Conjunctions
 
 | Dutch | English | Example |
@@ -66,6 +68,10 @@ Prepositions play three roles in Dutch:
 | `hoe zal ik het zeggen` | how shall I put it | **Hoe zal ik het zeggen**... (How shall I put it...) |
 | `hé` | hey | **Hé**, wat leuk! (Hey, how nice!) |
 | `bijvoorbeeld` | for example | Ik hou van fruit, **bijvoorbeeld** appels. (I like fruit, for example apples.) |
+| `namelijk` | namely / you see | Ik kom niet, ik ben `namelijk` ziek. (I'm not coming; I'm ill, you see.) |
 | `kortom` | in short | **Kortom**, het was een disaster. (In short, it was a disaster.) |
 | `al met al` | all in all | **Al met al** was het goed. (All in all, it was good.) |
 | `eindelijk` / `uiteindelijk` | finally | **Uiteindelijk** kwam de trein aan. (Finally the train arrived.) |
+| `doorgaan` | to continue / go on | De les gaat `door`. (The lesson goes ahead.) — separable: *gaan … door*. |
+| `volgen` | to follow / take (a course) | Ik `volg` een cursus Nederlands. (I'm taking a Dutch course.) |
+| `voorbeeld` | example | Geef een `voorbeeld`. (Give an example.) — cf. `bijvoorbeeld` (for example). |

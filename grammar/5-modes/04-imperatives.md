@@ -1,4 +1,4 @@
-# Imperative Forms (Commands & Instructions)  *(A1)*
+# Imperative Forms (Commands & Instructions)  
 
 Use the imperative to give commands, instructions, directions, recipes, warnings, and friendly invitations. Dutch imperatives are short and direct — softening words make them polite.
 

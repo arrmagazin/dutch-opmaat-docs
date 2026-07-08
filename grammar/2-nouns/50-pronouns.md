@@ -1,4 +1,4 @@
-# Pronouns in Dutch  *(A1)*
+# Pronouns in Dutch  
 
 Dutch has several categories of pronouns.
 Each category has a specific role in a sentence.

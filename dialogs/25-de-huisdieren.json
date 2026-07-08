@@ -1,0 +1,20 @@
+{
+  "id": "25-de-huisdieren",
+  "category": "dieren",
+  "number": 5,
+  "title": "De huisdieren",
+  "description": "Tom vertelt Anna over zijn huisdieren.",
+  "situation": "Tom vertelt Anna over zijn huisdieren.",
+  "turns": [
+    { "speaker": "Tom", "text": "Ik heb twee huisdieren thuis.", "hint": "I have two pets at home." },
+    { "speaker": "Anna", "text": "Leuk! Wat voor dieren heb je?", "hint": "Nice! What kind of animals do you have?" },
+    { "speaker": "Tom", "text": "Een hond en een kat. De hond heet Max.", "hint": "A dog and a cat. The dog is called Max." },
+    { "speaker": "Anna", "text": "Wat een leuke namen. Is de kat lief?", "hint": "What nice names. Is the cat sweet?" },
+    { "speaker": "Tom", "text": "Ja, je mag haar aaien. Ze vindt dat fijn.", "hint": "Yes, you may pet her. She likes that." },
+    { "speaker": "Anna", "text": "En laat je de hond elke dag uit?", "hint": "And do you walk the dog every day?" },
+    { "speaker": "Tom", "text": "Ja, 's ochtends en 's avonds in het park.", "hint": "Yes, in the morning and evening in the park." },
+    { "speaker": "Anna", "text": "Geef jij ze ook eten?", "hint": "Do you also feed them?" },
+    { "speaker": "Tom", "text": "Natuurlijk, twee keer per dag.", "hint": "Of course, twice a day." },
+    { "speaker": "Anna", "text": "Ik wil ook graag een huisdier.", "hint": "I would also like a pet." }
+  ]
+}

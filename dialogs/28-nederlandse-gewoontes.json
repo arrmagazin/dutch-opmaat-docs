@@ -1,0 +1,20 @@
+{
+  "id": "28-nederlandse-gewoontes",
+  "category": "cultuur",
+  "number": 8,
+  "title": "Nederlandse gewoontes",
+  "description": "Uitwisselingsstudent Marco vraagt Fleur naar Nederlandse gewoontes.",
+  "situation": "Een uitwisselingsstudent, Marco, vraagt Fleur naar Nederlandse gewoontes.",
+  "turns": [
+    { "speaker": "Marco", "text": "Fleur, wat is echt typisch Nederlands?", "hint": "Fleur, what is really typically Dutch?" },
+    { "speaker": "Fleur", "text": "Nou, de fiets natuurlijk! Iedereen gaat op de fiets.", "hint": "Well, the bike of course! Everyone goes by bike." },
+    { "speaker": "Marco", "text": "Ja, dat zie ik. En wat vieren jullie zoal?", "hint": "Yes, I see that. And what do you celebrate?" },
+    { "speaker": "Fleur", "text": "Koningsdag is groot. Dan draagt iedereen oranje.", "hint": "King's Day is big. Then everyone wears orange." },
+    { "speaker": "Marco", "text": "Oranje, leuk! En Sinterklaas, wat is dat?", "hint": "Orange, fun! And Saint Nicholas, what is that?" },
+    { "speaker": "Fleur", "text": "Een oude traditie in december, vooral voor kinderen.", "hint": "An old tradition in December, especially for children." },
+    { "speaker": "Marco", "text": "En het eten? Wat moet ik proberen?", "hint": "And the food? What should I try?" },
+    { "speaker": "Fleur", "text": "Een stroopwafel en natuurlijk haring met uitjes.", "hint": "A syrup waffle and of course herring with onions." },
+    { "speaker": "Marco", "text": "Haring rauw? Spannend! Bedankt, Fleur.", "hint": "Raw herring? Exciting! Thanks, Fleur." },
+    { "speaker": "Fleur", "text": "Graag gedaan. Welkom in Nederland, hoor!", "hint": "You're welcome. Welcome to the Netherlands!" }
+  ]
+}

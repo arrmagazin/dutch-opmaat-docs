@@ -99,7 +99,7 @@ The path is relative to the `grammar/` root, includes the leading number, and en
 
 Place after the H1 title, separated by two spaces, in italics:
 
-- `*(A1)*` — beginner survival; no inflection nuance assumed.
+- `` — beginner survival; no inflection nuance assumed.
 - `*(A2)*` — basic Dutch; can handle de/het, simple verbs, present + perfect.
 - `*(B1)*` — intermediate; comfortable with subordinate clauses, modals, past narrative.
 - `*(B2)*` — upper-intermediate; passive, reported speech, register variation.

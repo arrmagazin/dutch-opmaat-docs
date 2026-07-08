@@ -1,4 +1,4 @@
-# Nouns  *(A1)*
+# Nouns  
 
 ## Articles (Lidwoorden)
 

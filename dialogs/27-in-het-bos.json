@@ -1,0 +1,19 @@
+{
+  "id": "27-in-het-bos",
+  "category": "natuur",
+  "number": 7,
+  "title": "In het bos",
+  "description": "Sanne en Daan maken een wandeling in het bos.",
+  "situation": "Sanne en Daan maken een wandeling in het bos.",
+  "turns": [
+    { "speaker": "Sanne", "text": "Wat is het hier mooi! Ruik je de frisse lucht?", "hint": "How beautiful it is here! Do you smell the fresh air?" },
+    { "speaker": "Daan", "text": "Ja, heerlijk. En de vogels fluiten overal.", "hint": "Yes, lovely. And the birds are singing everywhere." },
+    { "speaker": "Sanne", "text": "Zullen we het pad langs de rivier volgen?", "hint": "Shall we follow the path along the river?" },
+    { "speaker": "Daan", "text": "Goed idee. Kijk, daar staat een hele grote boom.", "hint": "Good idea. Look, there's a really big tree over there." },
+    { "speaker": "Sanne", "text": "Wat een mooi uitzicht op het meer!", "hint": "What a beautiful view of the lake!" },
+    { "speaker": "Daan", "text": "Zullen we even in het gras gaan zitten?", "hint": "Shall we sit down in the grass for a bit?" },
+    { "speaker": "Sanne", "text": "Ja, lekker. De zon schijnt en het is warm.", "hint": "Yes, nice. The sun is shining and it's warm." },
+    { "speaker": "Daan", "text": "Ik geniet echt van de natuur vandaag.", "hint": "I'm really enjoying nature today." },
+    { "speaker": "Sanne", "text": "Ik ook. We moeten vaker naar buiten gaan.", "hint": "Me too. We should go outside more often." }
+  ]
+}
