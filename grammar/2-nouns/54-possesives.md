@@ -1,9 +1,7 @@
 
 # The Possessive Pronouns
 
-Possessives determine **ownership**.
-
-Dutch has both
+Possessives determine **ownership**. Dutch has both
 
 - **possessive pronouns** that sit in front of a noun,
 - and **standalone** forms used without a following noun.
@@ -11,24 +9,14 @@ Dutch has both
 | Person | Possessive | English |
 |--------|----------------|---------|
 | 1st sg | **mijn**  | my |
-| 1st pl | **onze** de / **ons** het | our |
-| 2nd sg (informal) | **jouw / je**  | your |
+| 1st pl - de(pl) | **onze** auto(boeken) | our |
+| 1st pl - het | **ons** huis | our |
+| 2nd sg (informal) | **jouw**  / je  | your |
 | 2nd (formal) | **uw** | your |
 | 2nd pl | **jullie**  | your |
-| 3rd sg masc | **zijn**  | his |
-| 3rd sg neuter | **zijn**  | its |
+| 3rd sg masc/neuter | **zijn**  | his/its |
 | 3rd sg fem | **haar**  | her |
 | 3rd pl | **hun**  | their |
-
-## **onze** vs **ons**
-
-Each pronoun has the **same form before any noun**, with **one exception**: *ons* / *onze*.
-
-Use **onze** before de-words and **ons** before het-words: **onze** auto, **ons** huis
-
-> Plurals are always de-words, so they always take **onze**: *onze kinderen*, *onze huizen*.
-
-## Full vs. Reduced Forms
 
 For 2nd person singular
 
@@ -43,20 +31,7 @@ When the possessive *is* the noun (no following noun), Dutch uses one of two str
 
 ### Pattern A: **van** + object pronoun
 
-Most common in speech.
-
-| English | Dutch |
-|---------|-------|
-| mine | **van mij** |
-| ours | **van ons** |
-| yours (sg) | **van jou** |
-| yours (formal) | **van u** |
-| yours (pl) | **van jullie** |
-| his / its | **van hem** |
-| hers | **van haar** |
-| theirs | **van hen / van hun** |
-
-Examples:
+Most common in speech:
 
 - *Dit boek is **van mij**.* — This book is mine.
 - *Die auto is **van haar**.* — That car is hers.
@@ -65,16 +40,6 @@ Examples:
 ### Pattern B: **de/het** + possessive + **-e**
 
 More formal/written.
-
-| Pronoun | de-form | het-form |
-|---------|---------|----------|
-| 1st sg | **de mijne** | **het mijne** |
-| 2nd sg | **de jouwe** | **het jouwe** |
-| 2nd formal | **de uwe** | **het uwe** |
-| 3rd sg masc | **de zijne** | **het zijne** |
-| 3rd sg fem | **de hare** | **het hare** |
-| 1st pl | **de onze** | **het onze** |
-| 3rd pl | **de hunne** | **het hunne** |
 
 - *Dit is mijn boek. **Het jouwe** ligt daar.* — This is my book. Yours is over there.
 - *Mijn auto is rood. **De hare** is blauw.* — My car is red. Hers is blue.

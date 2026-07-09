@@ -3,7 +3,7 @@
 Dutch has no dedicated future-tense conjugation. Three patterns cover it,
 each with a different feel.
 
-### Present tense + time marker (most common)
+## Present tense + time marker (most common)
 
 If the time is clear from context, just use the **present tense** with a time word.
 This is the everyday way to talk about the future — natural for fixed plans,
@@ -18,7 +18,7 @@ schedules, and near-future events.
 | **over een uur** | Ik **ben** er over een uur. | I'll be there in an hour. |
 | **volgend jaar** | Volgend jaar **werk** ik in Brussel. | Next year I'll be working in Brussels. |
 
-### *gaan* + infinitive (intentional / planned future)
+## *gaan* + infinitive (intentional / planned future)
 
 Use **gaan** + infinitive for something you intend to do, similar to English "I'm going to…".
 Structure: **subject + gaan + … + infinitive (at the end)**.
@@ -35,7 +35,7 @@ Structure: **subject + gaan + … + infinitive (at the end)**.
 
 > Don't double up: ❌ *Ik ga gaan winkelen* → ✅ *Ik ga winkelen*.
 
-### *zullen* + infinitive (formal / promise / prediction)
+## *zullen* + infinitive (formal / promise / prediction)
 
 **zullen** carries intention, promise, prediction, or polite suggestion.
 It is more formal than **gaan**.
@@ -49,7 +49,7 @@ The "Shall we…?" form is one of the most useful Dutch sentence patterns:
 - **Zullen** we **eten**? (Shall we eat?)
 - **Zullen** we naar het strand **gaan**? (Shall we go to the beach?)
 
-### Choosing between the three
+## Choosing between the three
 
 | Situation | Best form | Example |
 |-----------|-----------|---------|
@@ -61,7 +61,7 @@ The "Shall we…?" form is one of the most useful Dutch sentence patterns:
 In casual speech Dutch speakers prefer **present + time word** or **gaan + inf.**
 *Zullen* sounds slightly bookish unless you're proposing or promising.
 
-### Stating plans explicitly
+## Stating plans explicitly
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -71,7 +71,7 @@ In casual speech Dutch speakers prefer **present + time word** or **gaan + inf.*
 
 > *Ik ben van plan om* always pairs with **te + infinitive** at the end of the clause.
 
-### Common mistakes
+## Common mistakes
 
 - Doubling **gaan**: ❌ *Ik ga gaan zwemmen* → ✅ *Ik ga zwemmen*.
 - Using **zullen** for everyday plans (sounds stiff) → use **gaan** + inf. instead.

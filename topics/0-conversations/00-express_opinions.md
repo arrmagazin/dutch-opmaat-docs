@@ -63,11 +63,17 @@
 
 ## Attitude and Preferences
 
+graag → liever → liefst
+
 | Dutch | Function | Example | ExampleEn |
 |-------|----------|---------|---------|
 | Ik wil graag dit | I would like this || |
 | Ik doe graag … | I like doing … | Ik lees **graag** in de tuin. | I like reading in the garden. |
 | Ik heb liever … | I'd rather have … | **Ik heb liever** koffie. | I'd rather have coffee. |
+| `liefst` | preferably / most of all | Ik kom `liefst` morgen. |I'd rather come tomorrow. |
+
+| Dutch | Function | Example | ExampleEn |
+|-------|----------|---------|---------|
 | Ik vind … leuk / niet leuk(saai) | I (don't) like … | Ik vind voetbal **leuk**. | I like football. |
 | Ik vind het prima | I'm fine with it | **Ik vind het prima** zo. | I'm fine with it this way. |
 | Ik hou(geniet) van … | I love / I'm fond of … | **Ik hou van** koffie. | I love coffee. |

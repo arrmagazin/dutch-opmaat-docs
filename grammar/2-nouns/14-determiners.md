@@ -4,17 +4,10 @@
 
 Dutch distinguishes **near** vs. **far** and **de-words** vs. **het-words**.
 
-| | de-word | he**t**-word | English |
-|------|---------|----------|---------|
-| Near | **deze** | di**t** | this |
-| Far | **die** | da**t** | that |
-
-Examples:
-
-- *deze man* — this man (de man, near)
-- *dit kind* — this child (het kind, near)
-- *die vrouw* — that woman (de vrouw, far)
-- *dat huis* — that house (het huis, far)
+| | d**e**-word | he**t**-word  |
+|------|---------|----------|
+| Near(this) | dez**e** man | di**t**  kind |
+| Far(that) | di**e**** vrouw | da**t** huis |  
 
 ### Demostrative pronouns as standalone references
 
@@ -32,18 +25,19 @@ It literally means "the person who" or "the one who". It always refers to a pers
 Enkelvoud: "Degene die het laatst vertrekt, doet het licht uit."
 Meervoud: "Degenen die nog geen kaartje hebben, kunnen achter aansluiten."
 
-## Qualitative determiners (before a noun)
+## Qualitative determiners
 
 | Dutch | English | Example |
 |-------|---------|---------|
 | `hetzelfde` / `dezelfde` als | the same | *Dit boek is `hetzelfde` als dat.* |
-| `andere` /`note:ander` | other / another | de `andere` mensen / een `ander` boek |
-| `vorig` | last / previous | `vorig` jaar (last year) / de `vorige` keer (the previous time) |
-| `note:zulk` | such / like that | **Zulke** situaties leer je van. |
 | `note:dergelijk` | such, similar (formal) | **Dergelijke** problemen komen vaker voor. |
+| `andere` /`note:ander` | other / another | de `andere` mensen / een `ander` boek |
+| `note:zulk` | such / like that | **Zulke** situaties leer je van. |
 | `note:zo'n` | such a (singular) | Ik wil ook **zo'n** auto. |
 
-## Quantifying determiners (before a noun)
+## Quantifying/Selective determiners
+
+Abundance
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -51,16 +45,22 @@ Meervoud: "Degenen die nog geen kaartje hebben, kunnen achter aansluiten."
 | `ieder` `iedere` | each | **Iedere** ochtend drink ik koffie. (Each morning I drink coffee.) |
 | `alle` | all | **Alle** kinderen spelen buiten. (All the children play outside.) |
 | `veel` | a lot / much / many | Ik heb `veel` werk. (I have a lot of work.) |
-| `sommige` | some (certain ones) | **Sommige** mensen houden niet van kaas. (Some people don't like cheese.) |
-| `enkele` | a few, some | **Enkele** studenten kwamen te laat. (A few students arrived late.) |
 | `vooral` | mainly / especially | Ik lees `vooral` romans. (I mostly read novels.) |
 | `meerdere` | several | **Meerdere** landen deden mee. (Several countries took part.) |
-| `note:paar` | a couple, a few | Ik heb **een paar** vragen.  |
 | `alleen` | only / alone | Ik heb `alleen` water. (I only have water.) / Ik ben `alleen`. (I'm alone.) |
-| `veel` | many, much | **Veel** mensen werken thuis. (Many people work from home.) |
+
+Scarcity
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| `sommige` | some (certain ones) | **Sommige** mensen houden niet van kaas. (Some people don't like cheese.) |
+| `enkele` | a few, some | **Enkele** studenten kwamen te laat. (A few students arrived late.) |
+| `note:paar` | a couple, a few | Ik heb **een paar** vragen.  |
 | `weinig` | few, little | **Weinig** mensen weten dat. (Few people know that.) |
 | `enige` | only | Hij is de **enige** die het weet. (He is the only one who knows.) |
 | `beetje` | a few, a little  |  |
+
+Count
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -70,12 +70,10 @@ Meervoud: "Degenen die nog geen kaartje hebben, kunnen achter aansluiten."
 | `triple` | drievoudig ||
 | `quadruple` | viervoudig ||
 
-## Comparative determiners (before a noun)
+## Comparative determiners
 
 | Dutch | English | Example |
 |-------|---------|---------|
+| `note:genoeg` | enough | Ik heb `genoeg` tijd. (I have enough time.) |
 | `meer` | more | Ik wil `meer` koffie. (I want more coffee.) |
 | `minder` | less / fewer | Hij werkt `minder` uren. (He works fewer hours.) |
-| `note:genoeg` | enough | Ik heb `genoeg` tijd. (I have enough time.) |
-
-> `veel` → `meer` → `meest` and `weinig` → `minder` → `minst` are the comparison ladders.

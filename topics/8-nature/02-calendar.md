@@ -169,7 +169,3 @@ For 24-hour formal time (schedules, news): *14:30 → veertien uur dertig*.
 | Tot straks | See you later | **Tot straks**, tot vanavond! | See you later, until tonight! |
 | Het is bijna tijd | It's almost time | **Het is bijna tijd** om te gaan. | It's almost time to go. |
 | Sorry dat ik te laat ben | Sorry I'm late | **Sorry dat ik te laat ben**, er was file. | Sorry I'm late, there was a traffic jam. |
-
-## Dialoog — Short dialog
-
-`dialog:06-mijn-dag:Mijn dag`

@@ -1,6 +1,8 @@
 # Verkleinwoorden (Diminutive)
 
-The diminutive is a hallmark of Dutch — used for size, affection, and even to soften requests (*een biertje, alstublieft*). The base form is **-je**, but the spelling adapts to the final sound of the stem.
+The diminutive is a hallmark of Dutch — used for size, affection, and even to soften requests (*een biertje, alstublieft*).
+
+ The base form is **-je**, but the spelling adapts to the final sound of the stem.
 
 | Stem ends in… | Suffix | Voorbeeld | Diminutive |
 |:--------------|:------:|:----------|:-----------|

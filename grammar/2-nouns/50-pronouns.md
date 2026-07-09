@@ -1,39 +1,40 @@
 # Pronouns in Dutch  
 
 Dutch has several categories of pronouns.
+
 Each category has a specific role in a sentence.
 
-And many have two forms: a **full (stressed)** form and a **reduced (unstressed)** form.
+Some have two forms: a **full (stressed)** and a **reduced (unstressed)**.
 
 ## Personal Subject pronouns
 
-| Person | Full form | Reduced form | English |
-|--------|-----------|--------------|---------|
-| 1st sg | **ik** | 'k | I |
-| 1st pl | **wij** | we | we |
-| 2nd sg | **jij** | je | you (singular) |
-| 2nd sg formal | **u** | u | you (formal) |
-| 2nd pl | **jullie** | — | you (plural) |
-| 3rd sg masc | **hij** | ie | he |
-| 3rd sg fem | **zij** | ze | she |
-| 3rd sg neuter | **het** | 't | it |
-| 3rd pl | **zij** | ze | they |
+| Person | Full / Reduced |  English |
+|--------|-----------|---------|
+| 1st sg | **ik** / 'k | I |
+| 1st pl | **wij** / we | we |
+| 2nd sg | **jij** / je | you (singular) |
+| 2nd sg formal / **u** | u | you (formal) |
+| 2nd pl | **jullie**  | you (plural) |
+| 3rd sg masc | **hij** / ie | he |
+| 3rd sg fem | **zij** / ze | she |
+| 3rd sg neuter | **het** / 't | it |
+| 3rd pl | **zij** / ze | they |
 
 > The reduced forms (je, ze, we) are used in everyday speech. The full forms (jij, zij, wij) are used for emphasis or contrast: *Jij doet het, niet ik.* ("You do it, not me.")
 
 ## Personal Object pronouns
 
-| Person | Form | English |
+| Person | Full / Reduced | English |
 |--------|------|---------|
-| 1st sg | **mij / me** | me |
+| 1st sg | **mij** / me | me |
 | 1st pl | **ons** | us |
-| 2nd sg | **jou / je** | you |
+| 2nd sg | **jou** / je | you |
 | 2nd formal | **u** | you |
 | 2nd pl | **jullie** | you |
 | 3rd sg masc | **hem** | him |
 | 3rd sg fem | **haar** | her |
-| 3rd sg neuter | **het / 't** | it |
-| 3rd pl | **hen / hun / ze** | them |
+| 3rd sg neuter | **het** / 't | it |
+| 3rd pl | **hen / hun** / ze | them |
 
 3rd pl - *hen* vs *hun* vs *ze*:
 
@@ -70,21 +71,15 @@ Common reflexive verbs:
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| **alles** | everything | **Alles** is klaar. (Everything is ready.) |
-| allerlei|||
+| **alles** / allerlei| everything | **Alles** is klaar. (Everything is ready.) |
 | **allemaal** | all, everyone |  |
 | **iedereen** | everybody, everyone | **Iedereen** is welkom. (Everyone is welcome.) |
 | **iemand** | somebody, someone | Er staat **iemand** voor de deur. (Someone is at the door.) |
 | **iets** | something | Ik wil **iets** drinken. (I want something to drink.) |
 | **elkaar** | each other | Ze helpen **elkaar**. (They help each other.) |
-| **wie dan ook** | whoever, anyone at all | Vraag het aan **wie dan ook**. (Ask anyone at all.) |
-| **wat dan ook** | whatever, anything at all | Hij eet **wat dan ook**. (He eats anything at all.) |
-| **niets / niks** | nothing | Er is **niets** gebeurd. (Nothing happened.) |
+| **wie(wat) dan ook** | whoever, anyone at all | Vraag het aan **wie dan ook**. (Ask anyone at all.) |
+| **niets** / niks | nothing | Er is **niets** gebeurd. (Nothing happened.) |
 | **niemand** | nobody, no one | **Niemand** van hen wist het antwoord. (Nobody of them knew the answer.) |
 
 > *elk / ieder* take **-e** before de-words: *elke dag* (every day), *elk kind*
 > (every child — het-word, no -e in older style, though *elk(e)* is now often used for both).
->
-> *geen* negates a noun (replaces *een* / no article); use *niet* to negate verbs,
-> adjectives, or definite nouns: *Ik heb **geen** auto* (I have no car) vs.
-> *Dat is **niet** mijn auto* (That is not my car).

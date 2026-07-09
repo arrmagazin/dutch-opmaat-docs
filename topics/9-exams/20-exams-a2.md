@@ -56,11 +56,6 @@ At the location (Rijswijk)
 - Do practice exams, over and over. Start with them — not with `table:/reading?columns=name_en#Reading lexic`.
 - Watch for **repeats** — focus on them.
 
-### Speaking
-
-- [Ad Appel: A2 – Spreken 2025](https://www.youtube.com/watch?v=0ZwElCYAfzI&list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf)
-- [Ad Appel: A2 – Spreken 2025](https://www.youtube.com/watch?v=_tkoK4nhpVU&list=PLXhM-IdBEVjgVPw6drrCScntDW05asFzL)
-
 ### Listening
 
 - [inburgeren.nl](https://inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)
@@ -68,14 +63,17 @@ At the location (Rijswijk)
 
 > I skipped TV and other media — they don't speak at exam level. To just pass, stick to exam examples.
 
+### Speaking
+
+- [Ad Appel: A2 – Spreken 2025](https://www.youtube.com/watch?v=0ZwElCYAfzI&list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf)
+- [Ad Appel: A2 – Spreken 2025](https://www.youtube.com/watch?v=_tkoK4nhpVU&list=PLXhM-IdBEVjgVPw6drrCScntDW05asFzL)
+
 ### Writing
 
 - Work through the practice exams (Use Dutch + official Inburgering).
 - **Build a list of ready-made sentences** to reuse in the exam.
 - Keep them _super_ simple — the more you write, the more you can get wrong.
 - Reuse the same sentence structure, and stick to `omdat` or `want` for "because" so the pattern becomes automatic.
-
-`dialog:06-mijn-dag:Mijn dag`
 
 ## Next level
 

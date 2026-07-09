@@ -39,7 +39,6 @@
 | Kun je me helpen? | Can you help me? |
 | Heb je een momentje? | Do you have a moment? |
 | Heb je tijd op...? | Do you have time on...? |
-
 | doe maar | just do it / go ahead |
 | maakt niet uit | doesn't matter |
 | en wat dan | so what |

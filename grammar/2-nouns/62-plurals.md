@@ -8,8 +8,6 @@ A handful of nouns take **-eren** or change vowel on top of one of those.
 
 > All Dutch plurals are **de-words** in the plural, even if the singular was *het*: *het boek* → *de boeken*.
 
----
-
 ## The default: -en
 
 This is by far the most common plural. It applies to most nouns that don't fit the -s rule below.
@@ -22,60 +20,31 @@ This is by far the most common plural. It applies to most nouns that don't fit t
 | de vrouw | de **vrouwen** |
 | de hand | de **handen** |
 
-When you add **-en**, Dutch spelling rules often force a small adjustment to the stem. There are four patterns.
+### spelling shifts to keep the vowel sound
 
-### Pattern 1 — Consonant doubling (short vowel stays short)
+When you add **-en**, Dutch spelling rules force keep the vowel sound the same.
+Dutch spelling shifts (, ) just track whether the syllable is closed or open.
+
+#### shift 1 — single consonant letter → double  (short vowel stays short)
 
 If the singular ends in a single consonant after a short vowel, **double the consonant** so the vowel stays short.
 
-| Singular | Plural |
-|----------|--------|
-| de man | de **mannen** |
-| de bus | de **bussen** |
-| de pen | de **pennen** |
-| de pot | de **potten** |
-| het bed | de **bedden** |
+de man → de **mannen**.
 
-### Pattern 2 — Vowel shortening (drop one of a long vowel pair)
+#### shift 2 — double vowel letter → single (long vowel stays long)
 
 If the singular has a long vowel written as a double letter (*aa, ee, oo, uu*) in a closed syllable, drop one of them when the syllable opens up after -en.
 
-| Singular | Plural |
-|----------|--------|
-| de kaas | de **kazen** |
-| de boom | de **bomen** |
-| het uur | de **uren** |
-| de naam | de **namen** |
+de naam → de **namen**.
 
-> Both Pattern 1 and Pattern 2 keep the vowel sound the same. Dutch spelling shifts (double vowel ↔ single vowel, single consonant ↔ double consonant) just track whether the syllable is closed or open.
-
-### Pattern 3 — Final f → v, s → z
+### Final f → v, s → z
 
 Voiceless consonants at the end of a singular often become voiced before -en.
 
-| Singular | Plural |
-|----------|--------|
-| de brief | de **brieven** |
-| het huis | de **huizen** |
-| de wolf | de **wolven** |
-| de reis | de **reizen** |
-| de neus | de **neuzen** |
+- het huis → de **huizen**
+- de wolf → de **wolven**
 
-Exceptions exist (*de chef* → *de chefs*, *de elf* → *de elfen* with f kept) but the f→v / s→z pattern is the default for native words.
-
-### Pattern 4 — No change to the stem
-
-Many nouns simply add -en with no spelling shift.
-
-| Singular | Plural |
-|----------|--------|
-| de hand | de **handen** |
-| de stoel | de **stoelen** |
-| het uur — *wait, this is Pattern 2* | |
-| de vriend | de **vrienden** |
-| de fiets | de **fietsen** |
-
----
+> Exceptions exist (*de chef* → *de chefs*, *de elf* → *de elfen* with f kept) but the f→v / s→z pattern is the default for native words.
 
 ## The -s plural
 
@@ -88,11 +57,11 @@ Use **-s** instead of -en when the singular ends in any of these:
 
 > Vowels that already mark length (*-ie, -ee*) take plain -s without an apostrophe: *de tralie → de tralies*, *het idee → de ideeën* — see "-ee" below.
 
----
-
 ## The -eren plural
 
-A small closed set of mostly **het**-words takes **-eren** instead of -en. There are only a handful — memorize them.
+A small closed set of mostly **het**-words takes **-eren** instead of -en.
+
+ There are only a handful — memorize them.
 
 | Singular | Plural |
 |----------|--------|
@@ -105,23 +74,19 @@ A small closed set of mostly **het**-words takes **-eren** instead of -en. There
 | het kalf | de **kalveren** |
 | het been | de **beenderen** *(only for bones; the body part is* benen*)* |
 
----
-
 ## Irregular plurals
 
 A second small set changes the stem vowel — this is genuine umlaut-like irregularity, not the regular Pattern 1/2 spelling shifts above.
 
 | Singular | Plural |
 |----------|--------|
-| de stad | de **steden** *(a → e)* |
-| het schip | de **schepen** *(i → e)* |
 | het lid | de **leden** *(i → e)* |
+| het schip | de **schepen** *(i → e)* |
+| de stad | de **steden** *(a → e)* |
 | de smid | de **smeden** *(i → e)* |
 | de koe | de **koeien** *(adds -ien)* |
 | de vlo | de **vlooien** |
 | de zee | de **zeeën** |
-
----
 
 ## Zero plural
 
@@ -137,8 +102,6 @@ Some nouns have the **same form in singular and plural**. This is rare in modern
 
 > Outside this measure-after-numeral construction, the regular plural form returns: *de meters op de muur* (the metres on the wall = readouts).
 
----
-
 ## -ee and -ie endings (the dieresis)
 
 When the singular ends in a stressed **-ee** or **-ie**, the plural takes **-ën** with a dieresis to mark that the *e* keeps its own syllable.
@@ -152,8 +115,6 @@ When the singular ends in a stressed **-ee** or **-ie**, the plural takes **-ën
 
 Unstressed **-ie** takes plain -s: *de tralie → de tralies*, *de actie → de acties*.
 
----
-
 ## Compound words
 
 Pluralize **only the final element** — the head of the compound.
@@ -164,8 +125,6 @@ Pluralize **only the final element** — the head of the compound.
 | de kinderkamer | de **kinderkamers** |
 | het stadhuis | de **stadhuizen** |
 | de woordenboek — *wait, this is* het woordenboek | de **woordenboeken** |
-
----
 
 ## Common mistakes
 
