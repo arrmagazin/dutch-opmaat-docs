@@ -55,7 +55,7 @@ Words you meet when reading a home-for-sale ad (koopwoning-advertentie) on a sit
 - [ ] De woning staat **onder bod**.
 - [ ] Helaas, dit huis is al **verkocht**.
 
-**Voorbeeldadvertentie — Sample ad**
+**Voorbeeldadvertentie — Sample ad**:
 
 Karakteristiek appartement te koop — Vuurbaakstraat 8, Den Haag. In het gezellige Oud Scheveningen bieden wij dit charmante **appartement** aan met veel karakter.
 
@@ -65,8 +65,6 @@ Karakteristiek appartement te koop — Vuurbaakstraat 8, Den Haag. In het gezell
 - **Energielabel:** E
 
 Gelegen in een rustige volksbuurt op loopafstand van het strand. Interesse? Neem contact op met de **makelaar** voor een **bezichtiging**.
-
-## Dialoog — Short dialog
 
 `dialog:29-de-bezichtiging: bezichtigt een appartement`
 

@@ -3,16 +3,31 @@
 
 ## Personal questions
 
-- [ ] Hoe heet je? Hoe is je achternaam?
-- [ ] Waar kom je vandaan?
-- [ ] Hoe oud ben je?
-- [ ] Waar woon je? -- Ik woon in...
-- [ ] Hoe lang woon je hier al?
-- [ ] Wat is je adres? Wat is je telefoonnummer?
+- [ ] **Hoe heet** je? Hoe is je **achternaam**?
+- [ ] **Waar kom je vandaan**?
+- [ ] **Hoe oud ben** je?
+- [ ] **Waar woon** je? -- Ik woon in...
+- [ ] **Hoe lang woon** je hier al?
+- [ ] Wat is je **adres**? Wat is je **telefoonnummer**?
 - [ ] Wat doe je (voor werk)? Werk je of studeer je?
 - [ ] Spreek je Engels?
-- [ ] Wat is je lievelings …?
-- [ ] Wat zijn je hobby's?
+- [ ] Wat is je **lievelings** …?
+- [ ] Wat zijn je **hobby**'s?
+
+`dialog:03-meet-markus:Maak kennis met Markus`
+
+## Formulier invullen
+
+- [ ] Ik moet dit **formulier** **invullen**.
+- [ ] Zet uw **handtekening** onderaan.
+- [ ] Wilt u het contract **ondertekenen**?
+- [ ] Mijn **voornaam** is Anna.
+- [ ] Hoe schrijf je jouw **achternaam**?
+- [ ] Wat is uw **geboortedatum**?
+- [ ] Schrijf hier uw **adres** op.
+- [ ] Mijn **postcode** is 1012 AB.
+- [ ] Amsterdam is mijn **woonplaats**.
+- [ ] U heeft uw **burgerservicenummer** nodig.
 
 ## Karakter — Character
 
@@ -22,8 +37,6 @@
 - [ ] Onze leraar is best **streng**.
 - [ ] Je moet **geduldig** zijn met kinderen.
 - [ ] Wees altijd **eerlijk** tegen elkaar.
-
-`dialog:03-meet-markus:Maak kennis met Markus`
 
 ## Gevoelens — Feelings and Emotions
 

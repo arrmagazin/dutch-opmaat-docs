@@ -1,6 +1,6 @@
 # Polite words and phrases
 
-## Begroetingen en Basisuitdrukkingen
+## Begroetingen
 
 - [ ] **Hoi** Lisa, hoe is het?
 - [ ] **Goedemorgen** allemaal!
@@ -12,33 +12,29 @@
 - [ ] Ik ben zo klaar, **tot zo**!
 - [ ] **Zie je** morgen op school.
 
+## Basisuitdrukkingen
+
 - [ ] Mag ik een glas water, **alstublieft?**
-- [ ] Graag gedaan
-- [ ] Dank u wel! Bedankt!
-- [ ] Goed, dank je
-- [ ] nee bedankt
+- [ ] **Graag gedaan**
+- [ ] **Dank u wel**! **Bedankt**! Goed, **dank je**.
 - [ ] **Excuseer**, kunt u dat herhalen?
 - [ ] **Pardon**, waar is het station?
-- [ ] Sorry, wat jammer!
-- [ ] Dat maakt niet uit
+- [ ] Sorry, **wat jammer**!
+- [ ] Dat **maakt niet uit**
 - [ ] Heb je **toevallig** een paraplu?
-- [ ] Geen probleem! Geen zorgen!
-- [ ] niet erg
-- [ ] Het is oké
-- [ ] Mijn excuses voor de late reactie en sorry voor het ongemak.
+- [ ] **Geen probleem**! Geen zorgen!
+- [ ] **Mijn excuses voor** de late reactie en **sorry** voor het ongemak.
 
 ## Asking for Help
 
 - [ ] Kun je me helpen?
-- [ ] Heb je een momentje?
-- [ ] Heb je tijd op...?
-- [ ] De spullen zijn kapot: het product en de band zijn kapot en Peter moet het repareren.
+- [ ] Heb je een momentje? Heb je tijd op...?
 - [ ] Het scherm is zwart.
+- [ ] De spullen zijn kapot: het product en de band zijn kapot en Peter moet het repareren.
 - [ ] Mijn telefoon en mijn fiets werken nog steeds niet goed.
-- [ ] Mijn dier is ziek en de man voelt zich ziek; hij moet de dokter bellen.
-- [ ] Mijn tand doet pijn.
 - [ ] Kunt u mij helpen en mij advies of een oplossing geven?
 - [ ] Kunt u mij informeren over … en mij laten weten wanneer …?
+
 `dialog:05-hulp-nodig:Hulp nodig`
 
 ## Understanding and clarification
@@ -66,15 +62,14 @@
 - [ ] Zullen we afspreken?
 - [ ] Hoe laat spreken we af?
 - [ ] Waar zien we elkaar?
-- [ ] Kunnen we verzetten?
-- [ ] Het komt niet uit
-- [ ] Ik moet afzeggen
-- [ ] Een andere keer?
-
-- [ ] Ik wil onze afspraak van morgen graag verzetten en ik zou graag een nieuwe afspraak maken.
-- [ ] Kan ik een afspraak maken, of kunnen we de afspraak op 3 juli maken of verzetten?
-- [ ] Hoe lang duurt de afspraak?
+- [ ] Kunnen we de afspraak op 3 juli maken of **verzetten**?
+- [ ] Het **komt niet uit**
+- [ ] Ik moet afzeggen. Een andere keer?
+- [ ] Ik wil onze afspraak van morgen graag **verzetten** en ik zou graag een nieuwe afspraak maken.
+- [ ] Kan ik een **afspraak maken**, of
+- [ ] **Hoe lang duurt** de afspraak?
 - [ ] Ik heb een afspraak voor volgende week.
+- [ ] Ik schrijf de afspraak in mijn **agenda**.
 - [ ] Moet ik nog iets doen voor de afspraak?
 
 `dialog:07-bel-dokter:De dokter bellen`

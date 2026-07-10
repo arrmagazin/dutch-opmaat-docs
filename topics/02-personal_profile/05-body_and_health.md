@@ -62,6 +62,8 @@ Words and phrases for talking about your health, the doctor and the pharmacy.
 - [ ] De vrouw maakt haar tanden schoon. Zij doet dat twee keer per dag.
 - [ ] Hij belt. Hij gaat naar de tandarts. Hij krijgt hulp.
 - [ ] Hij zit op de grond. Hij heeft pijn. Zijn opa helpt hem.
+- [ ] De man voelt zich ziek; hij moet de dokter bellen.
+- [ ] Mijn tand doet pijn.
 
 ### Klachten — Symptoms
 

@@ -14,10 +14,10 @@
 | 25 december | Kerstmis, Eerste Kerstdag | Christmas, First Christmas Day [Q8, Q152] |
 | 26 december | Tweede Kerstdag | Second Christmas Day [Q8, Q152] |
 | 31 december → 1 januari | Oudejaarsavond, Oud en Nieuw | Oliebollen tradition [Q10, Q113] |
+| February or March | Carnaval | **3-day** festival, mainly in Noord-Brabant & Limburg [Q20] |
 | ~~~ | Pasen | Easter |
 | ~~~ | Hemelvaartsdag (Ascension Day) | 40 days after Easter [Q25] |
 | ~~~ | Pinksteren (Pentecost) | 50 days after Easter; celebrated over 2 days (Eerste/Tweede Pinksterdag) [Q26] |
-| ~~~ | Carnaval | February or March; **3-day** festival, mainly in Noord-Brabant & Limburg [Q20] |
 | ~~~ | Witte Donderdag, Goede Vrijdag | White Thursday, Good Friday |
 
 Historical years
@@ -35,55 +35,51 @@ Historical years
 
 ## Institutions
 
-| Institution | Functions |
-| -------------------------- | ----------------------- |
-| Mijn Overheid (DigiD) | Government messages online |
-| IND | Residence permit; Become Dutch citizen (naturalisatie) |
-| Gemeente | Passport / ID; Driver's license; Marriage / Divorce; |
-| Gemeente | Report moving; Youth care (Jeugdzorg); Bijstand (social assistance) |
-| Belastingdienst | Rent / childcare benefits; Tax return|
-| Nationale Ombudsman| Complaint about government |
+| Short numbers | Functions |
+| ------| --- |
 | **112** | Emergency (life-threatening: fire, serious accident, crime in progress) [Q36, Q156] |
-| **0900-8844**| Police non-emergency (e.g., reporting theft) [Q114] |
-| Huisarts | Health problem (non-emergency) |
-| Apotheek | Prescription medicine (with recept) |
-| Yourself | Find a new dentist|
+| **0900-8844**| Police non-emergency (niet-spoednummer), e.g. reporting theft [Q114] |
+| **0800-2000** | Veilig Thuis. Child abuse / domestic violence |
+| **0800-9009** | Nationaal Storingsnummer, Gas / electricity problem. (gratis, 24/7 bereikbaar) |
+
+| Gov Institution | Functions |
+| ------| --- |
+| Mijn Overheid | Government messages online (DigiD) |
+| IND | Residence permit; Become Dutch citizen (naturalisatie) |
+| Belastingdienst | Rent / childcare benefits (huurtoeslag, kinderopvangtoeslag); Tax return|
+| Gemeente | for official documents: Passport / ID; Driver's license(rijbewijs); Marriage / Divorce; |
+| Gemeente | Report moving; Youth care (Jeugdzorg); Bijstand (social assistance) |
 | NHG | Mortgage guarantee|
-| UWV | Unemployment benefits; Help finding work; Disability after 2 years (WIA) |
-| SVB | Child benefits (kinderbijslag) |
-| DUO | Student finance |
-| KvK | Start a business |
+| UWV |  work-related benefits and help: Unemployment benefits; Help finding work; Disability after 2 years (WIA) |
+| SVB | Child benefits (kinderbijslag and AOW) |
+| DUO | Student finance, student-related money |
+| KvK | Start a business (for business owners) |
 | IDW | Foreign diploma recognition|
-| Juridisch Loket | Legal questions |
-| Huurcommissie| Unfair rent |
-| Makelaar | Buy a house |
-| Woningcorporatie | Rent social housing |
-| Nationaal Storingsnummer | Gas / electricity problem |
-| Veilig Thuis (0800-2000) | Child abuse / domestic violence |
+| Nationale Ombudsman| Complaint about government |
 
-1.“Bij de gemeente” is often the answer for official documents (passport, rijbewijs, marriage)
-2.“Bij de Belastingdienst” is the answer for toeslagen (huurtoeslag, kinderopvangtoeslag)
-3.Health questions: First contact is always the huisarts (unless it’s an emergency → 112)
-4.You arrange it yourself: huisarts, tandarts, energy contract
-5.SVB = kinderbijslag and AOW
-6.UWV = work-related benefits and help
-7.DUO = student-related money
-8.KvK = only for business owners
+- De `BRP` (Basisregistratie Personen, vroeger GBA) is een register met persoonsgegevens van alle inwoners van Nederland. Je schrijft je in bij de gemeente.
 
-- Een uitzendbureau bemiddelt tussen werkzoekenden en bedrijven. Je werkt dan tijdelijk bij een bedrijf via het uitzendbureau.
-- Een vakbond behartigt de belangen van werknemers, bijvoorbeeld bij onderhandelingen over loon en arbeidsvoorwaarden (CAO).
-- Een ZZP'er (Zelfstandige Zonder Personeel) is iemand die voor zichzelf werkt en geen werknemers in dienst heeft. Een ZZP'er is een ondernemer.
-- De Rijksoverheid is de landelijke overheid van Nederland, geleid door de minister-president en ministers. Zij maken landelijk beleid.
-- De BRP (Basisregistratie Personen, vroeger GBA) is een register met persoonsgegevens van alle inwoners van Nederland. Je schrijft je in bij de gemeente.
-- Het voortgezet onderwijs (middelbare school) heeft drie niveaus: VMBO, HAVO en VWO. Na de basisschool gaan kinderen naar een van deze niveaus.
-- Het MBO (Middelbaar Beroepsonderwijs) is een praktijkgerichte opleiding na het VMBO. Je leert daar een vak, zoals verpleging, techniek of administratie.
-- 0900-8844 is het niet-spoednummer van de politie.
-- Een CAO (Collectieve Arbeidsovereenkomst) is een overeenkomst tussen werkgevers en vakbonden over arbeidsvoorwaarden zoals loon, werktijden en vakantiedagen voor een hele sector.
-- Het CBR (Centraal Bureau Rijvaardigheidsbewijzen) is de organisatie die rijexamens afneemt en rijbewijzen verstrekt in Nederland.
+## non-Gov Institutions
+
+- `Juridisch Loket` : Legal questions
+- `Huurcommissie`: Unfair rent
+- `Makelaar`  Buy a house
+- `Woningcorporatie`  Rent social housing
+- `Huisarts`  Health problem (non-emergency)
+- `Apotheek`  Prescription medicine (with recept)
+
+- Een `uitzendbureau` bemiddelt tussen werkzoekenden en bedrijven. Je werkt dan tijdelijk bij een bedrijf via het uitzendbureau.
+- Een `vakbond` behartigt de belangen van werknemers, bijvoorbeeld bij onderhandelingen over loon en arbeidsvoorwaarden (CAO).
+- Een `ZZP`'er (Zelfstandige Zonder Personeel) is iemand die voor zichzelf werkt en geen werknemers in dienst heeft. Een ZZP'er is een ondernemer.
+- Het `MBO` (Middelbaar Beroepsonderwijs) is een praktijkgerichte opleiding na het VMBO. Je leert daar een vak, zoals verpleging, techniek of administratie.
+- Een `CAO` (Collectieve Arbeidsovereenkomst) is een overeenkomst tussen werkgevers en vakbonden over arbeidsvoorwaarden zoals loon, werktijden en vakantiedagen voor een hele sector.
+- Het `CBR` (Centraal Bureau Rijvaardigheidsbewijzen) is de organisatie die rijexamens afneemt en rijbewijzen verstrekt in Nederland.
 
 ## Constitution & rights
 
 - **Artikel 1 Grondwet**: everyone in the Netherlands is treated equally; discrimination on any ground (religion, race, gender, sexual orientation, etc.) is forbidden [Q11]
+
+- De `Rijksoverheid` is de landelijke overheid van Nederland, geleid door de minister-president en ministers. Zij maken landelijk beleid.
 
 Government & Parliament — counts
 
@@ -116,6 +112,8 @@ Civic termins
 | Kwalificatieplicht | Ages 16–17 if without a startkwalificatie [Q57] |
 | Startkwalificatie minimum | MBO level 2, HAVO, or VWO diploma [Q138] |
 
+- Het `voortgezet onderwijs` (middelbare school) heeft drie niveaus: VMBO, HAVO en VWO. Na de basisschool gaan kinderen naar een van deze niveaus.
+
 ## Insurance & health, Employment — leave, pay, deadlines
 
 - **Zorgverzekering** (basic health insurance) is compulsory from age **18**;
@@ -129,6 +127,9 @@ Civic termins
 | Loondoorbetaling bij ziekte (sick pay) | Employer pays salary up to **2 years** [Q85] |
 | Zwangerschaps- en bevallingsverlof (maternity leave) | Minimum **16 weeks**; begins **4–6 weeks** before due date [Q120] |
 | Kinderbijslag (child benefit) | Per child until age **18** (paid by SVB) [Q90] |
+
+- Health questions: First contact is always the huisarts (unless it’s an emergency → 112)
+- You arrange it yourself: huisarts, tandarts
 
 ## Other Facts
 
