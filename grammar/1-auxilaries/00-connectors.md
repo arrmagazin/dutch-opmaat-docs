@@ -19,8 +19,9 @@ Causuality, Reasoning
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `omdat` | because | Ik kom laat **omdat** ik ziek was. (I'm late because I was sick.) |
+| `omdat`  | because | Ik kom laat **omdat** ik ziek was. (I'm late because I was sick.) |
 | `want` | for/because | Hij is thuis **want** hij is ziek. (He's home because he's sick.) |
+| `vanwege`  | because of, on account of |  |
 | `dus` | therefore/so | Het regent, **dus** ik neem een paraplu. (It's raining, so I take an umbrella.) |
 | `daarom` | therefore | Hij was moe, **daarom** sliep hij. (He was tired, therefore he slept.) |
 | `zo` | so/thus | Het was **zo** koud dat ik bibberde. (It was so cold that I shivered.) |
