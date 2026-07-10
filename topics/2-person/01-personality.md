@@ -1,7 +1,6 @@
 
 # Personality
 
-
 ## Personal information
 
 | Nederlands | English | Reply |
@@ -12,8 +11,8 @@
 | Wat doe je (voor werk)? | What do you do (for work)? | Ik ben … / Ik werk als … |
 | Spreek je Engels? | Do you speak English? | Ja, een beetje. |
 | Waar kom je vandaan? | Where are you from? | Ik kom uit … |
-| Ik woon in... | I live in... | **Ik woon in** een klein huis. | I live in a small house. |
-| Waar woon je? | Where do you live? | **Waar woon je** precies? | Where exactly do you live? |
+| Ik woon in... | I live in... | **Ik woon in** een klein huis. |
+| Waar woon je? | Where do you live? | **Waar woon je** precies? |
 | Wat is je adres? | What's your address? | Ik woon op de … straat, nummer … |
 | Wat is je telefoonnummer? | What's your phone number? | Mijn nummer is 06 … |
 | Wat zijn je hobby's? | What are your hobbies? | Ik hou van lezen en fietsen. |
@@ -33,7 +32,4 @@
 | Geduldig | Patient | Je moet **geduldig** zijn met kinderen. | You have to be patient with children. |
 | Eerlijk | Honest | Wees altijd **eerlijk** tegen elkaar. | Always be honest with each other. |
 
-
-## Maak kennis met Markus
-
-`dialog:03-meet-markus`
+`dialog:03-meet-markus:Maak kennis met Markus`

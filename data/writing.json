@@ -3,19 +3,22 @@
     "id": "w11",
     "title": "My Daily Routine",
     "description": "Write about your daily routine and weekend for the neighborhood paper",
-    "modelAnswer": "`inline:texts/my-day`"
+    "modelAnswer": "`inline:texts/my-day`",
+    "promptHint": "Describe gollowing point: s' ochtend, op mijn werk, s'avond, hobby, weekends, attitude"
   },
   {
     "id": "w04",
     "title": "My Neighborhood",
     "description": "Describe where you live for the neighborhood paper",
-    "modelAnswer": "Ik woon sinds vorig jaar in het centrum van Amsterdam.\nIk vind mijn buurt heel leuk omdat er veel winkels, cafés en restaurants zijn.\nEr is ook een mooi park om de hoek waar ik graag wandel met mijn hond.\nMijn buren zijn vriendelijk en behulpzaam.\nOp zaterdag is er altijd een markt op het plein.\nIk zou willen dat er minder lawaai is van het verkeer in de avond.\nVerder ben ik heel tevreden."
+    "modelAnswer": "`inline:texts/my-buurt`",
+    "promptHint": "Use as example: Ik woon sinds vorig jaar in het centrum van Amsterdam.\nIk vind mijn buurt heel leuk omdat er veel winkels, cafés en restaurants zijn.\nEr is ook een mooi park om de hoek waar ik graag wandel met mijn hond.\nMijn buren zijn vriendelijk en behulpzaam.\nOp zaterdag is er altijd een markt op het plein.\nIk zou willen dat er minder lawaai is van het verkeer in de avond.\nVerder ben ik heel tevreden."
   },
   {
     "id": "w18",
     "title": "My Hobby",
     "description": "Write a short story for the neighborhood paper about your hobby",
-    "modelAnswer": "Mijn hobby is voetbal en ik doe dit al sinds mijn jeugd.\nIk voetbal twee keer per week met mijn vrienden in het park om de hoek.\nOp zaterdag spelen we wedstrijden tegen andere teams.\nIk vind het leuk omdat het gezond is en ik lekker buiten ben.\nOok leer ik op die manier veel nieuwe mensen kennen.\nDaarna gaan we vaak samen iets drinken.\nVoetbal maakt me blij."
+    "modelAnswer": "`inline:texts/my-hobby`",
+    "promptHint": "Mijn hobby is voetbal en ik doe dit al sinds mijn jeugd.\nIk voetbal twee keer per week met mijn vrienden in het park om de hoek.\nOp zaterdag spelen we wedstrijden tegen andere teams.\nIk vind het leuk omdat het gezond is en ik lekker buiten ben.\nOok leer ik op die manier veel nieuwe mensen kennen.\nDaarna gaan we vaak samen iets drinken.\nVoetbal maakt me blij."
   },
   {
     "id": "w30",

@@ -88,6 +88,9 @@ graag → liever → liefst
 | Ik heb er zin in | I'm looking forward to it | **Ik heb er zin in**! | I'm looking forward to it! |
 | Ik heb er geen zin in | I don't feel like it | **Ik heb er geen zin in** vandaag. | I don't feel like it today. |
 
+- [ ] Ik zou willen dat er minder lawaai is van het verkeer in de avond.
+- [ ] Verder ben ik heel tevreden.
+
 > After Ik denk dat / Ik vind dat the verb moves to the end of the clause: *Ik denk dat het leuk is* — not *…dat het is leuk*.
 
 ## Gevoelens — Feelings

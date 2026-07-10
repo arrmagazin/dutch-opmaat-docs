@@ -40,6 +40,8 @@ Words and phrases for talking about jobs, colleagues, and the workplace.
 | Ik heb een vergadering | I have a meeting | Om tien uur **heb ik een vergadering**. | At ten o'clock I have a meeting. |
 | Ik stuur mijn cv op | I'll send my CV | **Ik stuur mijn cv op** naar het bedrijf. | I'll send my CV to the company. |
 
+`dialog:17-de-vergadering:De Teamvergadering`
+
 ## Solliciteren & beroepen — Applying & professions
 
 | Nederlands | English | Example | ExampleEn |
@@ -53,9 +55,4 @@ Words and phrases for talking about jobs, colleagues, and the workplace.
 | De sollicitatiebrief | The application letter | Ik schrijf een goede **sollicitatiebrief**. | I'm writing a good application letter. |
 | Aangenomen worden | To be hired | Ik hoop **aangenomen te worden** voor de baan. | I hope to be hired for the job. |
 
-## Dialoog — Short dialog
-
-Twee gesprekken over werk: een sollicitatiegesprek en een teamvergadering.
-
 `dialog:15-sollicitatiegesprek:Het Sollicitatiegesprek`
-`dialog:17-de-vergadering:De Teamvergadering`

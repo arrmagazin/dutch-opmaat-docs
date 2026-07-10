@@ -40,6 +40,4 @@ Words and phrases for talking about your family and relatives.
 | We lijken op elkaar | We look alike | Mijn zus en ik, **we lijken op elkaar**. | My sister and I, we look alike. |
 | Ze wonen bij ons in de buurt | They live near us | Mijn ouders **wonen bij ons in de buurt**. | My parents live near us. |
 
-## Dialoog — Short dialog
-
 `dialog:23-de-familiefoto:een foto van haar familie`

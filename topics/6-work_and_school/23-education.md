@@ -53,21 +53,17 @@ Words and phrases for talking about school, studying, and education in the Nethe
 | Ik ben geslaagd | I passed | Goed nieuws: **ik ben geslaagd** voor mijn examen! | Good news: I passed my exam! |
 | Ik ben gezakt | I failed | Helaas **ben ik gezakt** voor wiskunde. | Unfortunately I failed maths. |
 | Huiswerk maken | To do homework | Ik moet vanavond nog **huiswerk maken**. | I still have to do homework tonight. |
-| Een vraag stellen | To ask a question | Mag ik **een vraag stellen** over de les? | May I ask a question about the lesson? |
 | Aantekeningen maken | To take notes | Tijdens het college **maak ik aantekeningen**. | During the lecture I take notes. |
-| Ik snap het niet | I don't get it | Sorry, **ik snap het niet**, kunt u het herhalen? | Sorry, I don't get it, can you repeat it? |
 | Een cijfer halen | To get a grade | Ik hoop een hoog **cijfer te halen**. | I hope to get a high grade. |
 | Voor een toets leren | To study for a test | Ik ga vanavond **voor een toets leren**. | I'm going to study for a test tonight. |
-| Ik heb een vraag | I have a question | Meneer, **ik heb een vraag** over de som. | Sir, I have a question about the sum. |
-| Mag ik naar de wc? | May I go to the toilet? | **Mag ik naar de wc**, alsjeblieft? | May I go to the toilet, please? |
-| Wat betekent dit woord? | What does this word mean? | **Wat betekent dit woord** in het Engels? | What does this word mean in English? |
-| Kunt u het herhalen? | Can you repeat it? | Sorry, **kunt u het herhalen**? | Sorry, can you repeat it? |
-| Ik snap het niet | I don't understand it | **Ik snap het niet**, kunt u helpen? | I don't understand it, can you help? |
 | Wanneer is de toets? | When is the test? | **Wanneer is de toets** van Nederlands? | When is the Dutch test? |
 | Ik ben te laat | I am late | Sorry dat **ik te laat ben**. | Sorry that I am late. |
 | Zullen we samen werken? | Shall we work together? | **Zullen we samen werken** aan de opdracht? | Shall we work together on the assignment? |
+| Mag ik naar de wc? | May I go to the toilet? | **Mag ik naar de wc**, alsjeblieft? | May I go to the toilet, please? |
 | Vergeet je huiswerk niet | Don't forget your homework | **Vergeet je huiswerk niet** voor morgen. | Don't forget your homework for tomorrow. |
 | Goed gedaan! | Well done! | **Goed gedaan**, je hebt alles goed! | Well done, you got everything right! |
+
+`dialog:22-de-eerste-schooldag:eerste schooldag`
 
 ## Meer onderwijswoorden — More education words
 
@@ -77,11 +73,4 @@ Words and phrases for talking about school, studying, and education in the Nethe
 | Zakken | To fail | Hij is bang om te **zakken**. | He is afraid to fail. |
 | De leraar / lerares | The teacher | **De leraar** legt de les goed uit. | The teacher explains the lesson well. |
 
-## Dialoog — Short dialog
-
-Twee studenten praten over hun studie en het leren van Nederlands.
-
 `dialog:12-elke-dag:Elke dag oefenen`
-`dialog:04-begrijp-je-dat:Begrijp je dat?`
-
-`dialog:22-de-eerste-schooldag:eerste schooldag`

@@ -57,9 +57,5 @@ Words and phrases for making plans and enjoying an evening out.
 | Tekenen | Drawing | De kinderen zijn aan het **tekenen**. | The children are drawing. |
 | Muziek luisteren | Listening to music | Ik hou van **muziek luisteren** tijdens het werk. | I like listening to music while working. |
 
-## Dialoog — Short dialog
-
-Twee vrienden maken plannen voor een avondje uit en praten over uit eten gaan.
-
 `dialog:20-mijn-weekend:Mijn Weekend`
 `dialog:08-in-restaurant:In het Restaurant`

@@ -49,6 +49,4 @@ Words and phrases for getting around by car, bike, and public transport.
 | Een lekke band | A flat tire | Ik heb **een lekke band** en kan niet fietsen. | I have a flat tire and can't cycle. |
 | Op slot zetten | To lock up | Vergeet je fiets niet **op slot te zetten**. | Don't forget to lock up your bike. |
 
-## Dialoog — Short dialog
-
 `dialog:13-op-het-station:Op het Station`

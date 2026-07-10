@@ -39,8 +39,4 @@ Words and phrases for talking about clothes and getting dressed.
 | Heeft u dit in een andere kleur? | Do you have this in another color? | **Heeft u dit in een andere kleur**? | Do you have this in another color? |
 | Ik trek me warm aan | I dress warmly | In de winter **trek ik me warm aan**. | In winter I dress warmly. |
 
-## Dialoog — Short dialog
-
-Sanne zoekt een nieuwe jas en schoenen in een winkel en vraagt de verkoper om hulp.
-
 `dialog:11-in-een-kleding-en-schoenenwinkel:In een Kleding- en Schoenenwinkel`

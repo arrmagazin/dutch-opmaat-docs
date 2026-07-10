@@ -1,6 +1,6 @@
-# Small talks
+# Polite words and phrases
 
-## Begroetingen en Basisuitdrukkingen
+Begroetingen en Basisuitdrukkingen
 
 | Nederlands | English | Example | ExampleEn |
 |------------|---------|---------|---------|
@@ -13,8 +13,6 @@
 | Tot ziens | Goodbye | **Tot ziens**, fijne dag nog! | Goodbye, have a nice day! |
 | tot zo | see you soon | Ik ben zo klaar, **tot zo**! | I'm almost done, see you soon! |
 | zie je | see you | **Zie je** morgen op school. | See you tomorrow at school. |
-
-## Polite words and phrases
 
 | Word | Effect | Example | ExampleEn |
 |------|--------|---------|---------|
@@ -32,7 +30,7 @@
 | niet erg | don't mention it / it's nothing || |
 | Het is oké | It's okay || |
 
-## Asking for Help
+Asking for Help
 
 | text | text_en |
 |------|---------|
@@ -44,7 +42,9 @@
 | en wat dan | so what |
 | nou en | so what / big deal |
 
-## Understanding and clarification
+`dialog:05-hulp-nodig:Hulp nodig`
+
+Understanding and clarification
 
 | Wrapper | Example | ExampleEn |
 |---------|---------|---------|
@@ -57,7 +57,18 @@
 | Heb je zin in...? | **Heb je zin in** een kopje koffie? | Do you feel like a cup of coffee? |
 | Hoe laat is het? | What time is it? |
 
-## Afsprak maken
+| Nederlands | English | Example | ExampleEn |
+|------------|---------|---------|---------|
+| Een vraag stellen | To ask a question | Mag ik **een vraag stellen** over de les? | May I ask a question about the lesson? |
+| Ik snap het niet | I don't get it | Sorry, **ik snap het niet**, kunt u het herhalen? | Sorry, I don't get it, can you repeat it? |
+| Ik heb een vraag | I have a question | Meneer, **ik heb een vraag** over de som. | Sir, I have a question about the sum. |
+| Wat betekent dit woord? | What does this word mean? | **Wat betekent dit woord** in het Engels? | What does this word mean in English? |
+| Kunt u het herhalen? | Can you repeat it? | Sorry, **kunt u het herhalen**? | Sorry, can you repeat it? |
+| Ik snap het niet | I don't understand it | **Ik snap het niet**, kunt u helpen? | I don't understand it, can you help? |
+
+`dialog:04-begrijp-je-dat:Begrijp je dat?`
+
+Afsprak maken
 
 | text | text_en |
 |------|---------|
@@ -69,10 +80,4 @@
 | Ik moet afzeggen | I have to cancel |
 | Een andere keer? | Another time? |
 
-## Dialogs
-
-`dialog:05-hulp-nodig:Hulp nodig`
-
 `dialog:07-bel-dokter:De dokter bellen`
-
-`dialog:04-begrijp-je-dat:Begrijp je dat?`
