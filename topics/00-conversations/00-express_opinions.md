@@ -10,6 +10,9 @@
 - [ ] **Persoonlijk** vind ik het lekker.
 - [ ] **Wat mij betreft** hoeft dat niet.
 
+> After Ik denk dat / Ik vind dat the verb moves to the end of the clause: *Ik denk dat het leuk is* — not *…dat het is leuk*.
+>
+
 ## Affirmatives and Certainty
 
 - [ ] **Precies**! Zo bedoel ik.
@@ -49,3 +52,28 @@
 - [ ] Hij is **niet bepaald** vriendelijk.
 - [ ] **Integendeel**, het ging goed.
 - [ ] Dat is **eerder** een voordeel.
+
+## Express Attitude
+
+- [ ] Ik **zou willen** dat er minder lawaai. Ik **zou graag** extra les **willen**.
+- [ ] Verder ben ik heel **tevreden**.
+- [ ] **Ik hou van** koffie.
+- [ ] **Dat klinkt** (leuk|heerlijk|logisch|perfect).
+- [ ] **Ik ben dol op** chocolade.
+- [ ] Het **belangrijkste** voor mij is dat...
+- [ ] **Ik heb een hekel aan** wachten.
+- [ ] **Ik kan** dat geluid **niet uitstaan**.
+- [ ] **Ik geef de voorkeur aan** thee.
+- [ ] **Ik ben gek op** reizen.
+- [ ] **Het kan me niet schelen** wat hij zegt.
+- [ ] **Ik ben benieuwd** naar de uitslag.
+- [ ] **Ik heb er (geen) zin in**!
+- [ ] Mijn **favoriete** plek is het park, want het is `enum:goed:leuk`.
+- [ ] Ik woon **(graag|liever)** in de stad, want (het is `enum:goed:gezellig` en er is veel te doen).
+— [ ] **Ik heb liever** koffie.
+— [ ] Ik kom **liefst** morgen.
+- [ ] Ik draag **het liefst** jurken de hele dag.
+- [ ] Ik hoor graag van u.
+- [ ] Ik **vind het leuk dat** ik ben uitgenodigd.
+- [ ] Ik vind voetbal **leuk**, want het is `enum:goed:gezond`.
+- [ ] **Ik vind het prima** zo.

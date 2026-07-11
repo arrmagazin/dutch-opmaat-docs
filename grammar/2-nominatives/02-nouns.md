@@ -1,15 +1,25 @@
-# Noun Articles (Lidwoorden)
+# Nouns
+
+## Key Classifications
+
+Nouns are classified into several specific types based on what they represent:
+
+- Proper Nouns: Specific names of people, places, or institutions (e.g., Amsterdam, Sarah, Google). Always capitalized.
+- Common Nouns: General, uncapitalized names of everyday items, people, or places (e.g., city, teacher, laptop).
+- Abstract Nouns: Concepts, ideas, and feelings that cannot be touched or physically seen (e.g., love, courage, freedom).
+- Concrete Nouns: Physical items you can detect with your five senses (e.g., table, rain, dog).
+- Collective Nouns: Words that refer to a group of individuals or things functioning as one unit (e.g., team, family, jury).
 
 ## Indefinite Article
 
 Dutch has one indefinite article, **een** ("a/an").
 
-Use **een** when the noun is singular and not a specific, already-known one:
+Use **een** when the noun is singular and not-a-specific, not-already-known one:
 
 - Introducing something for the first time: Ik zie een hond.
-- not amphasised, doesn't carry much meaning, supposed implicitly: Ik **lees** een boek.
-- Refert any of class, not a particular instance: Geef me een pen. (any pen).
-- Naming a profession, nationality, or belief: *Zij is een lerares.* — She is a teacher.
+- not emphasized, doesn't carry much meaning, supposed implicitly: Ik **lees** een boek.
+- Refer to any of class, not a particular instance: Geef me **een pen**. (any pen).
+- Naming a profession, nationality, or belief: Zij is **een lerar**. — She is a teacher.
 
 It stays the same for every singular noun — both de-words and het-words take **een**, so you never have to know the gender to use it.
 
@@ -23,7 +33,7 @@ Indefinite article is *dropped*:
 
 > Don't confuse **een** (the article, unstressed, sounds like "un" /ən/) with **één** (the number "one", stressed /eːn/). The accents mark the difference in writing: *een appel* — an apple; *één appel* — one apple.
 
-## Definite Articles
+## Strong/Neutral nouns. Definite Noun Articles (Lidwoorden)
 
 In Dutch, Definite articles differentiates strong or neutral nouns:
 
@@ -36,7 +46,7 @@ While there are many exceptions, clear patterns govern word categories, prefixes
 
 > When in doubt, look it up — native speakers sometimes disagree too!
 
-### Use de for
+### Use `de` for
 
 - Plurals: All plurals use de.
 - Most nouns referring to people follow natural gender (de man, de vrouw)
@@ -45,7 +55,7 @@ While there are many exceptions, clear patterns govern word categories, prefixes
 - Trees, plants, and fruits (e.g., de appel, de tulp)
 - Letters, numbers, and days of the week (e.g., de maandag) [10, 11, 12, 13]
 
-### Use het for
+### Use `het` for
 
 - Diminutives: Any word ending in -je, -tje, or -pje.(*het huisje, het meisje*)
 - Verbs as nouns: Infinitives used as nouns (e.g., het zwemmen) take het.

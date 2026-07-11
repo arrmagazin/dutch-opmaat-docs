@@ -172,27 +172,6 @@ Ending
 > *Over een uur* = "in an hour from now". *Binnen een uur* = "within the next hour" (any time before that limit).
 > *Geleden* mirrors *over* but **follows** the time phrase: *over een uur* (in an hour) ↔ *een uur geleden* (an hour ago).
 
-## Frequency
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| `altijd` | always | Ik drink **altijd** koffie in de ochtend. (I always drink coffee in the morning.) |
-| `telkens` | every time | Hij komt **telkens** te laat. (He is late every time.) |
-| `elke` (`dag` / `keer`) | every (day / time) | Ik drink **elke dag** thee. (I drink tea every day.) |
-| `alledaags` | everyday | Dat is een **alledaags** probleem. (That's an everyday problem.) |
-| `meestal` | usually | Ik werk **meestal** thuis. (I usually work from home.) |
-| `regelmatig` | regularly | Ik leer **regelmatig** taal. |
-| `vaak` / `dikwijls` | often | Ik ga **vaak** naar de markt. (I often go to the market.) |
-| `soms` | sometimes | **Soms** regent het. (Sometimes it rains.) |
-| `af en toe` | now and then | Ik drink **af en toe** een glas wijn. (I drink a glass of wine now and then.) |
-| `zelden` | rarely | Hij komt **zelden** op tijd. (He's rarely on time.) |
-| `alweer` | again | Ben je **alweer** te laat? (Are you late again?) |
-| `nogmaals` / `nog eens` | one more time | **Nogmaals** dank en groet. |
-| `een keer` | once | Ik ben er **een keer** geweest. (I've been there once.) |
-| `weleens` | at least once |  |
-| `bijna nooit` | almost never | Hij belt **bijna nooit** op. (He almost never calls.) |
-| `nooit` | never | Ik ben **nooit** in Parijs geweest. (I've never been to Paris.) |
-
 ## Locus and motion
 
 | Dutch | English | Example |
@@ -208,6 +187,11 @@ Ending
 | `ver` ver weg** | far / far away | Mijn ouders wonen **ver weg**. (My parents live far away.) |
 | `thuis` | at home | Ik blijf vandaag **thuis**. (I'm staying at home today.) |
 | `onderweg` | on the way / en route | Ik ben al **onderweg**. (I'm already on my way.) |
+
+### Direction
+
+| Dutch | English | Example |
+|-------|---------|---------|
 | `weg` | away / gone | Hij is een week **weg**. (He's away for a week.) |
 | `terug` | back | Ik ben zo **terug**. (I'll be right back.) |
 | `heen` | there / to (a destination, motion away) | Waar ga je **heen**? Ik ga er**heen**. (Where are you going? I'm going there.) |
@@ -262,4 +246,4 @@ For direction "to", Dutch prefers **naar** with most goals:
 | `voorbeeld` | example | Geef een `voorbeeld`. (Give an example.) — cf. `bijvoorbeeld` (for example). |
 | `namelijk` | namely / you see | Ik kom niet, ik ben `namelijk` ziek. (I'm not coming; I'm ill, you see.) |
 | `kortom` | in short | **Kortom**, het was een disaster. (In short, it was a disaster.) |
-| `al met al` `in het algemeen` | all in all | **Al met al** was het goed. (All in all, it was good.) |
+| `al met al` / `in het algemeen` | all in all | **Al met al** was het goed. (All in all, it was good.) |
