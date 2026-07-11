@@ -10,7 +10,6 @@
 - [ ] **Hoe lang woon** je hier al?
 - [ ] Wat is je **adres**? Wat is je **telefoonnummer**?
 - [ ] Wat doe je (voor werk)? Werk je of studeer je?
-- [ ] Spreek je Engels?
 - [ ] Wat is je **lievelings** …?
 - [ ] Wat zijn je **hobby**'s?
 
@@ -30,6 +29,9 @@
 - [ ] U heeft uw **burgerservicenummer** nodig.
 
 ## Karakter — Character
+>
+> Vocabulary:
+  `table:/topic_virtue?columns=name_en#Virtues`
 
 - [ ] Mijn buurvrouw is heel **aardig**.
 - [ ] De ober was erg **vriendelijk**.
@@ -39,6 +41,11 @@
 - [ ] Wees altijd **eerlijk** tegen elkaar.
 
 ## Gevoelens — Feelings and Emotions
+
+> Vocabulary:
+  `table:/topic_emotion?columns=name_en#Emotions`
+| `table:/topic_feelings?columns=name_en#Feelings`
+| `table:/topic_pleasure?columns=name_en#Pleasure`
 
 - [ ] Ik ben **blij** met mijn cadeau.
 - [ ] Zij is **verdrietig** omdat haar hond ziek is.

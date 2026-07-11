@@ -2,14 +2,14 @@
 
 ## Semantic Structure
 
-    Predicat(Statement,Relation,Issue,Query,Instruction) 
-    - Subject(Actor,Source,There)
+    - Predicat(Statement,Relation,Issue,Query,Instruction) 
+    - Modality(Tense, Prognosis, Potential, personal attitude)
+    - Subject(Actor, Source, There)
     - Object (Target, receiver)
-    - Context(Time,Place,Conditions)       
-    - Causuality(Reason,Goal,Purpose)
-    - Coordination(Support,Problem)
-    - Modality(Prognosis,Potential)
-    - Attitude
+    - Context(Time, Place,Conditions)       
+    - Coordination(Media, Support, Problem)
+    - Causuality(Reason, Goal, Purpose)
+    - Embedding(abstraction, detalization, contrast, example)
 
 ## The V2 Rule (Main Clauses)
 

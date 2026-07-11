@@ -2,6 +2,9 @@
 
 ## Het Lichaam — The Body
 
+> Vocabulary:
+  `table:/topic_bodypart?columns=name_en#Body parts`
+
 - [ ] Ik stoot mijn **hoofd** tegen de kast.
 - [ ] Zij heeft lang, blond **haar**.
 - [ ] Mijn linker **oog** doet pijn.

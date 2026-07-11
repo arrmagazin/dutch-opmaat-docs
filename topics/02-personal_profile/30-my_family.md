@@ -3,6 +3,9 @@
 Words and phrases for talking about your family and relatives.
 
 ## De familie
+>
+> Vocabulary:
+  `table:/topic_family?columns=name_en#Family`
 
 - [ ] Ons **gezin** is klein: mijn ouders en ik.
 - [ ] Onze hele **familie** komt met kerst.

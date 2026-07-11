@@ -4,6 +4,9 @@ Words and phrases for getting around by car, bike, and public transport.
 
 ## Woordenschat — Vocabulary
 
+> Vocabulary:
+  `table:/topic_transport?columns=name_en#transport`
+
 - [ ] In de ochtend is er veel **verkeer**.
 - [ ] Ik ga met de **auto** naar mijn werk.
 - [ ] Ik ga met de **fiets** naar mijn werk.

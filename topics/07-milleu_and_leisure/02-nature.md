@@ -4,6 +4,9 @@ Words and phrases for talking about nature, the outdoors, and the landscape.
 
 ## The Weather
 
+> Vocabulary:
+  `table:/topic_weather?columns=name_en#Weather`
+
 Words and phrases for talking about the weather in Dutch.
 
 - [ ] Hoe is het **weer** vandaag?
@@ -43,6 +46,10 @@ Uitdrukkingen — Common phrases
 
 ## Plants
 
+> Vocabulary:
+  `table:/topic_vegetables?columns=name_en#vegetables`
+  `table:/topic_tree?columns=name_en#tree`
+
 - [ ] In het weekend zijn we graag in de **natuur**.
 - [ ] Onder de **boom** is het lekker koel.
 - [ ] Ik heb een mooie **bloem** geplukt.
@@ -78,6 +85,12 @@ Uitdrukkingen — Common phrases
 `dialog:27-in-het-bos:wandeling in het bos`
 
 ## Animals
+
+> Vocabulary:
+  `table:/topic_species?columns=name_en#species`
+  `table:/topic_tamed?columns=name_en#tamed`
+  `table:/topic_animals?columns=name_en#animals`
+  `table:/topic_bird?columns=name_en#Birds`
 
 Words and phrases for talking about animals, pets and the zoo.
 

@@ -4,6 +4,9 @@ Words and phrases for talking about clothes and getting dressed.
 
 ## Woordenschat — Vocabulary
 
+> Vocabulary:
+  `table:/topic_clothing?columns=name_en#Clothing`
+
 - [ ] Ik koop nieuwe **kleding** voor de winter.
 - [ ] Deze **broek** is te lang voor mij.
 - [ ] Hij draagt een wit **overhemd** naar zijn werk.

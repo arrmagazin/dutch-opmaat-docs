@@ -4,6 +4,12 @@
 
 Words and phrases for the kitchen, appliances, and cooking at home.
 
+> Vocabulary:
+  `table:/topic_ingredients?columns=name_en#ingredients`
+| `table:/topic_dishes?columns=name_en#dishes`
+| `table:/topic_drinks?columns=name_en#drinks`
+| `table:/topic_utensils?columns=name_en#utensils`
+
 - [ ] Ik zet de pan op het **fornuis**.
 - [ ] De taart staat in de **oven**.
 - [ ] De melk staat in de **koelkast**.

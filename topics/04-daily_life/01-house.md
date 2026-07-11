@@ -2,7 +2,14 @@
 
 Words and phrases for talking about your home and its rooms.
 
-## Huis
+## Huis, kamers, meubels — House, rooms, furniture
+
+> Vocabulary:
+  `table:/topic_building?columns=name_en#buildings`
+  `table:/topic_buildparts?columns=name_en#build parts`
+| `table:/topic_buildrooms?columns=name_en#build rooms`
+| `table:/topic_furniture?columns=name_en#furniture`
+| `table:/topic_tool?columns=name_en#tools`
 
 - [ ] Ons **huis** heeft drie slaapkamers.
 - [ ] Wij zoeken een grotere **woning**.
@@ -22,9 +29,6 @@ Words and phrases for talking about your home and its rooms.
 - [ ] De **vloer** is van hout.
 - [ ] Het **dak** lekt bij regen.
 - [ ] Vanaf het **balkon** zie je het park.
-
-## Meubels — Furniture
-
 - [ ] We dekken **de tafel** voor het eten.
 - [ ] 's Avonds zit ik op de **bank**.
 - [ ] Ga zitten op deze **stoel**.
@@ -49,9 +53,6 @@ Words and phrases for talking about your home and its rooms.
 - [ ] Ik heb nu een appartement. Vroeger had ik een huis.
 - [ ] Ik woon met mijn man. We wonen hier al drie jaar.
 - [ ] Ze zijn in de woonkamer. Ze werken samen. Ze zitten samen. Ze praten samen.
-
-## Praat over je woning — Talk about your home
-
 - [ ] Woon je in een huis of een appartement?
 - [ ] Hoe groot is je woning?
 - [ ] Hoeveel kamers heeft je woning?

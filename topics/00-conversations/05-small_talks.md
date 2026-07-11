@@ -21,41 +21,39 @@
 - [ ] **Pardon**, waar is het station?
 - [ ] Sorry, **wat jammer**!
 - [ ] Dat **maakt niet uit**
-- [ ] Heb je **toevallig** een paraplu?
 - [ ] **Geen probleem**! Geen zorgen!
 - [ ] **Mijn excuses voor** de late reactie en **sorry** voor het ongemak.
 
-## Asking for Help
+## Asking questions and clarification
 
-- [ ] Kun je me helpen?
-- [ ] Heb je een momentje? Heb je tijd op...?
-- [ ] Het scherm is zwart.
-- [ ] De spullen zijn kapot: het product en de band zijn kapot en Peter moet het repareren.
-- [ ] Mijn telefoon en mijn fiets werken nog steeds niet goed.
-- [ ] Kunt u mij helpen en mij advies of een oplossing geven?
-- [ ] Kunt u mij informeren over … en mij laten weten wanneer …?
-
-`dialog:05-hulp-nodig:Hulp nodig`
-
-## Understanding and clarification
-
-- [ ] ik snap het
-- [ ] dat weet ik niet
+- [ ] ik **snap** het
+- [ ] Sorry, **ik snap het niet**, kunt u het **herhalen**?
+- [ ] **Ik snap het niet**, kunt u helpen?
+- [ ] dat **weet** ik niet
+- [ ] Meneer, **ik heb een vraag** over de som.
 - [ ] **Mag ik vragen** waar je vandaan komt?
+- [ ] **Ik vroeg me af** of er nog plekken zijn.
+- [ ] Mag ik **een vraag stellen** over de les?
 - [ ] **Zou je me kunnen vertellen** hoeveel dat kost?
 - [ ] **Weet je toevallig** hoe laat de bus komt?
-- [ ] **Ik vroeg me af** of er nog plekken zijn.
 - [ ] **Heb je zin in** een kopje koffie?
-- [ ] Hoe laat is het?
-
-- [ ] Mag ik **een vraag stellen** over de les?
-- [ ] Sorry, **ik snap het niet**, kunt u het herhalen?
-- [ ] Meneer, **ik heb een vraag** over de som.
+- [ ] **Hoe laat** is het?
+- [ ] **Spreek** je Engels?
 - [ ] **Wat betekent dit woord** in het Engels?
-- [ ] Sorry, **kunt u het herhalen**?
-- [ ] **Ik snap het niet**, kunt u helpen?
 
 `dialog:04-begrijp-je-dat:Begrijp je dat?`
+
+## Asking for Help
+
+- [ ] Kun je me **helpen**?
+- [ ] Heb je een **momentje**? Heb je tijd op...?
+- [ ] Heb je **toevallig** een paraplu?
+- [ ] De spullen zijn **kapot**: Kun je het **repareren**?
+- [ ] Mijn telefoon **werkt nog steeds niet goed**.
+- [ ] Kunt u mij **advies** of een **oplossing** geven?
+- [ ] Kunt u mij **laten weten** wanneer …?
+
+`dialog:05-hulp-nodig:Hulp nodig`
 
 ## Afsprak maken
 
