@@ -8,7 +8,7 @@ How to talk about *when* things happen — clock time, days, parts of the day, w
 - [ ] Dit **jaar** ga ik naar Spanje.
 - [ ] De feestdagen staan op de **kalender**.
 
-## The Three Anchor Words
+## Day anchors: the *gisteren – vandaag – morgen* line
 
 - [ ] drie dagen geleden
 - [ ] eergisteren
@@ -25,7 +25,7 @@ How to talk about *when* things happen — clock time, days, parts of the day, w
 - [ ] In de **ochtend** drink ik koffie.
 - [ ] We eten 's **middags** warm.
 - [ ] 's **Avonds** kijk ik tv.
-- [ ] Ik sliep slecht vannacht, de hele **nacht** wakker.
+- [ ] Ik lag de hele **nacht** wakker.
 
 Combine with **van-** for *this* or anchor words for *that*:
 
@@ -34,7 +34,7 @@ Combine with **van-** for *this* or anchor words for *that*:
 | `vanochtend / vanmorgen` | `gisterochtend` | `morgenochtend` |
 | `vanmiddag` | `gistermiddag` | `morgenmiddag` |
 | `vanavond` | `gisteravond` | `morgenavond` |
-| `vannacht` | `vannacht** (last night) | `morgennacht** (rare) |
+| `vannacht` | `vannacht` (last night) | `morgennacht` (rare) |
 
 ## Days of the Week (de dagen van de week)
 
@@ -42,7 +42,7 @@ Lowercase in Dutch.
 
 - [ ] Op **maandag** begint de week.
 - [ ] Ik heb **dinsdag** een afspraak.
-- [ ] **Woensdag** is de kinderen vrij.
+- [ ] **Woensdag** zijn de kinderen vrij.
 - [ ] We sporten elke **donderdag**.
 - [ ] **Vrijdag** ga ik vroeg naar huis.
 - [ ] Op **zaterdag** doe ik boodschappen.
@@ -69,14 +69,14 @@ Past/future days:
 - [ ] In **juni** worden de dagen lang.
 - [ ] We gaan in **juli** op vakantie.
 - [ ] **Augustus** is meestal warm.
-- [ ] In **september** begint school weer.
+- [ ] In **september** begint de school weer.
 - [ ] In **oktober** vallen de bladeren.
 - [ ] **November** is een donkere maand.
 - [ ] In **december** vieren we kerst.
 
 Use **in** before a month: *in mei*, *in november*.
 
-### Seasons
+## Seasons (de seizoenen)
 
 - [ ] In de **lente** bloeien de bloemen.
 - [ ] In de **zomer** gaan we naar het strand.
@@ -87,7 +87,15 @@ Use **in** before a season: *in de zomer*, *in de winter*.
 
 ## Telling Time (Klok Kijken)
 
-Dutch breaks the hour into 15-minute blocks centred on **half**.
+Dutch tells time around the whole hour and the **half** hour, plus the two quarters. From about 20 past, you count *toward* the next hour — the source of the half-trap below.
+
+```mermaid
+flowchart LR
+  A["acht uur — 8:00"] --> B["kwart over acht — 8:15"]
+  B --> C["half negen — 8:30"]
+  C --> D["kwart voor negen — 8:45"]
+  D --> E["negen uur — 9:00"]
+```
 
 - [ ] acht **uur**
 - [ ] vijf **over** acht
@@ -109,14 +117,7 @@ For "at X o'clock" use **om**:
 
 For 24-hour formal time (schedules, news): *14:30 → veertien uur dertig*.
 
-> Note the present tense for ongoing duration: *Ik woon hier **al** vijf jaar* (= I have been living here for five years).
-
-### Common mistakes
-
-- ❌ *half negen* meaning 9:30 → ✅ *half negen* = **8:30**.
-- Using **op** for clock time: ❌ *op acht uur* → ✅ ***om** acht uur*.
-- Confusing **morgen** (tomorrow) with **'s morgens** (in the morning).
-- Dropping **'s** in **'s ochtends / 's avonds** — the apostrophe-s is a remnant of "des" and is required.
+> Note the present tense for ongoing duration: *Ik woon hier **al** vijf jaar* (= I have been living here for five years). English uses the present perfect here; Dutch stays in the present.
 
 ## Woordenschat — Vocabulary
 
@@ -151,3 +152,12 @@ For 24-hour formal time (schedules, news): *14:30 → veertien uur dertig*.
 - [ ] **Tot straks**, tot vanavond!
 - [ ] **Het is bijna tijd** om te gaan.
 - [ ] **Sorry dat ik te laat ben**, er was file.
+
+## Common mistakes
+
+- ❌ *half negen* = 9:30 → ✅ *half negen* = **8:30** — Dutch *half* counts toward the next hour.
+- ❌ *op acht uur* → ✅ *om acht uur* — clock time takes *om*, not *op*.
+- ❌ *tien over half negen* = 8:20 → ✅ = **8:40** — *over half* is already past the half hour.
+- ❌ confusing *morgen* (tomorrow) with *'s morgens* (in the morning) — context decides.
+- ❌ *ochtends drink ik koffie* → ✅ *'s ochtends…* — the *'s* (from old *des*) is required in *'s ochtends / 's middags / 's avonds*.
+- ❌ *De les duurt voor een uur* → ✅ *De les duurt een uur* — drop the English "for".

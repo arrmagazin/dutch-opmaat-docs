@@ -1,61 +1,69 @@
+# Toners (modal particles)  *(B1)*
 
-# Toners
+These are the "small" words that translate badly in a dictionary but appear constantly in speech. On their own they carry almost no meaning — their job is to **set the tone**: soften, reassure, hurry, argue, or downplay. English does this with intonation and extra words; Dutch does it with particles. A speaker without them sounds robotic; with them, human.
 
-These are the "small" Dutch words that translate badly in a dictionary but appear constantly in everyday speech.
-
-On their own they carry almost no weight — their job is to **set the tone**: soften, reassure, argue, hurry, or downplay. A Dutch speaker without them sounds robotic; with them, human.
-
-> Individually they're nearly weightless; together they carry the entire emotional register of spoken Dutch.
+> Individually they're nearly weightless; together they carry the whole emotional register of spoken Dutch. Tap a word to open its note.
 
 | Toner | Hint | Core meaning |
 |-------|------|--------------|
 | `note:toch` | `vse gh taki` | still / anyway / after all |
 | `note:even` | `navprost` | briefly / just / quickly |
 | `note:echt` | `sapraudy` | really / genuinely |
-| `note:eigenlijk` | `ulasno` | actually / really |
-| `note:erg` | `veljmi` | very / bad (it matters) |
+| `note:eigenlijk` | `ulasno` | actually / come to think of it |
 | `note:nog` | `esqe` | still / yet / more |
 | `note:nou` | `nu` | well / come on |
-| `note:maar` | `dyk` | but / just (go ahead) |
-| `note:wel` | `ryxtyk` | actually (anti-*niet*) |
-| `note:hoor` | `aga` | reassurance |
-| `note:dus` | `na tym` |  therefore |
-| `note:gewoon` | `zvyqajno` | simply |
-| `note:eens` | `razok` | once |
-| `note:net` | `amalj` | just now / almost exactly |
+| `note:maar` | `dyk` | just / go ahead |
+| `note:wel` | `ryxtyk` | actually / it *is* so (anti-*niet*) |
+| `note:hoor` | `aga` | reassurance ("really", "you know") |
+| `note:dus` | `na tym` | so / therefore |
+| `note:gewoon` | `zvyqajno` | simply / just |
+| `note:eens` | `razok` | (do it) sometime / just |
+| `note:net` | `amalj` | just now / exactly |
 | `note:zeker` | `napevna` | surely / I bet / by any chance |
 | `note:soms` | `qasam` | by any chance (in questions) |
 | `note:al` | `uzho` | already / emphasis |
-| `note:zo` | `zaraz` | just / shortly / in a sec |
+| `note:zo` | `zaraz` | in a sec / shortly |
 | `note:pas` | `tolki` | only just / not until |
 | `note:lekker` | `gusto` | nicely / just (defiant) |
 | `note:gerust` | `spakojna` | feel free / safely |
 | `note:juist` | `akurat` | precisely / on the contrary |
 
-## Softeners
+> For the *degree* softeners — *een beetje*, *nogal*, *best*, *tamelijk*, *vrij* — see [Modifiers](/#/grammar?doc=1-auxilaries/14-modifiers.md); they scale an adjective rather than tone the sentence.
 
-Soften the force of a statement
+## Particles in action
 
-| Dutch | Bel/English | Example |
-|-------|---------|---------|
-| `note:wat` | `troxa` | a bit / somewhat |
-| een beetje | `troxa` a little | *Het is een beetje moeilijk.* |
-| nogal | `davoli` quite / rather  | *Het is nogal duur.* |
-| best | `davoli` quite / pretty | *Het is best goed.* |
-| tamelijk | `slushna` fairly | *Dat is tamelijk interessant.* |
-| redelijk | `slushna` reasonably | *Dat is redelijk duur.* |
-| vrij | `xutqej` fairly / rather | *Dat is vrij goed.* |
+Each particle bends the mood of the same bare sentence.
+
+| Particle | Example | Effect |
+|----------|---------|--------|
+| **even** | Wacht **even**. | just for a moment (softens a command) |
+| **maar** | Zeg het **maar**. | go ahead, no pressure |
+| **eens** | Kom **eens** kijken. | do come and look (friendly invite) |
+| **toch** | Je komt **toch**? | you *are* coming, right? (seeks confirmation) |
+| **hoor** | Het is niet erg, **hoor**. | it's really fine (reassuring) |
+| **wel** | Ik heb het **wel** gedaan. | I *did* do it (contradicts a denial) |
+| **nou** | Kom **nou**! | oh, come on! (impatience) |
+| **gewoon** | Doe het **gewoon**. | just do it (no fuss) |
+
+> Ordering a drink? *Doe **maar** een koffie* ("Just a coffee, thanks") is the everyday phrasing — the bare *Een koffie* sounds curt. Particles also power polite imperatives: see [Imperatives](/#/grammar?doc=5-modes/04-imperatives.md).
 
 ## Stacking
 
-The hallmark of fluent, natural speech is **stacking** these particles.
+The hallmark of natural speech is **stacking** particles — a native speaker throws 2–3 together without thinking, and that living, non-blunt tone is exactly what a learner misses.
 
- A native speaker throws 2–3 together without thinking, and that's what gives a sentence its living, non-blunt tone.
+- *Ga **maar even** zitten, **hoor**.* — Do sit down for a bit, no worries. (*maar* + *even* + *hoor*)
+- *Het is **toch wel** waar.* — It really is true after all. (*toch* + *wel*)
+- *Doe het **nog maar even**.* — Just do it once more, quickly. (*nog* + *maar* + *even*)
+- *Doe het **gewoon even**.* — Just do it real quick. (*gewoon* + *even*)
+- *Kom **maar eens** kijken, **hoor**.* — Do come take a look sometime. (four particles!)
+- *Zeg het **nou maar gewoon**.* — Oh just say it already. (*nou* + *maar* + *gewoon*)
 
-- *Ga `maar even` zitten, `hoor`.* — Do sit down for a moment, no worries. (`maar` + `even` + `hoor`)
-- *Het is `toch wel` waar.* — It really is true after all. (`toch` + `wel`)
-- *Doe het `nog maar even`.* — Just do it once more quickly. (`nog` + `maar` + `even`)
-- *Doe het `gewoon even`.* — Just do it real quick. (`gewoon` + `even`)
-- *Kom `maar eens even` kijken, `hoor`.* — Do come take a look sometime, go on. (four particles!)
-- *Dat is `dus toch wel` zo.* — So it really is the case after all. (`dus` + `toch` + `wel`)
-- *Zeg het `nou maar gewoon`.* — Oh just say it already. (`nou` + `maar` + `gewoon`)
+> Their order is fixed by feel, not by rule. Learn the common clusters (*maar even*, *toch wel*, *nog maar*) as ready-made chunks.
+
+## Common mistakes
+
+- ❌ *Ja* (to "Ga je niet mee?") → ✅ *Ik ga **wel*** — *wel* contradicts a negative; bare *ja* sounds odd.
+- ❌ *Wacht.* (to a friend) → ✅ *Wacht **even**.* — a bare imperative feels curt; a particle softens it.
+- ❌ *Ik kom nog.* meaning "already" → ✅ *Ik kom **al**.* — *al* = already, *nog* = still/yet.
+- ❌ translating "just" as *net* everywhere → ✅ *net* = just now (time: *Hij is **net** weg*); "just do it" is *doe het **maar**/**gewoon***.
+- ❌ leaving particles out to be "safe" → they aren't optional decoration; without them you sound blunt or robotic.

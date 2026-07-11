@@ -26,6 +26,13 @@ With a separable verb, *te* goes **between** the prefix and the stem, written as
 
 > Never glue *te* onto the verb: ❌ *opte staan* / *aante bieden*.
 
+### Worked example
+
+*Ze probeert de wekker **uit te zetten**.* — "She's trying to turn off the alarm."
+
+- *uitzetten* is separable, so *te* splits it: prefix *uit* + *te* + stem *zetten*, three written words.
+- The whole cluster *uit te zetten* sits at the **end** of the clause; *probeert* holds the V2 slot.
+
 ## Verbs that take *te + infinitive*
 
 Most verbs that combine with another verb take *te*. Common ones:
@@ -56,6 +63,12 @@ And impersonal expressions:
 
 A small but high-frequency group takes a bare infinitive instead.
 
+```mermaid
+flowchart TD
+  A["After a modal, or gaan/komen/laten/zien/horen?"] -->|"yes"| B["bare infinitive — Ik moet werken"]
+  A -->|"no"| C["te + infinitive — Ik probeer te werken"]
+```
+
 | Verb | Example |
 |------|---------|
 | **modals** (kunnen, moeten, mogen, willen, zullen) | *Ik **kan zwemmen**.* |
@@ -70,7 +83,7 @@ A small but high-frequency group takes a bare infinitive instead.
 | **leren** | *Ik leer hem **zwemmen**.* (also with *te*) |
 | **helpen** | *Ik help je **koken**.* (also with *te*) |
 
-> **Modal verbs** stack in long verb piles without *te*: *Ik **moet kunnen werken**.* — I must be able to work.
+> **Modal verbs** stack in long verb piles without *te*: *Ik **moet kunnen werken**.* — I must be able to work. See [modal verbs](/#/grammar?doc=4-verbs/23-modal_verbs.md).
 
 ### The *hoeven* exception
 

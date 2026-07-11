@@ -16,9 +16,17 @@ This split is the single most important thing to internalise. English collapses 
 
 > **Rule of thumb:** if you can replace the English verb with "is being / was being," use **worden**. If you can replace it with "has been / had been," use **zijn**.
 
+```mermaid
+flowchart TD
+  A["Focus on the action, or the finished state?"] -->|"action"| B["worden + participle — wordt geschreven"]
+  A -->|"state"| C["zijn + participle — is geschreven"]
+  B --> D["agent optional: door + doer — door Jan"]
+  C --> D
+```
+
 ## Present passive — *worden* + past participle
 
-Structure: **subject** + *worden* (V2) + … + **past participle** (end of clause).
+Structure: **subject** + *worden* (V2) + … + **past participle** (end of clause). The participle is formed exactly as in the [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md).
 
 | Active | Passive |
 |--------|---------|
@@ -70,7 +78,7 @@ Same end-of-clause pattern: **modal** (V2) + … + **past participle** + **worde
 
 ## The "*er*"-passive — no real subject
 
-When the active sentence has no clear object (intransitive verbs, generic actions), Dutch fills the subject slot with **er**. The verb stays singular.
+When the active sentence has no clear object (intransitive verbs, generic actions), Dutch fills the subject slot with **er**. The verb stays singular. (For *er* itself, see [er-word](/#/grammar?doc=1-auxilaries/30-er-word.md).)
 
 - *Er **wordt** gedanst.* — There is dancing. / People are dancing.
 - *Er **werd** veel **gelachen**.* — There was a lot of laughter.
@@ -81,7 +89,7 @@ This construction is everywhere in Dutch, especially in signs, instructions and 
 - *Hier **wordt** Nederlands **gesproken**.* — Dutch is spoken here.
 - *Er **mag** niet **gerookt worden**.* — Smoking is not allowed.
 
-## 8. Active vs. passive — side-by-side
+## Active vs. passive — side-by-side
 
 | Tense | Active | Passive (*worden*/*zijn*) |
 |-------|--------|----------------------------|
@@ -91,7 +99,7 @@ This construction is everywhere in Dutch, especially in signs, instructions and 
 | Future | *Jan zal de brief schrijven.* | *De brief **zal** geschreven **worden**.* |
 | Modal | *Jan moet de brief schrijven.* | *De brief **moet** geschreven **worden**.* |
 
-## 9. When to use the passive
+## When to use the passive
 
 | Reason | Example |
 |--------|---------|

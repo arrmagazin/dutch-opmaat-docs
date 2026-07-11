@@ -1,14 +1,12 @@
 # Grammar — maintainer guide
 
-This file is for whoever maintains or extends the `grammar/` content (humans or Claude). It is filtered out of the opmaat app's docs tree by `apps/opmaat/src/utils/ghTree.ts`, so readers of the app never see it.
-
-Three sections: how the folder is organised, how a page should look, and what teaching stance every page should take.
-
 ---
 
 ## 1. Repo structure & purpose
 
-The `grammar/` folder is a graded reference for Dutch grammar, served as raw markdown to the opmaat app. Each subfolder covers one layer of the language; pages inside go from simpler to more complex.
+The `grammar/` folder is a graded reference for Dutch grammar, served as raw markdown.
+
+Each subfolder covers one layer of the language; pages inside go from simpler to more complex.
 
 **Naming conventions:**
 
@@ -33,7 +31,7 @@ The `grammar/` folder is a graded reference for Dutch grammar, served as raw mar
 ### Page skeleton
 
 ```markdown
-# Page title  *(LEVEL)*
+# Page title
 
 One-paragraph framing: what this is, why it matters, the single most useful thing to know.
 
@@ -71,26 +69,31 @@ Short prose intro.
   - Three or more columns for rule + example + note layouts.
 - **Code spans** (`` `...` ``) sparingly — only for things that look like code (path fragments, schematic formulas like `[det] [adj] [noun]`).
 
+### Example formats
+
+Two example layouts coexist by design — use the right one for the job, and don't convert one into the other:
+
+- **Paradigm tables** for systematic comparison: conjugations, pronoun/article charts, sound and number tables.
+- **`- [ ]` practice-sentence banks**: checkbox lists of example sentences with the single key Dutch term in **bold** — e.g. `- [ ] In de **ochtend** drink ik koffie.` These render as interactive "mark as learned" items in the app; use them for example/practice sentences.
+
+### App-specific tokens (do not strip)
+
+Some pages carry tokens the app resolves at render time — leave them intact:
+
+- `note:slug` opens `/notes/slug.md`; `enum:…` / `table:…` pull in shared data.
+- A trailing "hint" column (e.g. a Belarusian gloss) is a deliberate learner aid, not stray text.
+
 ### Cross-links
 
 Use the opmaat docs URL form so links work inside the app:
 
 ```markdown
-[ER-word](/#/grammar?doc=1-auxiliaries/05-er-word.md)
+[ER-word](/#/grammar?doc=1-auxilaries/30-er-word.md)
 ```
 
 The path is relative to the `grammar/` root, includes the leading number, and ends in `.md`. Always verify the target file exists before saving.
 
-### Level markers
-
-Place after the H1 title, separated by two spaces, in italics:
-
-- `` — beginner survival; no inflection nuance assumed.
-- `*(A2)*` — basic Dutch; can handle de/het, simple verbs, present + perfect.
-- `*(B1)*` — intermediate; comfortable with subordinate clauses, modals, past narrative.
-- `*(B2)*` — upper-intermediate; passive, reported speech, register variation.
-
-A page may carry **one** primary level. If parts of the page reach into a higher level, mark those *sections* with the same italic note: `### Strong verbs  *(B1)*`.
+> ⚠️ Two folder names are **misspelled on disk** — `1-auxilaries` (not *auxiliaries*) and `3-bijworden` (not *bijwoorden*). Links and code depend on these exact spellings; use them verbatim and do **not** "correct" the folder names.
 
 ### Length
 
@@ -124,7 +127,7 @@ These are the teaching stances every page should embody. When in doubt about a w
 
 **Common mistakes belong in the closing section, not buried.** A learner scanning a page should find the "what will I get wrong?" answer in a predictable place. One section, end of file, no exceptions.
 
-**Cross-link rather than duplicate.** Each topic has exactly one home page. Other pages that brush against it carry a one-line bridge with a link. Example: `05-adverbs.md` mentions pronominal adverbs in two sentences and links to `1-auxiliaries/05-er-word.md` for the full treatment.
+**Cross-link rather than duplicate.** Each topic has exactly one home page. Other pages that brush against it carry a one-line bridge with a link. Example: `3-bijworden/35-adverbs.md` mentions pronominal adverbs in two sentences and links to `1-auxilaries/30-er-word.md` for the full treatment.
 
 **Examples should look like real Dutch.** Use sentences a learner might actually say or hear. Avoid contrived "the boy gives the book to the girl" pedagogy when *Ik geef het boek even aan haar* makes the same point with softening particles a learner needs anyway.
 

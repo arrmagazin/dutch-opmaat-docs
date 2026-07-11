@@ -7,7 +7,7 @@ Knowing the building blocks lets you decode unfamiliar words and conjugate corre
 ```
   [voorvoegsel]  +  STAM  +  [achtervoegsel]  +  [flexie]
        on-           gelukkig       —              -e        →  ongelukkige
-       ver-          spreek         —              -t        →  verspreekt
+       ver-          koop           —              -t        →  verkoopt
         —            werk           -er            -s        →  werkers
 ```
 
@@ -47,10 +47,16 @@ In a main clause, the prefix **detaches** and moves to the end: *Ik **sta** om z
 | **om-** | around, over | **om**draaien, **om**kleden | *to turn around*, *to change clothes* |
 | **over-** | over, across (separable here) | **over**stappen, **over**komen | *to transfer*, *to come over* |
 | **terug-** | back | **terug**komen, **terug**geven | *to return*, *to give back* |
-| **toe-** | toward, closed | **toe**voegen, **toe**doen | *to add*, *to close* |
+| **toe-** | toward, increase | **toe**voegen, **toe**nemen | *to add*, *to increase* |
 | **voor-** | before, in front | **voor**stellen, **voor**lezen | *to introduce*, *to read aloud* |
 
 > **Trick:** if you can put stress on the prefix in speech (**óp**staan), it's separable. If the stress falls on the stem (be**tá**len), it's inseparable.
+
+```mermaid
+flowchart TD
+  A["Stress on the prefix?"] -->|"yes: ópstaan"| B["Scheidbaar — prefix detaches to clause end"]
+  A -->|"no: betálen"| C["Onscheidbaar — stays fused, no ge- in participle"]
+```
 
 ### Modificerende voorvoegsels (negation / degree)
 
@@ -74,8 +80,8 @@ Suffixes change a word's **part of speech** or its **shade of meaning**.
 | **-er** | verb | doer / agent | werk**er**, schrijv**er** | *worker*, *writer* |
 | **-aar** | verb | doer (after *-l, -n, -r*) | leug**enaar**, hand**elaar** | *liar*, *trader* |
 | **-schap** | noun | state, group | vriend**schap**, gezel**schap** | *friendship*, *company* |
-| **-dom** | noun / adj. | state, domain | konings**dom**, rijk**dom** | *kingdom*, *wealth* |
-| **-nis** | verb | result, state | ken**nis**, geheim**enis** | *knowledge*, *mystery* |
+| **-dom** | noun / adj. | state, domain | eigen**dom**, rijk**dom** | *property*, *wealth* |
+| **-nis** | verb | result, state | ken**nis**, gebeurte**nis** | *knowledge*, *event* |
 | **-isme** | noun | system, ideology | social**isme** | *socialism* |
 | **-ist** | noun | adherent, profession | piano**ist**, special**ist** | *pianist*, *specialist* |
 
@@ -83,10 +89,10 @@ Suffixes change a word's **part of speech** or its **shade of meaning**.
 
 | Suffix | From | Meaning | Voorbeeld | English gloss |
 |:------:|:-----|:--------|:----------|:--------------|
-| **-lijk** | noun / verb | *-ly, -able, -ful* | vriende**lijk**, mogelijk | *friendly*, *possible* |
+| **-lijk** | noun / verb | *-ly, -able, -ful* | vriende**lijk**, moge**lijk** | *friendly*, *possible* |
 | **-ig** | noun | *having quality of* | zonn**ig**, gelukk**ig** | *sunny*, *happy* |
 | **-baar** | verb | *-able* | leef**baar**, eet**baar** | *livable*, *edible* |
-| **-loos** | noun | *-less* | hoop**loos**, werk**loos** | *hopeless*, *unemployed* |
+| **-loos** | noun | *-less* | hope**loos**, werk**loos** | *hopeless*, *unemployed* |
 | **-achtig** | noun | *-like, -ish* | groen**achtig**, kinder**achtig** | *greenish*, *childish* |
 | **-isch** | noun | *-ic* (often loanwords) | log**isch**, prakt**isch** | *logical*, *practical* |
 | **-s** | noun | belonging to | Nederland**s**, Amsterdam**s** | *Dutch*, *Amsterdam-ish* |
@@ -96,14 +102,14 @@ Suffixes change a word's **part of speech** or its **shade of meaning**.
 | Suffix | Function | Voorbeeld | English gloss |
 |:------:|:---------|:----------|:--------------|
 | **-en** | infinitive marker | werk**en**, lop**en** | *to work*, *to walk* |
-| **-eren** | from loanwords / nouns | stud**eren**, telefon**eeren** | *to study*, *to call* |
+| **-eren** | from loanwords / nouns | stud**eren**, telefon**eren** | *to study*, *to call* |
 
 ### Bijwoord-vormend (adverb-forming)
 
 | Suffix | Function | Voorbeeld | English gloss |
 |:------:|:---------|:----------|:--------------|
-| **-s** | turns adj. → adverb | dagelijk**s**, plotseling**s** | *daily*, *suddenly* |
-| **-lijks** | recurring time | jaar**lijks**, week**lijks** | *yearly*, *weekly* |
+| **-s** | turns adj. → adverb | dagelijk**s**, onverwacht**s** | *daily*, *unexpectedly* |
+| **-lijks** | recurring time | jaar**lijks**, weke**lijks** | *yearly*, *weekly* |
 
 ## Flexies (Inflections)
 
@@ -111,10 +117,20 @@ Inflectional endings attach to the very edge of a word and signal **grammatical 
 
 | Use | Endings |
 |:------:|:----|
-| Naamwoorden — meervoud (noun plurals)| **-en** , **-s** , **-eren** |
-| Naamwoorden — Verkleinwoorden (Diminutive)| **-je** **-etje**, **-tje**, **-pje**, **-kje** |
+| Naamwoorden — meervoud (noun plurals)| **-en**, **-s**, **-eren** |
+| Naamwoorden — Verkleinwoorden (Diminutive)| **-je**, **-etje**, **-tje**, **-pje**, **-kje** |
 | Bijvoeglijk naamwoord (adjective inflection)| **bare stem**, **-e** |
-| Werkwoord (verb conjugation — present)| **bare stem**, **-t**, **-en**, **-eren**|
+| Werkwoord (verb conjugation — present)| **bare stem**, **-t**, **-en**|
 | Werkwoord — verleden tijd (past tense)| **-te** / **-ten**, **-de** / **-den**|
 | Voltooid deelwoord (past participle) | **-t** / **-d**, **-en**|
-| Vergelijking (comparative & superlative) | **-er**,**-st** |
+| Vergelijking (comparative & superlative) | **-er**, **-st** |
+
+Each inflection has its own home page: [noun plurals](/#/grammar?doc=2-nominatives/62-plurals.md), [diminutives](/#/grammar?doc=2-nominatives/60-diminutives.md), [adjective *-e*](/#/grammar?doc=3-bijworden/34-adjectives.md), [comparatives](/#/grammar?doc=3-bijworden/36-comparatives.md), [verb conjugation](/#/grammar?doc=4-verbs/19-verbs.md) and [participles](/#/grammar?doc=4-verbs/24-participles.md).
+
+## Common mistakes
+
+- ❌ *Ik opbel je* → ✅ *Ik bel je op* — a separable prefix moves to the end of a main clause.
+- ❌ *gebetaald*, *geverkocht* → ✅ *betaald*, *verkocht* — verbs with *be-, ge-, ver-, ont-, her-, er-, mis-* take no extra *ge-* in the participle.
+- ❌ *telefoneeren* → ✅ *telefoneren* — the verb suffix is *-eren* (one *e*).
+- ❌ *hooploos* → ✅ *hopeloos* — the long vowel is written single in the open syllable (*ho-pe-loos*).
+- ❌ *ontmogelijk* → ✅ *onmogelijk* — *on-* negates (adjectives); *ont-* is a verb prefix meaning "undo" (*ontdekken*).

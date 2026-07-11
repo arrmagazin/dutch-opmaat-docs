@@ -1,60 +1,77 @@
 # Verbs  *(A2)*
 
-## Regular (Weak) Verbs
+Every Dutch verb has a **stem** and a set of endings. Find the stem — the **infinitive minus -en** — then add the present-tense ending. Master this one move and you can conjugate the great majority of Dutch verbs.
 
-Most Dutch verbs follow this rule. Find the **stem** (infinitive minus `-en`), then add endings.
+## Present tense — regular (weak) verbs
 
-| Person | Ending | Example|
-|---------|--------|-------------------------------|
-| sg 1   | stem | ik **werk** |
-| sg 2 - 3 | stem + **t** | hij **werkt** |
-| plural | infinitive | zij **werken** |
+| Person | Ending | *werken* (to work) |
+|--------|--------|--------------------|
+| *ik* | stem | ik **werk** |
+| *jij / je*, *hij / zij / het*, *u* | stem + **t** | jij **werkt**, hij **werkt** |
+| *wij / jullie / zij* | infinitive | wij **werken** |
 
-> **Inversion drop-t:** when `jij`/`je` comes *after* the verb, the **-t** disappears: *Werk **jij** hier?* (not *werkt jij*).
+> **Inversion drops the -t:** when *jij / je* comes *after* its verb, the **-t** disappears: *Werk **jij** hier?* (not ~~werkt jij~~), *Waar woon **je**?* This affects *jij / je* only, and only the *-t* ending — never *ik* or the plural.
+
+```mermaid
+flowchart TD
+  A["Which subject?"] -->|"ik"| B["stem — ik werk"]
+  A -->|"jij/hij/u"| C["stem + t — jij werkt"]
+  A -->|"wij/jullie/zij"| D["infinitive — wij werken"]
+  C --> E["but jij after the verb: drop -t — werk jij?"]
+```
 
 ### Spelling tweaks
 
-- Stem ending in **-v** or **-z** → write **-f** or **-s**: *leven → ik leef*, *reizen → ik reis*.
-- Stem with short vowel + single consonant → double the consonant before `-en`: *zit → wij zitten*.
-- Stem already ending in **-t** → don't add a second one: *zitten → hij zit* (not *zitt*).
+The stem obeys normal Dutch spelling, so it is not always just "infinitive minus -en":
 
-## Strong (Irregular) Verbs
+- Final **-v / -z** are written **-f / -s**: *leven → ik **leef***, *reizen → ik **reis***.
+- Short vowel + single consonant **doubles** before *-en*, so the stem keeps one: *zitten → ik **zit**, wij **zitten***.
+- Long vowel written double in a closed syllable: *lopen → ik **loop***, *maken → ik **maak***.
+- A stem already ending in **-t** takes no second one: *heten → hij **heet*** (not ~~heett~~).
 
-Strong verbs change the stem vowel and do not follow regular conjugation rules.
+See [spelling](/#/grammar?doc=0-elements/20-spelling.md) for the vowel-length logic behind these.
 
-There's no "trick" — they must be memorised.
+### Worked example
 
-| Infinitive | English | Singular past | Plural past | Past participle |
-|------------|---------|---------------|-------------|-----------------|
-| **eten** | to eat | at | aten | gegeten |
-| **slapen** | to sleep | sliep | sliepen | geslapen |
-| **schrijven** | to write | schreef | schreven | geschreven |
-| **lezen** | to read | las | lazen | gelezen |
-| **drinken** | to drink | dronk | dronken | gedronken |
-| **lopen** | to walk | liep | liepen | gelopen |
-| **rijden** | to drive | reed | reden | gereden |
-| **vinden** | to find | vond | vonden | gevonden |
-| **zien** | to see | zag | zagen | gezien |
-| **gaan** | to go | ging | gingen | gegaan |
-| **komen** | to come | kwam | kwamen | gekomen |
-| **zijn** | to be | was | waren | geweest |
-| **hebben** | to have | had | hadden | gehad |
+*Waarom **luister** je niet?* — "Why aren't you listening?"
 
-Examples:
+- *luister* = stem of *luisteren* (*luisteren* − *en*).
+- *je* follows the verb (inversion after *waarom … V2*), so the ending is the **bare stem, no -t**: *luister je*, not ~~luistert je~~.
+
+## Strong (irregular) verbs
+
+Strong verbs **change the stem vowel** in the past and end their participle in **-en**. There is no rule — learn the three principal parts (infinitive, past, participle) as a unit. This table is the reference the [imperfectum](/#/grammar?doc=4-verbs/25-imperfectum.md) and [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md) pages point back to.
+
+| Infinitive | English | Past sg | Past pl | Participle | Perfect aux |
+|------------|---------|---------|---------|------------|-------------|
+| **eten** | to eat | at | aten | gegeten | hebben |
+| **slapen** | to sleep | sliep | sliepen | geslapen | hebben |
+| **schrijven** | to write | schreef | schreven | geschreven | hebben |
+| **lezen** | to read | las | lazen | gelezen | hebben |
+| **drinken** | to drink | dronk | dronken | gedronken | hebben |
+| **lopen** | to walk | liep | liepen | gelopen | beide |
+| **rijden** | to drive | reed | reden | gereden | beide |
+| **vinden** | to find | vond | vonden | gevonden | hebben |
+| **zien** | to see | zag | zagen | gezien | hebben |
+| **gaan** | to go | ging | gingen | gegaan | zijn |
+| **komen** | to come | kwam | kwamen | gekomen | zijn |
+| **zijn** | to be | was | waren | geweest | zijn |
+| **hebben** | to have | had | hadden | gehad | hebben |
 
 - *Ik **at** een appel.* — I ate an apple.
 - *Wij **dronken** koffie.* — We drank coffee.
-- *Hij **was** ziek.* — He was sick.
+- *Hij **is** naar huis **gelopen**.* — He walked home.
+
+> The **perfect aux** column shows which helper the [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md) uses. *Lopen* and *rijden* take *zijn* only when a direction is given (*Ik ben naar huis gelopen*), otherwise *hebben* (*Ik heb een uur gelopen*).
 
 ## Verb + fixed preposition
 
-Many Dutch verbs require a specific preposition that English doesn't share. These have to be learned as units.
+Many Dutch verbs demand a specific preposition that English does not share. Learn them as units.
 
 | Verb + prep | English |
 |-------------|---------|
-| **wacht op** | to wait for |
-| **denken aan** | to think about |
 | **wachten op** | to wait for |
+| **denken aan** | to think about |
 | **luisteren naar** | to listen to |
 | **kijken naar** | to look at / watch |
 | **vragen om / naar** | to ask for / about |
@@ -62,18 +79,38 @@ Many Dutch verbs require a specific preposition that English doesn't share. Thes
 | **houden van** | to love / like |
 | **geloven in** | to believe in |
 | **rekenen op** | to count on |
-| **lijken op** | to look like |
+| **lijken op** | to resemble |
 | **bestaan uit** | to consist of |
 | **lijden aan** | to suffer from |
 | **trots zijn op** | to be proud of |
 | **bang zijn voor** | to be afraid of |
 | **klaar zijn met** | to be done with |
 
-## Splitted verbs
+- *Ik **wacht op** de bus.* — I'm waiting for the bus.
+- *Ze **houdt van** haar werk.* — She loves her job.
+
+## Separable verbs (*scheidbare werkwoorden*)
+
+Some verbs have a stressed prefix that **detaches** in a main clause and moves to the end: *opstaan → Ik **sta** om zeven uur **op**.* The prefix rejoins the verb in a subordinate clause (*…dat ik **opsta***) and wraps around *te* and *ge-*:
+
+- around *te*: *Ik probeer **op te staan*** — see [te + infinitive](/#/grammar?doc=4-verbs/27-te-infinitive.md).
+- in the participle: *opbellen → **opgebeld*** — see [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md).
+
+Inseparable prefixes (*be-, ge-, ver-, ont-, her-, er-, mis-*) never detach. Full prefix inventory: [morfologie](/#/grammar?doc=0-elements/06-morfologie.md).
+
+## Oefen — practice
+
+- [ ] Ik **werk** in Amsterdam.
+- [ ] **Woon** jij in Nederland?
+- [ ] Hij **leest** elke avond.
+- [ ] Wij **luisteren** naar muziek.
+- [ ] **Spreek** je Nederlands?
+- [ ] Zij **fietst** naar school.
 
 ## Common mistakes
 
-- Adding **-t** after `jij` in inversion: ❌ *Werkt jij?* → ✅ *Werk jij?*
-- Forgetting the spelling change `v→f`, `z→s` in the singular: ❌ *ik leev* → ✅ *ik leef*.
-- Mixing up *weten* and *kennen*.
-- Using *een* + adjective + het-noun and forgetting that the verb still conjugates normally — these are independent rules.
+- ❌ *Werkt jij?* → ✅ *Werk jij?* — inversion drops the *-t* after *jij / je*.
+- ❌ *ik leev* → ✅ *ik **leef*** — a stem-final *v/z* is written *f/s*.
+- ❌ *Ik **opbel** hem* → ✅ *Ik **bel** hem **op*** — a separable prefix detaches to the end in a main clause.
+- ❌ *Ik **ken** zwemmen* → ✅ *Ik **kan** zwemmen* — *kennen* = to know (a person/thing); *kunnen* = can, be able to.
+- ❌ *Ik weet hem* → ✅ *Ik **ken** hem* — *kennen* for people/places you're familiar with; *weten* for facts.

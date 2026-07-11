@@ -8,6 +8,17 @@ A relative clause attaches after the noun and is verb-final inside:
 - *het huis **dat we kochten*** — the house that we bought
 - *de stad **waar ik woon*** — the city where I live
 
+Choosing the relative word:
+
+```mermaid
+flowchart TD
+  Q["Which relative word?"] -->|"after iets, niets, alles"| A["wat"]
+  Q -->|"preposition + person"| B["prep + wie — met wie"]
+  Q -->|"preposition + thing"| C["waar + prep — waarop"]
+  Q -->|"de-word or plural"| D["die"]
+  Q -->|"het-word"| E["dat"]
+```
+
 ## The core choice: **die** vs. **dat**
 
 | Antecedent | Pronoun | Example |
@@ -65,9 +76,30 @@ When the antecedent is indefinite (*alles*, *iets*, *niets*, *veel*, *het enige*
 
 ## Verb-final and comma rules
 
-- The conjugated verb of the relative clause goes to the **end** (it's a subordinate clause).
-- Relative clauses are typically set off by **commas** in writing, especially when they sit in the middle of a sentence: *De man, **die** daar staat, is mijn buurman.*
-- Restrictive vs. non-restrictive distinction is weaker than in English; Dutch leans on commas rather than choice of pronoun.
+- The conjugated verb of the relative clause goes to the **end** (it's a subordinate clause): *De man die daar **staat**, is mijn buurman.*
+- **Non-restrictive** (extra, removable info) takes commas on **both** sides: *Mijn buurman, **die** daar staat, zwaait naar ons.*
+- **Restrictive** (which one exactly) takes no opening comma; a comma still closes the clause where the main sentence resumes: *De man **die** daar staat, is mijn buurman.*
+- Unlike English *that* vs *which*, Dutch does not change the pronoun for this distinction — it leans on the commas.
+
+## Worked example
+
+*De vrouw* **die** *ik gisteren* **zag**, *werkt hier.*
+
+| Piece | Role |
+|-------|------|
+| *De vrouw* | antecedent — a **de**-word |
+| **die** | relative pronoun (de-word → *die*); object of the clause |
+| *ik gisteren* | subject + time inside the clause |
+| **zag** | finite verb, pushed to the **end** |
+| *, werkt hier* | main clause resumes; its verb *werkt* is second |
+
+## Practice
+
+- [ ] De trein **die** naar Utrecht gaat, is vertraagd. — The train that goes to Utrecht is delayed.
+- [ ] Het huis **dat** we kochten, is oud. — The house that we bought is old.
+- [ ] De collega **met wie** ik werk, is aardig. — The colleague I work with is nice.
+- [ ] Alles **wat** hij zei, was waar. — Everything he said was true.
+- [ ] De stad **waar** ik woon, is klein. — The city where I live is small.
 
 ## Common mistakes
 

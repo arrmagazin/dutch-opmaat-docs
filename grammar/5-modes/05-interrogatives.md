@@ -1,21 +1,23 @@
-# Questions
+# Questions  *(A1)*
 
-Everything you need to ask things in Dutch: the two question shapes, every question word, prepositional and indirect variants, and the survival phrases for greetings and small talk.
+Dutch has exactly **two question shapes**: yes/no questions put the **verb first**; wh-questions put a **question word first**. Master those two skeletons and you can ask almost anything.
 
-## The Two Question Types
-
-Dutch questions come in exactly two shapes:
+```mermaid
+flowchart TD
+  Q["What are you asking?"] -->|"yes or no"| A["Verb first (V1) — Werk jij hier?"]
+  Q -->|"for information"| B["Question word first, then verb — Waar woon je?"]
+```
 
 | Type | Pattern | Example |
 |------|---------|---------|
-| **Yes/No** | verb + subject + …? | **Werk** jij hier? |
-| **Wh- / Information** | wh-word + verb + subject + …? | **Waar** **woon** je? |
+| **Yes/No** | verb + subject + … ? | ***Werk** jij hier?* |
+| **Wh- / information** | question word + verb + subject + … ? | ***Waar** woon je?* |
 
-Master those two skeletons and you can ask anything. Non-finite verbs, separable prefixes, and participles still go to the **end** of the clause.
+Any non-finite verb (infinitive, participle) or separable prefix still goes to the **end** of the clause. For the full inventory of question words (*wie, wat, welk(e), hoe, waarom, hoeveel …*), see [question words](/#/grammar?doc=1-auxilaries/40-vraag-worden.md).
 
-## Yes/No Questions — Inversion
+## Yes/no questions — inversion (V1)
 
-The conjugated verb moves to **slot 1** and the subject slides to **slot 2**.
+The conjugated verb moves to **slot 1**; the subject follows in slot 2.
 
 | Statement | Question |
 |-----------|----------|
@@ -24,136 +26,104 @@ The conjugated verb moves to **slot 1** and the subject slides to **slot 2**.
 | We **hebben** koffie. | **Hebben** we koffie? |
 | Het **is** koud. | **Is** het koud? |
 
-> **Drop-t rule:** *jij* / *je* loses its verb's **-t** when it's directly *after* the verb. *Jij **werkt*** → ***Werk** jij?*
+> **Drop-t rule:** *jij / je* loses the verb's **-t** when it comes right *after* the verb: *Jij **werkt*** → ***Werk** jij?* This happens only with *jij/je*, and only in inversion.
 
-The rest of the sentence (objects, adverbs, prepositional phrases) follows the subject — **time → manner → place** when several apply:
+The rest follows the subject in **time → manner → place** order (see [word order](/#/grammar?doc=6-structures/00-sentence.md)):
 
-- **Eet** je vanavond bij ons?
-- **Gaat** hij morgen met de trein naar Brussel?
-- **Heb** je dat al **gedaan**? *(participle to the end)*
+- ***Eet** je vanavond bij ons?*
+- ***Gaat** hij morgen met de trein naar Brussel?*
+- ***Heb** je dat al **gedaan**?* *(participle to the end)*
 
-### Modal Verbs in Questions
+### Modal-verb questions
 
-#### Yes/No Questions
+The modal takes slot 1 (or follows the question word); the main verb stays an **infinitive at the end**.
 
-**With inversion:** Modal + Subject + Infinitive + ?
+| Question | Type |
+|----------|------|
+| **Kun** je me **helpen**? | yes/no |
+| **Mag** ik even **bellen**? | yes/no |
+| **Zullen** we **eten**? | yes/no (suggestion) |
+| **Waarom** moet ik dat **doen**? | wh- |
+| **Wat** wil je **eten**? | wh- |
 
-- **Kan** jij dat **doen**? (Can you do that?)
-- **Moet** ik hier **wachten**? (Do I have to wait here?)
+For modal conjugation and verb stacking, see [modal verbs](/#/grammar?doc=4-verbs/23-modal_verbs.md).
 
-#### Open Questions
+### Confirmation tags
 
-**With question word:** Question word + Modal + Subject + Infinitive + ?
-
-- **Waarom** **moet** ik dat **doen**? (Why do I have to do that?)
-- **Wat** **wil** je **eten**? (What do you want to eat?)
-
-#### Modal yes/no questions
-
-The modal goes to slot 1; the main verb (infinitive) to the end.
-
-| Modal | Example |
-|-------|---------|
-| **Kan** | **Kun** je me helpen? |
-| **Mag** | **Mag** ik even bellen? |
-| **Wil** | **Wil** je dat ik kom? |
-| **Moet** | **Moet** ik nu vertrekken? |
-| **Zal / Zullen** | **Zal** ik helpen? / **Zullen** we eten? |
-
-### Tags: **toch?**, **hè?**, **niet?**
-
-Short tags appended to a statement to seek confirmation, like English "right?".
+Short tags seek agreement, like English "right?".
 
 | Tag | Use | Example |
 |-----|-----|---------|
-| **toch?** | seeking confirmation, mild | Het is mooi weer, **toch**? |
-| **hè?** | colloquial "right?" | Lekker, **hè**? |
-| **niet?** / **niet waar?** | "isn't that so?" | Je komt morgen, **niet**? |
-| **of niet?** | "or not?" | Je gaat mee, **of niet**? |
+| **toch?** | mild confirmation | *Het is mooi weer, **toch**?* |
+| **hè?** | colloquial "right?" | *Lekker, **hè**?* |
+| **niet(waar)?** | "isn't that so?" | *Je komt morgen, **niet**?* |
+| **of niet?** | "or not?" | *Je gaat mee, **of niet**?* |
 
-### Answering: **ja**, **nee**, **jawel**
+### Answering: *ja*, *nee*, *jawel*
 
 | Answer | When |
 |--------|------|
 | **ja** | confirming a positive question |
-| **jawel** | contradicting a *negative* question — "yes, actually" |
 | **nee** | denying it (or confirming a negative one) |
+| **jawel** | contradicting a *negative* question — "yes, actually" |
 
-> ***wel*** is the positive counterpart to **niet** and often pairs with **jawel**: *Jawel, ik kom **wel***.
+> ***wel*** is the positive counterpart of *niet* and pairs with *jawel*: *"Je komt toch niet?" — "**Jawel**, ik kom **wel**."*
 
-### Negative yes/no questions
+Form a negative question by adding *niet* or *geen* in the usual slots — *Heb je **geen** tijd?*, *Werk jij vandaag **niet**?* Such questions often expect *jawel* when you contradict the implied negative.
 
-Form by adding **niet** or **geen** in the normal positions:
+## Prepositional questions
 
-- ***Heb** je geen tijd?* — Don't you have time?
-- ***Werk** jij vandaag niet?* — Aren't you working today?
+When the question asks about the object of a preposition, people and things behave differently.
 
-Negative questions often expect a **jawel** when the speaker contradicts the implied negative.
+**People — preposition + *wie*:** *Met wie?* / *Voor wie?* / *Aan wie?* / *Over wie?*
 
-## Prepositional Information Questions
+**Things — *waar* + preposition** (never *wat* after a preposition). Fuse them into one word, or split them:
 
-When the question concerns the object of a preposition, two patterns apply.
-
-### People — *preposition + wie*
-
-| English | Dutch |
-|---------|-------|
-| With whom? | **Met wie**? |
-| For whom? | **Voor wie**? |
-| To whom? | **Aan wie**? |
-| About whom? | **Over wie**? |
-
-### Things — **waar** + preposition (joined or split)
-
-The pronoun **wat** is *not* used after prepositions. Instead, fuse **waar + preposition** into a single word — or split the pieces.
-
-| Joined | Split | English |
-|--------|-------|---------|
+| Joined | Split (spoken) | English |
+|--------|----------------|---------|
 | **Waarop** wacht je? | **Waar** wacht je **op**? | What are you waiting for? |
-| **Waarover** praat hij? | **Waar** praat hij **over**? | What is he talking about? |
+| **Waarover** praat hij? | **Waar** praat hij **over**? | What's he talking about? |
 | **Waarmee** schrijf je? | **Waar** schrijf je **mee**? | What are you writing with? |
 | **Waaraan** denk je? | **Waar** denk je **aan**? | What are you thinking about? |
-| **Waarvoor** is dat? | **Waar** is dat **voor**? | What is that for? |
 
-> Two prepositions transform: **met → mee**, **tot → toe**. So *waarmee*, *waartoe*, *daarmee*, *ertoe*.
+> Two prepositions change shape here: *met → mee*, *tot → toe* (so *waarmee*, *waartoe*). The split form is more natural in speech; the joined form is more formal. This mirrors *er*-words — see [question words](/#/grammar?doc=1-auxilaries/40-vraag-worden.md).
 
-The split form is more natural in spoken Dutch; the joined form is common in writing and formal contexts.
+## Indirect (embedded) questions
 
-## Indirect (Embedded) Questions
+Wrap a question inside another clause to ask more politely. The embedded verb moves to the **end**.
 
-You can wrap a question inside another sentence to ask politely. The verb of the embedded clause moves to the **end**.
-
-### Embedded wh-questions
+**Wh-questions** keep the question word as the link:
 
 | Direct | Embedded |
 |--------|----------|
 | **Waar** woont hij? | Ik weet niet **waar** hij **woont**. |
-| **Wanneer** komt de trein? | Ik vraag me af **wanneer** de trein **komt**. |
 | **Hoeveel** kost dat? | Kun je me zeggen **hoeveel** dat **kost**? |
 | **Waarom** kom je niet? | Ik begrijp niet **waarom** je niet **komt**. |
-| **Met wie** ga je? | Ik ben benieuwd **met wie** je **gaat**. |
 
-### Embedded yes/no — use **of** ("whether")
+**Yes/no questions** swap inversion for **of** ("whether"):
 
 | Direct | Embedded |
 |--------|----------|
 | **Komt** hij morgen? | Weet je **of** hij morgen **komt**? |
-| **Heb** je dat gezien? | Ik vraag me af **of** je dat **gezien hebt**. |
 | **Mag** ik binnenkomen? | Ik wilde vragen **of** ik **binnen mag komen**. |
 
-Common opener verbs: *weten*, *vragen*, *zich afvragen*, *begrijpen*, *vertellen*, *zeggen*.
+Common openers: *weten, vragen, zich afvragen, begrijpen, vertellen, zeggen*. When you *report* what someone asked, the tense may shift back too — see [reported speech](/#/grammar?doc=6-structures/05-reported_speech.md).
+
+## Practice
+
+- [ ] ***Werk** jij morgen?* — yes/no inversion, drop-t.
+- [ ] ***Waar** kom je **vandaan**?* — origin needs *vandaan*.
+- [ ] ***Waarop** wacht je?* / ***Waar** wacht je **op**?* — thing + preposition.
+- [ ] *Weet je **of** de winkel open is?* — embedded yes/no with *of*.
+- [ ] *Ik vraag me af **waarom** hij niet **komt**.* — embedded wh-, verb-final.
 
 ## Common mistakes
 
-- Subject before verb in a wh-question: ❌ *Waar jij woont?* → ✅ ***Waar woon jij?***
-- Translating "How are you?" word-for-word: ❌ *Hoe ben je?* → ✅ ***Hoe gaat het?***
-- Forgetting **vandaan**: ❌ *Waar kom je?* → ✅ *Waar kom je **vandaan**?*
-- Forgetting drop-t with **jij**: ❌ *Werkt jij hier?* → ✅ *Werk jij hier?*
-- Using **wat** with a preposition for things: ❌ *Op wat wacht je?* → ✅ ***Waarop** wacht je?*
-- Translating "what time?" as **wat tijd**: ❌ → ✅ ***hoe laat***.
-- Translating "whose" as one word: ❌ *Wie's boek* → ✅ ***Van wie** is dit boek?*
-- Forgetting agreement on **welk(e)**: ❌ *welke huis* → ✅ *welk huis*; ❌ *welk auto* → ✅ *welke auto*.
-- Forgetting verb-final order in indirect questions: ❌ *Ik weet niet waar woont hij* → ✅ *Ik weet niet **waar hij woont***.
-- Confusing **of** = "or" with **of** = "whether" in indirect questions.
-- Answering a negative question with **ja** when you mean to contradict — use ***jawel***.
-- Mixing up **waar … vandaan** (origin) and **waar … heen** (destination).
+- ❌ *Waar jij woont?* → ✅ ***Waar woon jij?*** — the verb comes before the subject in wh-questions too.
+- ❌ *Werkt jij hier?* → ✅ *Werk jij hier?* — drop the **-t** with *jij/je* after the verb.
+- ❌ *Hoe ben je?* → ✅ ***Hoe gaat het?*** — "How are you?" is idiomatic, not word-for-word.
+- ❌ *Waar kom je?* → ✅ *Waar kom je **vandaan**?* — origin needs *vandaan*; destination needs *heen / naartoe*.
+- ❌ *Op wat wacht je?* → ✅ ***Waarop** wacht je?* — no *wat* after a preposition; use *waar + preposition*.
+- ❌ *Ik weet niet waar **woont hij*** → ✅ *Ik weet niet **waar hij woont*** — embedded questions are verb-final.
+- ❌ Answering a negative question with *ja* to disagree → ✅ use ***jawel***.
+- Confusing *of* = "or" with *of* = "whether" in embedded questions.

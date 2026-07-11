@@ -1,66 +1,70 @@
-# Bijworden Comparatives  *(B1)*
+# Comparatives & superlatives  *(A2)*
 
-Add `-er` for Comparatives, `het + -st` - for Superlatives.
+To compare, add **-er** (comparative) and **-st** (superlative): *snel → sneller → snelst*. Use *het + -st* for the predicative superlative (*het snelst*) and *de/het + -ste* before a noun (*de snelste*). "Than" is **dan** — never *als*.
 
-> Adjectives ending in `-r` add `-d-` before -er: *duur → duurder*, *zwaar → zwaarder*.
+## Forming them
 
-## Comparative adjectives
+| Positive | Comparative (-er) | Superlative (-st) | Spelling note |
+|----------|-------------------|-------------------|---------------|
+| klein | kleiner | kleinst | regular |
+| groot | groter | grootst | long vowel: *oo → o* |
+| dik | dikker | dikst | short vowel: double the consonant |
+| mooi | mooier | mooist | regular |
+| oud | ouder | oudst | regular |
+| duur | duurder | duurst | *-r* stem → insert **d** |
+| lekker | lekkerder | lekkerst | *-r* stem → insert **d** |
 
-| Positive | Comparative | Superlative | Example |
-|----------|-------------|-------------|---------|
-| klein | kleiner | kleinst | *Mijn huis is `kleiner` dan het jouwe, maar zijn huis is het `kleinst`.* |
-| groot | groter | grootst | *Deze stad is `groter`, maar Amsterdam is het `grootst`.* |
-| mooi | mooier | mooist | *Haar stem is `mooier`, maar jouw stem is het `mooist`.* |
-| dik | dikker | dikst | *Het ijs wordt `dikker`, in januari is het het `dikst`.* |
-| ver | verder | verst | *Zij woont `verder` weg, maar hij woont het `verst`.* |
-| oud | ouder | oudst | *Mijn broer is `ouder`, maar opa is het `oudst`.* |
-| jong | jonger | jongst | *Zij is `jonger` dan ik, maar haar zus is het `jongst`.* |
-| lang | langer | langst | *Deze weg is `langer`, maar die is het `langst`.* |
-| kort | korter | kortst | *In de winter zijn de dagen `korter`; in december zijn ze het `kortst`.* |
-| hoog | hoger | hoogst | *Die toren is `hoger`, maar de Domtoren is het `hoogst`.* |
-| laag | lager | laagst | *De prijzen zijn nu `lager`, maar hier zijn ze het `laagst`.* |
-| nieuw | nieuwer | nieuwst | *Mijn telefoon is `nieuwer`, maar die van jou is het `nieuwst`.* |
-| duur | duurder | duurst | *Dit horloge is `duurder`, maar dat is het `duurst`.* |
-| goedkoop | goedkoper | goedkoopst | *De markt is `goedkoper`, maar online is het `goedkoopst`.* |
-| warm | warmer | warmst | *Vandaag is het `warmer`, maar juli is het `warmst`.* |
-| koud | kouder | koudst | *Het wordt `kouder`, in januari is het het `koudst`.* |
-| sterk | sterker | sterkst | *Hij is `sterker` dan ik, maar zij is het `sterkst`.* |
-| zwaar | zwaarder | zwaarst | *Deze tas is `zwaarder`, maar die koffer is het `zwaarst`.* |
-| leuk | leuker | leukst | *Dit feest is `leuker`, maar dat was het `leukst`.* |
-| lekker | lekkerder | lekkerst | *Deze soep is `lekkerder`, maar de taart is het `lekkerst`.* |
+> Adjectives ending in **-r** insert a **d** before *-er*: *duur → duur**d**er*, *ver → ver**d**er*, *zwaar → zwaar**d**er*, *lekker → lekker**d**er*.
 
-> Use `dan` (not *als*!) for "than": *Hij is `groter dan` ik.*
-
-## Comparison of adverbs
-
-| Positive | Comparative | Superlative | Example |
-|----------|-------------|-------------|---------|
-| `snel` | sneller | het snelst | *Zij loopt `sneller` dan ik, maar hij loopt het `snelst`.* |
-| `vaak` | vaker | het vaakst | *Ik kom hier nu `vaker`, maar jij komt het `vaakst`.* |
-| `note:graag` | liever | het liefst | *Ik drink `liever` thee, maar koffie drink ik het `liefst`.* |
-| `goed` | beter | het best | *Hij speelt `beter` dan vroeger, maar zij speelt het `best`.* |
-| `veel` | meer | het meest | *Zij weet `meer` dan ik, maar hij weet het `meest`.* |
-| `weinig` | minder | het minst | *Dit kost `minder`, maar dat kost het `minst`.* |
-| hard | harder | het hardst | *Hij praat `harder`, maar zij schreeuwt het `hardst`.* |
-| zacht | zachter | het zachst | *Zij praat `zachter`, maar hij praat het `zachst`.* |
-| langzaam | langzamer | het langzaamst | *Hij rijdt `langzamer`, maar zij rijdt het `langzaamst`.* |
-| laat | later | het laatst | *Ik kom `later`, maar hij komt het `laatst`.* |
-| vroeg | vroeger | het vroegst | *Zij staat `vroeger` op, maar hij staat het `vroegst` op.* |
-| lang | langer | het langst | *Deze film duurt `langer`, maar die duurt het `langst`.* |
-| kort | korter | het kortst | *Hij sprak `korter`, maar zij sprak het `kortst`.* |
-| diep | dieper | het diepst | *Hij dook `dieper`, maar zij dook het `diepst`.* |
-| hoog | hoger | het hoogst | *De adelaar vliegt `hoger`, maar de gier vliegt het `hoogst`.* |
-| duidelijk | duidelijker | het duidelijkst | *Hij legt het `duidelijker` uit, maar zij doet het het `duidelijkst`.* |
-| voorzichtig | voorzichtiger | het voorzichtigst | *Hij rijdt `voorzichtiger`, maar zij rijdt het `voorzichtigst`.* |
-| rustig | rustiger | het rustigst | *Zij werkt `rustiger`, maar thuis werk ik het `rustigst`.* |
-| beleefd | beleefder | het beleefdst | *Hij antwoordt `beleefder`, maar zij antwoordt het `beleefdst`.* |
-| slecht | slechter | het slechtst | *Vandaag speelt hij `slechter`, maar gisteren speelde hij het `slechtst`.* |
+Attributive superlatives add **-e** and take an article: *de **grootste** stad*, *het **kleinste** huis*. Predicative superlatives use *het + -st*: *In juli is het **het warmst***.
 
 ## Irregular
 
-These don't follow the `-er`/`-st` rule:
+Four everyday words break the pattern — memorise them:
 
-- **goed → beter → best**
-- **veel → meer → meest**
-- **weinig → minder → minst**
-- **graag → liever → liefst**
+| Positive | Comparative | Superlative | Example |
+|----------|-------------|-------------|---------|
+| **goed** | beter | best | *Zij speelt **beter** dan ik; hij speelt **het best**.* |
+| **veel** | meer | meest | *Ik weet **meer**, maar jij weet **het meest**.* |
+| **weinig** | minder | minst | *Dit kost **minder**; dat kost **het minst**.* |
+| **graag** | liever | liefst | *Ik drink **liever** thee, maar koffie **het liefst**.* |
+
+## Long and -isch adjectives: use meer / meest
+
+Adjectives ending in **-isch**, and many long or participle adjectives, don't take *-er / -st*. Put **meer** / **meest** in front instead:
+
+```mermaid
+flowchart TD
+  A["Short adjective?"] -->|"yes"| B["Add -er / -st — sneller, snelst"]
+  A -->|"no, long or -isch"| C["meer / meest — meer logisch"]
+```
+
+- *Dit is **meer logisch**.* — This is more logical. (not ~~logischer~~)
+- *een **meer geïnteresseerde** lezer* — a more interested reader
+- *de **meest typische** fout* — the most typical mistake
+
+## dan vs als
+
+> **"Than" = *dan*.** *Hij is **groter dan** ik.* Never *groter als*.
+
+*als* is for **equality**, not difference: *even groot **als*** / *net zo groot **als*** (as big as) — see [Modifiers](/#/grammar?doc=1-auxilaries/14-modifiers.md).
+
+> **Register:** *groter als* is very common in casual speech, but non-standard. Write and say **dan** in exams and formal Dutch.
+
+## Comparing adverbs
+
+Adverbs compare with the same endings and the same irregulars:
+
+- [ ] *Zij loopt **sneller** dan ik, maar hij loopt **het snelst**.*
+- [ ] *Hij komt nu **vaker**, maar jij komt **het vaakst**.*
+- [ ] *Hij praat **harder**, maar zij schreeuwt **het hardst**.*
+- [ ] *Hij legt het **duidelijker** uit; zij doet het **het duidelijkst**.*
+- [ ] *Vandaag speelt hij **slechter** dan gisteren.*
+
+## Common mistakes
+
+- ❌ *groter **als** ik* → ✅ *groter **dan** ik* — "than" is *dan*; *als* is only for equality (*even groot als*).
+- ❌ *meer **groot*** → ✅ *groter* — short adjectives take *-er*, not *meer*.
+- ❌ *duur**er*** → ✅ *duur**der*** — an *-r* stem inserts a *d*.
+- ❌ *meer **goed*** / *goeder* → ✅ *beter* — *goed* is irregular.
+- ❌ *Hij loopt het **snelste*** → ✅ *Hij loopt het **snelst*** — the predicative/adverbial superlative has no -e.

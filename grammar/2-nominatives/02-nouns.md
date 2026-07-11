@@ -1,71 +1,88 @@
-# Nouns
+# Nouns  *(A1)*
 
-## Key Classifications
+Every Dutch noun has a **gender**, shown by its definite article: **de** or **het**. Gender is the single biggest A1 hurdle, because it also decides which demonstrative (*deze/die* vs *dit/dat*), which possessive (*ons* vs *onze*) and which adjective ending you use. There is no perfect rule, so learn each noun *with* its article — store *het boek*, never bare *boek*.
 
-Nouns are classified into several specific types based on what they represent:
+## de or het? (the noun's gender)
 
-- Proper Nouns: Specific names of people, places, or institutions (e.g., Amsterdam, Sarah, Google). Always capitalized.
-- Common Nouns: General, uncapitalized names of everyday items, people, or places (e.g., city, teacher, laptop).
-- Abstract Nouns: Concepts, ideas, and feelings that cannot be touched or physically seen (e.g., love, courage, freedom).
-- Concrete Nouns: Physical items you can detect with your five senses (e.g., table, rain, dog).
-- Collective Nouns: Words that refer to a group of individuals or things functioning as one unit (e.g., team, family, jury).
+Dutch has two genders:
 
-## Indefinite Article
+- **de** — common gender, roughly **two-thirds** of all nouns: *de tafel*, *de man*, *de stad*
+- **het** — neuter, the remaining third: *het boek*, *het kind*, *het huis*
 
-Dutch has one indefinite article, **een** ("a/an").
+> **When in doubt, guess *de*** — you'll be right about two out of three times. Then switch to *het* for the six het-groups below.
 
-Use **een** when the noun is singular and not-a-specific, not-already-known one:
+```mermaid
+flowchart TD
+  Q["Diminutive, infinitive-as-noun, or ge-/be-/ver-/ont- word?"] -->|"yes"| H["het — het huisje, het eten, het gebouw"]
+  Q -->|"no — guess, about 2 in 3 are de"| D["de — de tafel, de man"]
+```
 
-- Introducing something for the first time: Ik zie een hond.
-- not emphasized, doesn't carry much meaning, supposed implicitly: Ik **lees** een boek.
-- Refer to any of class, not a particular instance: Geef me **een pen**. (any pen).
-- Naming a profession, nationality, or belief: Zij is **een lerar**. — She is a teacher.
+### Guess het for these
 
-It stays the same for every singular noun — both de-words and het-words take **een**, so you never have to know the gender to use it.
+| Group | Examples |
+|-------|----------|
+| Diminutives (any *-je*) | *het huisje*, *het meisje*, *het autootje* |
+| Infinitives used as nouns | *het eten*, *het zwemmen*, *het roken* |
+| Words with *ge-/be-/ver-/ont-* (2 syllables) | *het gebouw*, *het bewijs*, *het verbod*, *het ontbijt* |
+| Languages, colours, compass points | *het Nederlands*, *het rood*, *het noorden* |
+| Metals and materials | *het goud*, *het ijzer*, *het glas*, *het hout* |
+| Endings *-isme, -ment, -sel, -um* | *het toerisme*, *het moment*, *het deksel*, *het museum* |
+
+### Otherwise it's usually de
+
+| Group | Examples |
+|-------|----------|
+| All **plurals** (even of het-words) | *de boeken*, *de huizen* |
+| Most people and professions | *de vrouw*, *de leraar*, *de buurman* |
+| Fruits, trees, plants | *de appel*, *de boom*, *de bloem* |
+| Numbers, letters, seasons | *de drie*, *de a*, *de zomer* |
+| Endings *-ing, -heid, -teit, -ie, -tie, -ij* | *de opleiding*, *de vrijheid*, *de kwaliteit*, *de familie* |
+
+> Two het-words to memorise because they name people: **het kind** and **het meisje**. (They are het because *-je* wins, and *kind* is just an old neuter.)
+
+## The indefinite article: een
+
+Dutch has one indefinite article, **een** ("a/an"), used for a singular noun that is new or non-specific. The great thing: **it ignores gender** — de-words and het-words both take *een*, so you never need to know the gender to use it.
 
 - *een tafel* — a table (de-word)
 - *een boek* — a book (het-word)
 
-Indefinite article is *dropped*:
+*Een* is **dropped**:
 
-- in the plural: *e en boek* → *boeken* , *een appel* → *appels*.
-- Uncountable (mass) nouns: *water*, *geld*, *muziek* — water, money, music.
+- in the **plural**: *een boek* → *boeken*, *een appel* → *appels*
+- with **uncountable (mass)** nouns: *water*, *geld*, *muziek*
 
-> Don't confuse **een** (the article, unstressed, sounds like "un" /ən/) with **één** (the number "one", stressed /eːn/). The accents mark the difference in writing: *een appel* — an apple; *één appel* — one apple.
+> Don't confuse **een** (the article, unstressed, sounds like "un" /ən/) with **één** (the number "one", stressed /eːn/). The accents mark it in writing: *een appel* — an apple; *één appel* — one apple.
 
-## Strong/Neutral nouns. Definite Noun Articles (Lidwoorden)
+## Naming what someone is (drop the article)
 
-In Dutch, Definite articles differentiates strong or neutral nouns:
+Unlike English, Dutch **leaves out the article** when stating a profession, nationality, or belief after *zijn/worden*:
 
-- **de**  : strong, de-words, *de tafel*
-- **het** : neutral, het-words, *het boek*
+- *Zij is **lerares**.* — She is **a** teacher.
+- *Hij wordt **arts**.* — He is becoming **a** doctor.
+- *Ik ben **Nederlander**.* — I am **a** Dutchman.
 
-There is no foolproof logic, but approximately 75% of all nouns are de-words.
+The article returns as soon as an adjective is added: *Zij is **een goede** lerares.*
 
-While there are many exceptions, clear patterns govern word categories, prefixes, and suffixes to help determine the correct article.
+Country and city names normally take **no article** either: *Nederland is mooi* (not ~~het Nederland~~). *Het* only appears when the name is modified: *het mooie Nederland*.
 
-> When in doubt, look it up — native speakers sometimes disagree too!
+## Try it
 
-### Use `de` for
+Which article — **de** or **het**?
 
-- Plurals: All plurals use de.
-- Most nouns referring to people follow natural gender (de man, de vrouw)
-- People and professions (e.g., de man, de leraar)
-- Words ending in **-ing, -heid, -schap,-nis, -ijm -ie** (e.g., de opleiding, de gezondheid)
-- Trees, plants, and fruits (e.g., de appel, de tulp)
-- Letters, numbers, and days of the week (e.g., de maandag) [10, 11, 12, 13]
+- [ ] Ik lees **het** boek. — I'm reading the book.
+- [ ] **De** appel is rood. — The apple is red.
+- [ ] Waar is **het** museum? — Where is the museum?
+- [ ] **De** opleiding duurt vier jaar. — The course takes four years.
+- [ ] **Het** meisje speelt buiten. — The girl is playing outside.
 
-### Use `het` for
+> Gender drives more than the article: see [Determiners](/#/grammar?doc=2-nominatives/14-determiners.md) for *deze/dit*, [Possessives](/#/grammar?doc=2-nominatives/54-possesives.md) for *ons/onze*, and [Adjectives](/#/grammar?doc=3-bijworden/34-adjectives.md) for the *-e* ending.
 
-- Diminutives: Any word ending in -je, -tje, or -pje.(*het huisje, het meisje*)
-- Verbs as nouns: Infinitives used as nouns (e.g., het zwemmen) take het.
-- Countries, cities, and languages (e.g., het Nederland, het Engels)
-- Metals and materials (e.g., het goud, het ijzer)
-- Words starting with -ge, -be, -ver, or -ont (often two syllables)
-- Words ending in -isme, -ment, -sel, or -um (e.g., het museum) [13, 14, 15, 16, 17]
+## Common mistakes
 
-## read more
-
-- [review the detailed rules on The Dutch Online Academy](https://thedutchonlineacademy.com/en/grammar/de-or-het)
-- [or browse the Easy Dutch News](https://www.easydutchnews.com/blog/de-vs-het-complete-guide) guide.
-- [check for Het-words list](https://learning-dutch.com/essential-dutch-grammar-het-words.pdf)
+- ❌ *het tafel* → ✅ *de tafel* — most nouns are de-words; guess *de* when unsure.
+- ❌ *de museum* → ✅ *het museum* — words in *-um* are het.
+- ❌ *de meisje* → ✅ *het meisje* — every diminutive (*-je*) is a het-word.
+- ❌ *Zij is een lerares* → ✅ *Zij is lerares* — drop *een* before a bare profession.
+- ❌ *het Nederland is mooi* → ✅ *Nederland is mooi* — country names take no article.
+- ❌ *één boek* for "a book" → ✅ *een boek* — *één* means the number one.

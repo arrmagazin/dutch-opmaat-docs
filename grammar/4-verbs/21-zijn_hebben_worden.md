@@ -1,74 +1,68 @@
-# Auxiliary Verbs
+# Auxiliary Verbs  *(A1)*
 
-Auxiliary verbs work with main verbs to form tenses, moods, and voices.
+*Zijn*, *hebben* and *worden* are the three verbs Dutch leans on to build tenses, the perfect, and the passive. All three are irregular and high-frequency — learn their paradigms cold.
 
-## Zijn (To Be)
+## The three paradigms
 
-**Conjugation:**
+| Form | *zijn* (to be) | *hebben* (to have) | *worden* (to become) |
+|------|----------------|--------------------|-----------------------|
+| *ik* | **ben** | **heb** | **word** |
+| *jij / je* | **bent** | **hebt** | **wordt** |
+| *hij / zij / het* | **is** | **heeft** | **wordt** |
+| *u* | **bent** | **hebt / heeft** | **wordt** |
+| *wij / jullie / zij* | **zijn** | **hebben** | **worden** |
+| past sg | **was** | **had** | **werd** |
+| past pl | **waren** | **hadden** | **werden** |
+| participle | **geweest** (*ben*) | **gehad** (*heb*) | **geworden** (*ben*) |
 
-Present Sg: ik **ben** ..., jij **bent** ... hij/zij/het **is** ...,
-Past Sg: ik/jij/hij/zij/het **was** ...
+> **Spelling trap:** *worden* has the stem *word* (ends in *-d*), so *ik **word*** is the bare stem (no *-t*), but *hij **wordt*** and *jij **wordt*** add *-t*. In inversion the *-t* drops: *Word **jij** boos?*
 
-Present Pl:  wij/jullie/zij **zijn** ...
-Past Pl:  wij/jullie/zij **waren** ...
+## *Zijn* — to be
 
-**Uses:**
+- **Copula (state):** *Zij **is** ziek.* — She is sick. / *Het **is** koud.* — It's cold.
+- **Perfect auxiliary** for motion and change-of-state verbs: *Ik **ben** naar huis **gegaan**.* — I went home. / *Hij **is gekomen**.* — He has come.
 
-- **Movement:** ik **ben** naar huis gegaan (I went home)
-- **State:** zij **is** ziek (she is sick)
-- **Perfect tense with intransitive verbs:** ik **ben** gekomen (I have come)
+> Only motion/change-of-state verbs (plus *zijn*, *blijven*, *worden*) take *zijn* in the perfect; most verbs take *hebben*. Full rule: [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md).
 
-**Common Examples:**
+## *Hebben* — to have
 
-- Hij **is** aan het werk. (He is working.)
-- Waar **ben** je? (Where are you?)
-- Het **is** koud. (It is cold.)
+- **Possession:** *Ik **heb** een auto.* — I have a car. / *Zij **heeft** twee kinderen.*
+- **Perfect auxiliary** (the default): *Ik **heb gegeten**.* — I have eaten. / *We **hebben gewerkt**.*
+- **Fixed expressions:** *Ik **heb** honger / gelijk / haast.* — I'm hungry / right / in a hurry.
 
-## Hebben (To Have)
+## *Worden* — to become
 
-**Conjugation:**
+*Worden* means **to become**, and it is also the auxiliary of the [passive](/#/grammar?doc=4-verbs/29-passive.md).
 
-| Pronoun | Present | Past |
-|---------|---------|------|
-| ik | heb | had |
-| jij | hebt | had |
-| hij/zij/het | heeft | had |
-| wij/jullie/zij | hebben | hadden |
+- **Becoming (change of state):** *Het **wordt** koud.* — It's getting cold. / *Hij **wordt** steeds beter.* — He keeps getting better.
+- **Passive (process):** *Het boek **wordt gelezen**.* — The book is being read.
 
-**Uses:**
+Its perfect uses *zijn*: *Hij **is** dokter **geworden**.* — He has become a doctor. In the **passive** perfect the participle *geworden* is dropped: *De brief **is geschreven*** (not ~~is geschreven geworden~~).
 
-- **Possession:** ik **heb** een auto (I have a car)
-- **Perfect tense:** ik **heb** gegeten (I have eaten)
-- **Obligation:** ik **heb** dat te doen (I have to do that)
+> Dutch has **no future with *worden***. "I will go" is *Ik **zal** gaan* (*zullen*), never ~~Ik word gaan~~ — a classic German-interference trap. See [future](/#/grammar?doc=5-modes/02-future.md).
 
-**Common Examples:**
+## Worked example
 
-- Zij **heeft** twee kinderen. (She has two children.)
-- Ik **heb** honger. (I am hungry.)
-- We **hebben** gelijk. (We are right.)
+*Ik **heb** gewerkt, maar Anna **is** naar huis **gegaan**.*
+— "I worked, but Anna went home."
 
-## Worden (To Become/To Be)
+- *heb … gewerkt* — *werken* is an ordinary activity → auxiliary **hebben**.
+- *is … gegaan* — *gaan* is motion → auxiliary **zijn**.
 
-*Worden* is irregular and you'll need it in every tense.
+One sentence, two auxiliaries: the verb decides which one, not the subject.
 
-**Conjugation:**
+## Oefen — practice
 
-| Tense | ik | jij / hij / zij | wij / jullie / zij |
-|-------|------|------------------|---------------------|
-| **Present** | word | wordt | worden |
-| **Imperfectum** | werd | werd | werden |
-| **Perfectum** | ben geworden | is geworden | zijn geworden |
+- [ ] Ik **ben** moe vandaag.
+- [ ] **Heb** jij honger?
+- [ ] Het **wordt** koud buiten.
+- [ ] Wij **zijn** op vakantie.
+- [ ] Zij **heeft** een nieuwe fiets.
 
-Note: in the **passive perfectum**, the participle *geworden* is almost always dropped.
+## Common mistakes
 
-**Uses:**
-
-- **Becoming:** Het **wordt** koud. (It is becoming cold.)
-- **Passive voice:** Het boek **wordt** gelezen. (The book is being read.)
-- **Future (archaic):** Ik **word** gaan. (I will go.)
-
-**Common Examples:**
-
-- Hij **wordt** steeds beter. (He is getting better.)
-- Dat **wordt** duur. (That will become expensive.)
-- Zij **werd** gearresteerd. (She was arrested.)
+- ❌ *hij ben / hij zijn* → ✅ *hij **is*** — third person singular of *zijn* is *is*.
+- ❌ *ik wordt* → ✅ *ik **word*** — *ik* takes the bare stem; only *jij/hij* add *-t* (*hij wordt*).
+- ❌ *Ik **word** morgen gaan* → ✅ *Ik **zal** morgen gaan* — the future is *zullen*, not *worden*.
+- ❌ *De brief is geschreven **geworden*** → ✅ *De brief **is geschreven*** — *geworden* is dropped in the passive perfect.
+- ❌ *Ik **heb** naar huis gegaan* → ✅ *Ik **ben** naar huis gegaan* — motion verbs take *zijn* in the perfect.

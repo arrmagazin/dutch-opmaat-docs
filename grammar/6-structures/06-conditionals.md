@@ -1,13 +1,16 @@
-# Conditionals (If… then…)
+# Conditionals (If… then…)  *(B1)*
 
-Conditionals express that one thing depends on another. Dutch uses **als**
-("if") for the condition and often **dan** ("then") to open the result clause.
-There are three levels — from real and likely, through hypothetical, to
-impossible (past).
+Conditionals say that one thing depends on another. Dutch uses **als** ("if") for the condition and often **dan** ("then") to open the result clause. There are three levels — from real and likely, through hypothetical, to impossible (past).
 
-> **Word order rule:** `als` is a subordinating conjunction, so the verb in the
-> *als*-clause goes to the **end**. When the *als*-clause comes first, the result
-> clause starts with its **verb** (or with **dan** + verb).
+> **Word order rule:** *als* is a [subordinating conjunction](/#/grammar?doc=6-structures/03-subordinating.md), so the verb in the *als*-clause goes to the **end**. When the *als*-clause comes first, it fills slot 1 of the main clause, so the result clause starts with its **verb** (or with **dan** + verb).
+
+Two ways to state the condition, one inverted result:
+
+```mermaid
+flowchart LR
+  A["Als het regent — verb to the END"] --> C["(dan) blijf ik thuis — result, verb first"]
+  B["Regent het — drop als, verb first"] --> C
+```
 
 ## 1. Real / open condition (likely to happen)
 
@@ -25,6 +28,17 @@ Structure: **Als** + … + verb(end) **, (dan)** + verb + …
 
 > The result clause can also use the future: *Als het regent, **zal** ik thuisblijven.*
 > The plain present is far more common in speech.
+
+### Worked example
+
+***Als** het* **regent**, **blijf** *ik thuis.*
+
+| Piece | Role |
+|-------|------|
+| **Als** het **regent** | condition — subordinate clause, verb *regent* at the **end** |
+| (comma) | the whole *als*-clause fills slot 1 of the main clause |
+| **blijf** | main-clause verb, second → **inversion** |
+| *ik thuis* | subject + rest |
 
 ## 2. Unreal / hypothetical condition (present-future)
 
@@ -69,6 +83,16 @@ Structure: **Als** + … + **had(den)** + participle **, … zou(den) hebben/zij
 > In speech the second clause often drops **zou** and just uses the past perfect:
 > *Als ik het had geweten, **had** ik je **gebeld**.* Both are correct.
 
+### Dropping *als*: conditional inversion
+
+You can drop **als** and instead start the condition with its **verb** (like a yes/no question). The result clause then usually opens with **dan**. This is common with the hypothetical and impossible levels and sounds a touch more formal or dramatic.
+
+| With *als* | Inverted (no *als*) |
+|------------|---------------------|
+| *Als ik het had geweten, had ik je gebeld.* | ***Had** ik het geweten, **dan** had ik je gebeld.* |
+| *Als ik jou was, zou ik gaan.* | ***Was** ik jou, **dan** zou ik gaan.* |
+| *Als je meer oefent, lukt het.* | ***Oefen** je meer, **dan** lukt het.* |
+
 ## 4. Choosing the level
 
 | Situation | *als*-clause | Result clause | Example |
@@ -90,6 +114,13 @@ Structure: **Als** + … + **had(den)** + participle **, … zou(den) hebben/zij
 
 > Don't confuse **als** (if/when) with **of** (whether). "I don't know **if** he's
 > coming" is *Ik weet niet **of** hij komt*, never *als*.
+
+## Practice
+
+- [ ] **Als** het morgen mooi weer is, gaan we fietsen. — If the weather is nice tomorrow, we'll go cycling.
+- [ ] **Als** ik meer tijd had, zou ik Spaans leren. — If I had more time, I would learn Spanish.
+- [ ] **Als** je had gebeld, was ik gekomen. — If you had called, I would have come.
+- [ ] Ik ga naar het strand, **tenzij** het regent. — I'm going to the beach, unless it rains.
 
 ## Common mistakes
 

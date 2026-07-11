@@ -1,4 +1,6 @@
-# Spelling - Uitspraak  
+# Spelling - Uitspraak
+
+Dutch spelling maps closely onto sound once you master two things: **short vs long vowels** (decided by the syllable) and a fixed set of **digraphs**. Get those and you can read almost any Dutch word aloud.
 
 ## Vowels (klinkers): kort vs lang
 
@@ -10,12 +12,30 @@ The same letter sounds different depending on whether it's followed by one or tw
 |:------:|:-------------|:----|:------------|:----|:---------------|
 | **a** | m**a**n | /ɑ/ | m**aa**n | /aː/ | *"cup"* vs *"father"* |
 | **e** | b**e**d | /ɛ/ | b**ee**n | /eː/ | *"bed"* vs *"they"* |
-| **i** | p**i**t | /ɪ/ | (uses **ie**) p**ie**t | /i/ | *"bit"* vs *"see"* |
+| **i** | p**i**t | /ɪ/ | (uses **ie**) b**ie**t | /i/ | *"bit"* vs *"see"* |
 | **o** | b**o**s | /ɔ/ | b**oo**t | /oː/ | *"hot"* vs *"boat"* |
 | **u** | b**u**s | /ʏ/ | v**uu**r | /y/ | French *"tu"* (short vs long) |
 
-> In a closed syllable (ending in a consonant), a single vowel = short: *mannen* (double *n* keeps the *a* short)
+> In a closed syllable (ending in a consonant), a single vowel = short: *mannen* (double *n* keeps the *a* short).
 > To make it long, **double the vowel**: *man* → *manen* (one *a*, but the syllable is open).
+
+```mermaid
+flowchart TD
+  A["Open syllable? — ends in a vowel"] -->|"yes: ma-nen"| B["Long vowel, written single — maan"]
+  A -->|"no: man-nen"| C["Short vowel, consonant doubled — mannen"]
+```
+
+### Spelling shifts when you add a vowel-ending
+
+Whenever a **vowel-initial ending** attaches — plural *-en*, adjective *-e*, comparative *-er*, a verb ending, a diminutive — the spelling shifts to **keep the vowel sound the same**:
+
+| Shift | Rule | Examples |
+|-------|------|----------|
+| **Double the consonant** | short vowel + one consonant → double it (keeps the vowel short) | *man → **mannen***, *dik → **dikke*** |
+| **Drop one vowel** | long double vowel (*aa, ee, oo, uu*) → single as the syllable opens | *naam → **namen***, *groot → **grote*** |
+| **f → v, s → z** | a final *f / s* voices before the vowel | *huis → **huizen***, *lief → **lieve*** |
+
+> The *f→v / s→z* shift keeps the consonant in a few words: *de elf → de elfen*, *de kaars → de kaarsen*. The same three shifts run through [Plurals](/#/grammar?doc=2-nominatives/62-plurals.md), [Adjectives](/#/grammar?doc=3-bijworden/34-adjectives.md), and [Comparatives](/#/grammar?doc=3-bijworden/36-comparatives.md).
 
 ## Tweeklanken & digraphs
 
@@ -36,12 +56,12 @@ These letter combinations represent **single sounds** that are not predictable f
 | **au** | /ɔu/ | bl**au**w (blue) | *"how"* |
 | **ou** | /ɔu/ | k**ou**d (cold) | same as **au** |
 | **sch** | /sx/ | **sch**ool (school) | *s* + guttural *ch* |
-| **ng** | /ŋ/ | ki**ng** (king) | *"king"* |
-| **nj** | /ɲ/ | oran**j**e (orange) | Spanish *"ñ"* |
+| **ng** | /ŋ/ | di**ng** (thing) | *"king"* (the *ng* part) |
+| **nj** | /ɲ/ | ora**nj**e (orange) | Spanish *"ñ"* |
 
 - **oe** = /u/ as in *"blue"* (e.g. *boek* = book, *moeder* = mother)
 - **ui** = unique Dutch diphthong /œy/, no direct English equivalent (e.g. *huis* = house)
-- **ei / ij** = both /ɛi/, identical pronunciation (e.g. *klein* = small, *wijn* = wine). The only difference is spelling — *ij* is native Dutch, *ei* often comes from older Germanic roots. Dutch children learn to ask "lange ei of korte ei?" when writing.
+- **ei / ij** = both /ɛi/, identical pronunciation (e.g. *klein* = small, *wijn* = wine). The only difference is spelling — *ij* is native Dutch, *ei* often comes from older Germanic roots. Dutch children learn to ask "lange ij of korte ei?" when writing — *ij* is the "lange ij", *ei* the "korte ei".
 
 ## Consonants
 
@@ -66,7 +86,7 @@ These letter combinations represent **single sounds** that are not predictable f
 | **V v** | **v**is | /v/ (often /f/) | between English *"v"* and *"f"* |
 | **W w** | **w**ater | /ʋ/ | softer than English *"w"*, lips less rounded |
 | **X x** | ta**x**i | /ks/ | *"taxi"* |
-| **Y y**.sə i/ | bab**y** | /i/, /ɛi/ | rare — only in loanwords |
+| **Y y** | bab**y**, **y**oghurt | /i/, /j/ | rare — only in loanwords |
 | **Z z** | **z**ee | /z/ | *"zoo"* |
 
 ## Uitspraak Tips
@@ -77,3 +97,12 @@ These letter combinations represent **single sounds** that are not predictable f
 - **p, t, k** are **unaspirated** — no puff of air like in English *"pat", "top", "kite"*. They sound closer to the *p* in English *"spin"*.
 - Words ending in **-d** are pronounced **-t** (e.g. *hond* sounds like *"hont"*) — final consonants always devoice
 - Words ending in **-en** often drop the *n* in casual speech (e.g. *lopen* sounds like *"lope"*)
+
+## Common mistakes
+
+- ❌ *manen* for the plural of *man* → ✅ *mannen* — double the consonant to keep the vowel short in a closed syllable.
+- ❌ *hont* → ✅ *hond* — it sounds like /t/ (final devoicing) but is spelled *-d*; check the plural *honden*.
+- ❌ pronouncing *wijn* and *wein* differently → they are both /ɛi/; only the spelling differs, and each word takes a fixed *ij* or *ei*.
+- ❌ English *w* in *water* → ✅ Dutch *w* is /ʋ/, a soft *v* with the lips relaxed.
+- ❌ hard English *g* in *goed* → ✅ the guttural /ɣ/~/x/, the "loch" sound.
+- ❌ puffing *p, t, k* as in English *"top"* → ✅ unaspirated, like the *p* in *"spin"*.

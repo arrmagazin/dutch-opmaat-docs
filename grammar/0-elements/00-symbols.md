@@ -1,6 +1,8 @@
 # Symbols
 
-## Het Nederlandse Alfabet  
+How to name every letter, mark and sign in Dutch — and say each one aloud. Dutch spelling is fairly regular, so the alphabet plus these symbols carry you a long way.
+
+## Het Nederlandse Alfabet
 
 Het Nederlands gebruikt het Latijnse alfabet met 26 letters.
 
@@ -9,7 +11,7 @@ Het Nederlands gebruikt het Latijnse alfabet met 26 letters.
 | **A a** | aa | /aː/ | Anna / Anton | Alpha |
 | **B b** | bee | /beː/ | Bernard | Bravo |
 | **C c** | cee | /seː/ | Cornelis | Charlie |
-| **D d** | dee | /deː/ *"hot"* | Dirk | Delta |
+| **D d** | dee | /deː/ | Dirk | Delta |
 | **E e** | ee | /eː/ | Eduard | Echo |
 | **F f** | ef | /ɛf/ | Ferdinand | Foxtrot |
 | **G g** | gee | /ɣeː/ | Gerard | Golf |
@@ -39,7 +41,7 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 
 | Mark | NL naam | Function | Voorbeeld |
 |:----:|:--------|:---------|:----------|
-| **´** | accent aigu | stress / French loanwords | ééne *(one — vs *een* "a")*, café |
+| **´** | accent aigu | stress / French loanwords | *één* (one, vs *een* = a/an), *café* |
 | **`** | accent grave | open vowel (French loans) | scène, blèren |
 | **^** | accent circonflexe | French loans only | enquête, gêne |
 | **¨** | trema | "split this vowel from the previous" | België, geïnteresseerd, ruïne, patiënt |
@@ -57,8 +59,8 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 | `:` | dubbele punt | colon | let op `:` dit is belangrijk |
 | `?` | vraagteken | question mark | hoe gaat het `?` |
 | `!` | uitroepteken | exclamation mark | kijk uit `!` |
-| "…"` | aanhalingstekens | quotation marks | hij zei `"`hallo`"` |
-| `„…"` | Duitse aanhalingstekens | low-high quotes (older NL) | `„`hallo`"` |
+| `"…"` | aanhalingstekens | quotation marks | hij zei "hallo" |
+| `„…"` | lage-hoge aanhalingstekens | low-high quotes (older NL) | „hallo" |
 | `-` | streepje / koppelteken | hyphen | auto`-`ongeluk |
 | `–` | gedachtestreepje | en dash | de trein `–` vol mensen `–` vertrok |
 | `…` | beletselteken | ellipsis | en toen `…` |
@@ -68,7 +70,7 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 | `[…]` | rechte haakjes | square brackets | [redactie] |
 | `{…}` | accolades | curly braces | { code } |
 
-> `Apostrof` in Dutch is most visible in two places: the `genitive 's-` (`'s morgens`, `'s-Gravenhage`) and the `plural of vowel-final loanwords` (`auto's, foto's, baby's`).
+> The **apostrof** shows up in two places: the old genitive *'s-* (*'s morgens*, *'s-Gravenhage*) and the plural of vowel-final loanwords (*auto's, foto's, baby's*).
 
 ## Speciale tekens (Special characters)
 
@@ -87,9 +89,9 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 | `®` | gedeponeerd handelsmerk | registered trademark | merknaam® |
 | `™` | handelsmerk | trademark | merknaam™ |
 
-> `apenstaartje` = "little monkey tail" — one of the most charming Dutch words. When spelling out an email aloud, you say *alex `apenstaartje` gmail `punt` com*.
+> **apenstaartje** = "little monkey tail", one of the most charming Dutch words. Spelling an e-mail aloud you say *alex apenstaartje gmail punt com*.
 
-Wiskundige symbolen (Mathematical symbols)
+## Wiskundige symbolen (Mathematical symbols)
 
 | Symbol | NL naam | Spoken as | English |
 |:------:|:--------|:----------|:--------|
@@ -121,4 +123,12 @@ Wiskundige symbolen (Mathematical symbols)
 | `£` | pond | £ 10 — *tien pond* |
 | `¥` | yen | ¥ 1000 — *duizend yen* |
 
-> In Dutch, the `decimal separator is a comma` (€ 12`,`50) and the `thousands separator is a point` (1`.`000.000) — the opposite of English. *Twaalf euro vijftig* = €12.50, not €12,500.
+> In Dutch the decimal separator is a **comma** (€ 12*,*50) and the thousands separator is a **point** (1*.*000.000) — the opposite of English. *Twaalf euro vijftig* = €12.50, not €12,500.
+
+## Common mistakes
+
+- ❌ *€ 12.50* (twelve fifty) → ✅ *€ 12,50* — Dutch uses a comma for decimals; a point marks thousands.
+- ❌ *1,000,000* → ✅ *1.000.000* — thousands are grouped with points, not commas.
+- ❌ *ééne* → ✅ *één* — stressed "one" takes two accents on *een*, no extra *-e*.
+- ❌ spelling *geinteresseerd* → ✅ *geïnteresseerd* — the trema (*¨*) splits the vowel from the one before it, it is not optional.
+- ❌ reading *@* as "at" in Dutch → ✅ *apenstaartje* — say *alex apenstaartje gmail punt com*.

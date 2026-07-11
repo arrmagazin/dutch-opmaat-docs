@@ -1,49 +1,65 @@
 # Adverbs in Dutch  *(A2)*
 
-Adverbs (*bijwoorden*) modify verbs, adjectives, other adverbs, or whole sentences.
+An adverb modifies a verb, an adjective, another adverb, or a whole sentence. The headline for English speakers: **a Dutch adverb is just the bare adjective — there is no -ly ending**, and it never inflects.
 
-The good news: Dutch adverbs **never inflect** — no endings, no agreement.
+## Adverb = bare adjective (no -ly)
 
-The challenge is **word order** and the small set of high-frequency adverbs that carry sentence rhythm.
+English adds *-ly* (*quick → quickly*). Dutch adds **nothing**: the adjective does double duty. Watch the same word *snel* do three jobs:
 
-## Adverbs from adjectives
+| Sentence | Job | Form |
+|----------|-----|------|
+| *Hij is **snel**.* | adjective, predicative | bare |
+| *een **snelle** auto* | adjective, before a noun | +e |
+| *Hij rijdt **snel**.* | **adverb** (modifies *rijdt*) | bare |
 
-Most adverbs are simply the **bare adjective form** — no extra ending (unlike English *-ly*).
+> **Rule of thumb:** modifying a noun → add **-e**; modifying anything else → leave it **bare**.
 
-- *Hij is **snel**.* — He is fast. (adjective, predicative)
-- *Hij rent **snel**.* — He runs fast. (adverb)
-- *een **snelle** auto* — a fast car (adjective, attributive — gets -e)
+```mermaid
+flowchart TD
+  A["Word modifies a noun?"] -->|"yes"| B["Add -e — een snelle auto"]
+  A -->|"no"| C["Stay bare — Hij rijdt snel"]
+```
 
-> **Rule of thumb:** if the word modifies a noun → add -e; if it modifies anything else → leave it bare.
+More of the same: *Zij zingt **mooi*** (sings beautifully), *Hij werkt **hard*** (works hard), *Praat niet zo **luid*** (don't talk so loud).
 
-## Adverbs in the sentence
+## Comparing adverbs
 
-Adverbs sit in the **middle field** — between the conjugated verb and the verb pile at the end. When you have several, Dutch prefers **Time → Manner → Place**:
+Adverbs compare exactly like adjectives — *-er* / *het -st* — and share the same irregulars (*goed → beter → best*, *graag → liever → liefst*):
 
-- *Ik ga **morgen** **met de trein** **naar Amsterdam**.* — I'm going to Amsterdam by train tomorrow.
+- *Zij loopt **sneller** dan ik, maar hij loopt **het snelst**.*
+- *Ik drink **liever** thee.* — I'd rather drink tea.
 
-> English uses Place–Manner–Time (*home quickly yesterday*); Dutch is the **mirror image**. See `4-modes/00-indicative.md` for the full slot model.
+For the full paradigm and the *dan* vs *als* trap, see [Comparatives](/#/grammar?doc=3-bijworden/36-comparatives.md).
 
-Promoting one adverb to slot 1 (the front) emphasises it and forces V2 inversion:
+## Word order: time – manner – place
 
-- *Morgen ga ik met de trein naar Amsterdam.* (emphasis on time)
-- *Met de trein ga ik morgen naar Amsterdam.* (emphasis on manner)
+Adverbs sit in the **middle field**, between the finite verb and the verbs at the end. With several, Dutch prefers **Time → Manner → Place** — the mirror image of English:
 
-## Pronominal adverbs: *er*, *daar*, *waar*, *hier* + preposition
+- *Ik ga **morgen** **met de trein** **naar Amsterdam**.* — I'm going to Amsterdam (place) by train (manner) tomorrow (time).
 
-When a preposition refers to a **thing** (not a person), Dutch fuses the preposition with *er* / *daar* / *waar* / *hier*: *eraan, daarover, waarop, hierin*. The pieces can split: *Ik wacht **erop*** = *Daar wacht ik **op***.
+Move one adverb to the front for emphasis; V2 then pushes the subject after the verb:
 
-> *Met* → *mee* and *tot* → *toe* when combined: *ermee, daarmee, ertoe*.
->
-> Full coverage of er-words and waar-words (existential, locative, quantitative, splitting rules) lives in [ER-word](/#/grammar?doc=1-auxiliaries/05-er-word.md). *daar* and *hier* follow the same pattern but always carry deictic stress (*"that"* / *"this"*).
+- *Morgen **ga ik** met de trein naar Amsterdam.* — fronted time forces inversion.
+
+For the full slot model, see [Sentence structure](/#/grammar?doc=6-structures/00-sentence.md).
+
+## Degree, frequency and particles
+
+These adverb families have their own pages — go there rather than guess:
+
+- **Degree & frequency** — *heel, erg, zeer, best, nogal, vaak, altijd, soms*: [Modifiers](/#/grammar?doc=1-auxilaries/14-modifiers.md).
+- **Modal particles** — *toch, even, maar, wel, hoor, gewoon*: [Toners](/#/grammar?doc=1-auxilaries/16-toners.md). Spoken Dutch leans on these; *Doe het **even*** sounds far warmer than a bare *Doe het*.
+
+## Pronominal adverbs: er / daar / waar / hier + preposition
+
+When a preposition points at a **thing** (not a person), Dutch fuses it with *er / daar / waar / hier*: *eraan, daarover, waarop, hierin*. The pieces may split: *Ik wacht **erop*** = *Daar wacht ik **op***.
+
+> *met → mee* and *tot → toe* in these combos: *ermee, daarmee, ertoe*. Full treatment: [The word er](/#/grammar?doc=1-auxilaries/30-er-word.md).
 
 ## Common mistakes
 
-- ❌ *Hij rent **snelle*** → ✅ *Hij rent **snel*** — adverbs don't inflect.
-- ❌ *Ik ga **naar huis snel gisteren*** → ✅ *Ik ga **gisteren snel naar huis*** — T-M-P, not English P-M-T.
-- ❌ *Ik denk **aan het*** → ✅ *Ik denk **eraan*** — preposition + *het* for a thing is wrong; use an er-word.
-- ❌ *Ga je niet?* — *Ja* → ✅ *Ga je niet?* — *Ik ga **wel*** — *wel* contradicts a negative; bare *ja* sounds odd.
-- ❌ *Doe het.* (to a friend, as a request) → ✅ *Doe het **maar**.* / *Doe het **even**.* — bare imperatives feel curt without a softening particle.
-- ❌ *Ben je **nog** klaar?* (meaning "already") → ✅ *Ben je **al** klaar?* — *al* = already, *nog* = still/yet.
-- ❌ *Ik **niet** werk* → ✅ *Ik werk **niet*** — *niet* goes at the end (or before what it negates), not before the verb.
-- ❌ *Ik **heel graag** koffie drink* (verb-final outside a subordinate) → ✅ *Ik drink **heel graag** koffie* — main-clause V2.
+- ❌ *Hij rijdt **snelle*** → ✅ *Hij rijdt **snel*** — an adverb never inflects; there is no -ly.
+- ❌ *Ik ga naar huis snel gisteren* → ✅ *Ik ga **gisteren snel naar huis*** — Time–Manner–Place, not English Place–Manner–Time.
+- ❌ *Hij loopt **meer snel*** → ✅ *Hij loopt **sneller*** — short adverbs take *-er*, not *meer*.
+- ❌ *Ik denk aan het* → ✅ *Ik denk **eraan*** — for a thing, use an er-word, not *preposition + het*.
+- ❌ *Ik heel graag koffie drink* → ✅ *Ik **drink** heel graag koffie* — a main clause keeps the verb in second position (V2).

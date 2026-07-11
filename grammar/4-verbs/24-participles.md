@@ -7,7 +7,7 @@ Dutch has two participles
 
 Beyond their verbal use in tenses, both serve as **adjectives** and can be **nominalized**. The infinitive too can be turned into a neuter noun.
 
-For the verbal use of participles (perfect tenses, passive), see [verbs](/#/grammar?doc=2-parts-of-speech/03-verbs.md) and [passive](/#/grammar?doc=4-modes/06-passive.md).
+For the verbal use of participles (perfect tenses, passive), see [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md) and [passive](/#/grammar?doc=4-verbs/29-passive.md).
 
 ## Past participle as adjective
 
@@ -23,7 +23,15 @@ A past participle (*gekookt*, *gebroken*, *vergeten*) can sit before a noun as a
 | *de gesloten deur* | the closed door |
 | *vergeten woorden* | forgotten words |
 
-> The -e rule is the same as for any adjective: bare form after *een + het*-word (*een gekookt ei*), -e everywhere else (*de gekookte eieren*, *het gekookte ei*). See [adjectives](/#/grammar?doc=2-parts-of-speech/04-adjectives.md).
+> The -e rule is the same as for any adjective: bare form after *een + het*-word (*een gekookt ei*), -e everywhere else (*de gekookte eieren*, *het gekookte ei*). See [adjectives](/#/grammar?doc=3-bijworden/34-adjectives.md).
+
+```mermaid
+flowchart TD
+  A["Participle ends in -en, like gebroken/gestolen?"] -->|"yes"| B["never add -e — de gestolen fiets"]
+  A -->|"no"| C["Before een + a het-word?"]
+  C -->|"yes"| D["bare form — een gekookt ei"]
+  C -->|"no"| E["add -e — de gekookte eieren"]
+```
 
 These participles can also sit predicatively, where they look like a passive:
 
@@ -66,11 +74,11 @@ The present participle becomes an attributive adjective with the regular -e:
 | *een **lopende** band* | a conveyor belt (lit. "walking band") |
 | *de **slapende** honden* | the sleeping dogs |
 | ***huilende** kinderen* | crying children |
-| *een **groeiende** problem* | a growing problem |
+| *een **groeiende** stad* | a growing city |
 | *de **komende** week* | the coming/next week |
-| *de **vorige** week* | last week — (*vorig* is technically a participle of *voorgaan*) |
+| *de **bestaande** regels* | the existing rules |
 
-> Some present participles have lexicalized as everyday adjectives: *komende*, *vorige*, *lopende*, *zittende*. Learners encounter these long before the rule that produced them.
+> Some present participles have lexicalized as everyday adjectives: *komende*, *bestaande*, *lopende*, *zittende*, *staande*. Learners encounter these long before the rule that produced them.
 
 ## Present participle as adverb
 

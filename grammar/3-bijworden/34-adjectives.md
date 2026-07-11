@@ -1,90 +1,114 @@
 # Adjectives in Dutch  *(A2)*
 
-Dutch adjectives describe nouns and follow one main rule: in most contexts they take an **-e** ending. The exception — when they don't — is the trickiest part to learn.
+An adjective describes a noun (*een **groot** huis*). One rule carries this whole topic: an adjective **before** a noun almost always adds **-e** — except before a singular, indefinite **het**-word, where it stays bare.
 
-## 1. Two Positions: Predicative vs Attributive
+```mermaid
+flowchart TD
+  A["Adjective before a noun?"] -->|"no"| B["Bare — het huis is groot"]
+  A -->|"yes"| C["een + het-word + singular?"]
+  C -->|"yes"| D["Bare — een groot huis"]
+  C -->|"no"| E["Add -e — de grote man"]
+```
 
-| Position | Definition | Example | Ending? |
-|----------|------------|---------|---------|
-| **Predicative** | After a linking verb (*zijn*, *worden*, *blijven*, *lijken*) | *Het huis **is** **groot**.* | ❌ never |
-| **Attributive** | Directly before the noun | *een **groot** huis* | ✅ usually -e |
+## Predicative vs attributive
 
-Predicative adjectives never change. The whole "do I add -e?" question only applies to **attributive** position.
+The "do I add -e?" question only applies **before** the noun (attributive). After a linking verb (predicative), the adjective is always bare.
 
-## 2. The -e Rule (Attributive)
+| Position | Where | Ending | Example |
+|----------|-------|--------|---------|
+| **Predicative** | after *zijn, worden, blijven, lijken* | never -e | *Het huis is **groot**.* |
+| **Attributive** | directly before the noun | usually -e | *een **groot** huis* · *het **grote** huis* |
 
-Default: add **-e** to the adjective.
+## The -e rule
 
-| Article + adjective + noun | English |
-|----------------------------|---------|
+Before a noun, **add -e** — for every de-word, every plural, and every definite het-word.
+
+| Phrase | English |
+|--------|---------|
 | de **grote** auto | the big car |
 | het **mooie** huis | the beautiful house |
 | een **leuke** vrouw | a nice woman |
 | de **kleine** kinderen | the small children |
 | die **rode** appel | that red apple |
 
-### The exception (memorise this one)
+### The exception: singular indefinite het-word
 
-**No -e** when **all three** of these are true:
+**No -e** when **all three** are true — the noun is a **het**-word, **singular**, and **indefinite** (after *een, geen, elk, ieder, welk, zo'n*, or no article):
 
-1. The noun is a **het-word**
-2. **Singular**
-3. Indefinite (preceded by **een**, **geen**, **elk**, **ieder**, **welk**, **zo'n**, or no article)
+| Phrase | Noun | -e? |
+|--------|------|-----|
+| een **groot** huis | het-word, sg, indefinite | bare |
+| het **grote** huis | het-word, but **definite** | -e |
+| **grote** huizen | het-word, but **plural** | -e |
+| een **grote** auto | **de**-word | -e |
 
-Compare:
+> **Mnemonic:** *een + het-word + singular* → bare adjective. Change any one of those three and the **-e** comes back.
 
-| Article | Noun | Adjective form | Phrase |
-|---------|------|----------------|--------|
-| **een** | huis (het, sg, indef) | **groot** ❌ no -e | een **groot** huis |
-| **het** | huis (het, sg, def) | **grote** ✅ | het **grote** huis |
-| **een** | huizen (plural) | **grote** ✅ | grote huizen |
-| **een** | auto (de, sg, indef) | **grote** ✅ | een **grote** auto |
+Not sure whether a noun is *de* or *het*? That gender is the trigger for this whole rule — see [Determiners](/#/grammar?doc=2-nominatives/14-determiners.md).
 
-> **Mnemonic:** *een + het-word + singular* → bare adjective. Everything else → **-e**.
+## Spelling when you add -e
 
-## Spelling Adjustments When Adding -e
+The normal spelling rules apply when the ending opens a syllable:
 
-Dutch spelling rules apply when you add a vowel:
+| Positive | + e | Why |
+|----------|-----|-----|
+| groot | **grote** | long vowel: *oo → o* in an open syllable |
+| dik | **dikke** | short vowel: double the consonant |
+| lief | **lieve** | *f → v* before the vowel |
+| vies | **vieze** | *s → z* before the vowel |
+| vrij | **vrije** | no change |
 
-| Original | + e | Reason |
-|----------|------|--------|
-| **groot** | **grote** | long-vowel words drop one 'o' (oo → o before vowel) |
-| **lief** | **lieve** | f → v before vowel |
-| **vies** | **vieze** | s → z before vowel |
-| **dik** | **dikke** | short vowel + single consonant → double consonant |
-| **vrij** | **vrije** | regular |
-| **blauw** | **blauwe** | -w stays |
+## Adjectives that never take -e
 
-## Indefinite-Pronoun Edge Cases
+Adjectives of **material**, formed with *-en*, are frozen — no -e, ever, even before a de-word:
 
-Some words don't take **-e** even before de-words:
+- *een **houten** tafel* — a wooden table
+- *de **gouden** ring* — the gold ring
+- *een **wollen** trui* — a wool sweater
+- *het **stenen** huis* — the stone house
 
-| Word | Example |
-|------|---------|
-| **geen** + indefinite het-noun (sg) | *geen **groot** probleem* |
-| **iets / niets** + adj | *iets **leuks*** (note the **-s**!) |
-| **wat** + adj | *wat **moois*** |
+> They answer *"made of what?"* — *houten, gouden, zilveren, wollen, glazen, stenen* — and stay bare in every position.
 
-> After *iets / niets / wat*, adjectives take **-s**: *iets **lekkers***, *iets **nieuws***.
+## Stacking adjectives
 
-Use *de/het* + adjective + **-ste** in attributive position:
+When several adjectives modify one noun, Dutch orders them roughly **opinion → size → age → shape → colour → origin/material → purpose** — the same intuition as English:
 
-- *de **kleinste** kamer* — the smallest room
-- *het **grootste** huis* — the biggest house
+- *een **mooi groot oud Nederlands** huis* — a beautiful big old Dutch house
 
-## Adjectives as Nouns
+> Two-adjective stacks (*mooi groot*, *snel rood*) are everyday; three or more feel literary and are rare in speech.
 
-Adding **-e** turns an adjective into a noun referring to a person:
+Stacking changes nothing about the endings — each adjective still follows the **-e** rule above. Here they all stay bare because *huis* is a singular indefinite het-word.
 
-- *de **oude*** — the old one / old person
-- *een **dronkene*** — a drunk person
-- *de **rijken*** — the rich (people)
+## After iets / niets / wat: add -s
 
-For abstract concepts, add **-s** + neuter article: *het **goede***, *het **mooie***.
+After *iets*, *niets*, *wat*, *veel*, *weinig*, an adjective takes **-s**, not -e:
+
+- *iets **leuks*** — something nice
+- *niets **nieuws*** — nothing new
+- *wat **lekkers*** — something tasty
+
+## Adjectives used as nouns
+
+Add **-e** for a person, *het + -e* for an abstract idea:
+
+- *de **oude*** — the old one · *een **zieke*** — a sick person · *de **rijken*** — the rich
+- *het **goede*** — the good · *het **mooie*** — the beautiful
+
+## Practice
+
+Add -e, or leave it bare?
+
+- [ ] Dat is een **oud** huis. — That's an old house.
+- [ ] Ik woon in het **oude** huis. — I live in the old house.
+- [ ] Zij heeft een **oude** auto. — She has an old car.
+- [ ] Wij kochten een **houten** tafel. — We bought a wooden table.
+- [ ] Het is een **mooi** schilderij. — It's a beautiful painting.
+- [ ] Ik hou van **oude** films. — I love old films.
 
 ## Common mistakes
 
-- Adding -e after **een + het-noun**: ❌ *een grote huis* → ✅ *een **groot** huis*.
-- Forgetting -e with **het** + het-noun (definite!): ❌ *het groot huis* → ✅ *het **grote** huis*.
-- Forgetting the -s after *iets / niets*: ❌ *iets leuk* → ✅ *iets **leuks***.
-- Inflecting predicative adjectives: ❌ *Het huis is **grote*** → ✅ *Het huis is **groot***.
+- ❌ *een grote huis* → ✅ *een **groot** huis* — a singular indefinite het-word takes no -e.
+- ❌ *het groot huis* → ✅ *het **grote** huis* — *het* makes it definite, so the -e comes back.
+- ❌ *een goudene ring* → ✅ *een **gouden** ring* — material adjectives in *-en* never add -e.
+- ❌ *Het huis is grote* → ✅ *Het huis is **groot*** — predicative adjectives stay bare.
+- ❌ *iets leuk* → ✅ *iets **leuks*** — after *iets / niets / wat*, add -s.

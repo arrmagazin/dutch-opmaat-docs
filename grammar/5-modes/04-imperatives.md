@@ -1,8 +1,8 @@
-# Imperative Forms (Commands & Instructions)  
+# Imperative forms (commands & instructions)  *(A2)*
 
-Use the imperative to give commands, instructions, directions, recipes, warnings, and friendly invitations. Dutch imperatives are short and direct — softening words make them polite.
+Use the imperative to give commands, instructions, directions, recipes, warnings, and friendly invitations. Dutch imperatives are short and direct — small **softening particles** make them polite.
 
-## 1. The Basic Form: Just the Stem
+## The basic form: just the stem
 
 For informal singular and plural, drop the pronoun and use the **bare stem** of the verb.
 
@@ -17,11 +17,11 @@ For informal singular and plural, drop the pronoun and use the **bare stem** of 
 | **eten** | eet | **Eet smakelijk!** | Enjoy your meal! |
 | **doen** | doe | **Doe het zelf.** | Do it yourself. |
 
-> **One form for everyone:** the same stem works whether you're addressing one person, a group, or someone formally.
+> **One form for everyone:** the same stem works for one person or a group; only the formal *u* form differs.
 
-## 2. Adding an Object or Direction
+## Adding an object or direction
 
-Just append the rest of the sentence after the verb.
+Just append the rest of the sentence after the verb, which stays **first**.
 
 - ***Open** het raam.* — Open the window.
 - ***Geef** mij dat boek.* — Give me that book.
@@ -29,44 +29,45 @@ Just append the rest of the sentence after the verb.
 - ***Loop** rechtdoor.* — Walk straight ahead.
 - ***Neem** de eerste straat links.* — Take the first street on the left.
 
-## 3. Polite Imperatives with **u**
+## Polite imperatives with *u*
 
-When addressing someone formally, place **u** *after* the verb. The verb takes its normal **-t** ending.
+When addressing someone formally, place **u** *after* the verb, which then takes its normal **-t** ending.
 
-| Informal | Formal (with u) | English |
-|----------|-----------------|---------|
+| Informal | Formal (with *u*) | English |
+|----------|-------------------|---------|
 | **Wacht** even. | **Wacht u** even. | Please wait a moment. |
 | **Kom** binnen. | **Komt u** binnen. | Please come in. |
 | **Neem** plaats. | **Neemt u** plaats. | Please take a seat. |
 
 > The polite form is common in shops, offices, on signs, and with elderly speakers.
 
-## 4. Softening with **eens**, **even**, **maar**, and **alstublieft**
+## Softening particles
 
-Bare imperatives can sound abrupt. These small words make a command feel friendly or polite.
+Bare imperatives can sound abrupt. These little words make a command feel friendly — and Dutch speech is full of them.
 
-| Softener | Effect | Example |
+| Particle | Effect | Example |
 |----------|--------|---------|
-| **eens** | "just (try)" | **Kijk** *eens*! — Take a look! |
-| **even** | "just for a moment" | **Wacht** *even*. — Hang on a sec. |
-| **maar** | "go ahead, no worries" | **Zeg** het *maar*. — Just say it. |
-| **alsjeblieft** | please (informal) | **Geef** het me, *alsjeblieft*. |
-| **alstublieft** | please (formal) | **Helpt u** mij, *alstublieft*. |
+| **eens** | "just (try)" | *Kijk **eens**!* — Take a look! |
+| **even** | "just for a moment" | *Wacht **even**.* — Hang on a sec. |
+| **maar** | "go ahead, no worries" | *Zeg het **maar**.* — Just say it. |
+| **nou** | urging, "come on" | *Kom **nou**!* — Come on! |
+| **toch** | gentle insistence | *Probeer het **toch**.* — Do give it a try. |
+| **alsjeblieft / alstublieft** | please (informal / formal) | *Geef het me, **alsjeblieft**.* |
 
 You can stack them: ***Kom** maar eens **binnen**!* — Do come in!
 
-## 5. **Laten we** … — "Let's …"
+## *Laten we …* — "let's …"
 
-For first-person plural commands ("let's go", "let's eat"), use **laten we** + infinitive.
+For first-person-plural commands ("let's go", "let's eat"), use **laten we** + infinitive.
 
-| Dutch | English | Example |
-|-------|---------|---------|
-| **Laten we** beginnen. | Let's begin. | **Laten we** beginnen, het is al laat. (Let's begin, it's already late.) |
-| **Laten we** naar huis gaan. | Let's go home. | Ik ben moe, **laten we** naar huis gaan. (I'm tired, let's go home.) |
-| **Laten we** een pauze nemen. | Let's take a break. | **Laten we** even een pauze nemen. (Let's take a short break.) |
-| **Laten we** dat niet doen. | Let's not do that. | Nee, **laten we** dat niet doen. (No, let's not do that.) |
+| Dutch | English |
+|-------|---------|
+| **Laten we** beginnen, het is al laat. | Let's begin, it's already late. |
+| Ik ben moe, **laten we** naar huis gaan. | I'm tired, let's go home. |
+| **Laten we** even een pauze nemen. | Let's take a short break. |
+| Nee, **laten we** dat niet doen. | No, let's not do that. |
 
-## 6. Negative Imperatives
+## Negative imperatives
 
 Place **niet** or **geen** after the verb (and any object).
 
@@ -74,11 +75,19 @@ Place **niet** or **geen** after the verb (and any object).
 - ***Eet** geen suiker.* — Don't eat sugar.
 - ***Vergeet** je sleutels niet.* — Don't forget your keys.
 
-For a stronger "don't!", use **niet** + infinitive: **Niet doen!** — *Don't!*
+For a blunt "don't!", use **niet** + infinitive: ***Niet doen!*** Signs use the infinitive too: *Niet roken* (No smoking).
+
+## Practice
+
+- [ ] ***Kom** binnen en **ga** zitten.* — two bare-stem commands.
+- [ ] *Wacht **even**, ik kom eraan.* — softened with *even*.
+- [ ] *Doe het **maar** rustig aan.* — softened with *maar*.
+- [ ] ***Laten we** vanavond uit eten gaan.* — "let's" with *laten we*.
+- [ ] *Vergeet je jas **niet**!* — negative imperative, *niet* at the end.
 
 ## Common mistakes
 
-- Adding a pronoun in informal commands: ❌ *Wacht jij!* → ✅ *Wacht!*
-- Using infinitive instead of stem: ❌ *Wachten alstublieft* → ✅ *Wacht alstublieft* (the infinitive form does appear on signs, e.g. *Niet roken*, but for spoken commands use the stem).
-- Forgetting **-t** in formal **u** form: ❌ *Kom u binnen* → ✅ *Komt u binnen*.
-- Translating "let's" with **wij**: ❌ *Wij gaan!* → ✅ *Laten we gaan!*
+- ❌ *Wacht **jij**!* (as a neutral command) → ✅ *Wacht!* — the imperative drops the pronoun; a stressed *jij* only adds contrast (*Ga **jij** maar vast*).
+- ❌ *Wachten alstublieft* → ✅ *Wacht alstublieft* — use the **stem**, not the infinitive (though signs use the infinitive: *Niet roken*).
+- ❌ *Kom u binnen* → ✅ *Komt u binnen* — the formal *u* form keeps the **-t**.
+- ❌ *Wij gaan!* (for "let's go") → ✅ *Laten we gaan!* — "let's" is *laten we*, not *wij*.

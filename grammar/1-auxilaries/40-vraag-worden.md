@@ -1,126 +1,112 @@
-# Question Words (Vraagwoorden)  *(B1)*
+# Question words (vraagwoorden)  *(A2)*
 
-| Dutch | English | Example | Asks for |
-|-------|---------|---------|----------|
-| **wie** | who | **Wie** belt? | Subject |
-| **wat** | what | **Wat** zie je? | Object |
-| **welke** | which (de-word) | *Welke trein neem jij?* — Which train are you taking?| a choice|
-| **welk** | which (het-word) | *Welk boek lees je?* — Which book are you reading?| a choice|
-| **wat voor (een)** | what kind of | **Wat voor** muziek luister je? (What kind of music do you listen to?) | a kind / type |
-| **waar** | where | *Waar woon je?* — Where do you live? | a place|
-| **wanneer** | when | **Wanneer** kom je terug? (When are you coming back?) | a time (date / general) |
-| `tot wanneer` | until when | **Tot wanneer** blijf je? (Until when are you staying?) | time limit |
-| **hoe** | how |  *Hoe gaat het?* — How are you?| manner / state|
-| **waarom** | why | *Waarom huil je?* — Why are you crying? |a reason|
-| **hoeveel** | how much / how many | **Hoeveel** kost dit? (How much does this cost?) | a quantity |
-| **hoelang** | how long | **Hoelang** blijf je hier? (How long are you staying here?) | a duration |
-| **hoe vaak** | how often | **Hoe vaak** ga je naar de sportschool? (How often do you go to the gym?) | a frequency |
+The words that open an information question. This page is the **word inventory**; for sentence shape — inversion, yes/no questions, embedded questions — see [Questions](/#/grammar?doc=5-modes/05-interrogatives.md).
 
-## **wie** — people
+| Dutch | English | Asks for | Example |
+|-------|---------|----------|---------|
+| **wie** | who | a person | **Wie** belt? |
+| **wat** | what | a thing / action | **Wat** zie je? |
+| **welk(e)** | which | a choice | **Welke** trein neem je? |
+| **wat voor (een)** | what kind of | a type | **Wat voor** muziek luister je? |
+| **waar** | where | a place | **Waar** woon je? |
+| **wanneer** | when | a time | **Wanneer** kom je terug? |
+| **hoe** | how | manner / state | **Hoe** gaat het? |
+| **waarom** | why | a reason | **Waarom** huil je? |
+| **hoeveel** | how much / many | a quantity | **Hoeveel** kost dit? |
+| **hoelang** | how long | a duration | **Hoelang** blijf je? |
+
+> **wanneer** pairs with a preposition to bound the time: **sinds wanneer** (since when — *Sinds wanneer woon je hier?*) and **tot wanneer** (until when — *Tot wanneer blijf je?*).
+
+## wie — people
 
 | Function | Example |
 |----------|---------|
 | Subject | **Wie** belt? |
 | Object | **Wie** zie je? |
-| With preposition | **Met wie** ga je? |
+| After a preposition | **Met wie** ga je? |
 | Possessive ("whose") | **Van wie** is dit boek? |
 
-## **wat** — things & actions
+> For a person, the preposition stays a separate word before **wie**: *met wie*, *voor wie*, *over wie*.
+
+## wat — things & actions
 
 | Use | Example |
 |-----|---------|
 | What thing? | **Wat** is dat? |
 | What activity? | **Wat** doe je? |
-| What kind of …? | **Wat voor** muziek luister je? |
 | Exclamation | **Wat een** mooie dag! |
 
-When **wat** is the object of a preposition for a *thing*, use **waar + preposition** instead (see §4).
+> **Never *wat* after a preposition** for a thing. Use a **waar**-word instead: ~~*op wat*~~ → **waarop** / **waar … op** (see below).
 
-## **waar** — places & directional combos
+## welk vs welke — agreement
 
-| Combo | English | Example |
-|-------|---------|---------|
-| **waar** | where | **Waar** is hij? |
-| **waar … vandaan** | where from | **Waar** kom je **vandaan**? |
-| **waar … naartoe / heen** | where to | **Waar** ga je **heen**? |
+**welke** behaves like an adjective: it agrees with the noun.
 
-## **hoe** — manner, state, and combinations
-
-By itself, `hoe` asks "how?". It also combines with adjectives to form quantitative or qualitative questions: **hoe + adjective + verb + subject + …?**
-
-| Combo | English | Example |
-|-------|---------|---------|
-| `hoe oud` | how old | **Hoe oud** ben je? |
-| `hoe lang` | how long | **Hoe lang** woon je hier? |
-| `hoe ver` | how far | **Hoe ver** is het? |
-| `hoe groot` | how big | **Hoe groot** is je huis? |
-| `hoe vaak` | how often | **Hoe vaak** sport je? |
-| `hoe duur` | how expensive | **Hoe duur** is dat? |
-| `hoe laat` | what time | **Hoe laat** is het? |
-
-## **welk / welke** — agreement
-
-**welke** behaves like an adjective: it must agree with the noun.
+```mermaid
+flowchart TD
+  A["Which noun follows welk-?"] -->|"het-word, singular"| B["welk — welk boek"]
+  A -->|"de-word or plural"| C["welke — welke auto, welke boeken"]
+  A -->|"no noun follows"| D["welke — welke is van jou?"]
+```
 
 | Noun type | Form | Example |
 |-----------|------|---------|
 | de-word (sg/pl) | **welke** | **Welke** auto? / **Welke** boeken? |
 | het-word (sg) | **welk** | **Welk** boek? |
 
-Without a following noun, use **welke** for both: *Er staan twee fietsen — **welke** is van jou?*
+> With no noun following, use **welke** for both: *Er staan twee fietsen — **welke** is van jou?*
 
-## **hoeveel** — invariant
+## hoe + adjective
 
-`hoeveel` doesn't change for gender or number. Works for countable and uncountable:
-
-- *Hoeveel **broers** heb je?* — How many brothers?
-- *Hoeveel **suiker** wil je?* — How much sugar?
-- *Hoeveel **kost** dat?* — How much does that cost? *(or: Wat kost dat?)*
-
-## **waarom** & cousins
-
-| Form | Tone | Example |
-|------|------|---------|
-| **waarom** | neutral, default | *Waarom kom je niet?* |
-| **hoezo** | "how come?" / mildly skeptical | *Hoezo niet?* |
-| **waardoor** | "because of what?" (cause) | *Waardoor is dat gebeurd?* |
-| **waarvoor** | "for what (purpose)?" | *Waarvoor heb je dat nodig?* |
-
-## **wat voor** vs **wat een**
-
-| Pattern | Use | Example |
-|---------|-----|---------|
-| **wat voor (een) + noun** | what kind of | *Wat voor (een) film vind je leuk?* |
-| **wat een + noun** | exclamation: what a / what an | *Wat een prachtig huis!* |
-
-## **Wanneer** en **Hoe laat/vaak**
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| **Wanneer** vertrek je? | When are you leaving? | **Wanneer** vertrek je naar Spanje? (When are you leaving for Spain?) |
-| **Hoe laat** begint het? | What time does it start? | **Hoe laat** begint de film? (What time does the film start?) |
-| **Hoe vaak** ga je sporten? | How often do you exercise? | **Hoe vaak** ga je sporten in de week? (How often do you exercise during the week?) |
-| **Sinds wanneer** woont hij hier? | Since when has he lived here? | **Sinds wanneer** woont hij hier in de stad? (Since when has he lived here in the city?) |
-
-## Special combinations
+**hoe** combines with an adjective to ask "how big / old / far …": *hoe + adjective + verb + subject?*
 
 | Combo | English | Example |
 |-------|---------|---------|
-| **wat voor (een)** | what kind of | *Wat voor muziek hou je van?* |
-| **wat een** | what a (exclamation) | *Wat een mooi liedje!* |
-| **hoezo** | how come / why so | *Hoezo kun je niet komen?* |
-| **waar dan ook** | wherever | *We zien je waar dan ook.* |
+| **hoe oud** | how old | **Hoe oud** ben je? |
+| **hoe laat** | what time | **Hoe laat** is het? |
+| **hoe ver** | how far | **Hoe ver** is het? |
+| **hoe lang** | how long | **Hoe lang** duurt het? |
+| **hoe vaak** | how often | **Hoe vaak** sport je? |
+| **hoe groot** | how big | **Hoe groot** is je huis? |
+| **hoe duur** | how expensive | **Hoe duur** is dat? |
+
+## waar — places & waar-words
+
+For places, **waar** takes a directional particle; for *things* after a preposition, it fuses with the preposition (a **waar**-word — the question form of an [er-word](/#/grammar?doc=1-auxilaries/30-er-word.md)).
+
+| Combo | English | Example |
+|-------|---------|---------|
+| **waar** | where | **Waar** is hij? |
+| **waar … vandaan** | where from | **Waar** kom je **vandaan**? |
+| **waar … heen** / **naartoe** | where to | **Waar** ga je **heen**? |
+| **waarmee** / **waar … mee** | what … with | **Waarmee** schrijf je? |
+| **waarover** / **waar … over** | what … about | **Waar** praat je **over**? |
+
+> Same shape-changes as er-words: **met → mee**, **tot → toe**. The split form (*Waar wacht je **op**?*) is more natural in speech than the joined *Waarop wacht je?*
+
+## waarom & cousins
+
+| Form | Tone | Example |
+|------|------|---------|
+| **waarom** | neutral, default | **Waarom** kom je niet? |
+| **hoezo** | "how come?" (mildly skeptical) | **Hoezo** niet? |
+| **waardoor** | "because of what?" (cause) | **Waardoor** is dat gebeurd? |
+| **waarvoor** | "for what purpose?" | **Waarvoor** heb je dat nodig? |
+
+## Fixed expressions
+
+| Pattern | English | Example |
+|---------|---------|---------|
+| **wat voor (een)** + noun | what kind of | *Wat voor film vind je leuk?* |
+| **wat een** + noun | what a … (exclamation) | *Wat een mooi huis!* |
+| **waar dan ook** | wherever | *We vinden je waar dan ook.* |
 | **wat dan ook** | whatever | *Ik eet wat dan ook.* |
 
-## **waar-words** — asking about er-words
+## Common mistakes
 
-To ask a question about an er-word, replace `er` with `waar`:
-
-| Statement | Question |
-|-----------|----------|
-| Ik denk **er**aan. | `Waaraan` denk je? — What are you thinking about? |
-| Hij betaalt **er**voor. | `Waarvoor` betaalt hij? — What is he paying for? |
-| Ze zitten **er**op te wachten. | `Waarop` zitten ze te wachten? — What are they waiting for? |
-| We praten **er**over. | `Waarover` praat je? — What are you talking about? |
-
-> Like er-words, waar-words can also split: *Waar denk je **aan**?*
+- ❌ *Op wat wacht je?* → ✅ ***Waarop** wacht je?* / *Waar wacht je **op**?* — no *wat* after a preposition for things.
+- ❌ *welke huis* → ✅ *welk huis*; ❌ *welk auto* → ✅ *welke auto* — agree with de/het.
+- ❌ *Wat tijd is het?* → ✅ *Hoe laat is het?* — "what time" is *hoe laat*.
+- ❌ *Wie's boek is dit?* → ✅ *Van wie is dit boek?* — "whose" is *van wie*, no possessive 's.
+- ❌ *Waar kom je?* (origin) → ✅ *Waar kom je **vandaan**?* — origin needs *vandaan*.
+- ❌ *Hoe ben je?* → ✅ *Hoe gaat het?* — "how are you?" is not translated word-for-word.

@@ -1,85 +1,96 @@
-# Pronouns in Dutch  
+# Pronouns in Dutch  *(A1)*
 
-Dutch has several categories of pronouns.
+A pronoun stands in for a noun. Dutch sorts them by job — subject, object, reflexive, indefinite — and many have **two forms**: a **full (stressed)** one for emphasis and a **reduced (unstressed)** one for everyday speech. The reduced form is what you actually hear; the full form is for contrast.
 
-Each category has a specific role in a sentence.
+```mermaid
+flowchart TD
+  Q["What is the pronoun doing?"] -->|"doing the action"| S["subject — ik, jij, zij, wij"]
+  Q -->|"receiving it, or following a preposition"| O["object — mij, jou, haar, ons"]
+```
 
-Some have two forms: a **full (stressed)** and a **reduced (unstressed)**.
+## Subject pronouns (who does it)
 
-## Personal Subject pronouns
+| Person | Full | Reduced | English |
+|--------|------|---------|---------|
+| 1st sg | **ik** | 'k | I |
+| 2nd sg informal | **jij** | je | you |
+| 2nd formal | **u** | — | you (polite) |
+| 3rd sg masc | **hij** | ie | he |
+| 3rd sg fem | **zij** | ze | she |
+| 3rd sg neuter | **het** | 't | it |
+| 1st pl | **wij** | we | we |
+| 2nd pl | **jullie** | je | you (plural) |
+| 3rd pl | **zij** | ze | they |
 
-| Person | Full / Reduced |  English |
-|--------|-----------|---------|
-| 1st sg | **ik** / 'k | I |
-| 1st pl | **wij** / we | we |
-| 2nd sg | **jij** / je | you (singular) |
-| 2nd sg formal / **u** | u | you (formal) |
-| 2nd pl | **jullie**  | you (plural) |
-| 3rd sg masc | **hij** / ie | he |
-| 3rd sg fem | **zij** / ze | she |
-| 3rd sg neuter | **het** / 't | it |
-| 3rd pl | **zij** / ze | they |
+> Use the **reduced** form by default (*Ik denk dat **ze** komt*). Switch to the **full** form only to stress or contrast: ***Jij** doet het, niet ik.* — You do it, not me.
 
-> The reduced forms (je, ze, we) are used in everyday speech. The full forms (jij, zij, wij) are used for emphasis or contrast: *Jij doet het, niet ik.* ("You do it, not me.")
+## Object pronouns (who receives it)
 
-## Personal Object pronouns
+Used after a verb or a preposition (*voor mij*, *met haar*).
 
-| Person | Full / Reduced | English |
-|--------|------|---------|
-| 1st sg | **mij** / me | me |
-| 1st pl | **ons** | us |
-| 2nd sg | **jou** / je | you |
-| 2nd formal | **u** | you |
-| 2nd pl | **jullie** | you |
-| 3rd sg masc | **hem** | him |
-| 3rd sg fem | **haar** | her |
-| 3rd sg neuter | **het** / 't | it |
-| 3rd pl | **hen / hun** / ze | them |
+| Person | Full | Reduced | English |
+|--------|------|---------|---------|
+| 1st sg | **mij** | me | me |
+| 2nd sg informal | **jou** | je | you |
+| 2nd formal | **u** | — | you (polite) |
+| 3rd sg masc | **hem** | 'm | him |
+| 3rd sg fem | **haar** | 'r / d'r | her |
+| 3rd sg neuter | **het** | 't | it |
+| 1st pl | **ons** | — | us |
+| 2nd pl | **jullie** | — | you |
+| 3rd pl | **hen / hun** | ze | them |
 
-3rd pl - *hen* vs *hun* vs *ze*:
+### hen vs hun vs ze
 
-- *hen* is used after prepositions (*voor hen* — for them);
-- *hun* is used as indirect object (*ik geef hun een boek* — I give them a book).
-- In practice, *ze* is used most often in speech.
+Traditional written rule:
 
-## Reflexive Pronouns (Wederkerige / Reflexieve voornaamwoorden)
+- **hen** — direct object and after a preposition: *Ik zie **hen*** / *voor **hen*** (for them).
+- **hun** — indirect object (no preposition): *Ik geef **hun** een boek* (I give them a book).
 
-Used when the subject and object refer to the same person.
+> In everyday speech almost everyone just says **ze** for both, and the *hen/hun* split is fading. Learn to recognise it; use *ze* when unsure. Note *hun* is also the possessive "their" — don't use it as a subject: ~~*Hun komen*~~.
 
-Dutch uses **zich** for third person and formal second person; other persons use the object pronoun.
+## Reflexive pronouns
+
+Used when the subject and object are the same person. Dutch uses **zich** for the third person and formal *u*; the others reuse the object pronoun.
 
 | Person | Reflexive | English |
 |--------|-----------|---------|
 | 1st sg | **me / mezelf** | myself |
-| 1st pl | **ons / onszelf** | ourselves |
-| 2nd sg | **je / jezelf** | yourself |
+| 2nd sg informal | **je / jezelf** | yourself |
 | 2nd formal | **zich / uzelf** | yourself |
+| 3rd sg / pl | **zich / zichzelf** | himself, herself, itself, themselves |
+| 1st pl | **ons / onszelf** | ourselves |
 | 2nd pl | **je / jezelf** | yourselves |
-| 3rd sg/pl | **zich / zichzelf** | himself / herself / itself / themselves |
 
-> The **-zelf** form adds emphasis: *Hij waste zich.* (He washed himself.) vs. *Hij waste zichzelf.* (He washed himself — emphatic.)
+> The **-zelf** form adds emphasis: *Hij waste **zich*.** (he washed) vs. *Hij waste **zichzelf*.** (he washed *himself*, not someone else).
 
-Common reflexive verbs:
+Many Dutch verbs are reflexive where English isn't — the *zich* is obligatory, not a translation of "-self":
 
-- *zich wassen* — to wash oneself
-- *zich voelen* — to feel (oneself)
 - *zich herinneren* — to remember
 - *zich vergissen* — to make a mistake
+- *zich voelen* — to feel (*Ik voel **me** goed.*)
 - *zich voorstellen* — to introduce oneself / to imagine
 
-## Indefinite pronouns (stand alone)
+## Indefinite pronouns
+
+These stand alone (no noun follows).
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| **alles** / allerlei| everything | **Alles** is klaar. (Everything is ready.) |
-| **allemaal** | all, everyone |  |
-| **iedereen** | everybody, everyone | **Iedereen** is welkom. (Everyone is welcome.) |
-| **iemand** | somebody, someone | Er staat **iemand** voor de deur. (Someone is at the door.) |
-| **iets** | something | Ik wil **iets** drinken. (I want something to drink.) |
-| **elkaar** | each other | Ze helpen **elkaar**. (They help each other.) |
-| **wie(wat) dan ook** | whoever, anyone at all | Vraag het aan **wie dan ook**. (Ask anyone at all.) |
-| **niets** / niks | nothing | Er is **niets** gebeurd. (Nothing happened.) |
-| **niemand** | nobody, no one | **Niemand** van hen wist het antwoord. (Nobody of them knew the answer.) |
+| **alles** | everything | ***Alles** is klaar.* |
+| **iedereen** | everyone | ***Iedereen** is welkom.* |
+| **allemaal** | all (of them) | *Ze zijn er **allemaal**.* |
+| **iemand** | someone | *Er staat **iemand** voor de deur.* |
+| **iets** / **wat** | something | *Ik wil **iets** drinken.* |
+| **elkaar** | each other | *Ze helpen **elkaar**.* |
+| **niets** / niks | nothing | *Er is **niets** gebeurd.* |
+| **niemand** | no one | ***Niemand** wist het antwoord.* |
+| **wie / wat dan ook** | anyone / anything at all | *Vraag het aan **wie dan ook**.* |
 
-> *elk / ieder* take **-e** before de-words: *elke dag* (every day), *elk kind*
-> (every child — het-word, no -e in older style, though *elk(e)* is now often used for both).
+## Common mistakes
+
+- ❌ *Hun hebben een hond* → ✅ ***Zij/Ze** hebben een hond* — *hun* is never a subject.
+- ❌ *Is dit jou boek?* → ✅ *Is dit **jouw** boek?* — object *jou* vs. possessive *jouw*.
+- ❌ *Ga met ik mee* → ✅ *Ga met **mij** mee* — after a preposition use the object form.
+- ❌ *Hij herinnert dat niet* → ✅ *Hij herinnert **zich** dat niet* — *zich herinneren* is reflexive.
+- ❌ *Ik geef het aan zij* → ✅ *Ik geef het aan **hen/haar**.* — *zij* is subject-only.
