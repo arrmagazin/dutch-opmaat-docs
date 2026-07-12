@@ -88,7 +88,7 @@ Some pages carry tokens the app resolves at render time — leave them intact:
 Use the opmaat docs URL form so links work inside the app:
 
 ```markdown
-[ER-word](/#/grammar?doc=1-auxilaries/30-er-word.md)
+[ER-word](/#/grammar?doc=1-auxilaries/70-er-word.md)
 ```
 
 The path is relative to the `grammar/` root, includes the leading number, and ends in `.md`. Always verify the target file exists before saving.
@@ -127,7 +127,7 @@ These are the teaching stances every page should embody. When in doubt about a w
 
 **Common mistakes belong in the closing section, not buried.** A learner scanning a page should find the "what will I get wrong?" answer in a predictable place. One section, end of file, no exceptions.
 
-**Cross-link rather than duplicate.** Each topic has exactly one home page. Other pages that brush against it carry a one-line bridge with a link. Example: `3-bijworden/35-adverbs.md` mentions pronominal adverbs in two sentences and links to `1-auxilaries/30-er-word.md` for the full treatment.
+**Cross-link rather than duplicate.** Each topic has exactly one home page. Other pages that brush against it carry a one-line bridge with a link. Example: `3-bijworden/35-adverbs.md` mentions pronominal adverbs in two sentences and links to `1-auxilaries/70-er-word.md` for the full treatment.
 
 **Examples should look like real Dutch.** Use sentences a learner might actually say or hear. Avoid contrived "the boy gives the book to the girl" pedagogy when *Ik geef het boek even aan haar* makes the same point with softening particles a learner needs anyway.
 

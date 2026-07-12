@@ -1,6 +1,8 @@
 # Pronouns in Dutch  *(A1)*
 
-A pronoun stands in for a noun. Dutch sorts them by job — subject, object, reflexive, indefinite — and many have **two forms**: a **full (stressed)** one for emphasis and a **reduced (unstressed)** one for everyday speech. The reduced form is what you actually hear; the full form is for contrast.
+A pronoun stands in for a noun.
+
+Dutch sorts them by job — subject, object, reflexive, indefinite — and many have **two forms**: a **full (stressed)** one for emphasis and a **reduced (unstressed)** one for everyday speech. The reduced form is what you actually hear; the full form is for contrast.
 
 ```mermaid
 flowchart TD

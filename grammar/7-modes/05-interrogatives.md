@@ -13,7 +13,7 @@ flowchart TD
 | **Yes/No** | verb + subject + … ? | ***Werk** jij hier?* |
 | **Wh- / information** | question word + verb + subject + … ? | ***Waar** woon je?* |
 
-Any non-finite verb (infinitive, participle) or separable prefix still goes to the **end** of the clause. For the full inventory of question words (*wie, wat, welk(e), hoe, waarom, hoeveel …*), see [question words](/#/grammar?doc=1-auxilaries/40-vraag-worden.md).
+Any non-finite verb (infinitive, participle) or separable prefix still goes to the **end** of the clause. For the full inventory of question words (*wie, wat, welk(e), hoe, waarom, hoeveel …*), see [question words](/#/grammar?doc=1-auxilaries/60-vraag-worden.md).
 
 ## Yes/no questions — inversion (V1)
 
@@ -86,7 +86,7 @@ When the question asks about the object of a preposition, people and things beha
 | **Waarmee** schrijf je? | **Waar** schrijf je **mee**? | What are you writing with? |
 | **Waaraan** denk je? | **Waar** denk je **aan**? | What are you thinking about? |
 
-> Two prepositions change shape here: *met → mee*, *tot → toe* (so *waarmee*, *waartoe*). The split form is more natural in speech; the joined form is more formal. This mirrors *er*-words — see [question words](/#/grammar?doc=1-auxilaries/40-vraag-worden.md).
+> Two prepositions change shape here: *met → mee*, *tot → toe* (so *waarmee*, *waartoe*). The split form is more natural in speech; the joined form is more formal. This mirrors *er*-words — see [question words](/#/grammar?doc=1-auxilaries/60-vraag-worden.md).
 
 ## Indirect (embedded) questions
 

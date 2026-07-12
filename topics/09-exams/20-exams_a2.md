@@ -61,7 +61,28 @@ Official practice exams ([inburgeren.nl](https://www.inburgeren.nl/en/taking-the
 ### Speaking
 
 - [ ] [Ad Appel: A2 – Spreken 2025](https://www.youtube.com/watch?v=0ZwElCYAfzI&list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf)
-- [ ] [Ad Appel: A2 – Spreken 2025](https://www.youtube.com/watch?v=_tkoK4nhpVU&list=PLXhM-IdBEVjgVPw6drrCScntDW05asFzL)
+
+Ad Appel — [A2 Spreekvaardigheid playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjgVPw6drrCScntDW05asFzL):
+
+- [ ] [Oefenexamen 1 – 2025](https://www.youtube.com/watch?v=_tkoK4nhpVU)
+- [ ] [Oefenexamen 2 – 2025](https://www.youtube.com/watch?v=Oe2mXQSvrIc)
+- [ ] [Oefenexamen 3 – 2025](https://www.youtube.com/watch?v=LpmHcxO1GIE)
+- [ ] [Oefenexamen 4 – 2025](https://www.youtube.com/watch?v=_JVTi1vheeg)
+- [ ] [Oefenexamen 5 – 2025](https://www.youtube.com/watch?v=cqzgh_uaT0w)
+- [ ] [Oefenexamen 6 – 2025](https://www.youtube.com/watch?v=uK6B2WPV5ac)
+- [ ] [Oefenexamen 7 – 2025](https://www.youtube.com/watch?v=cPwEoHUGwnE)
+- [ ] [Oefenexamen 8 – 2025](https://www.youtube.com/watch?v=b0zrI7QOGcc)
+- [ ] [Oefenexamen 9 – 2025](https://www.youtube.com/watch?v=FM7AOEA-Ddw)
+- [ ] [Oefenexamen 10 – januari 2021](https://www.youtube.com/watch?v=jqzUZtV16g4)
+- [ ] [Oefenexamen 11 – januari 2021](https://www.youtube.com/watch?v=H-ZYqDGAfwM)
+- [ ] [Oefenexamen 12 – januari 2021](https://www.youtube.com/watch?v=BkaibOsg3hc)
+- [ ] [Oefenexamen 13 – januari 2021](https://www.youtube.com/watch?v=5L1Zv6n2pkU)
+- [ ] [Oefenexamen 14 – januari 2021](https://www.youtube.com/watch?v=eo9Dx17g8BE)
+- [ ] [Oefenexamen 15 – januari 2021](https://www.youtube.com/watch?v=QCSexczXI8o)
+- [ ] [Oefenexamen 16 – januari 2021](https://www.youtube.com/watch?v=xrcgcN30YVg)
+- [ ] [Oefenexamen 17 – 2016](https://www.youtube.com/watch?v=DSe7IeBWofA)
+- [ ] [Oefenexamen 18 – 2016](https://www.youtube.com/watch?v=Fb3El9da_UM)
+- [ ] [Oefenexamen 19 – 2016](https://www.youtube.com/watch?v=K81GKUNlL4w)
 
 Official practice exams ([inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)):
 

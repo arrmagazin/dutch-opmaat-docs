@@ -117,7 +117,7 @@ The clause is the frame; the phrases that fill its slots each have their own pag
 - Pronouns (subject vs object form) → [pronouns](/#/grammar?doc=2-nominatives/50-pronouns.md)
 - Possession (*mijn boek*, *het boek van Jan*) → [possessives](/#/grammar?doc=2-nominatives/54-possesives.md)
 - Prepositions and postpositions (*de berg op*) → [connectors](/#/grammar?doc=1-auxilaries/00-connectors.md)
-- Replacing a thing after a preposition (*erover*) → [er-word](/#/grammar?doc=1-auxilaries/30-er-word.md)
+- Replacing a thing after a preposition (*erover*) → [er-word](/#/grammar?doc=1-auxilaries/70-er-word.md)
 
 To join clauses: [coordinating](/#/grammar?doc=6-structures/02-coordinating.md) and [subordinating](/#/grammar?doc=6-structures/03-subordinating.md) conjunctions. To attach a clause to a noun: [relative clauses](/#/grammar?doc=6-structures/04-relative_clauses.md).
 

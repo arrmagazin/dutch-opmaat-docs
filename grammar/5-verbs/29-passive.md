@@ -78,7 +78,7 @@ Same end-of-clause pattern: **modal** (V2) + … + **past participle** + **worde
 
 ## The "*er*"-passive — no real subject
 
-When the active sentence has no clear object (intransitive verbs, generic actions), Dutch fills the subject slot with **er**. The verb stays singular. (For *er* itself, see [er-word](/#/grammar?doc=1-auxilaries/30-er-word.md).)
+When the active sentence has no clear object (intransitive verbs, generic actions), Dutch fills the subject slot with **er**. The verb stays singular. (For *er* itself, see [er-word](/#/grammar?doc=1-auxilaries/70-er-word.md).)
 
 - *Er **wordt** gedanst.* — There is dancing. / People are dancing.
 - *Er **werd** veel **gelachen**.* — There was a lot of laughter.

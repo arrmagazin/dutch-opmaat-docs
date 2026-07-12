@@ -99,7 +99,7 @@ Swap **er** for **daar** and you get the stressed, pointing version — "in *tha
 
 > **daarom** (therefore) and **daarna** (after that) belong to the same family — *daar* + preposition, frozen into a fixed adverb.
 >
-> To *ask* about an er-word, swap *er* for **waar**: *Waaraan* denk je? See [Question words](/#/grammar?doc=1-auxilaries/40-vraag-worden.md). The same pattern with *hier/daar* is covered under [Adverbs](/#/grammar?doc=3-bijworden/35-adverbs.md).
+> To *ask* about an er-word, swap *er* for **waar**: *Waaraan* denk je? See [Question words](/#/grammar?doc=1-auxilaries/60-vraag-worden.md). The same pattern with *hier/daar* is covered under [Adverbs](/#/grammar?doc=3-bijworden/35-adverbs.md).
 
 ## Common mistakes
 

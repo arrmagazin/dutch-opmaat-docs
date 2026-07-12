@@ -54,7 +54,7 @@ These adverb families have their own pages — go there rather than guess:
 
 When a preposition points at a **thing** (not a person), Dutch fuses it with *er / daar / waar / hier*: *eraan, daarover, waarop, hierin*. The pieces may split: *Ik wacht **erop*** = *Daar wacht ik **op***.
 
-> *met → mee* and *tot → toe* in these combos: *ermee, daarmee, ertoe*. Full treatment: [The word er](/#/grammar?doc=1-auxilaries/30-er-word.md).
+> *met → mee* and *tot → toe* in these combos: *ermee, daarmee, ertoe*. Full treatment: [The word er](/#/grammar?doc=1-auxilaries/70-er-word.md).
 
 ## Common mistakes
 

@@ -1,3 +1,4 @@
+
 # Question words (vraagwoorden)  *(A2)*
 
 The words that open an information question. This page is the **word inventory**; for sentence shape — inversion, yes/no questions, embedded questions — see [Questions](/#/grammar?doc=5-modes/05-interrogatives.md).
@@ -72,7 +73,7 @@ flowchart TD
 
 ## waar — places & waar-words
 
-For places, **waar** takes a directional particle; for *things* after a preposition, it fuses with the preposition (a **waar**-word — the question form of an [er-word](/#/grammar?doc=1-auxilaries/30-er-word.md)).
+For places, **waar** takes a directional particle; for *things* after a preposition, it fuses with the preposition (a **waar**-word — the question form of an [er-word](/#/grammar?doc=1-auxilaries/70-er-word.md)).
 
 | Combo | English | Example |
 |-------|---------|---------|
