@@ -1,6 +1,10 @@
 # Prepositions & place/time words  *(A2)*
 
-Prepositions locate things in **space** and **time**. Two pairs trip up every English speaker: **in vs op** (space) and **uit vs van** (origin). Many verbs also take a **fixed** preposition (*denken **aan***, *wachten **op***); to replace the thing, use an [er-word](/#/grammar?doc=1-auxilaries/30-er-word.md).
+Prepositions are used to:
+
+- locate things in **space** , **time**,
+- bind **means**, **accompaniment**, and **reference**.
+- Many verbs also take a **fixed** preposition (*denken **aan***, *wachten **op***).
 
 ## Place — where
 

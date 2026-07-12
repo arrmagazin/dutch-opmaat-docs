@@ -65,7 +65,7 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 | `–` | gedachtestreepje | en dash | de trein `–` vol mensen `–` vertrok |
 | `…` | beletselteken | ellipsis | en toen `…` |
 | `/` | schuine streep | slash | en`/`of |
-| `\\` | omgekeerde schuine streep | backslash | C`:\\`Users |
+| `\` | omgekeerde schuine streep | backslash | C`:\\`Users |
 | `(…)` | haakjes | parentheses | (terzijde) |
 | `[…]` | rechte haakjes | square brackets | [redactie] |
 | `{…}` | accolades | curly braces | { code } |
@@ -95,8 +95,7 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 
 | Symbol | NL naam | Spoken as | English |
 |:------:|:--------|:----------|:--------|
-| `+` | plus | plus | plus |
-| `−` | min | min | minus |
+| `+` `−` `±` | plus-minus| - | plus-minus |
 | `×` | maal / keer | *vijf `maal` drie* | times |
 | `÷` | gedeeld door | *tien `gedeeld door` twee* | divided by |
 | `=` | is gelijk aan | *twee plus twee `is` vier* | equals |
@@ -105,13 +104,12 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 | `>` | is groter dan | *vijf `is groter dan` drie* | greater than |
 | `≤` | kleiner dan of gelijk aan | — | less or equal |
 | `≥` | groter dan of gelijk aan | — | greater or equal |
-| `±` | plus-minus | — | plus-minus |
 | `%` | procent | *tien `procent`* | percent |
 | `‰` | promille | *vijf `promille`* | per mille |
 | `°` | graden | *twintig `graden`* | degrees |
 | `√` | wortel | *de `wortel` van negen* | square root |
-| `π` | pi | pi | pi |
 | `∞` | oneindig | oneindig | infinity |
+| `π` | pi | pi | pi |
 
 ## Valuta (Currency)
 

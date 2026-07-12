@@ -2,7 +2,7 @@
 
 Dutch negates with two words: **niet** (not) and **geen** (no / not a / not any). *Which* one is rule-based; *where* **niet** goes is the trickier skill.
 
-> **No "do"-support.** English inserts *do/does/don't*; Dutch does not. *I don't work* → *Ik werk **niet***, never ~~*Ik doe niet werken*~~.
+> **No "do"-support.** English inserts *do/does/don't*; Dutch does not. *I don't work* → *Ik werk **niet***, never ~~ Ik doe niet werken~~.
 
 ## niet vs geen — the basic choice
 

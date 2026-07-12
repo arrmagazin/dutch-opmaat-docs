@@ -3,32 +3,32 @@
 These are the "small" words that translate badly in a dictionary but appear constantly in speech. On their own they carry almost no meaning — their job is to **set the tone**: soften, reassure, hurry, argue, or downplay. English does this with intonation and extra words; Dutch does it with particles. A speaker without them sounds robotic; with them, human.
 
 > Individually they're nearly weightless; together they carry the whole emotional register of spoken Dutch. Tap a word to open its note.
+>
+> Toners are different form the *degree* softeners — *een beetje*, *nogal*, *best*, *tamelijk*, *vrij* — see [Modifiers](/#/grammar?doc=1-auxilaries/14-modifiers.md); they scale an adjective rather than tone the sentence.
 
-| Toner | Hint | Core meaning |
-|-------|------|--------------|
-| `note:toch` | `vse gh taki` | still / anyway / after all |
-| `note:even` | `navprost` | briefly / just / quickly |
-| `note:echt` | `sapraudy` | really / genuinely |
-| `note:eigenlijk` | `ulasno` | actually / come to think of it |
-| `note:nog` | `esqe` | still / yet / more |
-| `note:nou` | `nu` | well / come on |
-| `note:maar` | `dyk` | just / go ahead |
-| `note:wel` | `ryxtyk` | actually / it *is* so (anti-*niet*) |
-| `note:hoor` | `aga` | reassurance ("really", "you know") |
-| `note:dus` | `na tym` | so / therefore |
-| `note:gewoon` | `zvyqajno` | simply / just |
-| `note:eens` | `razok` | (do it) sometime / just |
-| `note:net` | `amalj` | just now / exactly |
-| `note:zeker` | `napevna` | surely / I bet / by any chance |
-| `note:soms` | `qasam` | by any chance (in questions) |
-| `note:al` | `uzho` | already / emphasis |
-| `note:zo` | `zaraz` | in a sec / shortly |
-| `note:pas` | `tolki` | only just / not until |
-| `note:lekker` | `gusto` | nicely / just (defiant) |
-| `note:gerust` | `spakojna` | feel free / safely |
-| `note:juist` | `akurat` | precisely / on the contrary |
-
-> For the *degree* softeners — *een beetje*, *nogal*, *best*, *tamelijk*, *vrij* — see [Modifiers](/#/grammar?doc=1-auxilaries/14-modifiers.md); they scale an adjective rather than tone the sentence.
+| Toner | Hint, Core meaning |
+|-------|--------------------|
+| `note:toch` | `vse gh taki`  still / anyway / after all |
+| `note:even` | `navprost`  briefly / just / quickly |
+| `note:echt` | `sapraudy`  really / genuinely |
+| `note:eigenlijk` | `ulasno`  actually / come to think of it |
+| `note:nog` | `esqe`  still / yet / more |
+| `note:nou` | `nu`  well / come on |
+| `note:maar` | `dyk`  just / go ahead |
+| `note:wel` | `ryxtyk`  actually / it *is* so (anti-*niet*) |
+| `note:hoor` | `aga`  reassurance ("really", "you know") |
+| `note:dus` | `na tym`  so / therefore |
+| `note:gewoon` | `zvyqajno`  simply / just |
+| `note:eens` | `razok`  (do it) sometime / just |
+| `note:net` | `amalj`  just now / exactly |
+| `note:zeker` | `napevna`  surely / I bet / by any chance |
+| `note:soms` | `qasam`  by any chance (in questions) |
+| `note:al` | `uzho`  already / emphasis |
+| `note:zo` | `zaraz`  in a sec / shortly |
+| `note:pas` | `vosj tolki`  only just / not until |
+| `note:lekker` | `gusto`  nicely / just (defiant) |
+| `note:gerust` | `spakojna`  feel free / safely |
+| `note:juist` | `akurat`  precisely / on the contrary |
 
 ## Particles in action
 

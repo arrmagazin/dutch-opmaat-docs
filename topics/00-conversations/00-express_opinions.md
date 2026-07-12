@@ -55,11 +55,11 @@
 
 ## Express Attitude
 
-- [ ] Ik **zou willen** dat er minder lawaai. Ik **zou graag** extra les **willen**.
-- [ ] Verder ben ik heel **tevreden**.
 - [ ] **Ik hou van** koffie.
+- [ ] **Ik vind** voetbal `enum:goed:leuk`, want het is `enum:goed:gezond`.
+- [ ] **Ik vind het** `enum:goed:heerlijk`, want **ik hou van** de `enum:goed:lekkere` smaak en geur.
 - [ ] **Dat klinkt** (leuk|heerlijk|logisch|perfect).
-- [ ] **Ik ben dol op** chocolade.
+- [ ] Ik **geef de voorkeur aan**...
 - [ ] Het **belangrijkste** voor mij is dat...
 - [ ] **Ik heb een hekel aan** wachten.
 - [ ] **Ik kan** dat geluid **niet uitstaan**.
@@ -73,7 +73,7 @@
 — [ ] **Ik heb liever** koffie.
 — [ ] Ik kom **liefst** morgen.
 - [ ] Ik draag **het liefst** jurken de hele dag.
-- [ ] Ik hoor graag van u.
-- [ ] Ik **vind het leuk dat** ik ben uitgenodigd.
-- [ ] Ik vind voetbal **leuk**, want het is `enum:goed:gezond`.
-- [ ] **Ik vind het prima** zo.
+- [ ] Ik **zou willen** dat er minder lawaai. Ik **zou graag** extra les **willen**.
+- [ ] **Ik ben dol op** chocolade.
+- [ ] Verder ben ik heel **tevreden**.
+- [ ] Ik hoor **graag** van u.

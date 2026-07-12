@@ -1,39 +1,30 @@
-# Connectors  *(A2)*
+# Connectors  
 
-Connectors join ideas. The one thing that matters most: **coordinators** keep normal word order (verb second), while **subordinators** send the conjugated verb to the **end** of their clause. Get that split right and the rest follows. For the full word-order mechanics, see [Coordinating](/#/grammar?doc=6-structures/02-coordinating.md) and [Subordinating](/#/grammar?doc=6-structures/03-subordinating.md).
+## Conjunctions
 
-```mermaid
-flowchart TD
-  A["Which connector joins the clause?"] -->|"coordinator — en, maar, want, dus"| B["verb stays second — want ik ben moe"]
-  A -->|"subordinator — omdat, dat, als"| C["verb to the end — omdat ik moe ben"]
-```
+Coordinating conjunctions join *same rank* concepts into logical whole (V2 - verb second order).
 
-## Coordinating conjunctions
-
-They link two clauses of **equal** rank; word order stays normal (verb in second position). There are just five — memorize them as a set.
+There are just five — memorize them as a set.
 
 | Dutch | English | Example |
 |-------|---------|---------|
 | **en** | and | Ik werk **en** ik studeer. |
 | **maar** | but | Ik wil komen, **maar** ik heb geen tijd. |
 | **of** | or | Wil je koffie **of** thee? |
-| **want** | for / because | Ik blijf thuis, **want** ik **ben** moe. |
+| **want** | justified by | Ik blijf thuis, **want** ik **ben** moe. |
 | **dus** | so / therefore | Het regent, **dus** ik neem een paraplu. |
 
-> After a coordinator the verb still comes **second**: *…, want ik **ben** moe* — never ~~*…want ik moe ben*~~.
-
-## Subordinating conjunctions
-
-They introduce a **dependent** clause, and the conjugated verb moves to the **end**.
+Subordinating conjunctions introduce a **dependent** clause, and the conjugated verb moves to the **end**.
 
 | Dutch | English | Example |
 |-------|---------|---------|
+| **of** | whether | Ik weet niet **of** hij **komt**. |
 | **omdat** | because | Ik blijf thuis **omdat** ik ziek **ben**. |
 | **dat** | that | Hij zegt **dat** hij morgen **komt**. |
-| **als** | if / when | **Als** het regent, blijf ik thuis. |
+| **als**  | if / when | **Als** het regent, blijf ik thuis. |
+| **indien** | formal if / when | Neem contact op **indien** nodig. |
 | **toen** | when (past) | **Toen** ik klein **was**, woonde ik hier. |
 | **terwijl** | while | Hij las **terwijl** ik **kookte**. |
-| **of** | whether | Ik weet niet **of** hij **komt**. |
 | **hoewel** | although | **Hoewel** het regende, gingen we toch. |
 | **voordat** | before | Bel me **voordat** je **vertrekt**. |
 | **nadat** | after | **Nadat** we **gegeten hadden**, gingen we wandelen. |
@@ -42,22 +33,15 @@ They introduce a **dependent** clause, and the conjugated verb moves to the **en
 | **zodra** | as soon as | Bel me **zodra** je **aankomt**. |
 | **totdat** | until | Wacht **totdat** ik **kom**. |
 
-> **indien** is a formal, written variant of **als** ("if"): *Neem contact op **indien** nodig.* In everyday speech use **als**.
-
-## want vs omdat — the trap
-
-Both mean "because", but they belong to opposite families and take opposite word order.
-
-| Form | Family | Word order | Example |
-|------|--------|------------|---------|
-| **want** | coordinator | verb second | Ik blijf thuis, **want** ik **ben** moe. |
-| **omdat** | subordinator | verb last | Ik blijf thuis **omdat** ik moe **ben**. |
-
-> Use **want** to add a justification to a finished thought; use **omdat** to tie the cause in tightly. The same split hits **of**: *of* = "or" (coordinator) vs *of* = "whether" (subordinator).
+> **indien** is a formal, written variant of **als** ("if"). In everyday speech use **als**.
+>
+> **want** adds a justification to a finished thought ;  **omdat** ties the cause in tightly.
+>
+> The same split hits **of**: *of* = "or" (coordinator) vs *of* = "whether" (subordinator).
 >
 > For a cause expressed as a **noun** rather than a clause, use the preposition **vanwege** + noun: *De trein reed niet **vanwege** het weer.* (compare *omdat het sneeuwde* + clause).
 
-## Correlative pairs
+## Correlations and Equality
 
 A few connectors come in **two parts** that frame the sentence together.
 
@@ -65,8 +49,15 @@ A few connectors come in **two parts** that frame the sentence together.
 |-------|---------|---------|
 | **niet alleen … maar ook** | not only … but also | Hij spreekt **niet alleen** Nederlands, **maar ook** Duits. |
 | **zo … dat** | so … that (result) | Het was **zo** koud **dat** ik bibberde. |
+| **zo … als** | as … as | Hij is **zo** groot **als** ik. |
+| **even … als** | (just) as … as | Zij loopt **even** snel **als** hij. |
+| **net zo … als** | just as … as | Dit is **net zo** duur **als** dat. |
+| **zoals** | like / such as | Talen **zoals** Nederlands en Duits. |
+| **als** | as (in the role of) | Hij werkt **als** docent. |
 
 > **zo … dat** (result) is not **zodat** (purpose): *Het was **zo** koud **dat** ik bibberde* (result) vs *Spreek harder **zodat** ik je versta* (purpose).
+>
+> Use **als** (not *dan*!) for equality. *dan* is only for **in**equality — see [Comparatives](/#/grammar?doc=3-bijworden/36-comparatives.md).
 
 ## Linking adverbs
 
@@ -75,11 +66,11 @@ These connect sentences but are **adverbs**: put one in front and the verb still
 | Dutch | English | Example |
 |-------|---------|---------|
 | **daarom** | that's why | Hij was moe; **daarom ging hij** slapen. |
-| **daarnaast** | besides | **Daarnaast is** er nog een probleem. |
+| **daarnaast** | besides | **Daarnaast** is er nog een probleem. |
 | **bovendien** | moreover | Het is duur; **bovendien is** het ver. |
 | **echter** | however | Hij kwam **echter** te laat. |
-| **toch** | still / anyway | Het regende; **toch gingen we** wandelen. |
-| **anders** | otherwise | Schiet op, **anders missen we** de trein. |
+| **toch** | still / anyway | Het regende; **toch** gingen we wandelen. |
+| **anders** | otherwise | Schiet op, **anders**  missen we de trein. |
 
 > Watch the inversion: *Daarom **ging hij**…*, not ~~*Daarom hij ging*~~.
 
@@ -103,7 +94,7 @@ Order the steps of a story or explanation.
 
 ## Discourse markers
 
-Small words that organize speech and keep a conversation flowing. Several overlap with the [Toners](/#/grammar?doc=1-auxilaries/16-toners.md).
+Small words that organize speech and keep a conversation flowing.
 
 | Dutch | English | Example |
 |-------|---------|---------|

@@ -8,7 +8,7 @@
 - [ ] **Goedenavond**, welkom in ons restaurant.
 - [ ] **Hoe gaat het met je** vandaag?
 - [ ] Niet super, maar **het gaat wel**.
-- [ ] **Tot ziens**, fijne dag nog!
+- [ ] **Tot ziens**, fijne dag nog! -- Een prettige dag gewenst.
 - [ ] Ik ben zo klaar, **tot zo**!
 - [ ] **Zie je** morgen op school.
 

@@ -1,6 +1,8 @@
 # Modifiers & Intensifiers  *(A2)*
 
-Modifiers scale or qualify another word — **how strong**, **how often**, **how exact**. A degree word goes **directly before** the adjective or adverb it scales: *heel mooi*, *te duur*, *nogal druk*.
+Modifiers scale or qualify another word — **how strong**, **how often**, **how exact**.
+
+A degree word goes **directly before** the adjective or adverb it scales: *heel mooi*, *te duur*, *nogal druk*.
 
 ## Degree — how strong
 
@@ -46,18 +48,6 @@ flowchart LR
 ```
 
 A rough scale of quantity: *niets → bijna niets → **weinig** → genoeg → veel → heel veel → te veel → veel te veel*.
-
-## Equality — as … as
-
-> Use **als** (not *dan*!) for equality. *dan* is only for **in**equality — see [Comparatives](/#/grammar?doc=3-bijworden/36-comparatives.md).
-
-| Pattern | English | Example |
-|---------|---------|---------|
-| **zo … als** | as … as | Hij is **zo** groot **als** ik. |
-| **even … als** | (just) as … as | Zij loopt **even** snel **als** hij. |
-| **net zo … als** | just as … as | Dit is **net zo** duur **als** dat. |
-| **zoals** | like / such as | Talen **zoals** Nederlands en Duits. |
-| **als** | as (in the role of) | Hij werkt **als** docent. |
 
 ## Frequency — how often
 
