@@ -2,6 +2,13 @@
 
 <Quiz name="knm" data="{loadGhData('knm')}"></Quiz>
 
+External resources for practice
+
+- [ ] [Od Appel - KNM](https://www.youtube.com/watch?v=Emq0-jnhX0w&list=PLXhM-IdBEVjh3vIx8O5HX7fMrZqYkUoSa)
+- [ ] [inburgering.org Demo](https://inburgering.org/nl/knm#demo)
+- [ ] [YT:Dutch with Dutch-togo](https://www.youtube.com/watch?v=3dtAGpKP36k)
+- [ ] [YT: Dutch Today](https://www.youtube.com/watch?v=MBYwP3CNLpM)
+
 ## Dates and Numbers
 
 | Date | Holiday | Notes |
@@ -136,7 +143,3 @@ Civic termins
 > At age **50**, friends and family traditionally place a life-size figure of **Abraham** (men) or **Sarah** (women) at the front door — a biblical reference to old age [Q27]
 ---
 > Among friends and family, the Dutch greet with drie zoenen (three kisses on the cheeks: right-left-right). A handshake is used in formal/professional settings.
-
-## External resources
-
-[Od Appel - KNM](https://www.youtube.com/watch?v=Emq0-jnhX0w&list=PLXhM-IdBEVjh3vIx8O5HX7fMrZqYkUoSa)

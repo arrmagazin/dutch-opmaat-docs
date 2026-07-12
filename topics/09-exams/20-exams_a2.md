@@ -39,17 +39,35 @@ Practice exams until the words start to make sense. Over and over.
 - [ ] Do practice exams, over and over. Start with them — not with `table:/reading?columns=name_en#Reading lexic`.
 - [ ] Watch for **repeats** — focus on them.
 
+Official practice exams ([inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)):
+
+- [ ] [Practice exam A2 Reading 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/RV5Y)
+- [ ] [Practice exam A2 Reading 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/JJPV)
+- [ ] [Practice exam A2 Reading 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/QCA1)
+- [ ] [Practice exam A2 Reading 4](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/6N1Z)
+
 ### Listening
 
-- [ ] [inburgeren.nl](https://inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)
 - [ ] **Use Dutch app**
 
 > I skipped TV and other media — they don't speak at exam level. To just pass, stick to exam examples.
+
+Official practice exams ([inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)):
+
+- [ ] [Practice exam A2 Listening 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/NCJ5)
+- [ ] [Practice exam A2 Listening 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/J845)
+- [ ] [Practice exam A2 Listening 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/5QCB)
 
 ### Speaking
 
 - [ ] [Ad Appel: A2 – Spreken 2025](https://www.youtube.com/watch?v=0ZwElCYAfzI&list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf)
 - [ ] [Ad Appel: A2 – Spreken 2025](https://www.youtube.com/watch?v=_tkoK4nhpVU&list=PLXhM-IdBEVjgVPw6drrCScntDW05asFzL)
+
+Official practice exams ([inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)):
+
+- [ ] [Practice exam Speaking 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/DZ66)
+- [ ] [Practice exam Speaking 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/N94P)
+- [ ] [Practice exam Speaking 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/TKWW)
 
 ### Writing
 
@@ -57,3 +75,9 @@ Practice exams until the words start to make sense. Over and over.
 - [ ] **Build a list of ready-made sentences** to reuse in the exam.
 - [ ] Keep them _super_ simple — the more you write, the more you can get wrong.
 - [ ] Reuse the same sentence structure, and stick to `omdat` or `want` for "because" so the pattern becomes automatic.
+
+Official practice exams ([inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)):
+
+- [ ] [Practice exam A2 Writing 1](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-1.pdf)
+- [ ] [Practice exam A2 Writing 2](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-2.pdf)
+- [ ] [Practice exam A2 Writing 3](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-3.pdf)

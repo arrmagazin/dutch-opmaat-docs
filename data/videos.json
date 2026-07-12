@@ -1061,5 +1061,82 @@
     "label": "Would, Should & Polite Requests",
     "level": "B",
     "group": "method"
+  },
+  {
+    "id": "8-dWt1GAnxg",
+    "name": "Learning Dutch for Beginners",
+    "label": "Life in Dialogue (A1–A2)",
+    "level": "A",
+    "group": "dialogues"
+  },
+  {
+    "id": "_AqlzqaEy7A",
+    "name": "Dutch Job Interview Basics",
+    "label": "Shadowing Speaking Practice",
+    "level": "B",
+    "group": "dialogues"
+  },
+  {
+    "id": "br86Sz4oAGk",
+    "name": "Learn Dutch with Simple Dialogues",
+    "label": "Talking to the Doctor (A1–A2)",
+    "level": "A",
+    "group": "dialogues"
+  },
+  {
+    "id": "4DZ82npGFMg",
+    "name": "Dutch Infinitive Verbs in Phrases",
+    "label": "300+ Essential Sentences",
+    "level": "A",
+    "group": "method"
+  },
+  {
+    "id": "N89hF__6oko",
+    "name": "10 Easy Dutch Dialogues",
+    "label": "Office Life (A1–A2)",
+    "level": "A",
+    "group": "dialogues"
+  },
+  {
+    "id": "UZb6TgXkifM",
+    "name": "9 Hours of Dutch Conversation Practice",
+    "label": "Improve Your Dutch from Morning until Night",
+    "level": "A",
+    "group": "dialogues"
+  },
+  {
+    "id": "XWMEcUBbDTI",
+    "name": "How I Learned 9 Languages",
+    "label": "A Polyglot’s Secrets for Fast Fluency",
+    "level": "B",
+    "group": "method"
+  },
+  {
+    "id": "okZykQ40RF8",
+    "name": "NT2 les 32: Werkwoord korte klank",
+    "label": "Zeggen, zitten — grammatica",
+    "level": "B",
+    "group": "method"
+  },
+  {
+    "id": "s187kSPQ1-Y",
+    "name": "Become Fluent in 1 Year",
+    "label": "The Routine a Hyperpolyglot Uses",
+    "level": "B",
+    "group": "method"
+  },
+  {
+    "id": "0-v7LpQeL5k",
+    "name": "Clock Times in Dutch (Kloktijden)",
+    "label": "Dutch for Beginners",
+    "level": "A",
+    "group": "method"
+  },
+  {
+    "id": "k4AWMUwSFVk",
+    "name": "Om, In, Op — Dutch Prepositions & Time",
+    "label": "Dutch Grammar",
+    "level": "A",
+    "group": "method"
   }
 ]
