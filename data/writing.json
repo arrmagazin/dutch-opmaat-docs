@@ -24,20 +24,23 @@
     "id": "w30",
     "title": "My Favorite Food",
     "description": "Write about your favorite food for the neighborhood paper",
-    "modelAnswer": "Mijn lievelingseten is nasi goreng.\nHet is een gerecht uit Indonesië, waar mijn moeder vandaan komt.\nMijn moeder maakt het altijd klaar met veel groente, ei en kip.\nWe eten het elke zondag met de hele familie aan een grote tafel.\nHet is lekker en het ruikt heel goed in huis.\nOok mijn kinderen vinden het heerlijk.\nEten brengt onze familie samen."
+    "modelAnswer": "`inline:texts/my-favorite-food`",
+    "promptHint": "Mijn lievelingseten is nasi goreng.\nHet is een gerecht uit Indonesië, waar mijn moeder vandaan komt.\nMijn moeder maakt het altijd klaar met veel groente, ei en kip.\nWe eten het elke zondag met de hele familie aan een grote tafel.\nHet is lekker en het ruikt heel goed in huis.\nOok mijn kinderen vinden het heerlijk.\nEten brengt onze familie samen."
   },
   {
     "id": "w01",
     "title": "My Favorite Party",
     "description": "Write about your favorite celebration",
     "status": "completed",
-    "modelAnswer": "Mijn favoriete feest is Koningsdag.\nHet is op 27 april.\nIk vier het altijd met mijn familie in Amsterdam.\nWe dragen oranje kleren en gaan naar de stad.\nWe eten oranje tompoezen en luisteren naar muziek.\nIn het Vondelpark is een groot feest.\nHet is heel gezellig en leuk."
+    "modelAnswer": "`inline:texts/my-favorite-party`",
+    "promptHint": "Mijn favoriete feest is Koningsdag.\nHet is op 27 april.\nIk vier het altijd met mijn familie in Amsterdam.\nWe dragen oranje kleren en gaan naar de stad.\nWe eten oranje tompoezen en luisteren naar muziek.\nIn het Vondelpark is een groot feest.\nHet is heel gezellig en leuk."
   },
   {
     "id": "w02",
     "title": "Thanking Someone",
     "description": "Thank a friend for helping you or doing you a favour",
-    "modelAnswer": "Hoi Mark, heel erg bedankt voor je hulp met verhuizen vorige week!\nIk ben erg blij met mijn nieuwe huis in Utrecht.\nZonder jou was het niet gelukt.\nAlle dozen staan nu op de juiste plek.\nVolgende week wil ik je graag uitnodigen voor het eten.\nKun je zaterdagavond om 19:00 uur?\nGroetjes, Sara"
+    "modelAnswer": "`inline:texts/thanks-for-help`",
+    "promptHint": "Hoi Mark, heel erg bedankt voor je hulp met verhuizen vorige week!\nIk ben erg blij met mijn nieuwe huis in Utrecht.\nZonder jou was het niet gelukt.\nAlle dozen staan nu op de juiste plek.\nVolgende week wil ik je graag uitnodigen voor het eten.\nKun je zaterdagavond om 19:00 uur?\nGroetjes, Sara"
   },
   {
     "id": "w05",

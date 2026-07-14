@@ -34,35 +34,89 @@ Practice exams until the words start to make sense. Over and over.
 
 `dialog:12-elke-dag:Oefen Elke Dag`
 
-### Reading
-
-- [ ] Do practice exams, over and over. Start with them — not with `table:/reading?columns=name_en#Reading lexic`.
-- [ ] Watch for **repeats** — focus on them.
-
-Official practice exams ([inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)):
+### Official Reading Practice exams [inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)
 
 - [ ] [Practice exam A2 Reading 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/RV5Y)
 - [ ] [Practice exam A2 Reading 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/JJPV)
 - [ ] [Practice exam A2 Reading 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/QCA1)
 - [ ] [Practice exam A2 Reading 4](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/6N1Z)
 
-### Listening
-
-- [ ] **Use Dutch app**
-
-> I skipped TV and other media — they don't speak at exam level. To just pass, stick to exam examples.
-
-Official practice exams ([inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)):
+### Official Listening practice exams [inburgeren.nl](<https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp>)
 
 - [ ] [Practice exam A2 Listening 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/NCJ5)
 - [ ] [Practice exam A2 Listening 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/J845)
 - [ ] [Practice exam A2 Listening 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/5QCB)
 
-### Speaking
+### Listening Practice with Henk en Ingrid
 
-- [ ] [Ad Appel: A2 – Spreken 2025](https://www.youtube.com/watch?v=0ZwElCYAfzI&list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf)
+Full  playlist [Luistervaardigheid A2](https://www.youtube.com/playlist?list=PLXhM-IdBEVjjXsZrVZAf4X94FCBE2tq99):
 
-Ad Appel — [A2 Spreekvaardigheid playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjgVPw6drrCScntDW05asFzL):
+- [ ] [Les 1 – tekst 1](https://www.youtube.com/watch?v=TnzORNjSbMU)
+- [ ] [Les 1 – tekst 2](https://www.youtube.com/watch?v=0kCEtabeh2o)
+- [ ] [Les 1 – tekst 3](https://www.youtube.com/watch?v=xj8BNwiEMY4)
+- [ ] [Les 2 – tekst 1](https://www.youtube.com/watch?v=YR8X0InqUVg)
+- [ ] [Les 2 – tekst 2](https://www.youtube.com/watch?v=kc5rtK8eq7U)
+- [ ] [Les 2 – tekst 3](https://www.youtube.com/watch?v=RMkVMca_xjg)
+- [ ] [Les 2 – tekst 4](https://www.youtube.com/watch?v=rW4LiP5NJL4)
+- [ ] [Les 3 – tekst 1](https://www.youtube.com/watch?v=6GFg0DiFChA)
+- [ ] [Les 3 – tekst 2](https://www.youtube.com/watch?v=ANLuWHbxiyM)
+- [ ] [Les 3 – tekst 3](https://www.youtube.com/watch?v=wQzgZqZTFyI)
+- [ ] [Les 4 – tekst 1](https://www.youtube.com/watch?v=_Y46yCxkzr8)
+- [ ] [Les 4 – tekst 2](https://www.youtube.com/watch?v=JuM7pv87UoY)
+- [ ] [Les 4 – tekst 3](https://www.youtube.com/watch?v=fm6xhAQI6Rs)
+- [ ] [Les 5 – tekst 1](https://www.youtube.com/watch?v=qee7iI--uqs)
+- [ ] [Les 5 – tekst 2](https://www.youtube.com/watch?v=UOhz0LtVHlc)
+- [ ] [Les 6 – tekst 1](https://www.youtube.com/watch?v=A3QPdZaoUw4)
+- [ ] [Les 6 – tekst 2](https://www.youtube.com/watch?v=QW-A3J_t9gM)
+- [ ] [Les 7 – tekst 1](https://www.youtube.com/watch?v=ROaWwpn6R-g)
+- [ ] [Les 7 – tekst 2](https://www.youtube.com/watch?v=ID2ygfCHPTU)
+- [ ] [Les 8 – tekst 1](https://www.youtube.com/watch?v=p0iUEjIuhjo)
+- [ ] [Les 8 – tekst 2](https://www.youtube.com/watch?v=MBXToc0IczE)
+- [ ] [Les 9 – tekst 1](https://www.youtube.com/watch?v=GgSOa9re4bo)
+- [ ] [Les 10 – tekst 1](https://www.youtube.com/watch?v=1og1cqix3Cg)
+- [ ] [Les 10 – tekst 2](https://www.youtube.com/watch?v=t1CMJxzOT9Y)
+- [ ] [Les 11 – tekst 1](https://www.youtube.com/watch?v=Koz3_OBZVIw)
+- [ ] [Les 11 – tekst 2](https://www.youtube.com/watch?v=lkpfjM9GMWw)
+- [ ] [Les 12 – tekst 1](https://www.youtube.com/watch?v=hbUGi8EnkHY)
+- [ ] [Les 12 – tekst 2](https://www.youtube.com/watch?v=9x23-WEbQZc)
+- [ ] [Les 13 – tekst 1](https://www.youtube.com/watch?v=1jYgVE3s9w0)
+- [ ] [Les 14 – tekst 1](https://www.youtube.com/watch?v=Wr3h91ydA1Q)
+- [ ] [Les 15 – tekst 1](https://www.youtube.com/watch?v=YlhxcQp3w7o)
+- [ ] [Les 15 – tekst 2](https://www.youtube.com/watch?v=D4jJDPmgi6w)
+- [ ] [Les 16 – tekst 1](https://www.youtube.com/watch?v=A4McpB5VFjk)
+- [ ] [Les 17 – tekst 1](https://www.youtube.com/watch?v=c0Y-8_t5hYk)
+- [ ] [Les 17 – tekst 2](https://www.youtube.com/watch?v=cw9wMUxMLKk)
+- [ ] [Les 18 – tekst 1](https://www.youtube.com/watch?v=Sahp_coWISU)
+- [ ] [Les 19 – tekst 1](https://www.youtube.com/watch?v=u7HOZRoZL6Y)
+- [ ] [Les 19 – tekst 2](https://www.youtube.com/watch?v=pyPjrI8sxK8)
+- [ ] [Les 20 – tekst 1](https://www.youtube.com/watch?v=Y8xsKapoI40)
+- [ ] [Les 21 – tekst 1](https://www.youtube.com/watch?v=lpJd1mlXoo0)
+- [ ] [Les 21 – tekst 2](https://www.youtube.com/watch?v=gvjk97y6Poc)
+- [ ] [Les 22 – tekst 1](https://www.youtube.com/watch?v=JkJJIlXioUw)
+- [ ] [Les 22 – tekst 2](https://www.youtube.com/watch?v=gkgAndMf5xk)
+- [ ] [Les 23 – tekst 1](https://www.youtube.com/watch?v=0IzoMiTwh0E)
+- [ ] [Les 23 – tekst 2](https://www.youtube.com/watch?v=304LXd9Upws)
+- [ ] [Les 24 – tekst 1](https://www.youtube.com/watch?v=iURWX_fklKg)
+- [ ] [Les 25 – tekst 1](https://www.youtube.com/watch?v=kwRR03ER1Ko)
+- [ ] [Les 26 – tekst 1](https://www.youtube.com/watch?v=9wH9fRuFp0w)
+
+### Speaking Practice: A2 Ad Appel nieuw format 2025
+
+Full playlist [A2 – Spreken 2025 (nieuw format)](https://www.youtube.com/playlist?list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf):
+
+- [ ] [Nieuw format #1](https://www.youtube.com/watch?v=7cmueg7A0CU)
+- [ ] [Nieuw format #2](https://www.youtube.com/watch?v=dOPLSiuxzqc)
+- [ ] [Nieuw format #3](https://www.youtube.com/watch?v=fodGxchgAaw)
+- [ ] [Nieuw format #4](https://www.youtube.com/watch?v=yUY_FCN_XiA)
+- [ ] [Nieuw format #5](https://www.youtube.com/watch?v=DgwCmj3poSI)
+- [ ] [Nieuw format #6](https://www.youtube.com/watch?v=3nx6O9qWGjE)
+- [ ] [Nieuw format #7](https://www.youtube.com/watch?v=8nFzjYHSTCA)
+- [ ] [Nieuw format #8](https://www.youtube.com/watch?v=kH7RhrA4jTg)
+- [ ] [Nieuw format #9](https://www.youtube.com/watch?v=0ZwElCYAfzI)
+
+### Speaking Practice: A2 Ad Appel Spreekvaardigheid
+
+Full playlist [A2 Spreekvaardigheid playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjgVPw6drrCScntDW05asFzL):
 
 - [ ] [Oefenexamen 1 – 2025](https://www.youtube.com/watch?v=_tkoK4nhpVU)
 - [ ] [Oefenexamen 2 – 2025](https://www.youtube.com/watch?v=Oe2mXQSvrIc)
@@ -73,31 +127,18 @@ Ad Appel — [A2 Spreekvaardigheid playlist](https://www.youtube.com/playlist?li
 - [ ] [Oefenexamen 7 – 2025](https://www.youtube.com/watch?v=cPwEoHUGwnE)
 - [ ] [Oefenexamen 8 – 2025](https://www.youtube.com/watch?v=b0zrI7QOGcc)
 - [ ] [Oefenexamen 9 – 2025](https://www.youtube.com/watch?v=FM7AOEA-Ddw)
-- [ ] [Oefenexamen 10 – januari 2021](https://www.youtube.com/watch?v=jqzUZtV16g4)
-- [ ] [Oefenexamen 11 – januari 2021](https://www.youtube.com/watch?v=H-ZYqDGAfwM)
-- [ ] [Oefenexamen 12 – januari 2021](https://www.youtube.com/watch?v=BkaibOsg3hc)
-- [ ] [Oefenexamen 13 – januari 2021](https://www.youtube.com/watch?v=5L1Zv6n2pkU)
-- [ ] [Oefenexamen 14 – januari 2021](https://www.youtube.com/watch?v=eo9Dx17g8BE)
-- [ ] [Oefenexamen 15 – januari 2021](https://www.youtube.com/watch?v=QCSexczXI8o)
-- [ ] [Oefenexamen 16 – januari 2021](https://www.youtube.com/watch?v=xrcgcN30YVg)
-- [ ] [Oefenexamen 17 – 2016](https://www.youtube.com/watch?v=DSe7IeBWofA)
-- [ ] [Oefenexamen 18 – 2016](https://www.youtube.com/watch?v=Fb3El9da_UM)
-- [ ] [Oefenexamen 19 – 2016](https://www.youtube.com/watch?v=K81GKUNlL4w)
 
-Official practice exams ([inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)):
+### Official Speaking practice exams [inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)
 
 - [ ] [Practice exam Speaking 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/DZ66)
 - [ ] [Practice exam Speaking 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/N94P)
 - [ ] [Practice exam Speaking 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/TKWW)
 
-### Writing
+### Writing Practice
 
-- [ ] Work through the practice exams (Use Dutch + official Inburgering).
-- [ ] **Build a list of ready-made sentences** to reuse in the exam.
-- [ ] Keep them _super_ simple — the more you write, the more you can get wrong.
-- [ ] Reuse the same sentence structure, and stick to `omdat` or `want` for "because" so the pattern becomes automatic.
+- [ ] Work through [Practice with writing AI trainer](/#/writing)
 
-Official practice exams ([inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)):
+Acknowledge the official practice exams samples ([inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)):
 
 - [ ] [Practice exam A2 Writing 1](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-1.pdf)
 - [ ] [Practice exam A2 Writing 2](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-2.pdf)
