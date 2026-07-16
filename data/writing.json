@@ -46,7 +46,8 @@
     "id": "w05",
     "title": "Inviting a Friend",
     "description": "Invite a friend to a party",
-    "modelAnswer": "Hoi Sophie, ik geef een verjaardagsfeest op zaterdag 18 mei om 19:00 uur.\nHet feest is bij mij thuis op de Kerkstraat 12.\nEr komen ongeveer tien mensen.\nWe gaan eten, drinken en muziek luisteren.\nKun je iets te drinken meenemen?\nEen dieet of allergie hoor ik graag van tevoren.\nIk hoop dat je komt!\nGroetjes, Maria"
+    "modelAnswer": "`inline:texts/invite-friend`",
+    "promptHint": "Hoi Sophie, ik geef een verjaardagsfeest op zaterdag 18 mei om 19:00 uur.\nHet feest is bij mij thuis op de Kerkstraat 12.\nEr komen ongeveer tien mensen.\nWe gaan eten, drinken en muziek luisteren.\nKun je iets te drinken meenemen?\nEen dieet of allergie hoor ik graag van tevoren.\nIk hoop dat je komt!\nGroetjes, Maria"
   },
   {
     "id": "w10",
@@ -58,7 +59,8 @@
     "id": "w08",
     "title": "Library Registration",
     "description": "Fill in a form to register at the library",
-    "modelAnswer": "Naam: Fatima El Amrani\nAdres: Tulpstraat 8, 1234 AB Amsterdam\nGeboortedatum: 15 maart 1990\nTelefoonnummer: 06-12345678\nE-mailadres: fatima@email.nl\n\nIk lees graag boeken over koken, gezondheid en romans.\nIk wil de bibliotheek twee keer per week bezoeken.\nOok wil ik graag lezingen bijwonen en mijn kinderen meenemen naar de kinderafdeling.\nIk werk als verpleegkundige en heb 's avonds vaak tijd om te lezen."
+    "modelAnswer": "`inline:texts/borrow-book`",
+    "promptHint": "Naam: Fatima El Amrani\nAdres: Tulpstraat 8, 1234 AB Amsterdam\nGeboortedatum: 15 maart 1990\nTelefoonnummer: 06-12345678\nE-mailadres: fatima@email.nl\n\nIk lees graag boeken over koken, gezondheid en romans.\nIk wil de bibliotheek twee keer per week bezoeken.\nOok wil ik graag lezingen bijwonen en mijn kinderen meenemen naar de kinderafdeling.\nIk werk als verpleegkundige en heb 's avonds vaak tijd om te lezen."
   },
   {
     "id": "w47",
