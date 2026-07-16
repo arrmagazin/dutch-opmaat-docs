@@ -2,7 +2,7 @@
 
 Dutch expresses *modality* — desire, ability, possibility, obligation, permission, and the speaker's stance — mostly through six **modal verbs** (*willen, kunnen, mogen, moeten, zullen, hoeven*), backed up by adverbs (*misschien, waarschijnlijk, vast, wel*) and fixed phrases. The same modal often covers several meanings, and each meaning has more than one form. The table maps *meanings* to *forms*; the sections that follow give examples.
 
-> For how the modal verbs *conjugate* and stack (double infinitives, IPP), see [modal verbs](/#/grammar?doc=4-verbs/23-modal_verbs.md). This page is about *which form expresses which meaning*.
+> For how the modal verbs *conjugate* and stack (double infinitives, IPP), see [modal verbs](/#/grammar?doc=5-verbs/23-modal_verbs.md). This page is about *which form expresses which meaning*.
 
 | Modality | Primary verb(s) | Alternative phrasings |
 |----------|-----------------|-----------------------|
@@ -39,7 +39,7 @@ Dutch expresses *modality* — desire, ability, possibility, obligation, permiss
 - Ik **denk** volgend jaar **te** verhuizen. (I'm thinking of moving next year.)
 - Zij **is voornemens** te stoppen. (She intends to quit. — formal)
 
-For choosing between *gaan*, *zullen*, and the plain present, see [talking about the future](/#/grammar?doc=5-modes/02-future.md).
+For choosing between *gaan*, *zullen*, and the plain present, see [talking about the future](/#/grammar?doc=7-modes/02-future.md).
 
 ## Ability — *kunnen*
 
@@ -135,7 +135,7 @@ flowchart TD
 - **Laten we** beginnen. (Let's begin.)
 - **Wil** je een kopje thee? (Would you like a cup of tea?)
 
-For the *laten we* and *"Zullen we…?"* patterns in full, see [imperatives](/#/grammar?doc=5-modes/04-imperatives.md) and [the future](/#/grammar?doc=5-modes/02-future.md).
+For the *laten we* and *"Zullen we…?"* patterns in full, see [imperatives](/#/grammar?doc=7-modes/04-imperatives.md) and [the future](/#/grammar?doc=7-modes/02-future.md).
 
 ## Politeness / request — *zou(den)*, *willen*
 
@@ -163,4 +163,4 @@ Contrast the two *moeten*: *Dat moet een vergissing zijn* is the speaker's own c
 - ❌ *Ik moet niet komen* (for "I don't have to") → ✅ *Ik hoef niet te komen* — the negative of *moeten* is *hoeven … niet + te*.
 - ❌ *Ik wil te gaan* → ✅ *Ik wil gaan* — modals take a **bare** infinitive, no *te* (only *hoeven* takes *te*).
 - ❌ *Ik kan spreken Nederlands* → ✅ *Ik kan Nederlands **spreken*** — the infinitive lands at the **end**.
-- ❌ *Ik zal morgen naar de dokter* (a routine plan) → ✅ *Ik ga morgen naar de dokter* — everyday plans use *gaan*; *zullen* sounds stiff (see [the future](/#/grammar?doc=5-modes/02-future.md)).
+- ❌ *Ik zal morgen naar de dokter* (a routine plan) → ✅ *Ik ga morgen naar de dokter* — everyday plans use *gaan*; *zullen* sounds stiff (see [the future](/#/grammar?doc=7-modes/02-future.md)).

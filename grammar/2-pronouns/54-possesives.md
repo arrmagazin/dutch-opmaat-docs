@@ -37,7 +37,7 @@ flowchart TD
 - **jouw** is the full, **stressed** form, for emphasis or contrast: *Is dit **jouw** boek?* — Is this *your* book (…or mine?)
 - **je** is the reduced, **unstressed** form, the neutral default: *Is dit **je** boek?* — Is this your book?
 
-The same stress principle runs through the pronouns: *je* vs *jij*, *ze* vs *zij*. See [Pronouns](/#/grammar?doc=2-nominatives/50-pronouns.md).
+The same stress principle runs through the pronouns: *je* vs *jij*, *ze* vs *zij*. See [Pronouns](/#/grammar?doc=2-pronouns/50-pronouns.md).
 
 ## Standalone possessives ("mine, yours, his…")
 

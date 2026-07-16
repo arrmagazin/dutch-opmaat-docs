@@ -2,9 +2,9 @@
 
 Prepositions are used to:
 
-- bind **means**, **accompaniment**, and **reference**.
-- locate things in **space** , **time**,
-- Many verbs also take a **verb-fixed** preposition (*denken **aan***, *wachten **op***).
+- logical binding: **means**, **accompaniment**, and **reference**.
+- location in **space-time**,
+- fixed **verb-object** prepositions.
 
 ## Logical Relations — means & reference
 
@@ -63,7 +63,7 @@ flowchart TD
 
 > **uit vs van.** Permanent origin ("I'm *from* …") → **uit**: *Ik kom **uit** België.* Coming from a place right now → **van**: *Ik kom net **van** kantoor.*
 
-*Naar huis*, *naar bed*, *naar school*, *naar werk* drop the article (fixed phrases). Some prepositions follow the noun as **postpositions** to show motion toward a goal: *de trap **op*** (up the stairs), *het bos **in*** (into the woods), *de stad **uit*** (out of the city) — compare location *op de trap*. See [Sentence structure](/#/grammar?doc=6-structures/00-sentence.md).
+*Naar huis*, *naar bed*, *naar school*, *naar werk* drop the article (fixed phrases). Some prepositions follow the noun as **postpositions** to show motion toward a goal: *de trap **op*** (up the stairs), *het bos **in*** (into the woods), *de stad **uit*** (out of the city) — compare location *op de trap*. See [Sentence structure](/#/grammar?doc=8-structures/00-sentence.md).
 
 ## Time — when
 
@@ -130,6 +130,10 @@ Giving directions chains imperatives, prepositions, and separable verbs:
 
 - ***Loop** rechtdoor en **neem** de tweede straat rechts.*
 - ***Ga** bij het stoplicht **linksaf** en **steek** de brug **over**.*
+
+## Verbs with fixed prepositions
+
+Many verbs pair with a **fixed preposition** you cannot predict from meaning (*wachten **op***, *denken **aan***, *houden **van*** …) — learn the verb and its preposition as one unit. Full list with examples: [Verbs with fixed prepositions](/#/grammar?doc=5-verbs/22-verb-with-prepositions.md).
 
 ## Common mistakes
 

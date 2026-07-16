@@ -22,7 +22,7 @@
 - **Copula (state):** *Zij **is** ziek.* — She is sick. / *Het **is** koud.* — It's cold.
 - **Perfect auxiliary** for motion and change-of-state verbs: *Ik **ben** naar huis **gegaan**.* — I went home. / *Hij **is gekomen**.* — He has come.
 
-> Only motion/change-of-state verbs (plus *zijn*, *blijven*, *worden*) take *zijn* in the perfect; most verbs take *hebben*. Full rule: [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md).
+> Only motion/change-of-state verbs (plus *zijn*, *blijven*, *worden*) take *zijn* in the perfect; most verbs take *hebben*. Full rule: [perfectum](/#/grammar?doc=5-verbs/26-perfectum.md).
 
 ## *Hebben* — to have
 
@@ -32,14 +32,14 @@
 
 ## *Worden* — to become
 
-*Worden* means **to become**, and it is also the auxiliary of the [passive](/#/grammar?doc=4-verbs/29-passive.md).
+*Worden* means **to become**, and it is also the auxiliary of the [passive](/#/grammar?doc=5-verbs/29-passive.md).
 
 - **Becoming (change of state):** *Het **wordt** koud.* — It's getting cold. / *Hij **wordt** steeds beter.* — He keeps getting better.
 - **Passive (process):** *Het boek **wordt gelezen**.* — The book is being read.
 
 Its perfect uses *zijn*: *Hij **is** dokter **geworden**.* — He has become a doctor. In the **passive** perfect the participle *geworden* is dropped: *De brief **is geschreven*** (not ~~is geschreven geworden~~).
 
-> Dutch has **no future with *worden***. "I will go" is *Ik **zal** gaan* (*zullen*), never ~~Ik word gaan~~ — a classic German-interference trap. See [future](/#/grammar?doc=5-modes/02-future.md).
+> Dutch has **no future with *worden***. "I will go" is *Ik **zal** gaan* (*zullen*), never ~~Ik word gaan~~ — a classic German-interference trap. See [future](/#/grammar?doc=7-modes/02-future.md).
 
 ## Worked example
 

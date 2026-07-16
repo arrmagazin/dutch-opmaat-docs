@@ -47,7 +47,7 @@ Strong verbs do **not** use *-te / -de*. They change the stem vowel (ablaut) and
 
 - *Wij **dronken** koffie en **aten** taart.* — We drank coffee and ate cake.
 
-The full principal-parts list lives on the [verbs](/#/grammar?doc=4-verbs/19-verbs.md) page — strong verbs have to be memorised one by one.
+The full principal-parts list lives on the [verbs](/#/grammar?doc=5-verbs/19-verbs.md) page — strong verbs have to be memorised one by one.
 
 ## Worked example
 
@@ -58,7 +58,7 @@ The full principal-parts list lives on the [verbs](/#/grammar?doc=4-verbs/19-ver
 - *fietste* = *fietsen*, stem *fiets*, ends in *-s* (in 't kofschip) → **-te**.
 - *vroeger* ("formerly") flags a habitual past — the imperfectum's home turf.
 
-> **Imperfectum or perfectum?** The imperfectum narrates and describes (habits, background); the perfectum reports single completed events and dominates in speech. The full choice lives in [past narratives](/#/grammar?doc=5-modes/03-past_narrative.md).
+> **Imperfectum or perfectum?** The imperfectum narrates and describes (habits, background); the perfectum reports single completed events and dominates in speech. The full choice lives in [past narratives](/#/grammar?doc=7-modes/03-past_narrative.md).
 
 ## Oefen — practice
 

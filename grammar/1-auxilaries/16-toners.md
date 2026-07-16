@@ -24,24 +24,14 @@ These are the "small" words that translate badly in a dictionary but appear cons
 | `note:zo` | `zaraz`  in a sec / shortly |
 | `note:pas` | `vosj tolki`  only just / not until |
 
-| Toner | Hint, Core meaning |
-|-------|--------------------|
-| `note:gewoon` | `zvyqajno`  simply / just |
-| `note:zeker` | `napevna`  surely / I bet / by any chance |
-| `note:lekker` | `gusto`  nicely / just (defiant) |
-| `note:gerust` | `spakojna`  feel free / safely |
-| `note:juist` | `akurat`  precisely / on the contrary |
-| `namelijk` | you see / namely  |
-| `note:eigenlijk` | actually  |
-
 ## Particles in action
 
 Each particle bends the mood of the same bare sentence.
 
 | Particle | Example | Effect |
 |----------|---------|--------|
-| **even** | Wacht **even**. | just for a moment (softens a command) |
 | **maar** | Zeg het **maar**. | go ahead, no pressure |
+| **even** | Wacht **even**. | just for a moment (softens a command) |
 | **eens** | Kom **eens** kijken. | do come and look (friendly invite) |
 | **toch** | Je komt **toch**? | you *are* coming, right? (seeks confirmation) |
 | **hoor** | Het is niet erg, **hoor**. | it's really fine (reassuring) |
@@ -49,7 +39,7 @@ Each particle bends the mood of the same bare sentence.
 | **nou** | Kom **nou**! | oh, come on! (impatience) |
 | **gewoon** | Doe het **gewoon**. | just do it (no fuss) |
 
-> Ordering a drink? *Doe **maar** een koffie* ("Just a coffee, thanks") is the everyday phrasing — the bare *Een koffie* sounds curt. Particles also power polite imperatives: see [Imperatives](/#/grammar?doc=5-modes/04-imperatives.md).
+> Ordering a drink? *Doe **maar** een koffie* ("Just a coffee, thanks") is the everyday phrasing — the bare *Een koffie* sounds curt. Particles also power polite imperatives: see [Imperatives](/#/grammar?doc=7-modes/04-imperatives.md).
 
 ## Stacking
 
@@ -63,6 +53,18 @@ The hallmark of natural speech is **stacking** particles — a native speaker th
 - *Zeg het **nou maar gewoon**.* — Oh just say it already. (*nou* + *maar* + *gewoon*)
 
 > Their order is fixed by feel, not by rule. Learn the common clusters (*maar even*, *toch wel*, *nog maar*) as ready-made chunks.
+
+## Modal toners
+
+| Toner | Hint, Core meaning |
+|-------|--------------------|
+| `note:gewoon` | `zvyqajno`  simply / just |
+| `note:zeker` | `napevna`  surely |
+| `note:lekker` | `gusto`  nicely / just (defiant) |
+| `note:gerust` | `spakojna`  feel free / safely |
+| `note:juist` | `akurat`  precisely / on the contrary |
+| `namelijk` |  namely  |
+| `note:eigenlijk` | actually  |
 
 ## Common mistakes
 

@@ -13,7 +13,7 @@ flowchart TD
 | **Yes/No** | verb + subject + … ? | ***Werk** jij hier?* |
 | **Wh- / information** | question word + verb + subject + … ? | ***Waar** woon je?* |
 
-Any non-finite verb (infinitive, participle) or separable prefix still goes to the **end** of the clause. For the full inventory of question words (*wie, wat, welk(e), hoe, waarom, hoeveel …*), see [question words](/#/grammar?doc=1-auxilaries/60-vraag-worden.md).
+Any non-finite verb (infinitive, participle) or separable prefix still goes to the **end** of the clause. For the full inventory of question words (*wie, wat, welk(e), hoe, waarom, hoeveel …*), see [question words](/#/grammar?doc=2-pronouns/60-vraag-worden.md).
 
 ## Yes/no questions — inversion (V1)
 
@@ -28,7 +28,7 @@ The conjugated verb moves to **slot 1**; the subject follows in slot 2.
 
 > **Drop-t rule:** *jij / je* loses the verb's **-t** when it comes right *after* the verb: *Jij **werkt*** → ***Werk** jij?* This happens only with *jij/je*, and only in inversion.
 
-The rest follows the subject in **time → manner → place** order (see [word order](/#/grammar?doc=6-structures/00-sentence.md)):
+The rest follows the subject in **time → manner → place** order (see [word order](/#/grammar?doc=8-structures/00-sentence.md)):
 
 - ***Eet** je vanavond bij ons?*
 - ***Gaat** hij morgen met de trein naar Brussel?*
@@ -46,7 +46,7 @@ The modal takes slot 1 (or follows the question word); the main verb stays an **
 | **Waarom** moet ik dat **doen**? | wh- |
 | **Wat** wil je **eten**? | wh- |
 
-For modal conjugation and verb stacking, see [modal verbs](/#/grammar?doc=4-verbs/23-modal_verbs.md).
+For modal conjugation and verb stacking, see [modal verbs](/#/grammar?doc=5-verbs/23-modal_verbs.md).
 
 ### Confirmation tags
 
@@ -86,7 +86,7 @@ When the question asks about the object of a preposition, people and things beha
 | **Waarmee** schrijf je? | **Waar** schrijf je **mee**? | What are you writing with? |
 | **Waaraan** denk je? | **Waar** denk je **aan**? | What are you thinking about? |
 
-> Two prepositions change shape here: *met → mee*, *tot → toe* (so *waarmee*, *waartoe*). The split form is more natural in speech; the joined form is more formal. This mirrors *er*-words — see [question words](/#/grammar?doc=1-auxilaries/60-vraag-worden.md).
+> Two prepositions change shape here: *met → mee*, *tot → toe* (so *waarmee*, *waartoe*). The split form is more natural in speech; the joined form is more formal. This mirrors *er*-words — see [question words](/#/grammar?doc=2-pronouns/60-vraag-worden.md).
 
 ## Indirect (embedded) questions
 
@@ -107,7 +107,7 @@ Wrap a question inside another clause to ask more politely. The embedded verb mo
 | **Komt** hij morgen? | Weet je **of** hij morgen **komt**? |
 | **Mag** ik binnenkomen? | Ik wilde vragen **of** ik **binnen mag komen**. |
 
-Common openers: *weten, vragen, zich afvragen, begrijpen, vertellen, zeggen*. When you *report* what someone asked, the tense may shift back too — see [reported speech](/#/grammar?doc=6-structures/05-reported_speech.md).
+Common openers: *weten, vragen, zich afvragen, begrijpen, vertellen, zeggen*. When you *report* what someone asked, the tense may shift back too — see [reported speech](/#/grammar?doc=8-structures/05-reported_speech.md).
 
 ## Practice
 

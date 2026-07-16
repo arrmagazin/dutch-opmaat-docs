@@ -29,7 +29,7 @@ flowchart TD
 
 ### Weak verbs — *ge-* + stem + *-t / -d*
 
-Same **'t kofschip** split as the [imperfectum](/#/grammar?doc=4-verbs/25-imperfectum.md): a stem-final **t, k, f, s, ch, p** → **-t**, otherwise **-d**.
+Same **'t kofschip** split as the [imperfectum](/#/grammar?doc=5-verbs/25-imperfectum.md): a stem-final **t, k, f, s, ch, p** → **-t**, otherwise **-d**.
 
 | Verb | Stem | Participle |
 |------|------|------------|
@@ -43,7 +43,7 @@ Same **'t kofschip** split as the [imperfectum](/#/grammar?doc=4-verbs/25-imperf
 
 ### Strong verbs — *ge-* + stem + *-en*
 
-Strong participles end in **-en**, usually with a changed vowel: *eten → **gegeten***, *lezen → **gelezen***, *drinken → **gedronken***, *schrijven → **geschreven***, *zien → **gezien***. See the [verbs](/#/grammar?doc=4-verbs/19-verbs.md) principal-parts list.
+Strong participles end in **-en**, usually with a changed vowel: *eten → **gegeten***, *lezen → **gelezen***, *drinken → **gedronken***, *schrijven → **geschreven***, *zien → **gezien***. See the [verbs](/#/grammar?doc=5-verbs/19-verbs.md) principal-parts list.
 
 ### No *ge-* with inseparable prefixes
 
@@ -68,7 +68,7 @@ The *ge-* slots **between** the prefix and the stem, written as one word:
 - *opgebeld* = participle of the separable verb *opbellen*: prefix *op-* + *ge-* + stem *bel* + *-d*, sitting at the end of the clause.
 - Word order: *heb* second, *opgebeld* last — everything else fits in between.
 
-> **Perfectum or imperfectum?** Perfectum = single completed events, and the default in speech; imperfectum = narration, description, habits. The discourse rule lives in [past narratives](/#/grammar?doc=5-modes/03-past_narrative.md).
+> **Perfectum or imperfectum?** Perfectum = single completed events, and the default in speech; imperfectum = narration, description, habits. The discourse rule lives in [past narratives](/#/grammar?doc=7-modes/03-past_narrative.md).
 
 ## Oefen — practice
 

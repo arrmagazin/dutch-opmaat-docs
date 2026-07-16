@@ -111,15 +111,15 @@ See [negation](/#/grammar?doc=1-auxilaries/24-negators.md) for the full *niet* v
 
 The clause is the frame; the phrases that fill its slots each have their own page:
 
-- Determiners and quantifiers → [determiners](/#/grammar?doc=2-nominatives/14-determiners.md)
-- Adjectives and the *-e* ending → [adjectives](/#/grammar?doc=3-bijworden/34-adjectives.md)
-- Nouns and *de/het* → [nouns](/#/grammar?doc=2-nominatives/02-nouns.md)
-- Pronouns (subject vs object form) → [pronouns](/#/grammar?doc=2-nominatives/50-pronouns.md)
-- Possession (*mijn boek*, *het boek van Jan*) → [possessives](/#/grammar?doc=2-nominatives/54-possesives.md)
+- Determiners and quantifiers → [determiners](/#/grammar?doc=3-nouns/14-determiners.md)
+- Adjectives and the *-e* ending → [adjectives](/#/grammar?doc=4-bijworden/34-adjectives.md)
+- Nouns and *de/het* → [nouns](/#/grammar?doc=3-nouns/02-nouns.md)
+- Pronouns (subject vs object form) → [pronouns](/#/grammar?doc=2-pronouns/50-pronouns.md)
+- Possession (*mijn boek*, *het boek van Jan*) → [possessives](/#/grammar?doc=2-pronouns/54-possesives.md)
 - Prepositions and postpositions (*de berg op*) → [connectors](/#/grammar?doc=1-auxilaries/00-connectors.md)
-- Replacing a thing after a preposition (*erover*) → [er-word](/#/grammar?doc=1-auxilaries/70-er-word.md)
+- Replacing a thing after a preposition (*erover*) → [er-word](/#/grammar?doc=2-pronouns/70-er-word.md)
 
-To join clauses: [coordinating](/#/grammar?doc=6-structures/02-coordinating.md) and [subordinating](/#/grammar?doc=6-structures/03-subordinating.md) conjunctions. To attach a clause to a noun: [relative clauses](/#/grammar?doc=6-structures/04-relative_clauses.md).
+To join clauses: [coordinating](/#/grammar?doc=8-structures/02-coordinating.md) and [subordinating](/#/grammar?doc=8-structures/03-subordinating.md) conjunctions. To attach a clause to a noun: [relative clauses](/#/grammar?doc=8-structures/04-relative_clauses.md).
 
 ## Common mistakes
 

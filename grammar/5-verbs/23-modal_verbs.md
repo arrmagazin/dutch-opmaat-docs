@@ -13,7 +13,7 @@ Modal verbs (*modale werkwoorden*) express ability, permission, obligation, desi
 | **zullen** | shall, will | future, prediction, offer |
 | **hoeven** | (not) to need to | absence of necessity |
 
-For which modal expresses which *meaning* (and the non-modal alternatives), see [modalities](/#/grammar?doc=5-modes/01-modalities.md).
+For which modal expresses which *meaning* (and the non-modal alternatives), see [modalities](/#/grammar?doc=7-modes/01-modalities.md).
 
 ## Conjugation
 
@@ -46,7 +46,7 @@ flowchart LR
 
 A modal can also stand alone with just an object, no infinitive: *Ik **wil** koffie.* — I want coffee.
 
-*Hoeven* is the odd one out: it takes *te + infinitive* and only ever appears with a negation — see [te + infinitive](/#/grammar?doc=4-verbs/27-te-infinitive.md).
+*Hoeven* is the odd one out: it takes *te + infinitive* and only ever appears with a negation — see [te + infinitive](/#/grammar?doc=5-verbs/27-te-infinitive.md).
 
 ## Perfect tense — double infinitive (IPP)
 
@@ -78,7 +78,7 @@ The participles (*gekund, gemoeten, gemogen, gewild*) surface only when the moda
 
 ## Common mistakes
 
-- ❌ *Ik moet **te** werken.* → ✅ *Ik moet **werken**.* — modals take a bare infinitive, no *te*. See [te + infinitive](/#/grammar?doc=4-verbs/27-te-infinitive.md).
+- ❌ *Ik moet **te** werken.* → ✅ *Ik moet **werken**.* — modals take a bare infinitive, no *te*. See [te + infinitive](/#/grammar?doc=5-verbs/27-te-infinitive.md).
 - ❌ *Ik heb dat niet **gekund** lezen.* → ✅ *Ik heb dat niet **kunnen lezen**.* — use the infinitive (IPP), not the participle, next to a main verb.
 - ❌ *Ik kan **spreken** Frans.* → ✅ *Ik kan Frans **spreken**.* — the infinitive goes to the **end**.
 - ❌ *Ik **ken** zwemmen.* → ✅ *Ik **kan** zwemmen.* — *kunnen* = can / be able to; *kennen* = to know (someone or something).

@@ -35,7 +35,7 @@ Whenever a **vowel-initial ending** attaches — plural *-en*, adjective *-e*, c
 | **Drop one vowel** | long double vowel (*aa, ee, oo, uu*) → single as the syllable opens | *naam → **namen***, *groot → **grote*** |
 | **f → v, s → z** | a final *f / s* voices before the vowel | *huis → **huizen***, *lief → **lieve*** |
 
-> The *f→v / s→z* shift keeps the consonant in a few words: *de elf → de elfen*, *de kaars → de kaarsen*. The same three shifts run through [Plurals](/#/grammar?doc=2-nominatives/62-plurals.md), [Adjectives](/#/grammar?doc=3-bijworden/34-adjectives.md), and [Comparatives](/#/grammar?doc=3-bijworden/36-comparatives.md).
+> The *f→v / s→z* shift keeps the consonant in a few words: *de elf → de elfen*, *de kaars → de kaarsen*. The same three shifts run through [Plurals](/#/grammar?doc=3-nouns/62-plurals.md), [Adjectives](/#/grammar?doc=4-bijworden/34-adjectives.md), and [Comparatives](/#/grammar?doc=4-bijworden/36-comparatives.md).
 
 ## Tweeklanken & digraphs
 

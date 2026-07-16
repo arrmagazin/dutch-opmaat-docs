@@ -10,7 +10,7 @@
 | *Ze zei: "Ik kom morgen."* | *Ze zei **dat** ze de volgende dag **zou komen**.* |
 | *Ik denk: "Het is moeilijk."* | *Ik denk **dat** het moeilijk **is**.* |
 
-> The finite verb (*heeft*, *zou komen*, *is*) sits at the very end — the subordinate-clause rule from [subordinating conjunctions](/#/grammar?doc=6-structures/03-subordinating.md).
+> The finite verb (*heeft*, *zou komen*, *is*) sits at the very end — the subordinate-clause rule from [subordinating conjunctions](/#/grammar?doc=8-structures/03-subordinating.md).
 
 ```mermaid
 flowchart LR

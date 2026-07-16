@@ -125,7 +125,7 @@ Inflectional endings attach to the very edge of a word and signal **grammatical 
 | Voltooid deelwoord (past participle) | **-t** / **-d**, **-en**|
 | Vergelijking (comparative & superlative) | **-er**, **-st** |
 
-Each inflection has its own home page: [noun plurals](/#/grammar?doc=2-nominatives/62-plurals.md), [diminutives](/#/grammar?doc=2-nominatives/60-diminutives.md), [adjective *-e*](/#/grammar?doc=3-bijworden/34-adjectives.md), [comparatives](/#/grammar?doc=3-bijworden/36-comparatives.md), [verb conjugation](/#/grammar?doc=4-verbs/19-verbs.md) and [participles](/#/grammar?doc=4-verbs/24-participles.md).
+Each inflection has its own home page: [noun plurals](/#/grammar?doc=3-nouns/62-plurals.md), [diminutives](/#/grammar?doc=3-nouns/60-diminutives.md), [adjective *-e*](/#/grammar?doc=4-bijworden/34-adjectives.md), [comparatives](/#/grammar?doc=4-bijworden/36-comparatives.md), [verb conjugation](/#/grammar?doc=5-verbs/19-verbs.md) and [participles](/#/grammar?doc=5-verbs/24-participles.md).
 
 ## Common mistakes
 

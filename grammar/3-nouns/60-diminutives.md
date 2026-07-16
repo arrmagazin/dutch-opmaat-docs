@@ -53,8 +53,8 @@ A few nouns lengthen or change their vowel first:
 ## Grammar of diminutives
 
 - Gender is **always het**, whatever the base was: *de man* → *het mannetje*, *de bloem* → *het bloempje*.
-- The plural is **always -s**: *de huisjes*, *de autootjes*, *de mannetjes*. See [Plurals](/#/grammar?doc=2-nominatives/62-plurals.md).
-- Because it's a het-word, an attributive adjective follows the het-word rule: *een **klein** huisje* (no *-e*), *het **kleine** huisje* (*-e*). See [Adjectives](/#/grammar?doc=3-bijworden/34-adjectives.md).
+- The plural is **always -s**: *de huisjes*, *de autootjes*, *de mannetjes*. See [Plurals](/#/grammar?doc=3-nouns/62-plurals.md).
+- Because it's a het-word, an attributive adjective follows the het-word rule: *een **klein** huisje* (no *-e*), *het **kleine** huisje* (*-e*). See [Adjectives](/#/grammar?doc=4-bijworden/34-adjectives.md).
 
 ## Try it
 

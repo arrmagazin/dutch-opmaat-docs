@@ -7,7 +7,7 @@ Dutch has two participles
 
 Beyond their verbal use in tenses, both serve as **adjectives** and can be **nominalized**. The infinitive too can be turned into a neuter noun.
 
-For the verbal use of participles (perfect tenses, passive), see [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md) and [passive](/#/grammar?doc=4-verbs/29-passive.md).
+For the verbal use of participles (perfect tenses, passive), see [perfectum](/#/grammar?doc=5-verbs/26-perfectum.md) and [passive](/#/grammar?doc=5-verbs/29-passive.md).
 
 ## Past participle as adjective
 
@@ -23,7 +23,7 @@ A past participle (*gekookt*, *gebroken*, *vergeten*) can sit before a noun as a
 | *de gesloten deur* | the closed door |
 | *vergeten woorden* | forgotten words |
 
-> The -e rule is the same as for any adjective: bare form after *een + het*-word (*een gekookt ei*), -e everywhere else (*de gekookte eieren*, *het gekookte ei*). See [adjectives](/#/grammar?doc=3-bijworden/34-adjectives.md).
+> The -e rule is the same as for any adjective: bare form after *een + het*-word (*een gekookt ei*), -e everywhere else (*de gekookte eieren*, *het gekookte ei*). See [adjectives](/#/grammar?doc=4-bijworden/34-adjectives.md).
 
 ```mermaid
 flowchart TD

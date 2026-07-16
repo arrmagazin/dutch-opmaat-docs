@@ -61,7 +61,7 @@ flowchart TD
 | Promise, prediction, formal | *zullen* + inf. | *Ik **zal** het niet vergeten.* |
 | Suggestion ("shall we…?") | *zullen* + inf. | ***Zullen** we beginnen?* |
 
-In casual speech, **present + time word** or **gaan + inf.** dominate; *zullen* sounds slightly bookish unless you're proposing or promising. For the fuller map of intention, prediction, and other stances, see [the modalities](/#/grammar?doc=5-modes/01-modalities.md).
+In casual speech, **present + time word** or **gaan + inf.** dominate; *zullen* sounds slightly bookish unless you're proposing or promising. For the fuller map of intention, prediction, and other stances, see [the modalities](/#/grammar?doc=7-modes/01-modalities.md).
 
 ## Stating plans explicitly
 

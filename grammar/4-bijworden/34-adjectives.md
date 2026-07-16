@@ -44,7 +44,7 @@ Before a noun, **add -e** — for every de-word, every plural, and every definit
 
 > **Mnemonic:** *een + het-word + singular* → bare adjective. Change any one of those three and the **-e** comes back.
 
-Not sure whether a noun is *de* or *het*? That gender is the trigger for this whole rule — see [Determiners](/#/grammar?doc=2-nominatives/14-determiners.md).
+Not sure whether a noun is *de* or *het*? That gender is the trigger for this whole rule — see [Determiners](/#/grammar?doc=3-nouns/14-determiners.md).
 
 ## Spelling when you add -e
 

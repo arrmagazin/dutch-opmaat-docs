@@ -2,7 +2,7 @@
 
 Conditionals say that one thing depends on another. Dutch uses **als** ("if") for the condition and often **dan** ("then") to open the result clause. There are three levels — from real and likely, through hypothetical, to impossible (past).
 
-> **Word order rule:** *als* is a [subordinating conjunction](/#/grammar?doc=6-structures/03-subordinating.md), so the verb in the *als*-clause goes to the **end**. When the *als*-clause comes first, it fills slot 1 of the main clause, so the result clause starts with its **verb** (or with **dan** + verb).
+> **Word order rule:** *als* is a [subordinating conjunction](/#/grammar?doc=8-structures/03-subordinating.md), so the verb in the *als*-clause goes to the **end**. When the *als*-clause comes first, it fills slot 1 of the main clause, so the result clause starts with its **verb** (or with **dan** + verb).
 
 Two ways to state the condition, one inverted result:
 

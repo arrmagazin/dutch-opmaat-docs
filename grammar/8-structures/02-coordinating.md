@@ -38,7 +38,7 @@ Both translate English "because", but they belong to different families and beha
 | **want** | coordinator | main-clause (V2) | *Ik blijf thuis, **want** ik **ben** moe.* |
 | **omdat** | subordinator | verb-final | *Ik blijf thuis **omdat** ik moe **ben**.* |
 
-> Choose **want** to tack a justification onto a finished thought; choose **omdat** to fold the cause into a single thought. Native speakers feel **omdat** as tighter and more analytical. Full verb-final treatment: [subordinating conjunctions](/#/grammar?doc=6-structures/03-subordinating.md).
+> Choose **want** to tack a justification onto a finished thought; choose **omdat** to fold the cause into a single thought. Native speakers feel **omdat** as tighter and more analytical. Full verb-final treatment: [subordinating conjunctions](/#/grammar?doc=8-structures/03-subordinating.md).
 
 ## The two faces of of
 

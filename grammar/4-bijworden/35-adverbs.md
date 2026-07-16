@@ -29,7 +29,7 @@ Adverbs compare exactly like adjectives — *-er* / *het -st* — and share the 
 - *Zij loopt **sneller** dan ik, maar hij loopt **het snelst**.*
 - *Ik drink **liever** thee.* — I'd rather drink tea.
 
-For the full paradigm and the *dan* vs *als* trap, see [Comparatives](/#/grammar?doc=3-bijworden/36-comparatives.md).
+For the full paradigm and the *dan* vs *als* trap, see [Comparatives](/#/grammar?doc=4-bijworden/36-comparatives.md).
 
 ## Word order: time – manner – place
 
@@ -41,7 +41,7 @@ Move one adverb to the front for emphasis; V2 then pushes the subject after the 
 
 - *Morgen **ga ik** met de trein naar Amsterdam.* — fronted time forces inversion.
 
-For the full slot model, see [Sentence structure](/#/grammar?doc=6-structures/00-sentence.md).
+For the full slot model, see [Sentence structure](/#/grammar?doc=8-structures/00-sentence.md).
 
 ## Degree, frequency and particles
 
@@ -54,7 +54,7 @@ These adverb families have their own pages — go there rather than guess:
 
 When a preposition points at a **thing** (not a person), Dutch fuses it with *er / daar / waar / hier*: *eraan, daarover, waarop, hierin*. The pieces may split: *Ik wacht **erop*** = *Daar wacht ik **op***.
 
-> *met → mee* and *tot → toe* in these combos: *ermee, daarmee, ertoe*. Full treatment: [The word er](/#/grammar?doc=1-auxilaries/70-er-word.md).
+> *met → mee* and *tot → toe* in these combos: *ermee, daarmee, ertoe*. Full treatment: [The word er](/#/grammar?doc=2-pronouns/70-er-word.md).
 
 ## Common mistakes
 

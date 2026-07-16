@@ -36,7 +36,7 @@ Use **-s** instead of -en when the singular ends in any of these:
 
 - An unstressed **-el, -em, -en, -er, -aar**: *de lepel → de lepels*, *de bezem → de bezems*, *de jongen → de jongens*, *de bakker → de bakkers*, *de leraar → de leraars* (also *leraren*).
 - A **vowel** (then add apostrophe + s to keep the vowel long): *de auto → de auto's*, *de foto → de foto's*, *de paraplu → de paraplu's*, *de oma → de oma's*.
-- A **diminutive** (always -s, see [Diminutives](/#/grammar?doc=2-nominatives/60-diminutives.md)): *het meisje → de meisjes*, *het huisje → de huisjes*.
+- A **diminutive** (always -s, see [Diminutives](/#/grammar?doc=3-nouns/60-diminutives.md)): *het meisje → de meisjes*, *het huisje → de huisjes*.
 - Most **loan words** from English/French: *de manager → de managers*, *de chef → de chefs*, *het restaurant → de restaurants*.
 
 > Unstressed *-ie* takes plain *-s* (no apostrophe): *de tralie → de tralies*. Stressed *-ee/-ie* behave differently — they take *-ën* (see below).

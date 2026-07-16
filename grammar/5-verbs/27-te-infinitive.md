@@ -83,7 +83,7 @@ flowchart TD
 | **leren** | *Ik leer hem **zwemmen**.* (also with *te*) |
 | **helpen** | *Ik help je **koken**.* (also with *te*) |
 
-> **Modal verbs** stack in long verb piles without *te*: *Ik **moet kunnen werken**.* — I must be able to work. See [modal verbs](/#/grammar?doc=4-verbs/23-modal_verbs.md).
+> **Modal verbs** stack in long verb piles without *te*: *Ik **moet kunnen werken**.* — I must be able to work. See [modal verbs](/#/grammar?doc=5-verbs/23-modal_verbs.md).
 
 ### The *hoeven* exception
 

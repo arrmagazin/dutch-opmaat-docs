@@ -10,7 +10,7 @@ flowchart TD
   A -->|"no, narration/background/habit"| C["Imperfectum — Ik werkte"]
 ```
 
-> This page is about *when to use which* tense. For how to *form* them — endings, participles, *hebben* vs. *zijn* — see [imperfectum](/#/grammar?doc=4-verbs/25-imperfectum.md) and [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md).
+> This page is about *when to use which* tense. For how to *form* them — endings, participles, *hebben* vs. *zijn* — see [imperfectum](/#/grammar?doc=5-verbs/25-imperfectum.md) and [perfectum](/#/grammar?doc=5-verbs/26-perfectum.md).
 
 | Use | Tense | Example |
 |-----|-------|---------|
@@ -35,7 +35,7 @@ This is the single biggest source of mistakes in Dutch narration. English "when"
 
 > **Memorise:** *toen* = once, in the past. *als* = whenever / if. *wanneer* = the question word "when?".
 
-All three are subordinators, so they send the verb to the **end** of their clause (see [subordinating conjunctions](/#/grammar?doc=6-structures/03-subordinating.md)).
+All three are subordinators, so they send the verb to the **end** of their clause (see [subordinating conjunctions](/#/grammar?doc=8-structures/03-subordinating.md)).
 
 ## Connecting clauses in time
 
@@ -90,6 +90,6 @@ Watch:
 
 - ❌ *Als ik klein was, brak ik mijn arm* → ✅ ***Toen** ik klein was, brak ik mijn arm* — a single past event takes *toen*, not *als*.
 - ❌ *Toen hij **kwam aan*** → ✅ *Toen hij **aankwam*** — subordinate clauses are verb-final, so the separable prefix rejoins the verb.
-- ❌ *Ik heb naar huis **gegaan*** → ✅ *Ik **ben** naar huis gegaan* — verbs of motion take *zijn* (see [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md)).
+- ❌ *Ik heb naar huis **gegaan*** → ✅ *Ik **ben** naar huis gegaan* — verbs of motion take *zijn* (see [perfectum](/#/grammar?doc=5-verbs/26-perfectum.md)).
 - Mixing perfectum and imperfectum at random → pick one tense as the spine of your story.
 - ❌ *Toen ik aankwam, **heeft** hij al gegeten* (for "had eaten") → ✅ *… **had** hij al gegeten* — "had done" is the **pluperfect**, not the perfectum.

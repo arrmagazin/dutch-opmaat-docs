@@ -1,6 +1,6 @@
 # Determiners — marking the noun  *(A1)*
 
-A determiner sits in front of a noun and pins down *which* or *how much*: articles (*de/het/een*), demonstratives (*deze/die/dit/dat*), and quantifiers (*elke, veel, geen*). The articles are covered under [Nouns](/#/grammar?doc=2-nominatives/02-nouns.md); this page handles the rest. Most determiners follow the same de/het split as the article, so knowing a noun's gender pays off again here.
+A determiner sits in front of a noun and pins down *which* or *how much*: articles (*de/het/een*), demonstratives (*deze/die/dit/dat*), and quantifiers (*elke, veel, geen*). The articles are covered under [Nouns](/#/grammar?doc=3-nouns/02-nouns.md); this page handles the rest. Most determiners follow the same de/het split as the article, so knowing a noun's gender pays off again here.
 
 ## Demonstrative determiners
 
@@ -103,7 +103,7 @@ A few totality words sit **before** another determiner (an article or a possessi
 
 ## Determiners and adjective endings
 
-After most determiners the adjective takes **-e** (*de **grote** man*, *deze **grote** man*). The exception is a singular het-word after *een, geen, elk, ieder, zo'n* or no article: *een **groot** huis*. See [Adjectives](/#/grammar?doc=3-bijworden/34-adjectives.md).
+After most determiners the adjective takes **-e** (*de **grote** man*, *deze **grote** man*). The exception is a singular het-word after *een, geen, elk, ieder, zo'n* or no article: *een **groot** huis*. See [Adjectives](/#/grammar?doc=4-bijworden/34-adjectives.md).
 
 ## Common mistakes
 

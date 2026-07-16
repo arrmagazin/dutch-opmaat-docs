@@ -40,7 +40,7 @@ See [spelling](/#/grammar?doc=0-elements/20-spelling.md) for the vowel-length lo
 
 ## Strong (irregular) verbs
 
-Strong verbs **change the stem vowel** in the past and end their participle in **-en**. There is no rule — learn the three principal parts (infinitive, past, participle) as a unit. This table is the reference the [imperfectum](/#/grammar?doc=4-verbs/25-imperfectum.md) and [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md) pages point back to.
+Strong verbs **change the stem vowel** in the past and end their participle in **-en**. There is no rule — learn the three principal parts (infinitive, past, participle) as a unit. This table is the reference the [imperfectum](/#/grammar?doc=5-verbs/25-imperfectum.md) and [perfectum](/#/grammar?doc=5-verbs/26-perfectum.md) pages point back to.
 
 | Infinitive | English | Past sg | Past pl | Participle | Perfect aux |
 |------------|---------|---------|---------|------------|-------------|
@@ -62,39 +62,18 @@ Strong verbs **change the stem vowel** in the past and end their participle in *
 - *Wij **dronken** koffie.* — We drank coffee.
 - *Hij **is** naar huis **gelopen**.* — He walked home.
 
-> The **perfect aux** column shows which helper the [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md) uses. *Lopen* and *rijden* take *zijn* only when a direction is given (*Ik ben naar huis gelopen*), otherwise *hebben* (*Ik heb een uur gelopen*).
+> The **perfect aux** column shows which helper the [perfectum](/#/grammar?doc=5-verbs/26-perfectum.md) uses. *Lopen* and *rijden* take *zijn* only when a direction is given (*Ik ben naar huis gelopen*), otherwise *hebben* (*Ik heb een uur gelopen*).
 
 ## Verb + fixed preposition
 
-Many Dutch verbs demand a specific preposition that English does not share. Learn them as units.
-
-| Verb + prep | English |
-|-------------|---------|
-| **wachten op** | to wait for |
-| **denken aan** | to think about |
-| **luisteren naar** | to listen to |
-| **kijken naar** | to look at / watch |
-| **vragen om / naar** | to ask for / about |
-| **praten over** | to talk about |
-| **houden van** | to love / like |
-| **geloven in** | to believe in |
-| **rekenen op** | to count on |
-| **lijken op** | to resemble |
-| **bestaan uit** | to consist of |
-| **lijden aan** | to suffer from |
-| **trots zijn op** | to be proud of |
-| **bang zijn voor** | to be afraid of |
-| **klaar zijn met** | to be done with |
-
-- *Ik **wacht op** de bus.* — I'm waiting for the bus.
-- *Ze **houdt van** haar werk.* — She loves her job.
+Many Dutch verbs demand a specific preposition that English does not share (*wachten **op***, *denken **aan***, *houden **van*** …). Learn them as units — the full list with examples lives on its own page: [Verbs with fixed prepositions](/#/grammar?doc=5-verbs/22-verb-with-prepositions.md).
 
 ## Separable verbs (*scheidbare werkwoorden*)
 
 Some verbs have a stressed prefix that **detaches** in a main clause and moves to the end: *opstaan → Ik **sta** om zeven uur **op**.* The prefix rejoins the verb in a subordinate clause (*…dat ik **opsta***) and wraps around *te* and *ge-*:
 
-- around *te*: *Ik probeer **op te staan*** — see [te + infinitive](/#/grammar?doc=4-verbs/27-te-infinitive.md).
-- in the participle: *opbellen → **opgebeld*** — see [perfectum](/#/grammar?doc=4-verbs/26-perfectum.md).
+- around *te*: *Ik probeer **op te staan*** — see [te + infinitive](/#/grammar?doc=5-verbs/27-te-infinitive.md).
+- in the participle: *opbellen → **opgebeld*** — see [perfectum](/#/grammar?doc=5-verbs/26-perfectum.md).
 
 Inseparable prefixes (*be-, ge-, ver-, ont-, her-, er-, mis-*) never detach. Full prefix inventory: [morfologie](/#/grammar?doc=0-elements/06-morfologie.md).
 

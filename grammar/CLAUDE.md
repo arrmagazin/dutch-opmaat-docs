@@ -88,7 +88,7 @@ Some pages carry tokens the app resolves at render time — leave them intact:
 Use the opmaat docs URL form so links work inside the app:
 
 ```markdown
-[ER-word](/#/grammar?doc=1-auxilaries/70-er-word.md)
+[ER-word](/#/grammar?doc=2-pronouns/70-er-word.md)
 ```
 
 The path is relative to the `grammar/` root, includes the leading number, and ends in `.md`. Always verify the target file exists before saving.
