@@ -1,0 +1,794 @@
+{
+  "topics": [
+    {
+      "id": "operation",
+      "domain": "agentic",
+      "count": 91
+    },
+    {
+      "id": "control",
+      "domain": "agentic",
+      "count": 29
+    },
+    {
+      "id": "effort",
+      "domain": "agentic",
+      "count": 22
+    },
+    {
+      "id": "result",
+      "domain": "agentic",
+      "count": 15
+    },
+    {
+      "id": "intent",
+      "domain": "agentic",
+      "count": 12
+    },
+    {
+      "id": "solution",
+      "domain": "agentic",
+      "count": 12
+    },
+    {
+      "id": "pragmatic",
+      "domain": "agentic",
+      "count": 11
+    },
+    {
+      "id": "assess",
+      "domain": "agentic",
+      "count": 8
+    },
+    {
+      "id": "manipulate",
+      "domain": "agentic",
+      "count": 8
+    },
+    {
+      "id": "acceptance",
+      "domain": "agentic",
+      "count": 7
+    },
+    {
+      "id": "prevention",
+      "domain": "agentic",
+      "count": 5
+    },
+    {
+      "id": "must",
+      "domain": "agentic",
+      "count": 4
+    },
+    {
+      "id": "tool",
+      "domain": "artifacts",
+      "count": 41
+    },
+    {
+      "id": "clothing",
+      "domain": "artifacts",
+      "count": 23
+    },
+    {
+      "id": "utensils",
+      "domain": "artifacts",
+      "count": 21
+    },
+    {
+      "id": "appliances",
+      "domain": "artifacts",
+      "count": 18
+    },
+    {
+      "id": "buildparts",
+      "domain": "artifacts",
+      "count": 17
+    },
+    {
+      "id": "transport",
+      "domain": "artifacts",
+      "count": 17
+    },
+    {
+      "id": "accessories",
+      "domain": "artifacts",
+      "count": 16
+    },
+    {
+      "id": "building",
+      "domain": "artifacts",
+      "count": 16
+    },
+    {
+      "id": "furniture",
+      "domain": "artifacts",
+      "count": 16
+    },
+    {
+      "id": "buildrooms",
+      "domain": "artifacts",
+      "count": 13
+    },
+    {
+      "id": "health",
+      "domain": "body",
+      "count": 40
+    },
+    {
+      "id": "bodypart",
+      "domain": "body",
+      "count": 27
+    },
+    {
+      "id": "headparts",
+      "domain": "body",
+      "count": 15
+    },
+    {
+      "id": "behave",
+      "domain": "body",
+      "count": 14
+    },
+    {
+      "id": "gesture",
+      "domain": "body",
+      "count": 14
+    },
+    {
+      "id": "limbs",
+      "domain": "body",
+      "count": 13
+    },
+    {
+      "id": "live",
+      "domain": "body",
+      "count": 10
+    },
+    {
+      "id": "mimic",
+      "domain": "body",
+      "count": 8
+    },
+    {
+      "id": "body",
+      "domain": "body",
+      "count": 7
+    },
+    {
+      "id": "eating",
+      "domain": "body",
+      "count": 3
+    },
+    {
+      "id": "voice",
+      "domain": "body",
+      "count": 3
+    },
+    {
+      "id": "society",
+      "domain": "civil",
+      "count": 22
+    },
+    {
+      "id": "business",
+      "domain": "civil",
+      "count": 11
+    },
+    {
+      "id": "justice",
+      "domain": "civil",
+      "count": 11
+    },
+    {
+      "id": "leisure",
+      "domain": "civil",
+      "count": 9
+    },
+    {
+      "id": "service",
+      "domain": "civil",
+      "count": 9
+    },
+    {
+      "id": "clash",
+      "domain": "civil",
+      "count": 7
+    },
+    {
+      "id": "deal",
+      "domain": "civil",
+      "count": 7
+    },
+    {
+      "id": "travel",
+      "domain": "civil",
+      "count": 6
+    },
+    {
+      "id": "cook",
+      "domain": "civil",
+      "count": 5
+    },
+    {
+      "id": "education",
+      "domain": "civil",
+      "count": 4
+    },
+    {
+      "id": "overall",
+      "domain": "core",
+      "count": 45
+    },
+    {
+      "id": "flow",
+      "domain": "core",
+      "count": 39
+    },
+    {
+      "id": "influence",
+      "domain": "core",
+      "count": 23
+    },
+    {
+      "id": "posess",
+      "domain": "core",
+      "count": 23
+    },
+    {
+      "id": "thing",
+      "domain": "core",
+      "count": 19
+    },
+    {
+      "id": "pattern",
+      "domain": "core",
+      "count": 18
+    },
+    {
+      "id": "compare",
+      "domain": "core",
+      "count": 14
+    },
+    {
+      "id": "structure",
+      "domain": "core",
+      "count": 14
+    },
+    {
+      "id": "limit",
+      "domain": "core",
+      "count": 12
+    },
+    {
+      "id": "group",
+      "domain": "core",
+      "count": 10
+    },
+    {
+      "id": "binding",
+      "domain": "core",
+      "count": 9
+    },
+    {
+      "id": "produce",
+      "domain": "core",
+      "count": 8
+    },
+    {
+      "id": "content",
+      "domain": "core",
+      "count": 7
+    },
+    {
+      "id": "arts",
+      "domain": "culture",
+      "count": 27
+    },
+    {
+      "id": "customs",
+      "domain": "culture",
+      "count": 8
+    },
+    {
+      "id": "emotion",
+      "domain": "experience",
+      "count": 49
+    },
+    {
+      "id": "feelings",
+      "domain": "experience",
+      "count": 44
+    },
+    {
+      "id": "visual",
+      "domain": "experience",
+      "count": 32
+    },
+    {
+      "id": "taste",
+      "domain": "experience",
+      "count": 15
+    },
+    {
+      "id": "pleasure",
+      "domain": "experience",
+      "count": 11
+    },
+    {
+      "id": "perceive",
+      "domain": "experience",
+      "count": 10
+    },
+    {
+      "id": "audio",
+      "domain": "experience",
+      "count": 7
+    },
+    {
+      "id": "scent",
+      "domain": "experience",
+      "count": 3
+    },
+    {
+      "id": "ingredients",
+      "domain": "food",
+      "count": 35
+    },
+    {
+      "id": "dishes",
+      "domain": "food",
+      "count": 27
+    },
+    {
+      "id": "drinks",
+      "domain": "food",
+      "count": 9
+    },
+    {
+      "id": "knowledge",
+      "domain": "knowledge",
+      "count": 39
+    },
+    {
+      "id": "acquire",
+      "domain": "knowledge",
+      "count": 13
+    },
+    {
+      "id": "script",
+      "domain": "knowledge",
+      "count": 11
+    },
+    {
+      "id": "communicate",
+      "domain": "language",
+      "count": 60
+    },
+    {
+      "id": "relation",
+      "domain": "language",
+      "count": 7
+    },
+    {
+      "id": "grade",
+      "domain": "language",
+      "count": 5
+    },
+    {
+      "id": "language",
+      "domain": "language",
+      "count": 5
+    },
+    {
+      "id": "multitude",
+      "domain": "language",
+      "count": 5
+    },
+    {
+      "id": "reason",
+      "domain": "language",
+      "count": 5
+    },
+    {
+      "id": "species",
+      "domain": "life",
+      "count": 14
+    },
+    {
+      "id": "bird",
+      "domain": "life",
+      "count": 9
+    },
+    {
+      "id": "tamed",
+      "domain": "life",
+      "count": 8
+    },
+    {
+      "id": "animals",
+      "domain": "life",
+      "count": 7
+    },
+    {
+      "id": "insect",
+      "domain": "life",
+      "count": 5
+    },
+    {
+      "id": "tree",
+      "domain": "life",
+      "count": 4
+    },
+    {
+      "id": "plant",
+      "domain": "life",
+      "count": 3
+    },
+    {
+      "id": "rodents",
+      "domain": "life",
+      "count": 3
+    },
+    {
+      "id": "vegetables",
+      "domain": "life",
+      "count": 3
+    },
+    {
+      "id": "attitude",
+      "domain": "mental",
+      "count": 51
+    },
+    {
+      "id": "mental",
+      "domain": "mental",
+      "count": 31
+    },
+    {
+      "id": "intellect",
+      "domain": "mental",
+      "count": 20
+    },
+    {
+      "id": "will",
+      "domain": "mental",
+      "count": 19
+    },
+    {
+      "id": "reasoning",
+      "domain": "mental",
+      "count": 11
+    },
+    {
+      "id": "understanding",
+      "domain": "mental",
+      "count": 9
+    },
+    {
+      "id": "certainty",
+      "domain": "mental",
+      "count": 8
+    },
+    {
+      "id": "evaluation",
+      "domain": "mental",
+      "count": 8
+    },
+    {
+      "id": "learn",
+      "domain": "mental",
+      "count": 7
+    },
+    {
+      "id": "fear",
+      "domain": "mental",
+      "count": 4
+    },
+    {
+      "id": "memory",
+      "domain": "mental",
+      "count": 3
+    },
+    {
+      "id": "landscape",
+      "domain": "nature",
+      "count": 20
+    },
+    {
+      "id": "weather",
+      "domain": "nature",
+      "count": 20
+    },
+    {
+      "id": "color",
+      "domain": "nature",
+      "count": 11
+    },
+    {
+      "id": "seescape",
+      "domain": "nature",
+      "count": 10
+    },
+    {
+      "id": "substance",
+      "domain": "nature",
+      "count": 8
+    },
+    {
+      "id": "stuff",
+      "domain": "nature",
+      "count": 7
+    },
+    {
+      "id": "materials",
+      "domain": "nature",
+      "count": 5
+    },
+    {
+      "id": "celestials",
+      "domain": "nature",
+      "count": 4
+    },
+    {
+      "id": "daypart",
+      "domain": "nature",
+      "count": 4
+    },
+    {
+      "id": "metal",
+      "domain": "nature",
+      "count": 4
+    },
+    {
+      "id": "pure",
+      "domain": "nature",
+      "count": 4
+    },
+    {
+      "id": "season",
+      "domain": "nature",
+      "count": 4
+    },
+    {
+      "id": "temperature",
+      "domain": "nature",
+      "count": 4
+    },
+    {
+      "id": "trade",
+      "domain": "resource",
+      "count": 36
+    },
+    {
+      "id": "measure",
+      "domain": "resource",
+      "count": 11
+    },
+    {
+      "id": "possess",
+      "domain": "resource",
+      "count": 7
+    },
+    {
+      "id": "consume",
+      "domain": "resource",
+      "count": 6
+    },
+    {
+      "id": "getting",
+      "domain": "resource",
+      "count": 6
+    },
+    {
+      "id": "exchange",
+      "domain": "resource",
+      "count": 3
+    },
+    {
+      "id": "common",
+      "domain": "socium",
+      "count": 64
+    },
+    {
+      "id": "family",
+      "domain": "socium",
+      "count": 35
+    },
+    {
+      "id": "virtue",
+      "domain": "socium",
+      "count": 24
+    },
+    {
+      "id": "cooperate",
+      "domain": "socium",
+      "count": 18
+    },
+    {
+      "id": "negotiate",
+      "domain": "socium",
+      "count": 17
+    },
+    {
+      "id": "talk",
+      "domain": "socium",
+      "count": 12
+    },
+    {
+      "id": "care",
+      "domain": "socium",
+      "count": 8
+    },
+    {
+      "id": "conflict",
+      "domain": "socium",
+      "count": 7
+    },
+    {
+      "id": "game",
+      "domain": "socium",
+      "count": 7
+    },
+    {
+      "id": "promotion",
+      "domain": "socium",
+      "count": 6
+    },
+    {
+      "id": "convince",
+      "domain": "socium",
+      "count": 5
+    },
+    {
+      "id": "recognition",
+      "domain": "socium",
+      "count": 4
+    },
+    {
+      "id": "move",
+      "domain": "spatial",
+      "count": 35
+    },
+    {
+      "id": "place",
+      "domain": "spatial",
+      "count": 26
+    },
+    {
+      "id": "transform",
+      "domain": "spatial",
+      "count": 18
+    },
+    {
+      "id": "spatial",
+      "domain": "spatial",
+      "count": 16
+    },
+    {
+      "id": "extent",
+      "domain": "spatial",
+      "count": 15
+    },
+    {
+      "id": "transfer",
+      "domain": "spatial",
+      "count": 13
+    },
+    {
+      "id": "position",
+      "domain": "spatial",
+      "count": 12
+    },
+    {
+      "id": "surface",
+      "domain": "spatial",
+      "count": 8
+    },
+    {
+      "id": "direction",
+      "domain": "spatial",
+      "count": 7
+    },
+    {
+      "id": "distance",
+      "domain": "spatial",
+      "count": 7
+    },
+    {
+      "id": "angle",
+      "domain": "spatial",
+      "count": 4
+    },
+    {
+      "id": "impulse",
+      "domain": "spatial",
+      "count": 4
+    },
+    {
+      "id": "up-down",
+      "domain": "spatial",
+      "count": 4
+    },
+    {
+      "id": "linear",
+      "domain": "spatial",
+      "count": 3
+    },
+    {
+      "id": "timeline",
+      "domain": "system",
+      "count": 44
+    },
+    {
+      "id": "potention",
+      "domain": "system",
+      "count": 18
+    },
+    {
+      "id": "systain",
+      "domain": "system",
+      "count": 13
+    },
+    {
+      "id": "order",
+      "domain": "system",
+      "count": 12
+    },
+    {
+      "id": "power",
+      "domain": "system",
+      "count": 8
+    },
+    {
+      "id": "timeunit",
+      "domain": "system",
+      "count": 8
+    },
+    {
+      "id": "occurence",
+      "domain": "system",
+      "count": 7
+    },
+    {
+      "id": "progress",
+      "domain": "system",
+      "count": 7
+    },
+    {
+      "id": "repeat",
+      "domain": "system",
+      "count": 7
+    },
+    {
+      "id": "style",
+      "domain": "system",
+      "count": 7
+    },
+    {
+      "id": "duration",
+      "domain": "system",
+      "count": 6
+    },
+    {
+      "id": "defect",
+      "domain": "system",
+      "count": 5
+    },
+    {
+      "id": "change",
+      "domain": "system",
+      "count": 3
+    },
+    {
+      "id": "disruption",
+      "domain": "system",
+      "count": 3
+    },
+    {
+      "id": "path",
+      "domain": "system",
+      "count": 3
+    }
+  ]
+}

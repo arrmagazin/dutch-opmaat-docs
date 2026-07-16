@@ -1,6 +1,6 @@
 # Connectors  
 
-## Conjunctions
+## Logical Conjunctions
 
 Coordinating conjunctions join *same rank* concepts into logical whole (V2 - verb second order).
 
@@ -8,30 +8,24 @@ There are just five — memorize them as a set.
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| **en** | and | Ik werk **en** ik studeer. |
-| **maar** | but | Ik wil komen, **maar** ik heb geen tijd. |
-| **of** | or | Wil je koffie **of** thee? |
-| **want** | justified by | Ik blijf thuis, **want** ik **ben** moe. |
-| **dus** | so / therefore | Het regent, **dus** ik neem een paraplu. |
+| **en** | and [component]| Ik werk **en** ik studeer. |
+| **maar** [contrast]| but | Ik wil komen, **maar** ik heb geen tijd. |
+| **of** | or [alternative]| Wil je koffie **of** thee? |
+| **want** | justified by[reason] | Ik blijf thuis, **want** ik **ben** moe. |
+| **dus** | so / therefore [consequence] | Het regent, **dus** ik neem een paraplu. |
 
 Subordinating conjunctions introduce a **dependent** clause, and the conjugated verb moves to the **end**.
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| **of** | whether | Ik weet niet **of** hij **komt**. |
-| **omdat** | because | Ik blijf thuis **omdat** ik ziek **ben**. |
-| **dat** | that | Hij zegt **dat** hij morgen **komt**. |
-| **als**  | if / when | **Als** het regent, blijf ik thuis. |
-| **indien** | formal if / when | Neem contact op **indien** nodig. |
-| **toen** | when (past) | **Toen** ik klein **was**, woonde ik hier. |
-| **terwijl** | while | Hij las **terwijl** ik **kookte**. |
-| **hoewel** | although | **Hoewel** het regende, gingen we toch. |
-| **voordat** | before | Bel me **voordat** je **vertrekt**. |
-| **nadat** | after | **Nadat** we **gegeten hadden**, gingen we wandelen. |
-| **zodat** | so that | Spreek harder **zodat** ik je **versta**. |
-| **tenzij** | unless | Ik kom **tenzij** het **regent**. |
-| **zodra** | as soon as | Bel me **zodra** je **aankomt**. |
-| **totdat** | until | Wacht **totdat** ik **kom**. |
+| **of** | whether [option] | Ik weet niet **of** hij **komt**. |
+| **omdat** | because [reason] | Ik blijf thuis **omdat** ik ziek **ben**. |
+| **dat** | that [clause]| Hij zegt **dat** hij morgen **komt**. |
+| **als** | if / when [condition] | **Als** het regent, blijf ik thuis. |
+| **indien** | formal if / when [condition] | Neem contact op **indien** nodig. |
+| **hoewel**  | although [obstackle] | **Hoewel** het regende, gingen we toch. |
+| **zodat** | so that [purpose] | Spreek harder **zodat** ik je **versta**. |
+| **tenzij** | unless [not-condition] | Ik kom **tenzij** het **regent**. |
 
 > **indien** is a formal, written variant of **als** ("if"). In everyday speech use **als**.
 >
@@ -47,13 +41,12 @@ A few connectors come in **two parts** that frame the sentence together.
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| **niet alleen … maar ook** | not only … but also | Hij spreekt **niet alleen** Nederlands, **maar ook** Duits. |
-| **zo … dat** | so … that (result) | Het was **zo** koud **dat** ik bibberde. |
-| **zo … als** | as … as | Hij is **zo** groot **als** ik. |
-| **even … als** | (just) as … as | Zij loopt **even** snel **als** hij. |
-| **net zo … als** | just as … as | Dit is **net zo** duur **als** dat. |
-| **zoals** | like / such as | Talen **zoals** Nederlands en Duits. |
-| **als** | as (in the role of) | Hij werkt **als** docent. |
+| **zo … dat** | so [trigger] that [result] | Het was **zo** koud **dat** ik bibberde. |
+| **zo … als** | as [quality] as [etalon]| Hij is **zo** groot **als** ik. |
+| **even … als** | (just) as [quality] as [etalon]| Zij loopt **even** snel **als** hij. |
+| **net zo … als** | just as [quality] as [etalon] | Dit is **net zo** duur **als** dat. |
+| **zoals** | like / such as [etalon] | Talen **zoals** Nederlands en Duits. |
+| **als** | as [role] | Hij werkt **als** docent. |
 
 > **zo … dat** (result) is not **zodat** (purpose): *Het was **zo** koud **dat** ik bibberde* (result) vs *Spreek harder **zodat** ik je versta* (purpose).
 >
@@ -65,12 +58,12 @@ These connect sentences but are **adverbs**: put one in front and the verb still
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| **daarom** | that's why | Hij was moe; **daarom ging hij** slapen. |
-| **daarnaast** | besides | **Daarnaast** is er nog een probleem. |
-| **bovendien** | moreover | Het is duur; **bovendien is** het ver. |
-| **echter** | however | Hij kwam **echter** te laat. |
-| **toch** | still / anyway | Het regende; **toch** gingen we wandelen. |
-| **anders** | otherwise | Schiet op, **anders**  missen we de trein. |
+| **daarom** | that's why [reason] | Hij was moe; **daarom ging hij** slapen. |
+| **daarnaast** | besides [side-effect]| **Daarnaast** is er nog een probleem. |
+| **bovendien** | moreover [appendix] | Het is duur; **bovendien is** het ver. |
+| **echter** | however [obstacle]| Hij kwam **echter** te laat. |
+| **toch** | despite / anyway [overcome]| Het regende; **toch** gingen we wandelen. |
+| **anders** | otherwise [alternative] | Schiet op, **anders**  missen we de trein. |
 
 > Watch the inversion: *Daarom **ging hij**…*, not ~~*Daarom hij ging*~~.
 
@@ -82,9 +75,9 @@ Order the steps of a story or explanation.
 |-------|---------|---------|
 | **eerst** | first | **Eerst** drink ik koffie, **dan** ga ik werken. |
 | **dan** | then (present/future) | Eerst dit, **dan** dat. |
-| **daarna** | after that | We eten; **daarna kijken we** een film. |
-| **vervolgens** | next | **Vervolgens namen we** de fiets. |
 | **toen** | then (past) | **Toen** was ik nog jong. |
+| **daarna** | after that | We eten; **daarna** kijken we een film. |
+| **vervolgens** | next | **Vervolgens** namen we de fiets. |
 | **eindelijk** | finally / at last | **Eindelijk** is de zomer er! |
 | **ten slotte** / **uiteindelijk** | finally / lastly | **Uiteindelijk kwam** de trein aan. |
 
@@ -98,14 +91,13 @@ Small words that organize speech and keep a conversation flowing.
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| **trouwens** | by the way | **Trouwens**, hoe gaat het? |
-| **bijvoorbeeld** | for example | Ik hou van fruit, **bijvoorbeeld** appels. |
-| **namelijk** | you see / namely | Ik kom niet; ik ben **namelijk** ziek. |
-| **eigenlijk** | actually | Ik weet het **eigenlijk** niet. |
-| **kortom** | in short | **Kortom**, het was een leuke dag. |
-| **hoe dan ook** / **sowieso** | anyway / in any case | **Hoe dan ook**, ik kom morgen. |
-| **weet je** | you know | **Weet je**, dat is echt waar. |
-| **zeg maar** | so to speak | Het is, **zeg maar**, een mix. |
+| **niet alleen … maar ook** | not only [subject] but also [appendix] | Hij spreekt **niet alleen** Nederlands, **maar ook** Duits. |
+| **trouwens** | by the way  [appendix] | **Trouwens**, hoe gaat het? |
+| **bijvoorbeeld** | for [example] | Ik hou van fruit, **bijvoorbeeld** appels. |
+| **kortom** | in short [summary] | **Kortom**, het was een leuke dag. |
+| **hoe dan ook** / **sowieso** | anyway / in any case [ultimate-outcome] | **Hoe dan ook**, ik kom morgen. |
+| **weet je** | you know  [subject]| **Weet je**, dat is echt waar. |
+| **zeg maar** | so to speak  [subject]| Het is, **zeg maar**, een mix. |
 
 ## Common mistakes
 

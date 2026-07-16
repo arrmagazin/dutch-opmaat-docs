@@ -66,28 +66,14 @@ Used when the subject and object are the same person. Dutch uses **zich** for th
 
 > The **-zelf** form adds emphasis: *Hij waste **zich*.** (he washed) vs. *Hij waste **zichzelf*.** (he washed *himself*, not someone else).
 
+---
+
 Many Dutch verbs are reflexive where English isn't — the *zich* is obligatory, not a translation of "-self":
 
 - *zich herinneren* — to remember
 - *zich vergissen* — to make a mistake
 - *zich voelen* — to feel (*Ik voel **me** goed.*)
 - *zich voorstellen* — to introduce oneself / to imagine
-
-## Indefinite pronouns
-
-These stand alone (no noun follows).
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| **alles** | everything | ***Alles** is klaar.* |
-| **iedereen** | everyone | ***Iedereen** is welkom.* |
-| **allemaal** | all (of them) | *Ze zijn er **allemaal**.* |
-| **iemand** | someone | *Er staat **iemand** voor de deur.* |
-| **iets** / **wat** | something | *Ik wil **iets** drinken.* |
-| **elkaar** | each other | *Ze helpen **elkaar**.* |
-| **niets** / niks | nothing | *Er is **niets** gebeurd.* |
-| **niemand** | no one | ***Niemand** wist het antwoord.* |
-| **wie / wat dan ook** | anyone / anything at all | *Vraag het aan **wie dan ook**.* |
 
 ## Common mistakes
 

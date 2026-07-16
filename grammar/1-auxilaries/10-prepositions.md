@@ -2,9 +2,26 @@
 
 Prepositions are used to:
 
-- locate things in **space** , **time**,
 - bind **means**, **accompaniment**, and **reference**.
-- Many verbs also take a **fixed** preposition (*denken **aan***, *wachten **op***).
+- locate things in **space** , **time**,
+- Many verbs also take a **verb-fixed** preposition (*denken **aan***, *wachten **op***).
+
+## Logical Relations — means & reference
+
+Beyond space and time, a handful of prepositions cover **means**, **accompaniment**, and **reference**.
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| **met** | with [component] | Ik ga **met** de trein. |
+| **zonder** | without [component] | Koffie **zonder** suiker. |
+| **per** | by / per [unit-of-measure]| Ik kom **per** trein. |
+| **over** | about [reference] | Een boek **over** geschiedenis. |
+| **tegen** | against / to [opposite] | Hij praat **tegen** zijn baas. |
+| **volgens** | according to [authority]| **Volgens** mij heb je gelijk. |
+| **dankzij** | thanks to [helper] | **Dankzij** jou is het gelukt. |
+| **ondanks** | despite [obstackle]| **Ondanks** de regen was het leuk. |
+
+> **over** here = "about" (*een boek over geschiedenis*), a different sense from the time *over* ("in X from now", *over vijf minuten*). **ondanks** takes a **noun** (*ondanks de regen*); for a full clause use **hoewel** (*hoewel het regende*) — see [Connectors](/#/grammar?doc=1-auxilaries/00-connectors.md).
 
 ## Place — where
 
@@ -48,23 +65,6 @@ flowchart TD
 
 *Naar huis*, *naar bed*, *naar school*, *naar werk* drop the article (fixed phrases). Some prepositions follow the noun as **postpositions** to show motion toward a goal: *de trap **op*** (up the stairs), *het bos **in*** (into the woods), *de stad **uit*** (out of the city) — compare location *op de trap*. See [Sentence structure](/#/grammar?doc=6-structures/00-sentence.md).
 
-## Other relations — means & reference
-
-Beyond space and time, a handful of prepositions cover **means**, **accompaniment**, and **reference**.
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| **met** | with | Ik ga **met** de trein. |
-| **zonder** | without | Koffie **zonder** suiker. |
-| **per** | by / per | Ik kom **per** trein. |
-| **over** | about | Een boek **over** geschiedenis. |
-| **tegen** | against / to | Hij praat **tegen** zijn baas. |
-| **volgens** | according to | **Volgens** mij heb je gelijk. |
-| **dankzij** | thanks to | **Dankzij** jou is het gelukt. |
-| **ondanks** | despite | **Ondanks** de regen was het leuk. |
-
-> **over** here = "about" (*een boek over geschiedenis*), a different sense from the time *over* ("in X from now", *over vijf minuten*). **ondanks** takes a **noun** (*ondanks de regen*); for a full clause use **hoewel** (*hoewel het regende*) — see [Connectors](/#/grammar?doc=1-auxilaries/00-connectors.md).
-
 ## Time — when
 
 | Dutch | English | Example |
@@ -72,10 +72,16 @@ Beyond space and time, a handful of prepositions cover **means**, **accompanimen
 | **in** | in (month/year/season) | **In** januari sneeuwt het. |
 | **op** | on (day/date) | **Op** maandag werk ik thuis. |
 | **om** | at (clock time) | De film begint **om** acht uur. |
-| **tijdens** | during | **Tijdens** de vergadering bel ik niet. |
-| **sinds** | since | Ik woon hier **sinds** 2018. |
-| **tot** / **totdat** | until | We blijven **tot** zeven uur. |
-| **vanaf** | from (a time on) | **Vanaf** maandag ben ik vrij. |
+| **voordat** | before [occur] | Bel me **voordat** je **vertrekt**. |
+| **nadat** | after [occur] | **Nadat** we **gegeten hadden**, gingen we wandelen. |
+| **zodra** | as soon as [occur] | Bel me **zodra** je **aankomt**. |
+| **totdat** | until [occur] | Wacht **totdat** ik **kom**. |
+| **toen**  | when [past-period] | **Toen** ik klein **was**, woonde ik hier. |
+| **terwijl**  | while [period] | Hij las **terwijl** ik **kookte**. |
+| **tijdens** | during [period]| **Tijdens** de vergadering bel ik niet. |
+| **sinds** | since [moment] | Ik woon hier **sinds** 2018. |
+| **tot** / **totdat** | until [moment]| We blijven **tot** zeven uur. |
+| **vanaf** | from (a time on) [occur] | **Vanaf** maandag ben ik vrij. |
 | **binnen** | within | Ik kom **binnen** een uur. |
 | **over** | in (X from now) | Ik bel je **over** vijf minuten. |
 | **geleden** | ago | Ik ben hier drie jaar **geleden** begonnen. |

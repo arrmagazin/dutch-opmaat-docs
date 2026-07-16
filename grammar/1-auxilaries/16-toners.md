@@ -11,24 +11,28 @@ These are the "small" words that translate badly in a dictionary but appear cons
 | `note:toch` | `vse gh taki`  still / anyway / after all |
 | `note:even` | `navprost`  briefly / just / quickly |
 | `note:echt` | `sapraudy`  really / genuinely |
-| `note:eigenlijk` | `ulasno`  actually / come to think of it |
 | `note:nog` | `esqe`  still / yet / more |
 | `note:nou` | `nu`  well / come on |
 | `note:maar` | `dyk`  just / go ahead |
 | `note:wel` | `ryxtyk`  actually / it *is* so (anti-*niet*) |
 | `note:hoor` | `aga`  reassurance ("really", "you know") |
 | `note:dus` | `na tym`  so / therefore |
-| `note:gewoon` | `zvyqajno`  simply / just |
 | `note:eens` | `razok`  (do it) sometime / just |
 | `note:net` | `amalj`  just now / exactly |
-| `note:zeker` | `napevna`  surely / I bet / by any chance |
 | `note:soms` | `qasam`  by any chance (in questions) |
 | `note:al` | `uzho`  already / emphasis |
 | `note:zo` | `zaraz`  in a sec / shortly |
 | `note:pas` | `vosj tolki`  only just / not until |
+
+| Toner | Hint, Core meaning |
+|-------|--------------------|
+| `note:gewoon` | `zvyqajno`  simply / just |
+| `note:zeker` | `napevna`  surely / I bet / by any chance |
 | `note:lekker` | `gusto`  nicely / just (defiant) |
 | `note:gerust` | `spakojna`  feel free / safely |
 | `note:juist` | `akurat`  precisely / on the contrary |
+| `namelijk` | you see / namely  |
+| `note:eigenlijk` | actually  |
 
 ## Particles in action
 

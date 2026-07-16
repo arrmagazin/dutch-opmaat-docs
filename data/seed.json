@@ -80,8 +80,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "aankomen",
-      
-      
       "level": "a",
       "tags": "separable",
       "forms": "kom aan, komt aan, aankomend, kwam aan, kwamen aan, bent aangekomen, aankomend, aankomst",
@@ -156,7 +154,7 @@
       "similarity": "native",
       "id": "aannemen",
       "domain": "mental",
-      "topic": "common",
+      "topic": "mental",
       "stem": "neem",
       "also": "aanneemt",
       "forms": "aannemer"
@@ -801,7 +799,7 @@
       "stem": "schakel"
     },
     {
-      "domain": "core",
+      "domain": "agentic",
       "topic": "control",
       "level": "a",
       "name": "afsluiten",
@@ -1312,7 +1310,7 @@
       "name_en": "job security",
       "id": "baanzekerheid",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "stem": "zeek",
       "parent": "zeker",
       "pos": "noun",
@@ -1415,8 +1413,8 @@
     },
     {
       "pos": "enum",
-      "domain": "life",
-      "topic": "fruit",
+      "domain": "food",
+      "topic": "ingredients",
       "level": "b",
       "name": "banaan",
       "name_en": "banana",
@@ -1929,8 +1927,6 @@
       "domain": "language",
       "topic": "communicate",
       "name": "bellen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "bel, belt, bellend, belde, belden, hebt gebeld, gebeld",
@@ -2073,10 +2069,8 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "bereiken",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "bereik, bereikt, bereikend, bereikte, bereikten, hebt bereikt, bereikt",
@@ -2193,7 +2187,7 @@
     {
       "pos": "noun",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "level": "c",
       "name": "beschaving",
       "name_en": "civilization",
@@ -2260,8 +2254,6 @@
       "domain": "mental",
       "topic": "mental",
       "name": "beseffen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "besef, beseft, beseffend, besefte, beseften, hebt beseft, beseft",
@@ -2467,8 +2459,6 @@
       "domain": "agentic",
       "topic": "manipulate",
       "name": "betalen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "betaal, betaalt, betalend, betaalde, betaalden, hebt betaald, betaald, betaling",
@@ -2827,8 +2817,6 @@
       "domain": "spatial",
       "pos": "verb",
       "topic": "spatial",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "bezoek, bezoekt, bezoekend, bezocht, bezochten, hebt bezocht, bezoekend",
@@ -3214,8 +3202,6 @@
       "domain": "mental",
       "topic": "mental",
       "name": "blijken",
-      
-      
       "level": "b",
       "tags": "regulat",
       "forms": "blijk, blijkt, blijkend, bleek, bleken, bent gebleken, gebleken",
@@ -3229,8 +3215,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "blijven",
-      
-      
       "level": "a",
       "tags": "ei-ee-e",
       "forms": "blijf, blijft, blijvend, bleef, bleven, bent gebleven, blijvend, verblijf",
@@ -3677,10 +3661,8 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "breken",
-      
-      
       "level": "a",
       "tags": "e-a-o",
       "forms": "breek, breekt, brekend, brak, braken, hebt gebroken, gebroken, breuk",
@@ -3698,8 +3680,6 @@
       "domain": "agentic",
       "topic": "manipulate",
       "name": "brengen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "breng, brengt, brengend, bracht, brachten, hebt gebracht, gebracht, brenging",
@@ -3915,7 +3895,7 @@
       "similarity": "native",
       "id": "buitenland",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "stem": "buiten"
     },
     {
@@ -3960,7 +3940,7 @@
       "name_en": "neighboring country",
       "id": "buurland",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "parent": "buur",
       "stem": "land",
       "pos": "noun",
@@ -4139,8 +4119,8 @@
     },
     {
       "pos": "enum",
-      "domain": "life",
-      "topic": "fruit",
+      "domain": "food",
+      "topic": "ingredients",
       "level": "b",
       "name": "citroen",
       "name_en": "lemon",
@@ -4408,7 +4388,7 @@
       "pos": "noun",
       "level": "a",
       "id": "cursus",
-      "domain": "civil",
+      "domain": "knowledge",
       "topic": "knowledge",
       "stem": "curs"
     },
@@ -4541,7 +4521,7 @@
       "name": "dankbaar",
       "name_en": "grateful",
       "id": "dankbaar",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "parent": "dank",
       "stem": "dank",
@@ -4554,8 +4534,6 @@
       "domain": "body",
       "topic": "body",
       "name": "dansen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "dans, danst, dansend, danste, dansten, hebt gedanst, dansend",
@@ -4674,8 +4652,6 @@
       "topic": "mental",
       "name": "denken",
       "preposition": "aan",
-      
-      
       "level": "a",
       "tags": "mix2",
       "forms": "denk, denkt, denkend, dacht, dachten, hebt gedacht, gedacht, gedachten",
@@ -4952,8 +4928,6 @@
       "topic": "must",
       "name": "doen",
       "preposition": "aan",
-      
-      
       "level": "a",
       "tags": "most",
       "forms": "doe, doet, doend, deed, deden, hebt gedaan, gedaan, daad",
@@ -5219,7 +5193,7 @@
       "similarity": "native",
       "id": "dorp",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "stem": "dorp"
     },
     {
@@ -5281,8 +5255,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "dragen",
-      
-      
       "level": "a",
       "tags": "a-oe-a",
       "forms": "draag, draagt, dragend, droeg, droegen, hebt gedragen, dragend",
@@ -5349,8 +5321,6 @@
       "domain": "body",
       "topic": "body",
       "name": "drinken",
-      
-      
       "level": "a",
       "tags": "i-o-o",
       "forms": "drink, drinkt, drinkend, dronk, dronken, hebt gedronken, gedronken, drank, drinken",
@@ -5429,7 +5399,7 @@
     },
     {
       "domain": "spatial",
-      "topic": "manipulate",
+      "topic": "move",
       "level": "a",
       "name": "drukken",
       "tags": "regulat",
@@ -5684,7 +5654,7 @@
       "pos": "noun",
       "level": "b",
       "id": "economie",
-      "domain": "civil",
+      "domain": "knowledge",
       "topic": "knowledge",
       "stem": "econ"
     },
@@ -5973,11 +5943,9 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "eindigen",
       "preposition": "met",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "eindig, eindigt, eindigend, eindigde, eindigden, hebt geëindigd, geëindigd, einde",
@@ -6040,7 +6008,7 @@
       "name": "emotioneel",
       "name_en": "emotional",
       "id": "emotioneel",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "parent": "emotie",
       "stem": "emot",
@@ -6123,7 +6091,7 @@
     },
     {
       "pos": "verb",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "level": "a",
       "name": "ergeren",
@@ -6219,7 +6187,7 @@
     },
     {
       "pos": "noun",
-      "domain": "core",
+      "domain": "knowledge",
       "topic": "knowledge",
       "level": "b",
       "name": "essentie",
@@ -6247,8 +6215,6 @@
       "topic": "eating",
       "level": "a",
       "name": "eten",
-      
-      
       "tags": "e-a-e",
       "forms": "eet, eet, etend, at, aten, hebt gegeten, gegeten",
       "name_en": "eat",
@@ -6293,7 +6259,7 @@
       "pos": "noun",
       "level": "a",
       "id": "examen",
-      "domain": "civil",
+      "domain": "knowledge",
       "topic": "knowledge",
       "stem": "exaam"
     },
@@ -6519,8 +6485,6 @@
       "topic": "communicate",
       "name": "feliciteren",
       "preposition": "met",
-      
-      
       "level": "b",
       "tags": "regulat",
       "forms": "feliciteer, feliciteert, feliciterend, feliciteerde, feliciteerden, hebt gefeliciteerd, gefeliciteerd, felicitatie",
@@ -6850,8 +6814,6 @@
       "topic": "transfer",
       "level": "a",
       "name": "gaan",
-      
-      
       "tags": "most",
       "forms": "ga, gaat, gaand, ging, gingen, bent gegaan, gaand, gang",
       "name_en": "go",
@@ -7015,10 +6977,8 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "gebeuren",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "gebeur, gebeurt, gebeuren, gebeurde, gebeurden, bent gebeurd, gebeurd",
@@ -7087,17 +7047,15 @@
       "similarity": "native",
       "id": "gebrek",
       "domain": "resource",
-      "topic": "dispose",
+      "topic": "possess",
       "stem": "brek",
       "parent": "breken"
     },
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "gebruiken",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "gebruik, gebruikt, gebruikend, gebruikte, gebruikten, hebt gebruikt, gebruikt, gebruikelijk",
@@ -7231,7 +7189,7 @@
     {
       "pos": "noun",
       "domain": "mental",
-      "topic": "common",
+      "topic": "mental",
       "level": "b",
       "name": "geest",
       "name_en": "mind",
@@ -7478,8 +7436,6 @@
       "topic": "mental",
       "name": "geloven",
       "preposition": "in",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "geloof, gelooft, gelovend, geloofde, geloofden, hebt geloofd, gelovig, geloofd, geloofen",
@@ -7520,7 +7476,7 @@
       "name": "gelukkig",
       "name_en": "happy",
       "id": "gelukkig",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "parent": "geluk",
       "stem": "luk",
@@ -7532,7 +7488,7 @@
       "name": "gemak",
       "name_en": "ease",
       "id": "gemak",
-      "domain": "core",
+      "domain": "agentic",
       "topic": "effort",
       "stem": "mak",
       "parent": "makkelijk",
@@ -7644,7 +7600,7 @@
       "name": "geruststellend",
       "name_en": "reassuring",
       "id": "geruststellend",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "feelings",
       "stem": "rust",
       "pos": "adj",
@@ -7755,8 +7711,6 @@
       "domain": "agentic",
       "topic": "manipulate",
       "name": "geven",
-      
-      
       "level": "a",
       "tags": "e-a-e",
       "forms": "geef, geeft, gevend, gaf, gaven, hebt gegeven, gegeven, gift, gever",
@@ -7773,7 +7727,7 @@
       "name_en": "feeling",
       "id": "gevoel",
       "also": "gevoelens",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "feelings",
       "stem": "voel",
       "parent": "voelen",
@@ -7817,7 +7771,7 @@
     {
       "pos": "noun",
       "domain": "mental",
-      "topic": "common",
+      "topic": "mental",
       "level": "c",
       "name": "geweten",
       "name_en": "conscience",
@@ -8013,7 +7967,7 @@
       "name": "gisteravond",
       "name_en": "last night",
       "id": "gisteravond",
-      "domain": "core",
+      "domain": "system",
       "topic": "timeline",
       "parent": "avond",
       "stem": "avond",
@@ -8169,7 +8123,7 @@
     },
     {
       "domain": "spatial",
-      "topic": "manipulate",
+      "topic": "move",
       "level": "a",
       "name": "gooi",
       "tags": "regulat",
@@ -8322,7 +8276,7 @@
       "name": "greep",
       "name_en": "grip",
       "id": "greep",
-      "domain": "core",
+      "domain": "agentic",
       "topic": "control",
       "stem": "grijp",
       "pos": "noun",
@@ -8490,8 +8444,6 @@
       "domain": "language",
       "topic": "communicate",
       "name": "groeten",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "groet, groet, groetend, groette, groetten, hebt gegroet, gegroet",
@@ -8722,8 +8674,6 @@
       "domain": "agentic",
       "topic": "manipulate",
       "name": "halen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "haal, haalt, halend, haalde, haalden, hebt gehaald, gehaald, haalen",
@@ -8850,8 +8800,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "hangen",
-      
-      
       "level": "a",
       "tags": "mix",
       "forms": "hang, hangt, hangend, hing, hingen, hebt gehangen, hangend",
@@ -8977,8 +8925,6 @@
       "domain": "agentic",
       "topic": "must",
       "name": "hebben",
-      
-      
       "level": "a",
       "tags": "most",
       "forms": "heb, heeft, hebbend, had, hadden, hebt gehad, bezit, hebbelijkheid",
@@ -9497,8 +9443,6 @@
       "topic": "mental",
       "name": "hopen",
       "preposition": "op",
-      
-      
       "name_en": "hope",
       "similarity": "soundex",
       "verb1": "hoopte",
@@ -9514,8 +9458,6 @@
       "topic": "communicate",
       "name": "horen",
       "preposition": "bij",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "hoor, hoort, horend, hoorde, hoorden, hebt gehoord, gehoord",
@@ -9587,8 +9529,6 @@
       "domain": "language",
       "topic": "communicate",
       "name": "huilen",
-      
-      
       "level": "b",
       "tags": "regulat",
       "forms": "huil, huilt, huilend, huilde, huilden, hebt gehuild, huilend",
@@ -10199,7 +10139,7 @@
     {
       "pos": "noun",
       "domain": "mental",
-      "topic": "common",
+      "topic": "mental",
       "level": "b",
       "name": "instinct",
       "name_en": "instinct",
@@ -10301,7 +10241,7 @@
       "name_en": "international",
       "id": "internationaal",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "pos": "adj",
       "level": "a",
       "similarity": "universal",
@@ -10312,7 +10252,7 @@
       "name": "internet",
       "name_en": "internet",
       "id": "internet",
-      "domain": "artifacts",
+      "domain": "knowledge",
       "topic": "knowledge",
       "pos": "noun",
       "level": "a",
@@ -10401,7 +10341,7 @@
       "name": "irritant",
       "name_en": "annoying",
       "id": "irritant",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "also": "vervelend",
       "parent": "irritatie",
@@ -10477,7 +10417,7 @@
       "name": "jaloers",
       "name_en": "jealous",
       "id": "jaloers",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "parent": "jaloezie",
       "stem": "jaloers",
@@ -10734,7 +10674,7 @@
     },
     {
       "domain": "spatial",
-      "topic": "manipulate",
+      "topic": "move",
       "level": "a",
       "name": "kantelen",
       "tags": "regulat",
@@ -11044,11 +10984,9 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "kiezen",
       "preposition": "voor",
-      
-      
       "level": "a",
       "tags": "ie-oo-o",
       "forms": "kies, kiest, kiezend, koos, kozen, hebt gekozen, gekozen, keus, keuze",
@@ -11066,8 +11004,6 @@
       "topic": "communicate",
       "name": "kijken",
       "preposition": "naar",
-      
-      
       "level": "a",
       "tags": "ei-ee-e",
       "forms": "kijk, kijkt, kijkend, keek, keken, hebt gekeken, kijkend",
@@ -11111,7 +11047,7 @@
       "name_en": "king",
       "id": "king",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "stem": "king",
       "pos": "noun",
       "level": "b",
@@ -11203,7 +11139,7 @@
       "name": "klas",
       "name_en": "class",
       "id": "klas",
-      "domain": "mental",
+      "domain": "knowledge",
       "topic": "acquire",
       "stem": "klas",
       "pos": "noun",
@@ -11629,8 +11565,6 @@
       "topic": "cook",
       "level": "a",
       "name": "koken",
-      
-      
       "tags": "regulat",
       "forms": "kook, kookt, kokend, kookte, kookten, hebt gekookt, gekookt, koken",
       "name_en": "cook",
@@ -11673,8 +11607,6 @@
       "topic": "must",
       "name": "komen",
       "preposition": "uit",
-      
-      
       "level": "a",
       "tags": "most",
       "forms": "kom, komt, komend, kwam, kwamen, bent gekomen, komend, komst",
@@ -11768,8 +11700,6 @@
       "domain": "agentic",
       "topic": "manipulate",
       "name": "kopen",
-      
-      
       "level": "a",
       "tags": "mix2",
       "forms": "koop, koopt, kopend, kocht, kochten, hebt gekocht, gekocht",
@@ -11834,8 +11764,6 @@
       "topic": "pragmatic",
       "level": "a",
       "name": "kosten",
-      
-      
       "name_en": "cost",
       "similarity": "soundex",
       "verb1": "kostte",
@@ -12026,7 +11954,7 @@
     {
       "pos": "noun",
       "domain": "spatial",
-      "topic": "shape",
+      "topic": "spatial",
       "level": "b",
       "name": "kring",
       "name_en": "circle",
@@ -12169,8 +12097,6 @@
       "topic": "potention",
       "level": "a",
       "name": "kunnen",
-      
-      
       "tags": "aux",
       "forms": "kan, kan, kunnend, kon, konden, hebt gekund, kundig, kunde",
       "name_en": "can, to be able to",
@@ -12181,7 +12107,7 @@
     {
       "pos": "noun",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "level": "b",
       "name": "kunst",
       "name_en": "art",
@@ -12331,7 +12257,7 @@
       "name": "laatst",
       "name_en": "recently",
       "id": "laatst",
-      "domain": "core",
+      "domain": "system",
       "topic": "timeline",
       "also": "onlangs",
       "stem": "laat",
@@ -12358,8 +12284,6 @@
       "topic": "communicate",
       "name": "lachen",
       "preposition": "om",
-      
-      
       "level": "a",
       "tags": "mix2",
       "forms": "lach, lacht, lachend, lachte, lachten, hebt gelachen, lachend",
@@ -12428,7 +12352,7 @@
       "similarity": "same",
       "id": "land",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "stem": "land"
     },
     {
@@ -12513,8 +12437,6 @@
       "topic": "acceptance",
       "level": "a",
       "name": "laten",
-      
-      
       "tags": "regulat",
       "forms": "laat, laat, latend, liet, lieten, hebt gelaten, latend",
       "name_en": "let",
@@ -12681,8 +12603,6 @@
       "topic": "manipulate",
       "name": "lenen",
       "preposition": "van",
-      
-      
       "level": "b",
       "tags": "regulat",
       "forms": "leen, leent, lenend, leende, leenden, hebt geleend, geleend, lening",
@@ -12714,8 +12634,6 @@
       "topic": "mental",
       "name": "leren",
       "preposition": "van",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "leer, leert, lerend, leerde, leerden, hebt geleerd, geleerd, leraar, lering",
@@ -12741,7 +12659,7 @@
       "name": "lesgeven",
       "name_en": "teach",
       "id": "lesgeven",
-      "domain": "knowledge",
+      "domain": "socium",
       "also": "onderwijzen, onderwijs",
       "topic": "cooperate",
       "level": "a",
@@ -12852,8 +12770,6 @@
       "domain": "language",
       "topic": "communicate",
       "name": "lezen",
-      
-      
       "level": "a",
       "tags": "e-a-e",
       "forms": "lees, leest, lezend, las, lazen, hebt gelezen, gelezen",
@@ -12935,7 +12851,7 @@
       "name": "liefde",
       "name_en": "love",
       "id": "liefde",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "parent": "lief",
       "stem": "lief",
@@ -12947,7 +12863,7 @@
       "name": "liefdevol",
       "name_en": "loving",
       "id": "liefdevol",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "parent": "lief",
       "stem": "lief",
@@ -13037,8 +12953,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "liggen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "lig, ligt, liggend, lag, lagen, bent gelegen, liggend, ligging",
@@ -13070,8 +12984,6 @@
       "topic": "mental",
       "name": "lijken",
       "preposition": "op",
-      
-      
       "level": "a",
       "tags": "ei-ee-e",
       "forms": "lijk, lijkt, lijkend, leek, leken, bent geleken, lijkend, gelijkenis",
@@ -13261,8 +13173,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "lopen",
-      
-      
       "level": "a",
       "tags": "mix",
       "forms": "loop, loopt, lopend, liep, liepen, bent gelopen, lopend",
@@ -13378,8 +13288,6 @@
       "topic": "communicate",
       "name": "luisteren",
       "preposition": "naar",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "luister, luistert, luisterend, luisterde, luisterden, hebt geluisterd, geluisterd",
@@ -13395,10 +13303,8 @@
       "pos": "verb",
       "level": "a",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "lukken",
-      
-      
       "name_en": "succeed, to be successful",
       "verb1": "lukte",
       "verb2": "lukten",
@@ -13593,7 +13499,7 @@
     },
     {
       "pos": "verb",
-      "domain": "agentic",
+      "domain": "core",
       "topic": "produce",
       "level": "b",
       "name": "makelij, maker",
@@ -13606,10 +13512,8 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "maken",
-      
-      
       "level": "a",
       "tags": "mix2",
       "forms": "maak, maakt, makend, maakte, maakten, hebt gemaakt, gemaakt, makeen",
@@ -13732,7 +13636,7 @@
     },
     {
       "pos": "noun",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "feelings",
       "level": "b",
       "name": "medelijden",
@@ -13747,7 +13651,7 @@
       "name": "media",
       "name_en": "media",
       "id": "media",
-      "domain": "civil",
+      "domain": "knowledge",
       "topic": "knowledge",
       "pos": "noun",
       "level": "a",
@@ -14068,7 +13972,7 @@
       "name": "meubelfabriek",
       "name_en": "furniture factory",
       "id": "meubelfabriek",
-      "domain": "resource",
+      "domain": "artifacts",
       "topic": "building",
       "parent": "meubel",
       "stem": "fabriek",
@@ -14091,7 +13995,7 @@
       "name": "middelbaar",
       "name_en": "secondary",
       "id": "middelbaar",
-      "domain": "mental",
+      "domain": "knowledge",
       "topic": "acquire",
       "stem": "middel",
       "pos": "adj",
@@ -14117,7 +14021,7 @@
       "name": "middernacht",
       "name_en": "midnight",
       "id": "middernacht",
-      "domain": "core",
+      "domain": "system",
       "topic": "timeline",
       "stem": "nacht",
       "parent": "nacht",
@@ -14184,7 +14088,7 @@
       "similarity": "universal",
       "id": "minister",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "stem": "minist"
     },
     {
@@ -14311,7 +14215,7 @@
     },
     {
       "pos": "noun",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "level": "a",
       "name": "moe",
@@ -14368,7 +14272,7 @@
       "level": "a",
       "similarity": "native",
       "id": "moeilijk",
-      "domain": "core",
+      "domain": "agentic",
       "topic": "effort",
       "stem": "moei",
       "parent": "moeite"
@@ -14391,8 +14295,6 @@
       "topic": "control",
       "level": "a",
       "name": "moeten",
-      
-      
       "tags": "aux",
       "forms": "moet, moet, moerend, moest, moesten, hebt gemoeten",
       "name_en": "must",
@@ -14404,7 +14306,7 @@
       "name": "mogelijk",
       "name_en": "possible",
       "id": "mogelijk",
-      "domain": "core",
+      "domain": "system",
       "topic": "potention",
       "stem": "mog",
       "parent": "mogen",
@@ -14418,8 +14320,6 @@
       "topic": "potention",
       "level": "a",
       "name": "mogen",
-      
-      
       "tags": "aux",
       "forms": "mag, mag, mogend, mocht, mochten, hebt gemogen, moden",
       "name_en": "may, to be allowed",
@@ -14872,8 +14772,6 @@
       "domain": "agentic",
       "topic": "manipulate",
       "name": "nemen",
-      
-      
       "level": "a",
       "tags": "e-a-o",
       "forms": "neem, neemt, nemend, nam, namen, hebt genomen, genomen",
@@ -15199,7 +15097,7 @@
       "name": "ochtends",
       "name_en": "mornings",
       "id": "ochtends",
-      "domain": "core",
+      "domain": "system",
       "topic": "timeline",
       "stem": "ochtend",
       "parent": "ochtend",
@@ -15509,7 +15407,7 @@
       "name": "onderwijs",
       "name_en": "education",
       "id": "onderwijs",
-      "domain": "mental",
+      "domain": "knowledge",
       "topic": "acquire",
       "stem": "wijs",
       "pos": "noun",
@@ -15530,7 +15428,7 @@
     },
     {
       "pos": "verb",
-      "domain": "mental",
+      "domain": "knowledge",
       "topic": "acquire",
       "level": "b",
       "name": "onderzoeken",
@@ -15648,7 +15546,7 @@
       "name": "onmogelijk",
       "name_en": "impossible",
       "id": "onmogelijk",
-      "domain": "core",
+      "domain": "system",
       "topic": "potention",
       "stem": "mog",
       "parent": "mogen",
@@ -15714,8 +15612,6 @@
       "topic": "memory",
       "level": "b",
       "name": "onthouden",
-      
-      
       "name_en": "rememberance",
       "similarity": "native",
       "id": "onthouden",
@@ -15869,7 +15765,7 @@
       "name": "onverwacht",
       "name_en": "unexpected",
       "id": "onverwacht",
-      "domain": "core",
+      "domain": "system",
       "topic": "potention",
       "stem": "wacht",
       "parent": "verwachten",
@@ -16042,7 +15938,7 @@
       "name_en": "public",
       "id": "openbaar",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "parent": "open",
       "stem": "open",
       "pos": "adj",
@@ -16081,7 +15977,7 @@
       "name": "openlijk",
       "name_en": "openly, overt",
       "id": "openlijk",
-      "domain": "agentic",
+      "domain": "system",
       "topic": "style",
       "pos": "adj",
       "level": "a",
@@ -16132,7 +16028,7 @@
       "name": "opgewonden",
       "name_en": "excited",
       "id": "opgewonden",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "stem": "wind",
       "parent": "opwinden",
@@ -16322,7 +16218,7 @@
     },
     {
       "pos": "adv",
-      "domain": "language",
+      "domain": "system",
       "topic": "repeat",
       "level": "a",
       "name": "opnieuw",
@@ -16800,7 +16696,7 @@
       "name": "overtuigend",
       "name_en": "convincing",
       "id": "overtuigend",
-      "domain": "language",
+      "domain": "socium",
       "topic": "negotiate",
       "parent": "overtuigen",
       "stem": "tuig",
@@ -17613,7 +17509,7 @@
       "similarity": "native",
       "id": "plein",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "stem": "plein"
     },
     {
@@ -17744,7 +17640,7 @@
       "name_en": "political",
       "id": "politiek",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "stem": "politiek",
       "pos": "adj",
       "level": "b",
@@ -17953,7 +17849,7 @@
       "name": "praatje",
       "name_en": "chat, small talk",
       "id": "praatje",
-      "domain": "language",
+      "domain": "socium",
       "topic": "talk",
       "pos": "noun",
       "level": "a",
@@ -17984,7 +17880,7 @@
       "pos": "noun",
       "level": "b",
       "id": "praktijk",
-      "domain": "agentic",
+      "domain": "knowledge",
       "topic": "knowledge",
       "stem": "prakt"
     },
@@ -17994,8 +17890,6 @@
       "topic": "communicate",
       "name": "praten",
       "preposition": "over",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "praat, praat, pratend, praatte, praatten, hebt gepraat, pratend, gesprek",
@@ -18143,10 +18037,8 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "proberen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "probeer, probeert, proberend, probeerde, probeerden, hebt geprobeerd, poging, probeersel",
@@ -18212,7 +18104,7 @@
       "name": "productie",
       "name_en": "production",
       "id": "productie",
-      "domain": "resource",
+      "domain": "artifacts",
       "topic": "building",
       "parent": "product",
       "stem": "product",
@@ -18353,7 +18245,7 @@
       "name": "puzzel",
       "name_en": "puzzle",
       "id": "puzzel",
-      "domain": "culture",
+      "domain": "civil",
       "topic": "leisure",
       "stem": "puzzel",
       "pos": "noun",
@@ -18822,8 +18714,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "reizen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "reis, reist, reizend, reisde, reisden, bent gereisd, reizend",
@@ -18944,10 +18834,8 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "repareren",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "repareer, repareert, reparerend, repareerde, repareerden, hebt gerepareerd, gerepareerd, reparatie",
@@ -19107,8 +18995,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "rijden",
-      
-      
       "level": "a",
       "tags": "ei-ee-e",
       "forms": "rijd, rijdt, rijdend, reed, reden, bent gereden, rijdend, rit, rijding",
@@ -19123,7 +19009,7 @@
     {
       "pos": "noun",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "level": "a",
       "name": "rijk",
       "name_en": "rich",
@@ -19490,8 +19376,6 @@
       "topic": "body",
       "name": "ruiken",
       "preposition": "naar",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "ruik, ruikt, ruikend, rook, roken, hebt geroken, ruikend, reuk",
@@ -19569,7 +19453,7 @@
       "name": "rustig",
       "name_en": "calm",
       "id": "rustig",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "feelings",
       "parent": "rusten",
       "stem": "rust",
@@ -19915,10 +19799,8 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "schilderen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "schilder, schildert, schilderend, schilderde, schilderden, hebt geschilderd, geschilderd, schildering",
@@ -20084,7 +19966,7 @@
     },
     {
       "domain": "spatial",
-      "topic": "manipulate",
+      "topic": "move",
       "level": "b",
       "name": "schoppen",
       "tags": "regulat",
@@ -20163,8 +20045,6 @@
       "topic": "communicate",
       "name": "schrijven",
       "preposition": "aan, over",
-      
-      
       "level": "a",
       "tags": "ei-ee-e",
       "forms": "schrijf, schrijft, schrijvend, schreef, schreven, hebt geschreven, geschreven",
@@ -20246,7 +20126,7 @@
       "name": "schuld",
       "name_en": "guilt",
       "id": "schuld",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "parent": "schuld, misdaad -- onschuld",
       "stem": "schuld",
@@ -20284,7 +20164,7 @@
       "name": "schuldig",
       "name_en": "guilty",
       "id": "schuldig",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "pos": "adj",
       "level": "a",
@@ -20322,7 +20202,7 @@
       "name": "serie",
       "name_en": "series",
       "id": "serie",
-      "domain": "culture",
+      "domain": "civil",
       "topic": "leisure",
       "pos": "noun",
       "level": "a",
@@ -20532,8 +20412,6 @@
       "domain": "body",
       "topic": "body",
       "name": "slapen",
-      
-      
       "level": "a",
       "tags": "mix",
       "forms": "slaap, slaapt, slapend, sliep, sliepen, hebt geslapen, slapend",
@@ -20688,10 +20566,8 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "sluiten",
-      
-      
       "level": "a",
       "tags": "ie-oo-o",
       "forms": "sluit, sluit, sluitend, sloot, sloten, hebt gesloten, gesloten, sluiting",
@@ -21035,9 +20911,7 @@
       "id": "spelen",
       "domain": "agentic",
       "pos": "verb",
-      "topic": "common",
-      
-      
+      "topic": "operation",
       "level": "a",
       "tags": "regulat",
       "forms": "speel, speelt, spelend, speelde, speelden, hebt gespeeld, spelend, spel",
@@ -21112,7 +20986,7 @@
     },
     {
       "domain": "spatial",
-      "topic": "manipulate",
+      "topic": "move",
       "level": "a",
       "name": "spinnen",
       "tags": "i-o-o",
@@ -21232,8 +21106,6 @@
       "topic": "communicate",
       "name": "spreken",
       "preposition": "met, over",
-      
-      
       "level": "a",
       "tags": "e-a-o",
       "forms": "spreek, spreekt, sprekend, sprak, spraken, hebt gesproken, gesproken, spraak",
@@ -21289,8 +21161,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "staan",
-      
-      
       "level": "a",
       "tags": "most",
       "forms": "sta, staat, staand, stond, stonden, bent gestaan, staand, stand",
@@ -21321,7 +21191,7 @@
       "id": "staat",
       "also": "staten",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "stem": "staat",
       "pos": "noun",
       "level": "b",
@@ -21361,7 +21231,7 @@
       "similarity": "soundex",
       "id": "stad",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "stem": "stad"
     },
     {
@@ -21728,7 +21598,7 @@
     {
       "pos": "adj",
       "domain": "system",
-      "topic": "stable",
+      "topic": "systain",
       "level": "b",
       "name": "stijf -- buigzaam",
       "name_en": "rigid -- flexible",
@@ -22149,8 +22019,6 @@
       "topic": "mental",
       "name": "studeren",
       "preposition": "aan",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "studeer, studeert, studerend, studeerde, studeerden, hebt gestudeerd, gestudeerd, studie",
@@ -22436,7 +22304,7 @@
       "name": "techniek",
       "name_en": "technique, technology",
       "id": "techniek",
-      "domain": "civil",
+      "domain": "knowledge",
       "topic": "knowledge",
       "pos": "noun",
       "level": "a",
@@ -22522,10 +22390,8 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "tekenen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "teken, tekent, tekenend, tekende, tekenden, hebt getekend, getekend, tekening",
@@ -22706,8 +22572,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "terugkomen",
-      
-      
       "level": "a",
       "tags": "separable",
       "forms": "kom terug, komt terug, terugkomend, kwam terug, kwamen terug, bent teruggekomen, teruggekomen, terugkomst",
@@ -22747,7 +22611,7 @@
       "name": "tevredenheid",
       "name_en": "satisfaction",
       "id": "tevredenheid",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "stem": "tevreed",
       "parent": "tevreden",
@@ -22797,7 +22661,7 @@
       "name_en": "to come home",
       "id": "thuiskomen",
       "domain": "body",
-      "topic": "walk",
+      "topic": "live",
       "pos": "verb",
       "level": "a",
       "similarity": "native",
@@ -22847,7 +22711,7 @@
       "name": "tijdstip",
       "name_en": "time",
       "id": "tijdstip",
-      "domain": "core",
+      "domain": "system",
       "topic": "timeline",
       "stem": "tijd",
       "parent": "tijd",
@@ -23061,7 +22925,7 @@
       "name": "toets",
       "name_en": "test",
       "id": "toets",
-      "domain": "mental",
+      "domain": "knowledge",
       "topic": "acquire",
       "stem": "toets",
       "pos": "noun",
@@ -23171,7 +23035,7 @@
       "name": "topseizoen",
       "name_en": "peak season",
       "id": "topseizoen",
-      "domain": "core",
+      "domain": "system",
       "topic": "timeline",
       "stem": "seizoen",
       "parent": "seizoen",
@@ -23939,7 +23803,7 @@
       "name": "uitzoeken",
       "name_en": "to find out",
       "id": "uitzoeken",
-      "domain": "mental",
+      "domain": "knowledge",
       "topic": "acquire",
       "also": "achterhalen",
       "stem": "zoek",
@@ -23956,7 +23820,7 @@
       "pos": "noun",
       "level": "b",
       "id": "universiteit",
-      "domain": "civil",
+      "domain": "knowledge",
       "topic": "knowledge",
       "stem": "univer"
     },
@@ -24000,7 +23864,7 @@
     {
       "pos": "noun",
       "domain": "mental",
-      "topic": "common",
+      "topic": "mental",
       "level": "b",
       "name": "vaardig",
       "name_en": "skill",
@@ -24126,8 +23990,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "vallen",
-      
-      
       "level": "a",
       "tags": "mix",
       "forms": "val, valt, vallend, viel, vielen, bent gevallen, vallend, vall",
@@ -24140,7 +24002,7 @@
       "name": "vanavond",
       "name_en": "tonight",
       "id": "vanavond",
-      "domain": "core",
+      "domain": "system",
       "topic": "timeline",
       "parent": "avond",
       "stem": "avond",
@@ -24177,7 +24039,7 @@
       "name": "vanmiddag",
       "name_en": "this afternoon",
       "id": "vanmiddag",
-      "domain": "core",
+      "domain": "system",
       "topic": "timeline",
       "parent": "vandaag",
       "stem": "middag",
@@ -24189,7 +24051,7 @@
       "name": "vanochtend",
       "name_en": "this morning",
       "id": "vanochtend",
-      "domain": "core",
+      "domain": "system",
       "topic": "timeline",
       "parent": "vandaag",
       "stem": "ochtend",
@@ -24240,7 +24102,7 @@
     {
       "pos": "adj",
       "domain": "system",
-      "topic": "stable",
+      "topic": "systain",
       "level": "b",
       "name": "vast, stevig",
       "name_en": "firm, solid, sturdy",
@@ -24407,7 +24269,7 @@
       "name": "verbaasd",
       "name_en": "surprised",
       "id": "verbaasd",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "parent": "verbazen",
       "stem": "baas",
@@ -24602,8 +24464,6 @@
       "topic": "thing",
       "level": "b",
       "name": "verdwijnen",
-      
-      
       "tags": "regulat",
       "forms": "verdwijn, verdwijnt, verdwijnend, verdween, verdwenen, bent verdwenen, verdwenen",
       "name_en": "disappearing",
@@ -24682,8 +24542,6 @@
       "topic": "memory",
       "level": "a",
       "name": "vergeten",
-      
-      
       "tags": "e-a-e",
       "forms": "vergeet, vergeet, vergetend, vergat, vergaten, hebt vergeten, vergeten",
       "name_en": "forget",
@@ -24854,8 +24712,6 @@
       "topic": "manipulate",
       "name": "verkopen",
       "preposition": "aan",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "verkoop, verkoopt, verkopend, verkocht, verkochten, hebt verkocht, verkocht, verkoopen",
@@ -24933,7 +24789,7 @@
       "name_en": "to extend",
       "id": "verlengen",
       "also": "verlengde",
-      "domain": "core",
+      "domain": "system",
       "topic": "timeline",
       "stem": "lang",
       "parent": "lang",
@@ -24945,7 +24801,7 @@
       "name": "verliefd",
       "name_en": "in love",
       "id": "verliefd",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "emotion",
       "stem": "lief",
       "parent": "lief",
@@ -24968,10 +24824,8 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "verliezen",
-      
-      
       "level": "a",
       "tags": "ie-oo-o",
       "forms": "verlies, verliest, verliezend, verloor, verloren, hebt verloren, verloren",
@@ -25208,10 +25062,8 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "verschijnen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "verschijn, verschijnt, verschijnend, verscheen, verschenen, bent verschenen, verschenen",
@@ -25263,7 +25115,7 @@
       "id": "versperren",
       "also": "versper",
       "domain": "spatial",
-      "topic": "manipulate",
+      "topic": "move",
       "stem": "sper",
       "pos": "verb",
       "level": "c",
@@ -25358,8 +25210,6 @@
       "topic": "communicate",
       "name": "vertellen",
       "preposition": "aan, over",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "vertel, vertelt, vertellend, vertelde, vertelden, hebt verteld, verteld, verhaal",
@@ -25389,8 +25239,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "vertrekken",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "vertrek, vertrekt, vertrekkend, vertrok, vertrokken, bent vertrokken, vertrekkend",
@@ -25571,7 +25419,7 @@
     },
     {
       "pos": "noun",
-      "domain": "mental",
+      "domain": "experience",
       "topic": "pleasure",
       "level": "b",
       "name": "verwondering",
@@ -25711,7 +25559,7 @@
     {
       "pos": "noun",
       "domain": "spatial",
-      "topic": "shape",
+      "topic": "spatial",
       "level": "b",
       "name": "vierkant",
       "name_en": "square",
@@ -25760,8 +25608,6 @@
       "domain": "mental",
       "topic": "mental",
       "name": "vinden",
-      
-      
       "level": "a",
       "tags": "i-o-o",
       "forms": "vind, vindt, vindend, vond, vonden, hebt gevonden, gevonden",
@@ -25856,7 +25702,7 @@
       "level": "b",
       "id": "vlag",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "stem": "vlag"
     },
     {
@@ -25915,8 +25761,6 @@
       "domain": "spatial",
       "topic": "spatial",
       "name": "vliegen",
-      
-      
       "level": "a",
       "tags": "ie-oo-o",
       "forms": "vlieg, vliegt, vliegend, vloog, vlogen, bent gevlogen, vliegend, vlucht",
@@ -26071,8 +25915,6 @@
       "domain": "mental",
       "topic": "mental",
       "name": "voelen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "voel, voelt, voelend, voelde, voelden, hebt gevoeld, voelend, gevoel",
@@ -26171,7 +26013,7 @@
       "name_en": "next",
       "id": "volgend",
       "domain": "core",
-      "topic": "sequence",
+      "topic": "pattern",
       "parent": "volgen",
       "stem": "volg",
       "pos": "adj",
@@ -26613,8 +26455,6 @@
       "topic": "communicate",
       "name": "vragen",
       "preposition": "om, naar",
-      
-      
       "level": "a",
       "tags": "mix2",
       "forms": "vraag, vraagt, vragend, vroeg, vroegen, hebt gevraagd, gevraagd",
@@ -26629,7 +26469,7 @@
     {
       "pos": "noun",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "level": "b",
       "name": "vrede -- oorlog",
       "name_en": "peace -- war",
@@ -26654,7 +26494,7 @@
     {
       "pos": "noun",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "level": "a",
       "name": "vreemd",
       "name_en": "foreign",
@@ -27106,8 +26946,6 @@
       "domain": "body",
       "topic": "body",
       "name": "wassen",
-      
-      
       "level": "a",
       "tags": "a-oe-a",
       "forms": "was, wast, wassend, waste, wasten, hebt gewassen, gewassen, wassing",
@@ -27357,7 +27195,7 @@
     {
       "pos": "noun",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "level": "b",
       "name": "welstand",
       "name_en": "prosperity",
@@ -27426,8 +27264,6 @@
       "domain": "mental",
       "pos": "verb",
       "topic": "mental",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "wens, wenst, wensend, wenste, wensten, hebt gewenst, gewenst",
@@ -27529,7 +27365,7 @@
     {
       "pos": "noun",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "level": "b",
       "name": "wet",
       "name_en": "law",
@@ -27544,8 +27380,6 @@
       "topic": "knowledge",
       "level": "a",
       "name": "weten",
-      
-      
       "tags": "most",
       "forms": "weet, weet, wetend, wist, wisten, hebt geweten, geweten, weten, wetenschap",
       "name_en": "know",
@@ -27560,7 +27394,7 @@
     {
       "pos": "noun",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "level": "b",
       "name": "wetenschap",
       "name_en": "science",
@@ -27604,7 +27438,7 @@
       "similarity": "native",
       "id": "wijk",
       "domain": "civil",
-      "topic": "common",
+      "topic": "society",
       "stem": "wijk"
     },
     {
@@ -27688,8 +27522,6 @@
       "topic": "intent",
       "level": "a",
       "name": "willen",
-      
-      
       "tags": "aux",
       "forms": "wil, wil, willend, wilde, wilden, hebt gewild, gewild",
       "name_en": "want, to wish",
@@ -27729,7 +27561,7 @@
       "name": "winkel",
       "name_en": "shop, store",
       "id": "winkel",
-      "domain": "artifacts",
+      "domain": "resource",
       "topic": "trade",
       "pos": "noun",
       "level": "a",
@@ -27755,11 +27587,9 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "winnen",
       "preposition": "van",
-      
-      
       "level": "a",
       "tags": "i-o-o",
       "forms": "win, wint, winnend, won, wonnen, hebt gewonnen, gewonnen, winst",
@@ -27897,10 +27727,8 @@
     {
       "pos": "verb",
       "domain": "agentic",
-      "topic": "common",
+      "topic": "operation",
       "name": "wonen",
-      
-      
       "level": "a",
       "tags": "regulat",
       "forms": "woon, woont, wonend, woonde, woonden, hebt gewoond, wonend, wonnen",
@@ -28054,7 +27882,7 @@
     },
     {
       "domain": "spatial",
-      "topic": "manipulate",
+      "topic": "move",
       "level": "c",
       "name": "wringen",
       "tags": "i-o-o",
@@ -28198,8 +28026,6 @@
       "topic": "communicate",
       "name": "zeggen",
       "preposition": "tegen",
-      
-      
       "level": "a",
       "tags": "most",
       "forms": "zeg, zegt, zeggend, zei, zeiden, hebt gezegd, gezegd, gezegde",
@@ -28387,7 +28213,7 @@
     {
       "pos": "noun",
       "domain": "mental",
-      "topic": "common",
+      "topic": "mental",
       "level": "b",
       "name": "ziel",
       "name_en": "soul",
@@ -28401,8 +28227,6 @@
       "domain": "language",
       "topic": "communicate",
       "name": "zien",
-      
-      
       "level": "a",
       "tags": "most",
       "forms": "zie, ziet, ziend, zag, zagen, hebt gezien, gezien",
@@ -28417,8 +28241,6 @@
       "topic": "thing",
       "level": "a",
       "name": "zijn",
-      
-      
       "tags": "most",
       "forms": "ben, is, zijnd, was, waren, bent geweest, zijnd, zijn, wezen",
       "name_en": "be",
@@ -28456,12 +28278,10 @@
     },
     {
       "pos": "verb",
-      "domain": "culture",
+      "domain": "civil",
       "topic": "leisure",
       "level": "a",
       "name": "zingen",
-      
-      
       "tags": "i-o-o",
       "forms": "zing, zingt, zingend, zong, zongen, hebt gezongen, zingend, zang",
       "name_en": "sing",
@@ -28492,8 +28312,6 @@
       "topic": "place",
       "level": "a",
       "name": "zitten",
-      
-      
       "tags": "regulat",
       "forms": "zit, zit, zittend, zat, zaten, bent gezeten, zittend",
       "name_en": "sit",
@@ -28506,13 +28324,11 @@
     },
     {
       "pos": "verb",
-      "domain": "mental",
+      "domain": "knowledge",
       "topic": "acquire",
       "level": "a",
       "name": "zoeken",
       "preposition": "naar",
-      
-      
       "tags": "mix2",
       "forms": "zoek, zoekt, zoekend, zocht, zochten, hebt gezocht, gezocht",
       "name_en": "look for, to search",
@@ -28729,8 +28545,6 @@
       "domain": "agentic",
       "topic": "must",
       "name": "zullen",
-      
-      
       "level": "a",
       "tags": "aux",
       "forms": "zal, zal, zullend, zou, zouden, hebt gezuld",
@@ -28843,8 +28657,6 @@
       "topic": "travel",
       "level": "b",
       "name": "zwemmen",
-      
-      
       "tags": "regulat",
       "forms": "zwem, zwemt, zwemmend, zwom, zwommen, bent gezwommen, zwemmend",
       "name_en": "swim",
