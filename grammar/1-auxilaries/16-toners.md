@@ -16,7 +16,6 @@ These are the "small" words that translate badly in a dictionary but appear cons
 | `note:maar` | `dyk`  just / go ahead |
 | `note:wel` | `ryxtyk`  actually / it *is* so (anti-*niet*) |
 | `note:hoor` | `aga`  reassurance ("really", "you know") |
-| `note:dus` | `na tym`  so / therefore |
 | `note:eens` | `razok`  (do it) sometime / just |
 | `note:net` | `amalj`  just now / exactly |
 | `note:soms` | `qasam`  by any chance (in questions) |
@@ -24,7 +23,7 @@ These are the "small" words that translate badly in a dictionary but appear cons
 | `note:zo` | `zaraz`  in a sec / shortly |
 | `note:pas` | `vosj tolki`  only just / not until |
 
-## Particles in action
+---
 
 Each particle bends the mood of the same bare sentence.
 
@@ -41,7 +40,7 @@ Each particle bends the mood of the same bare sentence.
 
 > Ordering a drink? *Doe **maar** een koffie* ("Just a coffee, thanks") is the everyday phrasing — the bare *Een koffie* sounds curt. Particles also power polite imperatives: see [Imperatives](/#/grammar?doc=7-modes/04-imperatives.md).
 
-## Stacking
+---
 
 The hallmark of natural speech is **stacking** particles — a native speaker throws 2–3 together without thinking, and that living, non-blunt tone is exactly what a learner misses.
 

@@ -6,12 +6,12 @@ Modal verbs (*modale werkwoorden*) express ability, permission, obligation, desi
 
 | Dutch | English | Core meaning |
 |-------|---------|--------------|
-| **kunnen** | can, to be able to | ability, possibility |
-| **moeten** | must, to have to | necessity, obligation |
-| **mogen** | may, to be allowed to | permission |
-| **willen** | to want | desire, intention |
-| **zullen** | shall, will | future, prediction, offer |
-| **hoeven** | (not) to need to | absence of necessity |
+| `kunnen` | can, to be able to | ability, possibility |
+| `moeten` | must, to have to | necessity, obligation |
+| `mogen` | may, to be allowed to | permission |
+| `willen` | to want | desire, intention |
+| `zullen` | shall, will | future, prediction, offer |
+| `hoeven` | (not) to need to | absence of necessity |
 
 For which modal expresses which *meaning* (and the non-modal alternatives), see [modalities](/#/grammar?doc=7-modes/01-modalities.md).
 

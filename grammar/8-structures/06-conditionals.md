@@ -21,24 +21,13 @@ Structure: **Als** + … + verb(end) **, (dan)** + verb + …
 
 | Dutch | English |
 |-------|---------|
-| **Als** het **regent**, blijf ik thuis. | If it rains, I stay home. |
-| **Als** je nu **vertrekt**, haal je de trein. | If you leave now, you'll catch the train. |
-| **Als** je honger **hebt**, **dan** maak ik iets. | If you're hungry, then I'll make something. |
-| Ik bel je **als** ik **aankom**. | I'll call you when I arrive. |
+| `Als` het `regent`, blijf ik thuis. | If it rains, I stay home. |
+| `Als` je nu `vertrekt`, haal je de trein. | If you leave now, you'll catch the train. |
+| `Als` je honger `hebt`, `dan` maak ik iets. | If you're hungry, then I'll make something. |
+| Ik bel je `als` ik `aankom`. | I'll call you when I arrive. |
 
 > The result clause can also use the future: *Als het regent, **zal** ik thuisblijven.*
 > The plain present is far more common in speech.
-
-### Worked example
-
-***Als** het* **regent**, **blijf** *ik thuis.*
-
-| Piece | Role |
-|-------|------|
-| **Als** het **regent** | condition — subordinate clause, verb *regent* at the **end** |
-| (comma) | the whole *als*-clause fills slot 1 of the main clause |
-| **blijf** | main-clause verb, second → **inversion** |
-| *ik thuis* | subject + rest |
 
 ## 2. Unreal / hypothetical condition (present-future)
 
@@ -49,10 +38,10 @@ Structure: **Als** + … + past-verb **, … zou(den)** + … + infinitive.
 
 | Dutch | English |
 |-------|---------|
-| **Als** ik rijk **was**, **zou** ik een huis **kopen**. | If I were rich, I would buy a house. |
-| **Als** we tijd **hadden**, **zouden** we langer **blijven**. | If we had time, we would stay longer. |
-| Wat **zou** je **doen** **als** je **kon** kiezen? | What would you do if you could choose? |
-| **Als** hij hier **was**, **zou** hij ons **helpen**. | If he were here, he would help us. |
+| `Als` ik rijk `was`, `zou` ik een huis `kopen`. | If I were rich, I would buy a house. |
+| `Als` we tijd `hadden`, `zouden` we langer `blijven`. | If we had time, we would stay longer. |
+| Wat `zou` je `doen` `als` je `kon` kiezen? | What would you do if you could choose? |
+| `Als` hij hier `was`, `zou` hij ons `helpen`. | If he were here, he would help us. |
 
 > With **zijn**, hypothetical *als*-clauses take **was/waren** (the simple past),
 > e.g. *als ik jou **was*** — "if I were you".
@@ -76,9 +65,9 @@ Structure: **Als** + … + **had(den)** + participle **, … zou(den) hebben/zij
 
 | Dutch | English |
 |-------|---------|
-| **Als** ik het **had geweten**, **zou** ik je **hebben gebeld**. | If I had known, I would have called you. |
-| **Als** we eerder **waren vertrokken**, **zouden** we op tijd **zijn geweest**. | If we'd left earlier, we would have been on time. |
-| **Als** je **had geluisterd**, **was** dit niet **gebeurd**. | If you had listened, this wouldn't have happened. |
+| `Als` ik het `had geweten`, `zou` ik je `hebben gebeld`. | If I had known, I would have called you. |
+| `Als` we eerder `waren vertrokken`, `zouden` we op tijd `zijn geweest`. | If we'd left earlier, we would have been on time. |
+| `Als` je `had geluisterd`, `was` dit niet `gebeurd`. | If you had listened, this wouldn't have happened. |
 
 > In speech the second clause often drops **zou** and just uses the past perfect:
 > *Als ik het had geweten, **had** ik je **gebeld**.* Both are correct.

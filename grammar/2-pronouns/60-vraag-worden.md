@@ -5,16 +5,16 @@ The words that open an information question. This page is the **word inventory**
 
 | Dutch | English | Asks for | Example |
 |-------|---------|----------|---------|
-| **wie** | who | a person | **Wie** belt? |
-| **wat** | what | a thing / action | **Wat** zie je? |
-| **welk(e)** | which | a choice | **Welke** trein neem je? |
-| **wat voor (een)** | what kind of | a type | **Wat voor** muziek luister je? |
-| **waar** | where | a place | **Waar** woon je? |
-| **wanneer** | when | a time | **Wanneer** kom je terug? |
-| **hoe** | how | manner / state | **Hoe** gaat het? |
-| **waarom** | why | a reason | **Waarom** huil je? |
-| **hoeveel** | how much / many | a quantity | **Hoeveel** kost dit? |
-| **hoelang** | how long | a duration | **Hoelang** blijf je? |
+| `wie` | who | a person | **Wie** belt? |
+| `wat` | what | a thing / action | **Wat** zie je? |
+| `welk(e)` | which | a choice | **Welke** trein neem je? |
+| `wat voor (een)` | what kind of | a type | **Wat voor** muziek luister je? |
+| `waar` | where | a place | **Waar** woon je? |
+| `wanneer` | when | a time | **Wanneer** kom je terug? |
+| `hoe` | how | manner / state | **Hoe** gaat het? |
+| `waarom` | why | a reason | **Waarom** huil je? |
+| `hoeveel` | how much / many | a quantity | **Hoeveel** kost dit? |
+| `hoelang` | how long | a duration | **Hoelang** blijf je? |
 
 > **wanneer** pairs with a preposition to bound the time: **sinds wanneer** (since when — *Sinds wanneer woon je hier?*) and **tot wanneer** (until when — *Tot wanneer blijf je?*).
 

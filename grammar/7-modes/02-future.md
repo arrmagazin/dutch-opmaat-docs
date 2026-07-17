@@ -67,9 +67,9 @@ In casual speech, **present + time word** or **gaan + inf.** dominate; *zullen* 
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| **Ik ben van plan om … te …** | I plan to … | *Ik ben van plan om volgend jaar **te** verhuizen.* |
-| **Ik wil graag …** | I'd like to … | *Ik wil graag Nederlands leren.* |
-| **Ik ga …** | I'm going to … | *Ik ga vanavond koken.* |
+| `Ik ben van plan om … te …` | I plan to … | *Ik ben van plan om volgend jaar **te** verhuizen.* |
+| `Ik wil graag …` | I'd like to … | *Ik wil graag Nederlands leren.* |
+| `Ik ga …` | I'm going to … | *Ik ga vanavond koken.* |
 
 > *Ik ben van plan om* always pairs with **te + infinitive** at the end of the clause.
 

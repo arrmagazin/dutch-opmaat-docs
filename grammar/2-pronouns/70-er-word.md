@@ -16,10 +16,10 @@ Introduces a new, **indefinite** noun into the conversation. It sits at or near 
 
 | Dutch | English |
 |-------|---------|
-| **Er is** een probleem met mijn computer. | There is a problem with my computer. |
-| **Er zijn** vandaag veel mensen op straat. | There are a lot of people out today. |
-| **Er was** eens een koning. | Once upon a time there was a king. |
-| **Er** wordt hier niet **gerookt**. | No smoking here. (lit. "there is not smoked here") |
+| `Er is` een probleem met mijn computer. | There is a problem with my computer. |
+| `Er zijn` vandaag veel mensen op straat. | There are a lot of people out today. |
+| `Er was` eens een koning. | Once upon a time there was a king. |
+| `Er` wordt hier niet `gerookt`. | No smoking here. (lit. "there is not smoked here") |
 
 > Without it the sentence is ungrammatical: ~~*Is een probleem.*~~ → ***Er** is een probleem.*
 
@@ -29,9 +29,9 @@ Replaces a place already mentioned. This is the *unstressed* "there".
 
 | Dutch | English |
 |-------|---------|
-| Ik woon in Amsterdam; ik woon **er** al tien jaar. | … I've lived there for ten years. |
-| Ben je in Parijs geweest? Ja, ik ben **er** vorig jaar geweest. | … Yes, I was there last year. |
-| Ga je naar de markt? Ik ga **er** elke zaterdag heen. | … I go there every Saturday. |
+| Ik woon in Amsterdam; ik woon `er` al tien jaar. | … I've lived there for ten years. |
+| Ben je in Parijs geweest? Ja, ik ben `er` vorig jaar geweest. | … Yes, I was there last year. |
+| Ga je naar de markt? Ik ga `er` elke zaterdag heen. | … I go there every Saturday. |
 
 > For a *stressed*, pointing "there", use **daar**: *Daar woon ik.* ("*That's* where I live.")
 
@@ -41,9 +41,9 @@ When a counted noun is dropped (already known), **er** holds its place next to t
 
 | Dutch | English |
 |-------|---------|
-| Hoeveel appels heb je? — Ik heb **er** drie. | … I have three (of them). |
-| Van die acteurs ken ik **er** maar één. | Of those actors I only know one. |
-| De aardbeien waren goedkoop, dus ze kocht **er** veel. | … so she bought a lot of them. |
+| Hoeveel appels heb je? — Ik heb `er` drie. | … I have three (of them). |
+| Van die acteurs ken ik `er` maar één. | Of those actors I only know one. |
+| De aardbeien waren goedkoop, dus ze kocht `er` veel. | … so she bought a lot of them. |
 
 > Existential *and* quantitative together doubles the **er**: *Er waren tien koekjes en nu zijn **er** nog vijf.* (first *er* = existential, second = quantitative).
 

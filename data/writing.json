@@ -53,13 +53,14 @@
     "id": "w10",
     "title": "Borrowing Something",
     "description": "Ask a friend if you can borrow something or for help",
-    "modelAnswer": "Beste Wilma, ik volg sinds januari een cursus Nederlands en ik heb het boek 'Nederlands in Actie' nodig.\nIn de bibliotheek is het niet beschikbaar en in de boekwinkel is het te duur.\nIk weet dat jij het boek hebt.\nMag ik het van jou lenen voor een maand?\nIk beloof dat ik er voorzichtig mee ben.\nIk geef het volgende maand terug.\nGroetjes, Ahmed"
+    "modelAnswer": "`inline:texts/borrow-book`",
+    "promptHint": "Beste Wilma, ik volg sinds januari een cursus Nederlands en ik heb het boek 'Nederlands in Actie' nodig.\nIn de bibliotheek is het niet beschikbaar en in de boekwinkel is het te duur.\nIk weet dat jij het boek hebt.\nMag ik het van jou lenen voor een maand?\nIk beloof dat ik er voorzichtig mee ben.\nIk geef het volgende maand terug.\nGroetjes, Ahmed"
   },
   {
     "id": "w08",
     "title": "Library Registration",
     "description": "Fill in a form to register at the library",
-    "modelAnswer": "`inline:texts/borrow-book`",
+    "modelAnswer": "`inline:texts/library-registration`",
     "promptHint": "Naam: Fatima El Amrani\nAdres: Tulpstraat 8, 1234 AB Amsterdam\nGeboortedatum: 15 maart 1990\nTelefoonnummer: 06-12345678\nE-mailadres: fatima@email.nl\n\nIk lees graag boeken over koken, gezondheid en romans.\nIk wil de bibliotheek twee keer per week bezoeken.\nOok wil ik graag lezingen bijwonen en mijn kinderen meenemen naar de kinderafdeling.\nIk werk als verpleegkundige en heb 's avonds vaak tijd om te lezen."
   },
   {

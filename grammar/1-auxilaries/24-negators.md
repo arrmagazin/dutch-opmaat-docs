@@ -67,16 +67,16 @@ These replace *niet + …* with a single word — one negator per clause is enou
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| **niets** | nothing | Ik zie **niets**. |
-| **niemand** | nobody | **Niemand** belt me. |
-| **nergens** | nowhere | Ze is **nergens** te vinden. |
-| **nooit** | never | Hij komt **nooit** te laat. |
-| **geen … meer** | no more / no longer | Ik heb **geen geld meer**. |
-| **niet meer** | no longer | Ik werk daar **niet meer**. |
-| **nog niet** | not yet | Hij is **nog niet** klaar. |
-| **niet eens** | not even | Hij heeft het **niet eens** geprobeerd. |
-| **helemaal niet** | not at all | Dat is **helemaal niet** waar. |
-| **bijna niet** | hardly | Ik kan je **bijna niet** verstaan. |
+| `niets` | nothing | Ik zie **niets**. |
+| `niemand` | nobody | **Niemand** belt me. |
+| `nergens` | nowhere | Ze is **nergens** te vinden. |
+| `nooit` | never | Hij komt **nooit** te laat. |
+| `geen … meer` | no more / no longer | Ik heb **geen geld meer**. |
+| `niet meer` | no longer | Ik werk daar **niet meer**. |
+| `nog niet` | not yet | Hij is **nog niet** klaar. |
+| `niet eens` | not even | Hij heeft het **niet eens** geprobeerd. |
+| `helemaal niet` | not at all | Dat is **helemaal niet** waar. |
+| `bijna niet` | hardly | Ik kan je **bijna niet** verstaan. |
 
 > **No double negatives.** English "I don't know nothing" does *not* carry over. Dutch uses one negator: ✅ *Ik weet **niets*** ("I know nothing").
 

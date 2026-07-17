@@ -62,10 +62,10 @@ For first-person-plural commands ("let's go", "let's eat"), use **laten we** + i
 
 | Dutch | English |
 |-------|---------|
-| **Laten we** beginnen, het is al laat. | Let's begin, it's already late. |
-| Ik ben moe, **laten we** naar huis gaan. | I'm tired, let's go home. |
-| **Laten we** even een pauze nemen. | Let's take a short break. |
-| Nee, **laten we** dat niet doen. | No, let's not do that. |
+| `Laten we` beginnen, het is al laat. | Let's begin, it's already late. |
+| Ik ben moe, `laten we` naar huis gaan. | I'm tired, let's go home. |
+| `Laten we` even een pauze nemen. | Let's take a short break. |
+| Nee, `laten we` dat niet doen. | No, let's not do that. |
 
 ## Negative imperatives
 
