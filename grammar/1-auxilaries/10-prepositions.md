@@ -60,10 +60,13 @@ flowchart TD
 | `tot` | up to / until | Loop **tot** het einde. |
 | `vanaf` | starting from | **Vanaf** hier is het dichtbij. |
 | `richting` | toward(s) | We gaan **richting** centrum. |
+| `heen` | to, away | We gaan **heen** centrum. |
 
 > **uit vs van.** Permanent origin ("I'm *from* …") → **uit**: *Ik kom **uit** België.* Coming from a place right now → **van**: *Ik kom net **van** kantoor.*
 
 *Naar huis*, *naar bed*, *naar school*, *naar werk* drop the article (fixed phrases). Some prepositions follow the noun as **postpositions** to show motion toward a goal: *de trap **op*** (up the stairs), *het bos **in*** (into the woods), *de stad **uit*** (out of the city) — compare location *op de trap*. See [Sentence structure](/#/grammar?doc=8-structures/00-sentence.md).
+
+`table:/topic_direction?columns=name_en#Direction`
 
 ## Time — when
 
