@@ -100,34 +100,6 @@ Full  playlist [Luistervaardigheid A2](https://www.youtube.com/playlist?list=PLX
 - [ ] [Les 25.1](https://www.youtube.com/watch?v=kwRR03ER1Ko)
 - [ ] [Les 26.1](https://www.youtube.com/watch?v=9wH9fRuFp0w)
 
-### Speaking Practice: A2 Ad Appel nieuw format 2025
-
-Full playlist [A2 – Spreken 2025 (nieuw format)](https://www.youtube.com/playlist?list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf):
-
-- [ ] [Nieuw format #1](https://www.youtube.com/watch?v=7cmueg7A0CU)
-- [ ] [Nieuw format #2](https://www.youtube.com/watch?v=dOPLSiuxzqc)
-- [ ] [Nieuw format #3](https://www.youtube.com/watch?v=fodGxchgAaw)
-- [ ] [Nieuw format #4](https://www.youtube.com/watch?v=yUY_FCN_XiA)
-- [ ] [Nieuw format #5](https://www.youtube.com/watch?v=DgwCmj3poSI)
-- [ ] [Nieuw format #6](https://www.youtube.com/watch?v=3nx6O9qWGjE)
-- [ ] [Nieuw format #7](https://www.youtube.com/watch?v=8nFzjYHSTCA)
-- [ ] [Nieuw format #8](https://www.youtube.com/watch?v=kH7RhrA4jTg)
-- [ ] [Nieuw format #9](https://www.youtube.com/watch?v=0ZwElCYAfzI)
-
-### Speaking Practice: A2 Ad Appel Spreekvaardigheid
-
-Full playlist [A2 Spreekvaardigheid playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjgVPw6drrCScntDW05asFzL):
-
-- [ ] [Oefenexamen 1 – 2025](https://www.youtube.com/watch?v=_tkoK4nhpVU)
-- [ ] [Oefenexamen 2 – 2025](https://www.youtube.com/watch?v=Oe2mXQSvrIc)
-- [ ] [Oefenexamen 3 – 2025](https://www.youtube.com/watch?v=LpmHcxO1GIE)
-- [ ] [Oefenexamen 4 – 2025](https://www.youtube.com/watch?v=_JVTi1vheeg)
-- [ ] [Oefenexamen 5 – 2025](https://www.youtube.com/watch?v=cqzgh_uaT0w)
-- [ ] [Oefenexamen 6 – 2025](https://www.youtube.com/watch?v=uK6B2WPV5ac)
-- [ ] [Oefenexamen 7 – 2025](https://www.youtube.com/watch?v=cPwEoHUGwnE)
-- [ ] [Oefenexamen 8 – 2025](https://www.youtube.com/watch?v=b0zrI7QOGcc)
-- [ ] [Oefenexamen 9 – 2025](https://www.youtube.com/watch?v=FM7AOEA-Ddw)
-
 ### Official Speaking practice exams [inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)
 
 - [ ] [Practice exam Speaking 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/DZ66)
