@@ -6,21 +6,6 @@ Relative clauses, reported speech, and conditionals are all subordinate clauses 
 
 ## The subordinators
 
-| Conjunction | English | Example |
-|-------------|---------|---------|
-| **omdat** | because | *Ik blijf thuis omdat ik ziek **ben**.* |
-| **dat** | that | *Hij zegt dat hij morgen **komt**.* |
-| **als** | if / when | *Als het **regent**, blijf ik thuis.* |
-| **toen** | when (past) | *Toen ik klein **was**, woonde ik in Den Haag.* |
-| **terwijl** | while | *Hij las terwijl ik **kookte**.* |
-| **of** | whether | *Ik weet niet of hij **komt**.* |
-| **hoewel** | although | *Hoewel het **regende**, gingen we wandelen.* |
-| **voordat** | before | *Bel me voordat je **vertrekt**.* |
-| **nadat** | after | *Nadat we **gegeten hadden**, gingen we wandelen.* |
-| **zodat** | so that | *Spreek harder zodat ik je **versta**.* |
-| **tenzij** | unless | *Ik kom tenzij het **regent**.* |
-| **zodra** | as soon as | *Bel me zodra je **aankomt**.* |
-
 For the full inventory of connectors and their meanings, see [connectors](/#/grammar?doc=1-auxilaries/00-connectors.md).
 
 > **toen / als / wanneer** all cover English "when": use **toen** for a single event in the **past**, **als** for the present/future or something repeated (*Als het regent…* = whenever it rains), and **wanneer** in questions (*Wanneer kom je?*).

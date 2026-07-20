@@ -74,7 +74,8 @@
     "id": "w09",
     "title": "Note for a Housemate",
     "description": "Write a note with house rules and care instructions for your housemate",
-    "modelAnswer": "Hallo Tim, hier zijn een paar afspraken voor de komende week.\nDoe alsjeblieft de afwas direct na het eten.\nMaak elke zaterdag de badkamer schoon.\nVergeet niet de prullenbak buiten te zetten op dinsdagavond.\nMaak geen lawaai na 22:00 uur, want ik moet vroeg op.\nWil je deze week ook op de kat en de planten letten?\nGeef de kat elke dag eten en vers water; het kattenvoer staat in de kast in de keuken, op de onderste plank.\nGeef de planten twee keer per week water, op maandag en donderdag.\nAls er post is, leg het op de tafel.\nBedankt en fijne week!\nGroetjes, Sara"
+    "modelAnswer":"`inline:texts/note-for-housemate`",
+    "promptHint": "Hallo Tim, hier zijn een paar afspraken voor de komende week.\nDoe alsjeblieft de afwas direct na het eten.\nMaak elke zaterdag de badkamer schoon.\nVergeet niet de prullenbak buiten te zetten op dinsdagavond.\nMaak geen lawaai na 22:00 uur, want ik moet vroeg op.\nWil je deze week ook op de kat en de planten letten?\nGeef de kat elke dag eten en vers water; het kattenvoer staat in de kast in de keuken, op de onderste plank.\nGeef de planten twee keer per week water, op maandag en donderdag.\nAls er post is, leg het op de tafel.\nBedankt en fijne week!\nGroetjes, Sara"
   },
   {
     "id": "w12",

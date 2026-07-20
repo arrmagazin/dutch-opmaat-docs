@@ -1,4 +1,4 @@
-# The Possessive Pronouns  *(A1)*
+# The Possessives  *(A1)*
 
 Possessives show **ownership**. Dutch has forms that sit in front of a noun (*mijn boek*) and standalone forms used without one (*dat boek is van mij*). Only one of them changes shape by gender — **ons vs onze** — so that is the rule to nail.
 

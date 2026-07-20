@@ -9,19 +9,11 @@ flowchart LR
 
 ## The five coordinators
 
-| Conjunction | English | Example |
-|-------------|---------|---------|
-| **en** | and | *Ik werk **en** ik studeer.* |
-| **maar** | but | *Ik wil komen, **maar** ik heb geen tijd.* |
-| **of** | or | *Wil je koffie **of** thee?* |
-| **want** | because (cause) | *Ik blijf thuis, **want** ik ben moe.* |
-| **dus** | so / therefore | *Het regent, **dus** ik neem een paraplu.* |
+Memory hook: **en, maar, of, want, dus** are the only true coordinators. Everything else that "feels like because/so" (*omdat*, *daarom*, *zodat* …) is a subordinator or an adverb and changes the word order.
 
-Memory hook: **en, maar, of, want, dus** are the only true coordinators. Everything else that "feels like because/so" (*omdat*, *daarom*, *zodat* …) is a subordinator or an adverb and changes the word order. For the full inventory of linking words, see [connectors](/#/grammar?doc=1-auxilaries/00-connectors.md).
+For more, see [connectors](/#/grammar?doc=1-auxilaries/00-connectors.md).
 
-> **dus** is borderline: as a pure coordinator it keeps normal order (*…, dus **ik neem** een paraplu*), but many speakers treat it as an adverb and add inversion (*…, dus **neem ik** een paraplu*). Both are correct. *want* never allows inversion.
-
-## Sharing a subject with en
+## Sharing a subject with `en`
 
 When **en** links two clauses that share the **same subject**, Dutch normally omits the repeated subject in the second clause:
 
@@ -29,7 +21,7 @@ When **en** links two clauses that share the **same subject**, Dutch normally om
 
 The shared subject *hij* still fills slot 1, so the verb *brengt* keeps its second position (and the separable *mee* goes to the end). Repeating it — *…en hij brengt…* — is not wrong, just heavier.
 
-## The want vs omdat trap
+## The `want` vs `omdat` trap
 
 Both translate English "because", but they belong to different families and behave oppositely:
 
@@ -38,9 +30,13 @@ Both translate English "because", but they belong to different families and beha
 | **want** | coordinator | main-clause (V2) | *Ik blijf thuis, **want** ik **ben** moe.* |
 | **omdat** | subordinator | verb-final | *Ik blijf thuis **omdat** ik moe **ben**.* |
 
-> Choose **want** to tack a justification onto a finished thought; choose **omdat** to fold the cause into a single thought. Native speakers feel **omdat** as tighter and more analytical. Full verb-final treatment: [subordinating conjunctions](/#/grammar?doc=8-structures/03-subordinating.md).
+> Choose **want** to tack a justification onto a finished thought;
+> choose **omdat** to fold the cause into a single thought.
+> Native speakers feel **omdat** as tighter and more analytical.
 
-## The two faces of of
+Full verb-final treatment: [subordinating conjunctions](/#/grammar?doc=8-structures/03-subordinating.md).
+
+## The two faces of `of`
 
 The word *of* does double duty and trips up almost every learner:
 

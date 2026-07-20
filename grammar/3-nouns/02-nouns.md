@@ -17,7 +17,7 @@ flowchart TD
   Q -->|"no — guess, about 2 in 3 are de"| D["de — de tafel, de man"]
 ```
 
-### Guess het for these
+### Guess `het` for these
 
 | Group | Examples |
 |-------|----------|
@@ -28,7 +28,7 @@ flowchart TD
 | Metals and materials | *het goud*, *het ijzer*, *het glas*, *het hout* |
 | Endings *-isme, -ment, -sel, -um* | *het toerisme*, *het moment*, *het deksel*, *het museum* |
 
-### Otherwise it's usually de
+### Otherwise it's usually `de`
 
 | Group | Examples |
 |-------|----------|
@@ -40,7 +40,7 @@ flowchart TD
 
 > Two het-words to memorise because they name people: **het kind** and **het meisje**. (They are het because *-je* wins, and *kind* is just an old neuter.)
 
-## The indefinite article: een
+## The indefinite article: `een`
 
 Dutch has one indefinite article, **een** ("a/an"), used for a singular noun that is new or non-specific. The great thing: **it ignores gender** — de-words and het-words both take *een*, so you never need to know the gender to use it.
 
@@ -76,7 +76,7 @@ Which article — **de** or **het**?
 - [ ] **De** opleiding duurt vier jaar. — The course takes four years.
 - [ ] **Het** meisje speelt buiten. — The girl is playing outside.
 
-> Gender drives more than the article: see [Determiners](/#/grammar?doc=3-nouns/14-determiners.md) for *deze/dit*, [Possessives](/#/grammar?doc=2-pronouns/54-possesives.md) for *ons/onze*, and [Adjectives](/#/grammar?doc=4-bijworden/34-adjectives.md) for the *-e* ending.
+> Gender drives more than the article: see [Determiners](/#/grammar?doc=3-nouns/14-determiners.md) for *deze/dit*, [Possessives](/#/grammar?doc=3-nouns/54-possesives.md) for *ons/onze*, and [Adjectives](/#/grammar?doc=4-bijworden/34-adjectives.md) for the *-e* ending.
 
 ## Common mistakes
 

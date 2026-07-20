@@ -21,7 +21,7 @@ Subordinating conjunctions introduce a **dependent** clauses.
 | `of` | … whether [option] | Ik weet niet **of** hij **komt**. |
 | `omdat` | … because [reason] | Ik blijf thuis **omdat** ik ziek **ben**. |
 | `vanwege` | … because [noun-reason] | De trein reed niet **vanwege** het weer. |
-| `dat` | … that [target] | Hij zegt **dat** hij morgen **komt**. |
+| `dat` | … that [report] | Hij zegt **dat** hij morgen **komt**. |
 | `als` | … if [condition] | **Als** het regent, blijf ik thuis. |
 | `indien` | … formal if [condition] | Neem contact op **indien** nodig. |
 | `hoewel`  | … although [obstacle] | **Hoewel** het regende, gingen we toch. |

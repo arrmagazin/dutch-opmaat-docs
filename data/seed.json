@@ -26,10 +26,10 @@
     },
     {
       "pos": "noun",
-      "domain": "socium",
-      "topic": "virtue",
+      "domain": "resource",
+      "topic": "expose",
       "level": "c",
-      "name": "aandeel, staak",
+      "name": "aandeel",
       "name_en": "stake",
       "similarity": "native",
       "id": "aandeel, staak",
@@ -138,13 +138,13 @@
     },
     {
       "name": "aannemen",
-      "name_en": "assumes",
+      "name_en": "assume",
       "pos": "verb",
       "level": "b",
       "similarity": "native",
       "id": "aannemen",
       "domain": "mental",
-      "topic": "reasoning",
+      "topic": "assume",
       "stem": "neem",
       "also": "aanneemt",
       "forms": "aannemer"
@@ -195,7 +195,7 @@
       "level": "b",
       "similarity": "native",
       "id": "aanspreken",
-      "domain": "language",
+      "domain": "socium",
       "topic": "communicate",
       "stem": "spreek",
       "forms": "sprak aan-spraken aan, heeft aangesproken"
@@ -613,8 +613,8 @@
       "similarity": "universal"
     },
     {
-      "domain": "socium",
-      "topic": "negotiate",
+      "domain": "civil",
+      "topic": "business",
       "level": "a",
       "name": "afdingen",
       "tags": "regulat",
@@ -788,7 +788,7 @@
       "similarity": "native",
       "id": "afspraak",
       "domain": "socium",
-      "topic": "negotiate",
+      "topic": "meeting",
       "stem": "spreek",
       "parent": "afspreken"
     },
@@ -1016,8 +1016,8 @@
       "name": "applaus",
       "name_en": "applause",
       "id": "applaus",
-      "domain": "culture",
-      "topic": "arts",
+      "domain": "body",
+      "topic": "gesture",
       "stem": "applaus",
       "pos": "noun",
       "level": "b",
@@ -1257,7 +1257,7 @@
       "level": "b",
       "id": "bad",
       "domain": "artifacts",
-      "topic": "utensils",
+      "topic": "appliances",
       "stem": "bad",
       "forms": "baden"
     },
@@ -1286,7 +1286,8 @@
       "similarity": "soundex",
       "pos": "verb",
       "id": "bakken",
-      "stem": "bak"
+      "stem": "bak",
+      "also": "gebakken"
     },
     {
       "name": "balans",
@@ -1496,7 +1497,7 @@
       "name_en": "deceive",
       "similarity": "native",
       "stem": "drieg",
-      "also": "leugen"
+      "also": ""
     },
     {
       "pos": "noun",
@@ -1706,18 +1707,6 @@
       "stem": "kend"
     },
     {
-      "name": "bekijken",
-      "name_en": "view",
-      "id": "bekijken",
-      "domain": "experience",
-      "topic": "visual",
-      "stem": "kijk",
-      "parent": "kijken",
-      "pos": "verb",
-      "level": "a",
-      "similarity": "native"
-    },
-    {
       "name": "belachelijk",
       "name_en": "ridiculous",
       "pos": "verb",
@@ -1776,7 +1765,7 @@
     },
     {
       "pos": "verb",
-      "domain": "language",
+      "domain": "socium",
       "topic": "communicate",
       "name": "bellen",
       "level": "a",
@@ -1870,7 +1859,7 @@
       "level": "b",
       "id": "bepalen",
       "domain": "mental",
-      "topic": "reasoning",
+      "topic": "assume",
       "stem": "paal",
       "also": "bepaalde",
       "forms": "bepaalde-bepaalden, heeft bepaald"
@@ -1933,7 +1922,7 @@
       "level": "a",
       "similarity": "native",
       "id": "bericht",
-      "domain": "language",
+      "domain": "socium",
       "topic": "communicate",
       "stem": "richt"
     },
@@ -2214,8 +2203,8 @@
     },
     {
       "pos": "noun",
-      "domain": "knowledge",
-      "topic": "knowledge",
+      "domain": "language",
+      "topic": "express",
       "level": "a",
       "name": "betekenis",
       "name_en": "meaning",
@@ -2395,7 +2384,7 @@
       "similarity": "native",
       "id": "bewijzen",
       "domain": "mental",
-      "topic": "evaluation",
+      "topic": "certainty",
       "stem": "wijs",
       "forms": "bewees-bewezen, heeft bewezen"
     },
@@ -2503,7 +2492,7 @@
       "name_en": "visit",
       "id": "bezoek",
       "domain": "socium",
-      "topic": "common",
+      "topic": "meeting",
       "pos": "noun",
       "level": "a",
       "similarity": "native",
@@ -2547,8 +2536,8 @@
       "pos": "noun",
       "level": "b",
       "id": "bezwaar",
-      "domain": "language",
-      "topic": "communicate",
+      "domain": "socium",
+      "topic": "negotiate",
       "stem": "zwaar"
     },
     {
@@ -2566,7 +2555,7 @@
     },
     {
       "domain": "socium",
-      "topic": "common",
+      "topic": "communicate",
       "level": "a",
       "name": "beïnvloeden",
       "tags": "regulat",
@@ -2645,7 +2634,7 @@
       "name_en": "meeting, gathering",
       "id": "bijeenkomst",
       "domain": "socium",
-      "topic": "common",
+      "topic": "meeting",
       "stem": "koom",
       "pos": "noun",
       "level": "b",
@@ -2687,18 +2676,6 @@
       "name_en": "bite",
       "similarity": "soundex",
       "stem": "bijt"
-    },
-    {
-      "name": "bijvoorbeeld",
-      "name_en": "for example",
-      "pos": "noun",
-      "level": "a",
-      "similarity": "native",
-      "id": "bijvoorbeeld",
-      "domain": "language",
-      "topic": "reason",
-      "article": "de",
-      "stem": "voorbeeld"
     },
     {
       "name": "bijwerking",
@@ -3739,7 +3716,7 @@
     },
     {
       "pos": "noun",
-      "domain": "knowledge",
+      "domain": "language",
       "topic": "script",
       "level": "b",
       "name": "cijfer",
@@ -3803,7 +3780,7 @@
       "name": "communiceren",
       "name_en": "communicate",
       "id": "communiceren",
-      "domain": "language",
+      "domain": "socium",
       "similarity": "universal",
       "pos": "verb",
       "level": "b",
@@ -3831,7 +3808,7 @@
       "similarity": "universal",
       "id": "computer",
       "domain": "artifacts",
-      "topic": "technic",
+      "topic": "media",
       "level": "b",
       "stem": "comput"
     },
@@ -3888,7 +3865,7 @@
       "name_en": "conference",
       "id": "conferentie",
       "domain": "socium",
-      "topic": "common",
+      "topic": "meeting",
       "stem": "conferent",
       "pos": "noun",
       "level": "b",
@@ -4706,7 +4683,7 @@
       "level": "b",
       "id": "doos",
       "domain": "artifacts",
-      "topic": "tool",
+      "topic": "technic",
       "stem": "doos"
     },
     {
@@ -4871,7 +4848,7 @@
       "level": "a",
       "id": "dromen",
       "domain": "mental",
-      "topic": "mental",
+      "topic": "prognosis",
       "stem": "droom",
       "forms": "droom,droomde-droomden, heeft gedroomd"
     },
@@ -4940,7 +4917,7 @@
     {
       "pos": "adj",
       "domain": "mental",
-      "topic": "reasoning",
+      "topic": "cognition",
       "level": "a",
       "name": "duidelijk",
       "name_en": "clear, obvious",
@@ -5163,7 +5140,7 @@
       "name_en": "economic",
       "id": "economisch",
       "domain": "civil",
-      "topic": "business",
+      "topic": "finance",
       "parent": "economie",
       "stem": "econom",
       "pos": "adj",
@@ -5224,7 +5201,7 @@
     {
       "pos": "noun",
       "domain": "socium",
-      "topic": "common",
+      "topic": "cooperate",
       "level": "a",
       "name": "eenzaam",
       "name_en": "loneliness",
@@ -5358,8 +5335,8 @@
       "level": "a",
       "similarity": "native",
       "id": "eigenlijk",
-      "domain": "language",
-      "topic": "reason",
+      "domain": "core",
+      "topic": "thing",
       "stem": "eigen",
       "parent": "eigen"
     },
@@ -5584,7 +5561,7 @@
     {
       "pos": "verb",
       "domain": "mental",
-      "topic": "mental",
+      "topic": "know",
       "level": "b",
       "name": "erkennen",
       "name_en": "acknowledged",
@@ -5884,32 +5861,9 @@
       "article": "het",
       "plural": "-en",
       "id": "feest",
-      "stem": "feest"
-    },
-    {
-      "name": "feestdag",
-      "name_en": "holidays",
-      "id": "feestdag",
-      "domain": "culture",
-      "topic": "customs",
-      "parent": "feest",
       "stem": "feest",
-      "pos": "noun",
-      "level": "a",
-      "similarity": "native",
-      "forms": "feestdagen"
-    },
-    {
-      "name": "feestje",
-      "name_en": "party",
-      "id": "feestje",
-      "domain": "culture",
-      "topic": "customs",
-      "parent": "feest",
-      "stem": "feest",
-      "pos": "noun",
-      "level": "a",
-      "similarity": "native"
+      "also": "feestdag",
+      "forms": "feestje"
     },
     {
       "pos": "adj",
@@ -6322,7 +6276,7 @@
       "level": "a",
       "id": "gast",
       "domain": "socium",
-      "topic": "common",
+      "topic": "meeting",
       "stem": "gast"
     },
     {
@@ -6362,18 +6316,6 @@
       "topic": "dishes",
       "stem": "bak",
       "parent": "gebaren"
-    },
-    {
-      "name": "gebakken",
-      "name_en": "fried",
-      "id": "gebakken",
-      "domain": "food",
-      "topic": "cook",
-      "parent": "gebakken",
-      "stem": "bak",
-      "pos": "adj",
-      "level": "b",
-      "similarity": "native"
     },
     {
       "domain": "body",
@@ -6482,8 +6424,8 @@
       "pos": "noun",
       "level": "b",
       "id": "gecondoleerd",
-      "domain": "language",
-      "topic": "relation",
+      "domain": "socium",
+      "topic": "care",
       "article": "de",
       "stem": "condolerd"
     },
@@ -6650,8 +6592,8 @@
       "level": "a",
       "similarity": "native",
       "id": "geheim",
-      "domain": "language",
-      "topic": "communicate",
+      "domain": "socium",
+      "topic": "secret",
       "article": "het",
       "stem": "heim"
     },
@@ -6777,7 +6719,7 @@
     {
       "pos": "verb",
       "domain": "mental",
-      "topic": "reasoning",
+      "topic": "cognition",
       "level": "b",
       "name": "gelijkenis",
       "name_en": "seeming",
@@ -6801,7 +6743,7 @@
     {
       "pos": "noun",
       "domain": "mental",
-      "topic": "reasoning",
+      "topic": "assume",
       "level": "a",
       "name": "geloof",
       "name_en": "faith",
@@ -6865,8 +6807,8 @@
     },
     {
       "pos": "noun",
-      "domain": "socium",
-      "topic": "common",
+      "domain": "civil",
+      "topic": "society",
       "level": "b",
       "name": "gemeenschap",
       "name_en": "community",
@@ -6957,8 +6899,8 @@
       "level": "b",
       "similarity": "native",
       "id": "geschiedenis",
-      "domain": "culture",
-      "topic": "customs",
+      "domain": "knowledge",
+      "topic": "science",
       "stem": "geschied"
     },
     {
@@ -7280,8 +7222,8 @@
       "name": "gitaar",
       "name_en": "guitar",
       "id": "gitaar",
-      "domain": "culture",
-      "topic": "arts",
+      "domain": "artifacts",
+      "topic": "media",
       "stem": "gitaar",
       "pos": "noun",
       "level": "b",
@@ -7703,8 +7645,8 @@
     },
     {
       "pos": "verb",
-      "domain": "language",
-      "topic": "communicate",
+      "domain": "socium",
+      "topic": "talk",
       "name": "groeten",
       "level": "a",
       "tags": "regulat",
@@ -7776,7 +7718,7 @@
     },
     {
       "name": "gunnen",
-      "name_en": "to grant, to not begrudge",
+      "name_en": "to grant",
       "id": "gunnen",
       "domain": "socium",
       "topic": "virtue",
@@ -7951,8 +7893,8 @@
       "name": "handdruk",
       "name_en": "handshake",
       "id": "handdruk",
-      "domain": "socium",
-      "topic": "common",
+      "domain": "body",
+      "topic": "gesture",
       "stem": "druk",
       "pos": "noun",
       "level": "b",
@@ -8353,7 +8295,7 @@
       "name_en": "recognize",
       "id": "herkennen",
       "domain": "mental",
-      "topic": "inspect",
+      "topic": "cognition",
       "level": "a",
       "preposition": "aan",
       "tags": "prefix",
@@ -8599,8 +8541,8 @@
     },
     {
       "pos": "verb",
-      "domain": "experience",
-      "topic": "audio",
+      "domain": "socium",
+      "topic": "talk",
       "level": "a",
       "name": "hoor",
       "name_en": "just-ok",
@@ -8896,8 +8838,8 @@
       "pos": "verb",
       "level": "b",
       "id": "inderdaad",
-      "domain": "language",
-      "topic": "relation",
+      "domain": "core",
+      "topic": "thing",
       "stem": "daad",
       "parent": "inderdaad"
     },
@@ -8956,7 +8898,7 @@
       "id": "informeel",
       "also": "informele",
       "domain": "socium",
-      "topic": "common",
+      "topic": "talk",
       "stem": "form",
       "pos": "adj",
       "level": "b",
@@ -8966,7 +8908,7 @@
       "name": "informeren",
       "name_en": "to inform",
       "id": "informeren",
-      "domain": "language",
+      "domain": "socium",
       "topic": "communicate",
       "pos": "verb",
       "level": "a",
@@ -9522,8 +9464,8 @@
       "level": "b",
       "similarity": "native",
       "id": "jammer",
-      "domain": "language",
-      "topic": "relation",
+      "domain": "experience",
+      "topic": "feelings",
       "stem": "jammer"
     },
     {
@@ -10879,7 +10821,7 @@
       "level": "b",
       "id": "kraan",
       "domain": "artifacts",
-      "topic": "appliances",
+      "topic": "technic",
       "stem": "kraan"
     },
     {
@@ -11715,8 +11657,8 @@
       "name": "leugen",
       "name_en": "lie",
       "id": "leugen",
-      "domain": "language",
-      "topic": "communicate",
+      "domain": "socium",
+      "topic": "deceive",
       "stem": "lieg",
       "pos": "noun",
       "level": "b",
@@ -11786,7 +11728,7 @@
     },
     {
       "pos": "verb",
-      "domain": "knowledge",
+      "domain": "language",
       "topic": "script",
       "name": "lezen",
       "level": "a",
@@ -11847,7 +11789,7 @@
       "similarity": "native",
       "id": "lied",
       "domain": "culture",
-      "topic": "leisure",
+      "topic": "arts",
       "stem": "lied",
       "forms": "liedje, liedjes"
     },
@@ -12430,8 +12372,8 @@
       "level": "b",
       "similarity": "universal",
       "id": "mailen",
-      "domain": "language",
-      "topic": "communicate",
+      "domain": "resource",
+      "topic": "send",
       "stem": "mail",
       "forms": "mailde-mailden, heeft gemaild"
     },
@@ -12845,8 +12787,8 @@
       "stem": "mes"
     },
     {
-      "domain": "mental",
-      "topic": "evaluation",
+      "domain": "core",
+      "topic": "measure",
       "level": "a",
       "name": "meten",
       "tags": "e-a-e",
@@ -12862,8 +12804,8 @@
       "name_en": "companion",
       "id": "metgezel",
       "also": "metgezellen",
-      "domain": "socium",
-      "topic": "common",
+      "domain": "civil",
+      "topic": "business",
       "stem": "gezel",
       "pos": "noun",
       "level": "c",
@@ -13049,8 +12991,8 @@
       "level": "a",
       "similarity": "native",
       "id": "misschien",
-      "domain": "language",
-      "topic": "reason",
+      "domain": "mental",
+      "topic": "certainty",
       "stem": "misschien"
     },
     {
@@ -13070,7 +13012,7 @@
       "name_en": "mobile",
       "id": "mobiel",
       "domain": "artifacts",
-      "topic": "appliances",
+      "topic": "media",
       "stem": "mobiel",
       "pos": "noun",
       "level": "a",
@@ -13465,7 +13407,7 @@
       "id": "nadenken",
       "also": "nagedacht",
       "domain": "mental",
-      "topic": "reasoning",
+      "topic": "mental",
       "stem": "denk",
       "parent": "denken",
       "pos": "verb",
@@ -13504,7 +13446,7 @@
       "id": "namelijk",
       "parent": "naam",
       "domain": "language",
-      "topic": "reason",
+      "topic": "language",
       "stem": "naam"
     },
     {
@@ -13820,13 +13762,13 @@
     },
     {
       "name": "noteren",
-      "name_en": "note down, make a note",
+      "name_en": "make a note",
       "similarity": "native",
       "pos": "verb",
       "level": "b",
       "id": "noteren",
       "domain": "language",
-      "topic": "communicate",
+      "topic": "script",
       "stem": "not",
       "forms": "noteerde-noteerden, heeft genoteerd"
     },
@@ -14191,7 +14133,7 @@
       "name_en": "subject",
       "id": "onderwerp",
       "domain": "language",
-      "topic": "express",
+      "topic": "language",
       "stem": "werp",
       "pos": "noun",
       "level": "a",
@@ -14913,12 +14855,12 @@
     },
     {
       "name": "opnemen",
-      "name_en": "(contact…) to get in touch",
+      "name_en": "to get in touch",
       "pos": "verb",
       "level": "b",
       "similarity": "native",
       "id": "opnemen",
-      "domain": "language",
+      "domain": "socium",
       "topic": "communicate",
       "stem": "neem"
     },
@@ -15049,8 +14991,8 @@
       "name": "optreden",
       "name_en": "performance",
       "id": "optreden",
-      "domain": "culture",
-      "topic": "arts",
+      "domain": "agentic",
+      "topic": "operation",
       "stem": "treed",
       "pos": "noun",
       "level": "b",
@@ -15250,8 +15192,8 @@
       "name_en": "exaggerate",
       "id": "overdrijven",
       "also": "overdrijf",
-      "domain": "language",
-      "topic": "communicate",
+      "domain": "mental",
+      "topic": "evaluation",
       "stem": "drijf",
       "pos": "verb",
       "level": "b",
@@ -15363,7 +15305,7 @@
       "id": "overwegen",
       "also": "overweeg",
       "domain": "mental",
-      "topic": "reasoning",
+      "topic": "inspect",
       "stem": "weeg",
       "pos": "verb",
       "level": "b",
@@ -15559,7 +15501,7 @@
       "level": "b",
       "id": "paraplu",
       "domain": "artifacts",
-      "topic": "tool",
+      "topic": "accessories",
       "stem": "paraplu"
     },
     {
@@ -15569,8 +15511,8 @@
       "level": "b",
       "similarity": "universal",
       "id": "pardon",
-      "domain": "language",
-      "topic": "relation",
+      "domain": "socium",
+      "topic": "talk",
       "article": "de",
       "stem": "pardon"
     },
@@ -15714,8 +15656,8 @@
       "level": "b",
       "similarity": "universal",
       "id": "patiënt",
-      "domain": "socium",
-      "topic": "common",
+      "domain": "civil",
+      "topic": "service",
       "stem": "patiënt"
     },
     {
@@ -15829,7 +15771,8 @@
       "id": "persoon",
       "domain": "socium",
       "topic": "person",
-      "stem": "person"
+      "stem": "person",
+      "also": "persoonlijkheid"
     },
     {
       "name": "persoonlijk",
@@ -15843,18 +15786,6 @@
       "level": "b",
       "similarity": "universal",
       "forms": "persoonlijke"
-    },
-    {
-      "name": "persoonlijkheid",
-      "name_en": "personality",
-      "id": "persoonlijkheid",
-      "domain": "socium",
-      "topic": "person",
-      "parent": "persoon",
-      "stem": "persoon",
-      "pos": "noun",
-      "level": "b",
-      "similarity": "universal"
     },
     {
       "name": "perspectief",
@@ -16174,8 +16105,8 @@
       "name": "podium",
       "name_en": "stage",
       "id": "podium",
-      "domain": "culture",
-      "topic": "arts",
+      "domain": "artifacts",
+      "topic": "buildparts",
       "stem": "podium",
       "pos": "noun",
       "level": "b",
@@ -16368,8 +16299,8 @@
       "level": "b",
       "similarity": "universal",
       "id": "posten",
-      "domain": "language",
-      "topic": "communicate",
+      "domain": "resource",
+      "topic": "send",
       "stem": "post",
       "forms": "post"
     },
@@ -16570,8 +16501,8 @@
       "level": "b",
       "similarity": "universal",
       "id": "prima",
-      "domain": "language",
-      "topic": "relation",
+      "domain": "experience",
+      "topic": "pleasure",
       "stem": "prima"
     },
     {
@@ -16601,8 +16532,8 @@
       "name": "privé",
       "name_en": "private",
       "id": "privé",
-      "domain": "socium",
-      "topic": "common",
+      "domain": "civil",
+      "topic": "society",
       "pos": "adj",
       "level": "a",
       "similarity": "universal",
@@ -16699,7 +16630,7 @@
     {
       "pos": "verb",
       "domain": "mental",
-      "topic": "inspect",
+      "topic": "certainty",
       "level": "b",
       "name": "proef",
       "name_en": "test, trial",
@@ -16784,8 +16715,8 @@
       "name": "publiek",
       "name_en": "audience",
       "id": "publiek",
-      "domain": "socium",
-      "topic": "common",
+      "domain": "civil",
+      "topic": "society",
       "stem": "publiek",
       "pos": "noun",
       "level": "b",
@@ -16863,7 +16794,7 @@
     },
     {
       "domain": "mental",
-      "topic": "reasoning",
+      "topic": "assume",
       "level": "a",
       "name": "raden",
       "tags": "most",
@@ -16957,8 +16888,8 @@
       "pos": "noun",
       "level": "b",
       "id": "recensie",
-      "domain": "language",
-      "topic": "communicate",
+      "domain": "knowledge",
+      "topic": "knowledge",
       "stem": "recens"
     },
     {
@@ -17321,8 +17252,8 @@
       "pos": "noun",
       "level": "b",
       "id": "relatie",
-      "domain": "socium",
-      "topic": "common",
+      "domain": "civil",
+      "topic": "society",
       "stem": "relaat"
     },
     {
@@ -17533,7 +17464,7 @@
     {
       "pos": "noun",
       "domain": "civil",
-      "topic": "society",
+      "topic": "finance",
       "level": "a",
       "name": "rijk",
       "name_en": "rich",
@@ -17685,7 +17616,7 @@
     {
       "pos": "verb",
       "domain": "socium",
-      "topic": "talk",
+      "topic": "communicate",
       "level": "b",
       "name": "roepen",
       "name_en": "called",
@@ -18303,7 +18234,7 @@
       "name_en": "picturesque",
       "id": "schilderachtig",
       "domain": "experience",
-      "topic": "visual",
+      "topic": "pleasure",
       "parent": "schilderen",
       "stem": "schilder",
       "pos": "adj",
@@ -18312,7 +18243,7 @@
     },
     {
       "pos": "verb",
-      "domain": "knowledge",
+      "domain": "language",
       "topic": "script",
       "name": "schilderen",
       "level": "a",
@@ -18552,7 +18483,7 @@
     },
     {
       "pos": "verb",
-      "domain": "knowledge",
+      "domain": "language",
       "topic": "script",
       "name": "schrijven",
       "preposition": "aan, over",
@@ -18953,7 +18884,7 @@
     },
     {
       "domain": "body",
-      "topic": "mimic",
+      "topic": "eating",
       "level": "a",
       "name": "slikken",
       "tags": "regulat",
@@ -19207,8 +19138,8 @@
       "level": "a",
       "similarity": "universal",
       "id": "sociaal",
-      "domain": "socium",
-      "topic": "common",
+      "domain": "civil",
+      "topic": "society",
       "article": "de",
       "stem": "sociaal"
     },
@@ -19704,8 +19635,8 @@
       "stem": "stalen"
     },
     {
-      "domain": "socium",
-      "topic": "talk",
+      "domain": "body",
+      "topic": "voice",
       "level": "b",
       "name": "stamelen",
       "tags": "regulat",
@@ -20569,7 +20500,7 @@
       "level": "b",
       "id": "tablet",
       "domain": "artifacts",
-      "topic": "appliances",
+      "topic": "media",
       "article": "de",
       "stem": "tablet"
     },
@@ -20753,7 +20684,7 @@
     },
     {
       "pos": "verb",
-      "domain": "knowledge",
+      "domain": "language",
       "topic": "script",
       "name": "tekenen",
       "level": "a",
@@ -20783,7 +20714,7 @@
       "name_en": "phone",
       "id": "telefoon",
       "domain": "artifacts",
-      "topic": "appliances",
+      "topic": "media",
       "stem": "telefoon",
       "pos": "noun",
       "level": "a",
@@ -20815,7 +20746,7 @@
     },
     {
       "domain": "mental",
-      "topic": "inspect",
+      "topic": "reasoning",
       "level": "a",
       "name": "tellen",
       "tags": "regulat",
@@ -21259,7 +21190,7 @@
       "name_en": "test",
       "id": "toets",
       "domain": "mental",
-      "topic": "evaluation",
+      "topic": "certainty",
       "stem": "toets",
       "pos": "noun",
       "level": "b",
@@ -21526,7 +21457,7 @@
     },
     {
       "domain": "socium",
-      "topic": "deceive",
+      "topic": "care",
       "level": "a",
       "name": "troosten",
       "tags": "regulat",
@@ -21853,7 +21784,7 @@
     {
       "pos": "verb",
       "domain": "language",
-      "topic": "communicate",
+      "topic": "express",
       "level": "c",
       "name": "uitleggen",
       "name_en": "to explain",
@@ -21924,15 +21855,15 @@
       "similarity": "native",
       "id": "uitschrijven",
       "domain": "language",
-      "topic": "communicate",
+      "topic": "script",
       "stem": "schrijf"
     },
     {
       "name": "uitspraak",
       "name_en": "pronunciation, statement",
       "id": "uitspraak",
-      "domain": "socium",
-      "topic": "talk",
+      "domain": "body",
+      "topic": "voice",
       "pos": "noun",
       "level": "a",
       "similarity": "native",
@@ -22008,8 +21939,8 @@
       "level": "b",
       "similarity": "native",
       "id": "uitzending",
-      "domain": "language",
-      "topic": "communicate",
+      "domain": "resource",
+      "topic": "send",
       "stem": "zend",
       "also": "verzenden"
     },
@@ -22595,7 +22526,7 @@
     {
       "pos": "noun",
       "domain": "socium",
-      "topic": "game",
+      "topic": "conflict",
       "level": "c",
       "name": "verdediging",
       "name_en": "defense",
@@ -22883,18 +22814,6 @@
       "forms": "verklaarde-verklaarden, heeft verklaard"
     },
     {
-      "name": "verkoop",
-      "name_en": "sale",
-      "id": "verkoop",
-      "domain": "civil",
-      "topic": "market",
-      "parent": "verkopen",
-      "stem": "koop",
-      "pos": "noun",
-      "level": "b",
-      "similarity": "native"
-    },
-    {
       "pos": "verb",
       "domain": "civil",
       "topic": "market",
@@ -22907,7 +22826,8 @@
       "similarity": "native",
       "id": "verkopen",
       "stem": "koop",
-      "parent": "kopen"
+      "parent": "kopen",
+      "also": "verkoop"
     },
     {
       "name": "verkouden",
@@ -23314,8 +23234,8 @@
       "name_en": "confidential",
       "id": "vertrouwelijk",
       "also": "vertrouwelijke",
-      "domain": "language",
-      "topic": "communicate",
+      "domain": "socium",
+      "topic": "secret",
       "stem": "trouw",
       "parent": "vertrouwen -- verraad",
       "pos": "adj",
@@ -23328,7 +23248,7 @@
       "id": "vertrouwen",
       "also": "vertrouw",
       "domain": "socium",
-      "topic": "virtue",
+      "topic": "recognition",
       "stem": "trouw",
       "parent": "vertrouwen -- verraad",
       "pos": "verb",
@@ -23504,7 +23424,7 @@
       "name": "verzekeren",
       "name_en": "assure",
       "id": "verzekeren",
-      "also": "verzeker",
+      "also": "verzeker, verzekeringsmaatschappij",
       "domain": "civil",
       "topic": "business",
       "pos": "verb",
@@ -23512,18 +23432,6 @@
       "stem": "zeek",
       "parent": "",
       "level": "b",
-      "similarity": "native"
-    },
-    {
-      "name": "verzekeringsmaatschappij",
-      "name_en": "insurance company",
-      "id": "verzekeringsmaatschappij",
-      "domain": "civil",
-      "topic": "business",
-      "parent": "verzekeren",
-      "stem": "zeek",
-      "pos": "noun",
-      "level": "c",
       "similarity": "native"
     },
     {
@@ -23613,7 +23521,7 @@
     {
       "pos": "noun",
       "domain": "artifacts",
-      "topic": "document",
+      "topic": "media",
       "level": "c",
       "name": "vijl",
       "name_en": "file",
@@ -23698,7 +23606,7 @@
     },
     {
       "name": "vitrage",
-      "name_en": "(het & de; -s) lace curtain",
+      "name_en": "lace curtain",
       "pos": "noun",
       "level": "b",
       "similarity": "universal",
@@ -24064,7 +23972,8 @@
       "plural": "-en",
       "similarity": "native",
       "id": "voorbeeld",
-      "stem": "beeld"
+      "stem": "beeld",
+      "also": "bijvoorbeeld"
     },
     {
       "name": "voorbereiden",
@@ -24161,8 +24070,8 @@
       "pos": "noun",
       "level": "b",
       "id": "voorlichting",
-      "domain": "knowledge",
-      "topic": "knowledge",
+      "domain": "language",
+      "topic": "express",
       "stem": "licht"
     },
     {
@@ -24179,7 +24088,7 @@
     {
       "pos": "noun",
       "domain": "mental",
-      "topic": "reasoning",
+      "topic": "assume",
       "level": "b",
       "name": "vooroordeel",
       "name_en": "prejudice",
@@ -24494,34 +24403,9 @@
       "plural": "-en",
       "similarity": "soundex",
       "id": "vriend",
-      "stem": "vriend"
-    },
-    {
-      "name": "vriendin",
-      "name_en": "girlfriend",
-      "id": "vriendin",
-      "domain": "socium",
-      "topic": "cooperate",
-      "parent": "vriend",
       "stem": "vriend",
-      "pos": "noun",
-      "level": "a",
-      "similarity": "native"
-    },
-    {
-      "name": "vriendschap",
-      "name_en": "friendship",
-      "id": "vriendschap",
-      "domain": "socium",
-      "topic": "virtue",
-      "pos": "noun",
-      "level": "a",
-      "similarity": "native",
-      "article": "de",
-      "plural": "-en",
-      "stem": "vriend",
-      "forms": "vriendschappen,vriendelijk",
-      "parent": "vriend"
+      "also": "vriendschap",
+      "forms": "vriendin"
     },
     {
       "domain": "system",
@@ -24688,18 +24572,19 @@
     {
       "pos": "noun",
       "domain": "mental",
-      "topic": "reasoning",
+      "topic": "certainty",
       "level": "b",
-      "name": "waarheid -- leugen, bedrog",
-      "name_en": "truth -- falsehood",
+      "name": "waarheid",
+      "name_en": "truth",
       "similarity": "native",
       "id": "waarheid -- leugen, bedrog",
       "article": "de",
-      "stem": "waar"
+      "stem": "waar",
+      "forms": "leugen"
     },
     {
-      "domain": "mental",
-      "topic": "inspect",
+      "domain": "experience",
+      "topic": "perceive",
       "level": "a",
       "name": "waarnemen",
       "tags": "regulat",
@@ -24738,7 +24623,7 @@
     {
       "pos": "noun",
       "domain": "socium",
-      "topic": "game",
+      "topic": "care",
       "level": "a",
       "name": "wacht",
       "name_en": "guard",
@@ -24865,7 +24750,7 @@
       "id": "wastafel",
       "parent": "wassen",
       "domain": "artifacts",
-      "topic": "utensils",
+      "topic": "appliances",
       "stem": "was"
     },
     {
@@ -25054,8 +24939,8 @@
       "name": "wel",
       "name_en": "indeed, well",
       "id": "wel",
-      "domain": "language",
-      "topic": "reason",
+      "domain": "core",
+      "topic": "thing",
       "pos": "adv",
       "level": "a",
       "similarity": "native",
@@ -25066,7 +24951,7 @@
       "name_en": "welcome",
       "id": "welkom",
       "domain": "socium",
-      "topic": "common",
+      "topic": "convince",
       "stem": "welkom",
       "pos": "adj",
       "level": "a",
@@ -25233,7 +25118,7 @@
     {
       "pos": "verb",
       "domain": "mental",
-      "topic": "mental",
+      "topic": "know",
       "level": "a",
       "name": "weten",
       "tags": "most",
@@ -25419,7 +25304,7 @@
       "similarity": "native",
       "id": "winkelen",
       "domain": "civil",
-      "topic": "business",
+      "topic": "market",
       "stem": "winkel",
       "forms": "winkel"
     },
@@ -25680,7 +25565,7 @@
     {
       "pos": "noun",
       "domain": "socium",
-      "topic": "game",
+      "topic": "conflict",
       "level": "c",
       "name": "wraak",
       "name_en": "revenge",
@@ -25942,8 +25827,8 @@
       "name": "zender",
       "name_en": "channel",
       "id": "zender",
-      "domain": "culture",
-      "topic": "arts",
+      "domain": "resource",
+      "topic": "send",
       "stem": "zend",
       "pos": "noun",
       "level": "b",
@@ -26090,7 +25975,7 @@
     {
       "pos": "verb",
       "domain": "culture",
-      "topic": "leisure",
+      "topic": "arts",
       "level": "a",
       "name": "zingen",
       "tags": "i-o-o",
@@ -26453,8 +26338,8 @@
     },
     {
       "pos": "verb",
-      "domain": "language",
-      "topic": "communicate",
+      "domain": "socium",
+      "topic": "secret",
       "level": "b",
       "name": "zwijgen",
       "tags": "ei-ee-e",

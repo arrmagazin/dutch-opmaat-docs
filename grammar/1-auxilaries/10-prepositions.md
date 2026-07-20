@@ -8,7 +8,7 @@ Prepositions are used to:
 
 ## Logical Relations — means & reference
 
-Beyond space and time, a handful of prepositions cover **means**, **accompaniment**, and **reference**.
+A handful of prepositions cover **means**, **accompaniment**, and **reference**.
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -19,9 +19,10 @@ Beyond space and time, a handful of prepositions cover **means**, **accompanimen
 | `tegen` | against / to [opposite] | Hij praat **tegen** zijn baas. |
 | `volgens` | according to [authority]| **Volgens** mij heb je gelijk. |
 | `dankzij` | thanks to [helper] | **Dankzij** jou is het gelukt. |
-| `ondanks` | despite [obstackle]| **Ondanks** de regen was het leuk. |
+| `ondanks` | despite [obstacle]| **Ondanks** de regen was het leuk. |
 
-> **over** here = "about" (*een boek over geschiedenis*), a different sense from the time *over* ("in X from now", *over vijf minuten*). **ondanks** takes a **noun** (*ondanks de regen*); for a full clause use **hoewel** (*hoewel het regende*) — see [Connectors](/#/grammar?doc=1-auxilaries/00-connectors.md).
+> **over** here = "about" (*een boek over geschiedenis*), a different sense from the time *over* ("in X from now", *over vijf minuten*).
+> **ondanks** takes a **noun** (*ondanks de regen*); for a full clause use **hoewel** (*hoewel het regende*) — see [Connectors](/#/grammar?doc=1-auxilaries/00-connectors.md).
 
 ## Place — where
 
@@ -102,10 +103,10 @@ flowchart TD
 | `zo meteen` / `dadelijk` | in a moment | Ik kom **zo meteen**. |
 | `meteen` | immediately | Ik doe het **meteen**. |
 | `net` | just now | Hij is **net** weg. |
-| `al` | already | Ik heb **al** gegeten. |
-| `nog` | still / yet | Ben je **nog** hier? |
 | `pas` | only just / not until | Ik ben **pas** aangekomen. |
+| `nog` | still / yet | Ben je **nog** hier? |
 | `binnenkort` | soon | We zien elkaar **binnenkort**. |
+| `al` | already | Ik heb **al** gegeten. |
 | `tegenwoordig` | nowadays | **Tegenwoordig** werk ik thuis. |
 
 ## Place & direction adverbs — where / which way

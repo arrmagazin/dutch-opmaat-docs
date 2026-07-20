@@ -1,6 +1,8 @@
 # Relative Clauses: **die**, **dat**, **waar-**, **wie**  *(B1)*
 
-A **relative clause** attaches extra information to a noun (the *antecedent*). In Dutch, the relative pronoun is chosen by the noun's **gender** (de-word vs. het-word), not by its grammatical role in the clause. Like all subordinate clauses, the verb goes to the **end**.
+A **relative clause** attaches extra information to a noun (the *antecedent*).
+
+ In Dutch, the relative pronoun is chosen by the noun's **gender** (de-word vs. het-word), not by its grammatical role in the clause. Like all subordinate clauses, the verb goes to the **end**.
 
 A relative clause attaches after the noun and is verb-final inside:
 

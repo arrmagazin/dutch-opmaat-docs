@@ -1,4 +1,4 @@
-# Polite words and phrases
+# Polite words and phrases, small talks
 
 ## Begroetingen
 
@@ -11,6 +11,10 @@
 - [ ] **Tot ziens**, fijne dag nog! -- Een prettige dag gewenst.
 - [ ] Ik ben zo klaar, **tot zo**!
 - [ ] **Zie je** morgen op school.
+
+---
+
+[10 short conversations](https://www.youtube.com/watch?v=h-uTIVqaAxU)
 
 ## Basisuitdrukkingen
 
