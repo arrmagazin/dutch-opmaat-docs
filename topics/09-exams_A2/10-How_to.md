@@ -2,9 +2,6 @@
 
 ## Approach
 
-- [ ] [Strategies](https://inburgeren-ai.nl/strategies)
-- [ ] [Self assess](https://learn-dutch-with-ai.com/dutch-language-self-assessment-test/)
-
 ### What did NOT help me
 
 - [ ] **Guilt.** This is genuinely hard. Be gentle with yourself.
@@ -23,13 +20,6 @@
 - [ ] **A 1:1 tutor.** The best way to supplement your learning. Mine was a retired-teacher neighbour — not a professional. I asked her for just two things: (1) pronunciation and (2) basic grammar. About 10–15 hours is enough.
 - [ ] **_De Opmaat naar NT2-niveau A2._** The grammar book my tutor used. In hindsight it's far more than the exam needs, but the opening chapters helped.
 
-## External sources
-
-- [ ] [inburgeren.nl](https://www.inburgeren.nl/examen-doen/oefenen.jsp)
-- [ ] [inburgeren.nl - A2 exams mocks](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)
-- [ ] [oefenen.nl](https://oefenen.nl/program/overview)
-- [ ] [learn-dutch-with-ai - mock exams](https://learn-dutch-with-ai.com/inburgering-mock-exams/)
-
 ## Logistic
 
 ### Before the exam
@@ -46,6 +36,15 @@
 - [ ] When the door opens, join the queue. You're checked in and given a computer number (watch the list if listening is hard). Sit at that computer and wait for everyone to start together.
 - [ ] Someone talks through the exam at length. Don't worry about what you don't understand — if you did the practice exams, you don't need it.
 - [ ] When you're done, you leave.
+
+## External sources
+
+- [ ] [inburgeren.nl](https://www.inburgeren.nl/examen-doen/oefenen.jsp)
+- [ ] [inburgeren.nl - A2 exams mocks](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)
+- [ ] [oefenen.nl](https://oefenen.nl/program/overview)
+- [ ] [learn-dutch-with-ai - mock exams](https://learn-dutch-with-ai.com/inburgering-mock-exams/)
+- [ ] [Strategies](https://inburgeren-ai.nl/strategies)
+- [ ] [Self assess](https://learn-dutch-with-ai.com/dutch-language-self-assessment-test/)
 
 ## What next: NT2
 

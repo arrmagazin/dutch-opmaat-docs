@@ -1,12 +1,44 @@
 # Calendar
 
-How to talk about *when* things happen — clock time, days, parts of the day, weeks, months, and seasons.
+## Time prepositions
 
-- [ ] Wat is de **datum** van vandaag?
-- [ ] Volgende **week** ben ik vrij.
-- [ ] In welke **maand** ben je jarig?
-- [ ] Dit **jaar** ga ik naar Spanje.
-- [ ] De feestdagen staan op de **kalender**.
+| Dutch | English | Example |
+|-------|---------|---------|
+| `in` | in (month/year/season) | **In** januari sneeuwt het. |
+| `op` | on (day/date) | **Op** maandag werk ik thuis. |
+| `om` | at (clock time) | De film begint **om** acht uur. |
+| `voordat` | before [occur] | Bel me **voordat** je **vertrekt**. |
+| `nadat` | after [occur] | **Nadat** we **gegeten hadden**, gingen we wandelen. |
+| `zodra` | as soon as [occur] | Bel me **zodra** je **aankomt**. |
+| `totdat` | until [occur] | Wacht **totdat** ik **kom**. |
+| `toen`  | when [past-period] | **Toen** ik klein **was**, woonde ik hier. |
+| `terwijl`  | while [period] | Hij las **terwijl** ik **kookte**. |
+| `tijdens` | during [period]| **Tijdens** de vergadering bel ik niet. |
+| `sinds` | since [moment] | Ik woon hier **sinds** 2018. |
+| `tot` / `totdat` | until [moment]| We blijven **tot** zeven uur. |
+| `vanaf` | from (a time on) [occur] | **Vanaf** maandag ben ik vrij. |
+| `binnen` | within | Ik kom **binnen** een uur. |
+| `over` | in (X from now) | Ik bel je **over** vijf minuten. |
+| `geleden` | ago | Ik ben hier drie jaar **geleden** begonnen. |
+
+> *over een uur* = in an hour (future) ↔ *een uur **geleden*** = an hour ago (**geleden** follows the time phrase). *binnen een uur* = any time within the next hour.
+>
+> **terwijl vs tijdens** (both "during"): **terwijl** is a conjunction + clause (*terwijl ik werk*); **tijdens** is a preposition + noun (*tijdens het werk*). See [Connectors](/#/grammar?doc=1-auxilaries/00-connectors.md).
+
+## Time adverbs — when (no noun)
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| `nu` | now | Ik heb **nu** geen tijd. |
+| `straks` | later today | Ik kom **straks** langs. |
+| `zo meteen` / `dadelijk` | in a moment | Ik kom **zo meteen**. |
+| `meteen` | immediately | Ik doe het **meteen**. |
+| `net` | just now | Hij is **net** weg. |
+| `pas` | only just / not until | Ik ben **pas** aangekomen. |
+| `nog` | still / yet | Ben je **nog** hier? |
+| `binnenkort` | soon | We zien elkaar **binnenkort**. |
+| `al` | already | Ik heb **al** gegeten. |
+| `tegenwoordig` | nowadays | **Tegenwoordig** werk ik thuis. |
 
 ## Day anchors: the *gisteren – vandaag – morgen* line
 
@@ -152,6 +184,14 @@ For 24-hour formal time (schedules, news): *14:30 → veertien uur dertig*.
 - [ ] **Tot straks**, tot vanavond!
 - [ ] **Het is bijna tijd** om te gaan.
 - [ ] **Sorry dat ik te laat ben**, er was file.
+
+How to talk about *when* things happen — clock time, days, parts of the day, weeks, months, and seasons.
+
+- [ ] Wat is de **datum** van vandaag?
+- [ ] Volgende **week** ben ik vrij.
+- [ ] In welke **maand** ben je jarig?
+- [ ] Dit **jaar** ga ik naar Spanje.
+- [ ] De feestdagen staan op de **kalender**.
 
 ## Common mistakes
 

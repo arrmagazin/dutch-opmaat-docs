@@ -60,6 +60,19 @@
       "similarity": "native"
     },
     {
+      "name": "aangifte",
+      "name_en": "report (to police)",
+      "id": "aangifte",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "justice",
+      "stem": "geef",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-n"
+    },
+    {
       "domain": "agentic",
       "topic": "strive",
       "level": "c",
@@ -177,6 +190,19 @@
       "forms": "paste zich aan-pasten zich aan, heeft zich aangepast"
     },
     {
+      "name": "aanraking",
+      "name_en": "touch",
+      "id": "aanraking",
+      "pos": "noun",
+      "domain": "spatial",
+      "topic": "impulse",
+      "stem": "raak",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en"
+    },
+    {
       "name": "aanrennen",
       "name_en": "to run toward",
       "id": "aanrennen",
@@ -217,7 +243,7 @@
       "article": "het",
       "plural": "-len",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "aantal",
       "domain": "core",
@@ -577,7 +603,7 @@
       "pos": "verb",
       "domain": "civil",
       "topic": "business",
-      "level": "b",
+      "level": "a",
       "name": "advertentie",
       "name_en": "advertisement",
       "similarity": "universal",
@@ -651,7 +677,7 @@
       "name": "afgelopen",
       "name_en": "last, previous",
       "pos": "adj",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "afgelopen",
       "domain": "system",
@@ -784,7 +810,7 @@
       "name": "afspraak",
       "name_en": "appointment",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "afspraak",
       "domain": "socium",
@@ -852,6 +878,20 @@
       "forms": "afwijzing"
     },
     {
+      "name": "afzeggen",
+      "name_en": "to cancel",
+      "id": "afzeggen",
+      "pos": "verb",
+      "domain": "socium",
+      "topic": "negotiate",
+      "stem": "zeg",
+      "level": "a",
+      "similarity": "native",
+      "forms": "zei af-zeiden af, heeft afgezegd, zeg af, zegt af, afzeggend, hebt afgezegd",
+      "tags": "separable",
+      "parent": "zeggen"
+    },
+    {
       "name": "agenda",
       "name_en": "diary, agenda",
       "similarity": "universal",
@@ -878,6 +918,19 @@
       "stem": "agent"
     },
     {
+      "name": "akkoord",
+      "name_en": "agreement; OK",
+      "id": "akkoord",
+      "pos": "noun",
+      "domain": "socium",
+      "topic": "negotiate",
+      "stem": "akkoord",
+      "level": "a",
+      "similarity": "universal",
+      "article": "het",
+      "plural": "-en"
+    },
+    {
       "name": "algemeen",
       "name_en": "general",
       "id": "algemeen",
@@ -887,6 +940,40 @@
       "level": "a",
       "similarity": "native",
       "stem": "algemeen"
+    },
+    {
+      "name": "allebei",
+      "name_en": "both",
+      "id": "allebei",
+      "pos": "adj",
+      "domain": "core",
+      "topic": "quantity",
+      "stem": "beid",
+      "level": "a",
+      "similarity": "native"
+    },
+    {
+      "name": "allergisch",
+      "name_en": "allergic",
+      "id": "allergisch",
+      "pos": "adj",
+      "domain": "body",
+      "topic": "health",
+      "stem": "allerg",
+      "level": "a",
+      "similarity": "universal"
+    },
+    {
+      "name": "alsjeblieft",
+      "name_en": "please",
+      "id": "alsjeblieft",
+      "pos": "adv",
+      "domain": "socium",
+      "topic": "virtue",
+      "stem": "blieft",
+      "level": "a",
+      "similarity": "native",
+      "also": "alstublieft"
     },
     {
       "name": "alternatief",
@@ -987,6 +1074,19 @@
       "also": "beantwoorden"
     },
     {
+      "name": "apparaat",
+      "name_en": "device, appliance",
+      "id": "apparaat",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "appliances",
+      "stem": "apparaat",
+      "level": "a",
+      "similarity": "universal",
+      "article": "het",
+      "plural": "apparaten"
+    },
+    {
       "name": "appartement",
       "name_en": "apartment",
       "article": "het",
@@ -1009,7 +1109,7 @@
       "id": "appel",
       "domain": "life",
       "topic": "vegetables",
-      "level": "b",
+      "level": "a",
       "stem": "appel"
     },
     {
@@ -1241,7 +1341,7 @@
       "article": "de",
       "plural": "bazen",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "baas",
       "domain": "civil",
       "topic": "business",
@@ -1335,6 +1435,19 @@
       "id": "banaan",
       "article": "de",
       "stem": "banaan"
+    },
+    {
+      "name": "band",
+      "name_en": "tyre",
+      "id": "band",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "transport",
+      "stem": "band",
+      "level": "a",
+      "similarity": "same",
+      "article": "de",
+      "plural": "-en"
     },
     {
       "pos": "adj",
@@ -1451,6 +1564,19 @@
       "also": "bediening"
     },
     {
+      "name": "bedieningspaneel",
+      "name_en": "control panel",
+      "id": "bedieningspaneel",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "technic",
+      "stem": "dien",
+      "level": "a",
+      "similarity": "native",
+      "article": "het",
+      "plural": "-panelen"
+    },
+    {
       "name": "bedoelen",
       "preposition": "met",
       "name_en": "mean",
@@ -1560,6 +1686,19 @@
       "id": "beer",
       "article": "de",
       "stem": "beer"
+    },
+    {
+      "name": "beetje",
+      "name_en": "a bit",
+      "id": "beetje",
+      "pos": "noun",
+      "domain": "core",
+      "topic": "quantity",
+      "stem": "beet",
+      "level": "a",
+      "similarity": "native",
+      "article": "het",
+      "plural": "-s"
     },
     {
       "name": "begeleiding",
@@ -1696,6 +1835,20 @@
       "stem": "beig"
     },
     {
+      "domain": "socium",
+      "topic": "communicate",
+      "level": "a",
+      "name": "beïnvloeden",
+      "tags": "regulat",
+      "forms": "beïnvloed, beïnvloedt, beïnvloedend, beïnvloedde, beïnvloedden, hebt beïnvloed, beïnvloed, beïnvloeding, invloed",
+      "id": "beïnvloeden",
+      "pos": "verb",
+      "name_en": "influence",
+      "similarity": "native",
+      "stem": "vloed",
+      "also": "invloed"
+    },
+    {
       "name": "bekend",
       "name_en": "familiar, well-known",
       "pos": "verb",
@@ -1705,6 +1858,19 @@
       "domain": "mental",
       "topic": "know",
       "stem": "kend"
+    },
+    {
+      "name": "bekijken",
+      "name_en": "to look at, view",
+      "id": "bekijken",
+      "pos": "verb",
+      "domain": "experience",
+      "topic": "visual",
+      "stem": "kijk",
+      "level": "a",
+      "similarity": "native",
+      "forms": "bekeek-bekeken, heeft bekeken, bekijk, bekijkt, bekijkend, hebt bekeken",
+      "parent": "kijken"
     },
     {
       "name": "belachelijk",
@@ -1748,7 +1914,7 @@
       "topic": "virtue",
       "stem": "leef",
       "pos": "adj",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "forms": "beleefdheid"
     },
@@ -1781,7 +1947,7 @@
       "name": "beloven",
       "name_en": "promise",
       "pos": "verb",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "beloven",
       "domain": "socium",
@@ -2034,7 +2200,7 @@
       "topic": "expose",
       "stem": "schik",
       "pos": "adj",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -2136,6 +2302,20 @@
       "stem": "staan"
     },
     {
+      "name": "besteden",
+      "name_en": "to spend (time/money)",
+      "id": "besteden",
+      "pos": "verb",
+      "domain": "resource",
+      "topic": "consume",
+      "stem": "steed",
+      "level": "a",
+      "similarity": "native",
+      "forms": "besteedde-besteedden, heeft besteed, besteed, besteedt, bestedend, hebt besteed, besteding",
+      "tags": "regulat",
+      "preposition": "aan"
+    },
+    {
       "domain": "civil",
       "topic": "service",
       "level": "a",
@@ -2147,6 +2327,20 @@
       "similarity": "native",
       "id": "bestellen",
       "stem": "stel"
+    },
+    {
+      "name": "bestelling",
+      "name_en": "order",
+      "id": "bestelling",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "service",
+      "stem": "stel",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en",
+      "parent": "bestellen"
     },
     {
       "name": "bestemming",
@@ -2554,18 +2748,17 @@
       "stem": "zwijk"
     },
     {
-      "domain": "socium",
-      "topic": "communicate",
+      "name": "bibliotheek",
+      "name_en": "library",
+      "id": "bibliotheek",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "venue",
+      "stem": "biblio",
       "level": "a",
-      "name": "beïnvloeden",
-      "tags": "regulat",
-      "forms": "beïnvloed, beïnvloedt, beïnvloedend, beïnvloedde, beïnvloedden, hebt beïnvloed, beïnvloed, beïnvloeding, invloed",
-      "id": "beïnvloeden",
-      "pos": "verb",
-      "name_en": "influence",
-      "similarity": "native",
-      "stem": "vloed",
-      "also": "invloed"
+      "similarity": "universal",
+      "article": "de",
+      "plural": "bibliotheken"
     },
     {
       "domain": "socium",
@@ -2665,6 +2858,30 @@
       "stem": "koom"
     },
     {
+      "name": "bijlage",
+      "name_en": "attachment, enclosure",
+      "id": "bijlage",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "document",
+      "stem": "leg",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-n"
+    },
+    {
+      "name": "bijna",
+      "name_en": "almost",
+      "id": "bijna",
+      "pos": "adv",
+      "domain": "core",
+      "topic": "degree",
+      "stem": "bijna",
+      "level": "a",
+      "similarity": "native"
+    },
+    {
       "domain": "body",
       "topic": "eating",
       "level": "a",
@@ -2689,6 +2906,19 @@
       "domain": "body",
       "topic": "health",
       "stem": "werk"
+    },
+    {
+      "name": "bijwonen",
+      "name_en": "to attend",
+      "id": "bijwonen",
+      "pos": "verb",
+      "domain": "socium",
+      "topic": "meeting",
+      "stem": "woon",
+      "level": "a",
+      "similarity": "native",
+      "forms": "woonde bij-woonden bij, heeft bijgewoond, woon bij, woont bij, bijwonend, hebt bijgewoond",
+      "tags": "separable"
     },
     {
       "name": "bijzonder",
@@ -2949,7 +3179,7 @@
       "id": "bloem",
       "domain": "life",
       "topic": "plant",
-      "level": "b",
+      "level": "a",
       "stem": "bloem"
     },
     {
@@ -3081,7 +3311,7 @@
       "article": "de",
       "plural": "-s",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "boete",
       "domain": "civil",
@@ -3103,17 +3333,16 @@
       "forms": "bonnetje"
     },
     {
-      "name": "boodschap",
-      "name_en": "shopping",
-      "article": "de",
-      "plural": "boodschappen",
+      "name": "boodschappen",
+      "name_en": "groceries, shopping",
+      "id": "boodschappen",
       "pos": "noun",
-      "level": "a",
-      "similarity": "native",
-      "id": "boodschap",
       "domain": "civil",
       "topic": "market",
-      "stem": "bood"
+      "stem": "boodschap",
+      "level": "a",
+      "similarity": "native",
+      "article": "de"
     },
     {
       "name": "boom",
@@ -3156,7 +3385,7 @@
       "pos": "adj",
       "domain": "experience",
       "topic": "emotion",
-      "level": "b",
+      "level": "a",
       "name": "boos",
       "name_en": "angry",
       "similarity": "native",
@@ -3174,7 +3403,7 @@
       "id": "boot",
       "domain": "artifacts",
       "topic": "transport",
-      "level": "b",
+      "level": "a",
       "stem": "boot"
     },
     {
@@ -3264,6 +3493,19 @@
       "name_en": "build",
       "similarity": "native",
       "stem": "bouw"
+    },
+    {
+      "name": "bouwvakker",
+      "name_en": "construction worker",
+      "id": "bouwvakker",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "profession",
+      "stem": "bouw",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-s"
     },
     {
       "name": "braden",
@@ -3415,7 +3657,7 @@
       "topic": "ingredients",
       "level": "a",
       "stem": "brood",
-      "forms": "broodrooster"
+      "forms": "broodje,broodrooster"
     },
     {
       "name": "brug",
@@ -3575,7 +3817,7 @@
       "article": "de",
       "plural": "-en",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "buurt",
       "domain": "civil",
       "topic": "city",
@@ -3586,7 +3828,7 @@
       "pos": "verb",
       "domain": "civil",
       "topic": "market",
-      "level": "b",
+      "level": "a",
       "name": "cadeau",
       "name_en": "gift",
       "similarity": "native",
@@ -3663,7 +3905,7 @@
       "article": "het",
       "plural": "centra",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "centrum",
       "domain": "spatial",
       "topic": "position",
@@ -3885,6 +4127,32 @@
       "forms": "conflicten"
     },
     {
+      "name": "constateren",
+      "name_en": "to observe, note",
+      "id": "constateren",
+      "pos": "verb",
+      "domain": "mental",
+      "topic": "inspect",
+      "stem": "constat",
+      "level": "a",
+      "similarity": "universal",
+      "forms": "constateerde-constateerden, heeft geconstateerd, constateer, constateert, constaterend, hebt geconstateerd",
+      "tags": "regulat"
+    },
+    {
+      "name": "consument",
+      "name_en": "consumer",
+      "id": "consument",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "market",
+      "stem": "consum",
+      "level": "a",
+      "similarity": "universal",
+      "article": "de",
+      "plural": "-en"
+    },
+    {
       "pos": "noun",
       "domain": "core",
       "topic": "binding",
@@ -3917,7 +4185,7 @@
       "topic": "control",
       "stem": "controle",
       "pos": "verb",
-      "level": "b",
+      "level": "a",
       "similarity": "universal",
       "forms": "controleer"
     },
@@ -4042,7 +4310,7 @@
       "id": "dak",
       "domain": "artifacts",
       "topic": "buildparts",
-      "level": "b",
+      "level": "a",
       "stem": "dak"
     },
     {
@@ -4258,6 +4526,19 @@
       "stem": "deugd"
     },
     {
+      "name": "deuk",
+      "name_en": "dent",
+      "id": "deuk",
+      "pos": "noun",
+      "domain": "spatial",
+      "topic": "transform",
+      "stem": "deuk",
+      "level": "a",
+      "similarity": "soundex",
+      "article": "de",
+      "plural": "-en"
+    },
+    {
       "name": "deur",
       "name_en": "door",
       "similarity": "native",
@@ -4267,7 +4548,7 @@
       "id": "deur",
       "domain": "artifacts",
       "topic": "buildparts",
-      "level": "b",
+      "level": "a",
       "stem": "deur"
     },
     {
@@ -4395,7 +4676,7 @@
       "name_en": "direct, straight",
       "similarity": "same",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "direct",
       "domain": "system",
       "topic": "flow",
@@ -4421,7 +4702,7 @@
       "article": "de",
       "plural": "-s",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "dochter",
       "domain": "socium",
       "topic": "family",
@@ -4533,7 +4814,7 @@
       "pos": "adj",
       "domain": "nature",
       "topic": "color",
-      "level": "b",
+      "level": "a",
       "name": "donker",
       "name_en": "dark",
       "similarity": "native",
@@ -4544,7 +4825,7 @@
       "pos": "noun",
       "domain": "body",
       "topic": "live",
-      "level": "b",
+      "level": "a",
       "name": "dood",
       "name_en": "death",
       "similarity": "native",
@@ -4851,6 +5132,18 @@
       "topic": "prognosis",
       "stem": "droom",
       "forms": "droom,droomde-droomden, heeft gedroomd"
+    },
+    {
+      "name": "drop",
+      "name_en": "liquorice",
+      "id": "drop",
+      "pos": "noun",
+      "domain": "food",
+      "topic": "dishes",
+      "stem": "drop",
+      "level": "c",
+      "similarity": "native",
+      "article": "de"
     },
     {
       "name": "druif",
@@ -5236,15 +5529,16 @@
       "stem": "eerd"
     },
     {
-      "name": "eerste",
+      "name": "eerst",
       "name_en": "first",
-      "id": "eerste",
+      "id": "eerst",
+      "pos": "adv",
       "domain": "core",
       "topic": "sequence",
-      "pos": "enum",
+      "stem": "een",
       "level": "a",
       "similarity": "native",
-      "stem": "een"
+      "also": "eerste"
     },
     {
       "name": "eeuw",
@@ -5304,6 +5598,19 @@
       "pos": "noun",
       "level": "c",
       "similarity": "universal"
+    },
+    {
+      "name": "ei",
+      "name_en": "egg",
+      "id": "ei",
+      "pos": "noun",
+      "domain": "food",
+      "topic": "ingredients",
+      "stem": "ei",
+      "level": "a",
+      "similarity": "native",
+      "article": "het",
+      "plural": "eieren"
     },
     {
       "pos": "enum",
@@ -5470,6 +5777,17 @@
       "domain": "system",
       "topic": "power",
       "stem": "energ"
+    },
+    {
+      "name": "eng",
+      "name_en": "scary, creepy",
+      "id": "eng",
+      "pos": "adj",
+      "domain": "experience",
+      "topic": "emotion",
+      "stem": "eng",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -5831,7 +6149,7 @@
       "name_en": "favourite",
       "similarity": "universal",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "favoriet",
       "domain": "agentic",
       "topic": "choice",
@@ -5854,7 +6172,7 @@
       "pos": "verb",
       "domain": "culture",
       "topic": "customs",
-      "level": "b",
+      "level": "a",
       "name": "feest",
       "name_en": "party, feast",
       "similarity": "native",
@@ -5891,17 +6209,18 @@
       "stem": "felicit"
     },
     {
-      "name": "fiets",
-      "name_en": "bicycle, bike",
-      "article": "de",
-      "plural": "-en",
-      "pos": "noun",
-      "similarity": "native",
-      "id": "fiets",
-      "domain": "artifacts",
-      "topic": "transport",
+      "name": "fietsen",
+      "name_en": "to cycle",
+      "id": "fietsen",
+      "pos": "verb",
+      "domain": "spatial",
+      "topic": "relocate",
+      "stem": "fiets",
       "level": "a",
-      "stem": "fiets"
+      "similarity": "native",
+      "forms": "fietste-fietsten, heeft gefietst, fiets, fietst, fietsend, hebt gefietst",
+      "tags": "regulat",
+      "parent": "fiets"
     },
     {
       "pos": "adj",
@@ -5961,6 +6280,19 @@
       "level": "a",
       "similarity": "same",
       "stem": "fit"
+    },
+    {
+      "name": "flat",
+      "name_en": "flat, apartment",
+      "id": "flat",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "building",
+      "stem": "flat",
+      "level": "a",
+      "similarity": "same",
+      "article": "de",
+      "plural": "-s"
     },
     {
       "pos": "enum",
@@ -6209,7 +6541,7 @@
       "pos": "enum",
       "domain": "artifacts",
       "topic": "buildrooms",
-      "level": "b",
+      "level": "a",
       "name": "gang",
       "name_en": "hallway",
       "similarity": "native",
@@ -6819,6 +7151,19 @@
       "forms": "gemeenschappelijk"
     },
     {
+      "name": "gemeente",
+      "name_en": "municipality, council",
+      "id": "gemeente",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "society",
+      "stem": "gemeen",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-n"
+    },
+    {
       "pos": "verb",
       "domain": "experience",
       "topic": "pleasure",
@@ -6896,7 +7241,7 @@
       "article": "de",
       "plural": null,
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "geschiedenis",
       "domain": "knowledge",
@@ -6944,7 +7289,7 @@
       "pos": "noun",
       "domain": "experience",
       "topic": "scent",
-      "level": "b",
+      "level": "a",
       "name": "geur",
       "name_en": "scent",
       "similarity": "native",
@@ -6956,7 +7301,7 @@
       "name": "gevaarlijk",
       "name_en": "dangerous",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "gevaarlijk",
       "domain": "system",
@@ -7108,7 +7453,7 @@
       "name": "gezellig",
       "name_en": "cozy, pleasant",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "gezellig",
       "domain": "experience",
@@ -7120,7 +7465,7 @@
       "pos": "enum",
       "domain": "body",
       "topic": "headparts",
-      "level": "b",
+      "level": "a",
       "name": "gezicht",
       "name_en": "face",
       "article": "het",
@@ -7202,7 +7547,7 @@
       "parent": "avond",
       "stem": "avond",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -7210,7 +7555,7 @@
       "name_en": "yesterday",
       "similarity": "native",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "gisteren",
       "domain": "nature",
       "topic": "daypart",
@@ -7366,6 +7711,19 @@
       "also": "werpen, worp"
     },
     {
+      "name": "gooien",
+      "name_en": "to throw",
+      "id": "gooien",
+      "pos": "verb",
+      "domain": "spatial",
+      "topic": "impulse",
+      "stem": "gooi",
+      "level": "a",
+      "similarity": "native",
+      "forms": "gooide-gooiden, heeft gegooid, gooi, gooit, gooiend, hebt gegooid",
+      "tags": "regulat"
+    },
+    {
       "name": "gootsteen",
       "name_en": "sink",
       "article": "de",
@@ -7404,6 +7762,19 @@
       "stem": "goud"
     },
     {
+      "name": "graad",
+      "name_en": "degree",
+      "id": "graad",
+      "pos": "noun",
+      "domain": "nature",
+      "topic": "temperature",
+      "stem": "graad",
+      "level": "a",
+      "similarity": "soundex",
+      "article": "de",
+      "plural": "graden"
+    },
+    {
       "pos": "adv",
       "domain": "experience",
       "topic": "pleasure",
@@ -7420,7 +7791,7 @@
       "article": "de",
       "plural": "-en",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "gracht",
       "domain": "artifacts",
@@ -7988,7 +8359,7 @@
       "pos": "adj",
       "domain": "core",
       "topic": "complex",
-      "level": "b",
+      "level": "a",
       "name": "hard",
       "name_en": "tough; loud",
       "similarity": "native",
@@ -8118,6 +8489,17 @@
       "stem": "heed"
     },
     {
+      "name": "heel",
+      "name_en": "very; whole",
+      "id": "heel",
+      "pos": "adv",
+      "domain": "core",
+      "topic": "degree",
+      "stem": "heel",
+      "level": "a",
+      "similarity": "native"
+    },
+    {
       "name": "heer",
       "name_en": "gentleman",
       "similarity": "native",
@@ -8135,7 +8517,7 @@
       "name_en": "delicious, very nice",
       "similarity": "native",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "heerlijk",
       "domain": "experience",
       "topic": "taste",
@@ -8305,6 +8687,18 @@
       "stem": "ken"
     },
     {
+      "name": "herkomst",
+      "name_en": "origin",
+      "id": "herkomst",
+      "pos": "noun",
+      "domain": "system",
+      "topic": "cause",
+      "stem": "koom",
+      "level": "a",
+      "similarity": "native",
+      "article": "de"
+    },
+    {
       "pos": "enum",
       "domain": "body",
       "topic": "bodypart",
@@ -8459,7 +8853,7 @@
       "article": "de",
       "plural": "-en",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "hoek",
       "domain": "spatial",
       "topic": "shape",
@@ -8488,7 +8882,7 @@
       "id": "hond",
       "domain": "life",
       "topic": "tamed",
-      "level": "b",
+      "level": "a",
       "stem": "hond"
     },
     {
@@ -8526,6 +8920,33 @@
       "topic": "bodypart",
       "level": "a",
       "stem": "hoofd"
+    },
+    {
+      "name": "hoofdpijn",
+      "name_en": "headache",
+      "id": "hoofdpijn",
+      "pos": "noun",
+      "domain": "body",
+      "topic": "health",
+      "stem": "pijn",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "parent": "pijn"
+    },
+    {
+      "name": "hoofdstad",
+      "name_en": "capital city",
+      "id": "hoofdstad",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "city",
+      "stem": "stad",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-steden",
+      "parent": "stad"
     },
     {
       "pos": "adj",
@@ -8658,6 +9079,20 @@
       "stem": "huis"
     },
     {
+      "name": "huisarts",
+      "name_en": "GP, family doctor",
+      "id": "huisarts",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "profession",
+      "stem": "arts",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en",
+      "parent": "arts"
+    },
+    {
       "name": "huisdier",
       "name_en": "pet",
       "id": "huisdier",
@@ -8696,6 +9131,19 @@
       "pos": "noun",
       "level": "a",
       "similarity": "native"
+    },
+    {
+      "name": "hulp",
+      "name_en": "help",
+      "id": "hulp",
+      "pos": "noun",
+      "domain": "socium",
+      "topic": "care",
+      "stem": "help",
+      "level": "a",
+      "similarity": "soundex",
+      "article": "de",
+      "parent": "helpen"
     },
     {
       "name": "huur",
@@ -9082,7 +9530,7 @@
       "name_en": "register, to enroll",
       "similarity": "native",
       "pos": "verb",
-      "level": "b",
+      "level": "a",
       "id": "inschrijven",
       "domain": "agentic",
       "topic": "operation",
@@ -9183,6 +9631,19 @@
       "stem": "stap",
       "parent": "stap",
       "forms": "stapte in-stapten in, is ingestapt"
+    },
+    {
+      "name": "instaptoets",
+      "name_en": "placement test",
+      "id": "instaptoets",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "education",
+      "stem": "toets",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en"
     },
     {
       "name": "instellen",
@@ -9304,6 +9765,20 @@
       "similarity": "universal",
       "article": "het",
       "stem": "internet"
+    },
+    {
+      "name": "invallen",
+      "name_en": "to stand in (for someone)",
+      "id": "invallen",
+      "pos": "verb",
+      "domain": "civil",
+      "topic": "business",
+      "stem": "val",
+      "level": "a",
+      "similarity": "native",
+      "forms": "viel in-vielen in, is ingevallen, val in, valt in, invallend, bent ingevallen, invaller",
+      "tags": "separable",
+      "parent": "vallen"
     },
     {
       "domain": "civil",
@@ -9482,6 +9957,18 @@
       "stem": "jas"
     },
     {
+      "name": "jeugd",
+      "name_en": "youth",
+      "id": "jeugd",
+      "pos": "noun",
+      "domain": "socium",
+      "topic": "family",
+      "stem": "jeugd",
+      "level": "a",
+      "similarity": "soundex",
+      "article": "de"
+    },
+    {
       "pos": "adj",
       "domain": "socium",
       "topic": "person",
@@ -9570,7 +10057,7 @@
       "article": "het",
       "plural": "-s",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "universal",
       "id": "kaartje",
       "domain": "artifacts",
@@ -9588,7 +10075,7 @@
       "id": "kaas",
       "domain": "food",
       "topic": "ingredients",
-      "level": "b",
+      "level": "a",
       "stem": "kaas"
     },
     {
@@ -9722,7 +10209,7 @@
       "pos": "noun",
       "domain": "artifacts",
       "topic": "venue",
-      "level": "b",
+      "level": "a",
       "name": "kantoor",
       "name_en": "office",
       "article": "het",
@@ -9740,7 +10227,7 @@
       "topic": "disruption",
       "stem": "kapot",
       "pos": "adj",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -9829,7 +10316,7 @@
       "id": "kat",
       "domain": "life",
       "topic": "tamed",
-      "level": "b",
+      "level": "a",
       "stem": "kat"
     },
     {
@@ -10122,12 +10609,24 @@
       "article": "de",
       "plural": "-en",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "universal",
       "id": "klant",
       "domain": "civil",
       "topic": "service",
       "stem": "klant"
+    },
+    {
+      "name": "klantgericht",
+      "name_en": "customer-oriented",
+      "id": "klantgericht",
+      "pos": "adj",
+      "domain": "civil",
+      "topic": "service",
+      "stem": "klant",
+      "level": "a",
+      "similarity": "native",
+      "parent": "klant"
     },
     {
       "domain": "body",
@@ -10176,6 +10675,19 @@
       "similarity": "native",
       "stem": "kleed",
       "forms": "kleed"
+    },
+    {
+      "name": "kleding",
+      "name_en": "clothing",
+      "id": "kleding",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "clothing",
+      "stem": "kleer",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "parent": "kleren"
     },
     {
       "name": "kleed",
@@ -10344,6 +10856,19 @@
       "stem": "klok"
     },
     {
+      "name": "klomp",
+      "name_en": "clog",
+      "id": "klomp",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "clothing",
+      "stem": "klomp",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en"
+    },
+    {
       "domain": "spatial",
       "topic": "transform",
       "level": "b",
@@ -10488,7 +11013,7 @@
       "article": "het",
       "plural": "-s",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "koekje",
       "domain": "food",
@@ -10667,7 +11192,7 @@
       "article": "de",
       "plural": null,
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "koorts",
       "domain": "body",
@@ -11300,7 +11825,7 @@
       "id": "lamp",
       "domain": "artifacts",
       "topic": "appliances",
-      "level": "b",
+      "level": "a",
       "stem": "lamp"
     },
     {
@@ -11381,7 +11906,7 @@
       "article": "de",
       "plural": null,
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "last",
       "domain": "system",
@@ -11531,7 +12056,7 @@
       "name_en": "leak",
       "similarity": "native",
       "pos": "verb",
-      "level": "b",
+      "level": "a",
       "id": "lekken",
       "domain": "nature",
       "topic": "substance",
@@ -11567,7 +12092,7 @@
       "topic": "lend",
       "name": "lenen",
       "preposition": "van",
-      "level": "b",
+      "level": "a",
       "tags": "regulat",
       "forms": "leende-leenden, heeft geleend, leen, leent, lenend, hebt geleend, geleend, lening",
       "name_en": "borrow",
@@ -11588,6 +12113,20 @@
       "article": "de",
       "stem": "lepel",
       "also": "de eetlepel"
+    },
+    {
+      "name": "leraar",
+      "name_en": "teacher",
+      "id": "leraar",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "profession",
+      "stem": "ler",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "leraren",
+      "parent": "leren"
     },
     {
       "pos": "verb",
@@ -11739,6 +12278,20 @@
       "id": "lezen",
       "stem": "lees",
       "also": "doorlezen"
+    },
+    {
+      "name": "lezing",
+      "name_en": "lecture, talk",
+      "id": "lezing",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "education",
+      "stem": "lees",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en",
+      "parent": "lezen"
     },
     {
       "name": "lichaam",
@@ -12242,7 +12795,7 @@
       "name_en": "have lunch",
       "similarity": "native",
       "pos": "verb",
-      "level": "b",
+      "level": "a",
       "id": "lunchen",
       "domain": "food",
       "topic": "dishes",
@@ -12270,7 +12823,7 @@
       "article": "de",
       "plural": "-magen",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "maag",
       "domain": "body",
       "topic": "bodypart",
@@ -12445,7 +12998,7 @@
       "pos": "noun",
       "domain": "system",
       "topic": "habit",
-      "level": "b",
+      "level": "a",
       "name": "manier",
       "name_en": "way, manner",
       "similarity": "universal",
@@ -12471,7 +13024,7 @@
       "name": "markt",
       "name_en": "market",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "universal",
       "id": "markt",
       "domain": "civil",
@@ -12594,7 +13147,7 @@
       "topic": "operation",
       "stem": "neem",
       "pos": "verb",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -12608,6 +13161,17 @@
       "id": "meer",
       "article": "het",
       "stem": "meer"
+    },
+    {
+      "name": "meestal",
+      "name_en": "usually",
+      "id": "meestal",
+      "pos": "adv",
+      "domain": "system",
+      "topic": "repeat",
+      "stem": "meest",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "meevallen",
@@ -12761,6 +13325,20 @@
       "stem": "menu"
     },
     {
+      "name": "merk",
+      "name_en": "brand",
+      "id": "merk",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "market",
+      "stem": "merk",
+      "level": "a",
+      "similarity": "same",
+      "article": "het",
+      "plural": "-en",
+      "parent": "merken"
+    },
+    {
       "domain": "mental",
       "topic": "inspect",
       "level": "a",
@@ -12783,7 +13361,7 @@
       "id": "mes",
       "domain": "artifacts",
       "topic": "tool",
-      "level": "b",
+      "level": "a",
       "stem": "mes"
     },
     {
@@ -12921,6 +13499,17 @@
       "id": "mild",
       "article": "de",
       "stem": "mild"
+    },
+    {
+      "name": "minder",
+      "name_en": "less",
+      "id": "minder",
+      "pos": "adv",
+      "domain": "core",
+      "topic": "quantity",
+      "stem": "min",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "minimaal",
@@ -13108,6 +13697,20 @@
       "also": "schoonmoeder, stiefmoeder"
     },
     {
+      "name": "moedertaal",
+      "name_en": "mother tongue",
+      "id": "moedertaal",
+      "pos": "noun",
+      "domain": "language",
+      "topic": "language",
+      "stem": "taal",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-talen",
+      "parent": "taal"
+    },
+    {
       "name": "moeilijk",
       "name_en": "difficult",
       "pos": "adj",
@@ -13180,6 +13783,19 @@
       "id": "mok",
       "article": "de",
       "stem": "mok"
+    },
+    {
+      "name": "molen",
+      "name_en": "windmill",
+      "id": "molen",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "technic",
+      "stem": "molen",
+      "level": "a",
+      "similarity": "soundex",
+      "article": "de",
+      "plural": "-s"
     },
     {
       "name": "mollig",
@@ -13344,7 +13960,7 @@
       "id": "muur",
       "domain": "artifacts",
       "topic": "buildparts",
-      "level": "b",
+      "level": "a",
       "stem": "muur"
     },
     {
@@ -13474,6 +14090,17 @@
       "stem": "natuur"
     },
     {
+      "name": "natuurlijk",
+      "name_en": "of course, naturally",
+      "id": "natuurlijk",
+      "pos": "adv",
+      "domain": "mental",
+      "topic": "certainty",
+      "stem": "natuur",
+      "level": "a",
+      "similarity": "universal"
+    },
+    {
       "name": "nauwkeurig",
       "name_en": "accurate",
       "id": "nauwkeurig",
@@ -13502,7 +14129,7 @@
       "article": "de",
       "plural": "neven",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "neef",
       "domain": "socium",
@@ -13598,6 +14225,17 @@
       "topic": "emotion",
       "article": "de",
       "stem": "nerv"
+    },
+    {
+      "name": "netjes",
+      "name_en": "tidy, neat",
+      "id": "netjes",
+      "pos": "adj",
+      "domain": "nature",
+      "topic": "pure",
+      "stem": "net",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "neus",
@@ -13801,7 +14439,7 @@
       "article": "het",
       "plural": "-s",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "universal",
       "id": "nummer",
       "domain": "core",
@@ -13889,7 +14527,7 @@
       "article": "de",
       "plural": "oliën, -s",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "olie",
       "domain": "nature",
       "topic": "materials",
@@ -13993,6 +14631,17 @@
       "similarity": "native"
     },
     {
+      "name": "onbruikbaar",
+      "name_en": "unusable",
+      "id": "onbruikbaar",
+      "pos": "adj",
+      "domain": "agentic",
+      "topic": "assess",
+      "stem": "bruik",
+      "level": "a",
+      "similarity": "native"
+    },
+    {
       "pos": "noun",
       "domain": "socium",
       "topic": "conflict",
@@ -14055,6 +14704,19 @@
       "topic": "systain",
       "article": "het",
       "stem": "houd"
+    },
+    {
+      "name": "onderkant",
+      "name_en": "bottom, underside",
+      "id": "onderkant",
+      "pos": "noun",
+      "domain": "spatial",
+      "topic": "position",
+      "stem": "kant",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en"
     },
     {
       "name": "onderneming",
@@ -14205,7 +14867,7 @@
       "stem": "luk",
       "parent": "lukken",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -14465,6 +15127,17 @@
       "similarity": "native"
     },
     {
+      "name": "onverwacht",
+      "name_en": "unexpected",
+      "id": "onverwacht",
+      "pos": "adj",
+      "domain": "system",
+      "topic": "occurence",
+      "stem": "wacht",
+      "level": "a",
+      "similarity": "native"
+    },
+    {
       "name": "onvoorspelbaar",
       "name_en": "unpredictable",
       "id": "onvoorspelbaar",
@@ -14485,7 +15158,7 @@
       "id": "oog",
       "domain": "body",
       "topic": "headparts",
-      "level": "b",
+      "level": "a",
       "stem": "oog"
     },
     {
@@ -14494,7 +15167,7 @@
       "article": "de",
       "plural": "-s",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "oom",
       "domain": "socium",
@@ -14589,6 +15262,19 @@
       "id": "opbrengst, oogst",
       "article": "de",
       "stem": "breng"
+    },
+    {
+      "name": "opdracht",
+      "name_en": "assignment, task",
+      "id": "opdracht",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "education",
+      "stem": "draag",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en"
     },
     {
       "name": "opduiken",
@@ -15065,7 +15751,7 @@
       "pos": "enum",
       "domain": "nature",
       "topic": "color",
-      "level": "b",
+      "level": "a",
       "name": "oranje",
       "name_en": "orange (colour)",
       "similarity": "soundex",
@@ -15188,6 +15874,18 @@
       "stem": "oven"
     },
     {
+      "name": "overdag",
+      "name_en": "during the day",
+      "id": "overdag",
+      "pos": "adv",
+      "domain": "nature",
+      "topic": "daypart",
+      "stem": "dag",
+      "level": "a",
+      "similarity": "native",
+      "parent": "dag"
+    },
+    {
       "name": "overdrijven",
       "name_en": "exaggerate",
       "id": "overdrijven",
@@ -15246,7 +15944,7 @@
       "topic": "control",
       "stem": "neem",
       "pos": "verb",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -15403,7 +16101,7 @@
       "topic": "clothing",
       "stem": "pak",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -15498,7 +16196,7 @@
       "article": "de",
       "plural": "-’s",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "paraplu",
       "domain": "artifacts",
       "topic": "accessories",
@@ -15604,7 +16302,7 @@
       "preposition": "bij",
       "name_en": "fit, to try on",
       "pos": "verb",
-      "level": "b",
+      "level": "a",
       "similarity": "soundex",
       "id": "passen",
       "domain": "agentic",
@@ -15846,7 +16544,7 @@
       "id": "pijn",
       "stem": "pijn",
       "also": "keelpijn",
-      "forms": "pijnstiller"
+      "forms": "pijnstiller,pijnlijk"
     },
     {
       "pos": "enum",
@@ -15883,6 +16581,19 @@
       "pos": "noun",
       "level": "b",
       "similarity": "universal"
+    },
+    {
+      "name": "pinda",
+      "name_en": "peanut",
+      "id": "pinda",
+      "pos": "noun",
+      "domain": "food",
+      "topic": "ingredients",
+      "stem": "pinda",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-'s"
     },
     {
       "name": "pink",
@@ -15940,7 +16651,7 @@
       "pos": "noun",
       "domain": "artifacts",
       "topic": "venue",
-      "level": "b",
+      "level": "a",
       "name": "plaats",
       "name_en": "place, city",
       "similarity": "soundex",
@@ -16056,7 +16767,7 @@
       "article": "het",
       "plural": "-en",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "plein",
       "domain": "artifacts",
@@ -16498,7 +17209,7 @@
       "name": "prima",
       "name_en": "fine, all right",
       "pos": "adv",
-      "level": "b",
+      "level": "a",
       "similarity": "universal",
       "id": "prima",
       "domain": "experience",
@@ -16712,6 +17423,19 @@
       "stem": "promot"
     },
     {
+      "name": "prullenbak",
+      "name_en": "rubbish bin",
+      "id": "prullenbak",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "utensils",
+      "stem": "bak",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-ken"
+    },
+    {
       "name": "publiek",
       "name_en": "audience",
       "id": "publiek",
@@ -16866,6 +17590,20 @@
       "similarity": "native"
     },
     {
+      "name": "reactie",
+      "name_en": "reaction, response",
+      "id": "reactie",
+      "pos": "noun",
+      "domain": "socium",
+      "topic": "meeting",
+      "stem": "react",
+      "level": "a",
+      "similarity": "universal",
+      "article": "de",
+      "plural": "-s",
+      "parent": "reageren"
+    },
+    {
       "domain": "socium",
       "topic": "meeting",
       "level": "a",
@@ -16937,7 +17675,7 @@
       "topic": "justice",
       "stem": "recht",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -17132,7 +17870,7 @@
       "pos": "enum",
       "domain": "nature",
       "topic": "weather",
-      "level": "b",
+      "level": "a",
       "name": "regen",
       "name_en": "rain",
       "similarity": "native",
@@ -17441,7 +18179,7 @@
       "article": "het",
       "plural": "rijbewijzen, thema 8",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "rijbewijs",
       "domain": "artifacts",
       "topic": "document",
@@ -17495,7 +18233,7 @@
       "id": "rijst",
       "domain": "food",
       "topic": "ingredients",
-      "level": "b",
+      "level": "a",
       "stem": "rijst"
     },
     {
@@ -17657,7 +18395,7 @@
       "name_en": "smoke",
       "similarity": "native",
       "pos": "verb",
-      "level": "b",
+      "level": "a",
       "id": "roken",
       "domain": "experience",
       "topic": "scent",
@@ -17716,7 +18454,7 @@
       "pos": "enum",
       "domain": "nature",
       "topic": "color",
-      "level": "b",
+      "level": "a",
       "name": "rood",
       "name_en": "red",
       "similarity": "native",
@@ -17822,6 +18560,19 @@
       "topic": "bodypart",
       "level": "b",
       "stem": "rug"
+    },
+    {
+      "name": "rugzak",
+      "name_en": "backpack",
+      "id": "rugzak",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "accessories",
+      "stem": "zak",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-ken"
     },
     {
       "pos": "verb",
@@ -17941,7 +18692,7 @@
       "pos": "adj",
       "domain": "experience",
       "topic": "emotion",
-      "level": "b",
+      "level": "a",
       "name": "saai",
       "name_en": "boring",
       "similarity": "native",
@@ -17972,6 +18723,19 @@
       "topic": "group",
       "article": "de",
       "stem": "samen"
+    },
+    {
+      "name": "samenleving",
+      "name_en": "society",
+      "id": "samenleving",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "society",
+      "stem": "leef",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en"
     },
     {
       "domain": "mental",
@@ -18054,7 +18818,7 @@
       "topic": "disruption",
       "stem": "schade",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -18374,13 +19138,25 @@
       "pos": "adj",
       "domain": "nature",
       "topic": "pure",
-      "level": "b",
+      "level": "a",
       "name": "schoon",
       "name_en": "clean",
       "similarity": "native",
       "id": "schoon",
-      "stem": "schoon",
-      "forms": "schoonmaken"
+      "stem": "schoon"
+    },
+    {
+      "name": "schoonmaken",
+      "name_en": "to clean",
+      "id": "schoonmaken",
+      "pos": "verb",
+      "domain": "nature",
+      "topic": "pure",
+      "stem": "maak",
+      "level": "a",
+      "similarity": "native",
+      "forms": "maakte schoon-maakten schoon, heeft schoongemaakt, maak schoon, maakt schoon, schoonmakend, hebt schoongemaakt",
+      "tags": "separable"
     },
     {
       "name": "schoorsteen",
@@ -18671,7 +19447,7 @@
       "article": "de",
       "plural": "sferen",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "sfeer",
       "domain": "system",
       "topic": "situation",
@@ -18690,6 +19466,19 @@
       "level": "b",
       "stem": "shirt",
       "also": "overhemd"
+    },
+    {
+      "name": "shoppen",
+      "name_en": "to shop",
+      "id": "shoppen",
+      "pos": "verb",
+      "domain": "civil",
+      "topic": "market",
+      "stem": "shop",
+      "level": "a",
+      "similarity": "same",
+      "forms": "shopte-shopten, heeft geshopt, shop, shopt, shoppend, hebt geshopt",
+      "tags": "regulat"
     },
     {
       "name": "simpel",
@@ -18802,7 +19591,7 @@
       "article": "de",
       "plural": "-s",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "slager",
       "domain": "civil",
       "topic": "profession",
@@ -18976,7 +19765,7 @@
       "article": "het",
       "plural": "sloten",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "slot",
       "domain": "artifacts",
       "topic": "tool",
@@ -19000,7 +19789,7 @@
       "pos": "noun",
       "domain": "experience",
       "topic": "taste",
-      "level": "b",
+      "level": "a",
       "name": "smaak",
       "name_en": "taste",
       "similarity": "universal",
@@ -19192,6 +19981,31 @@
       "similarity": "universal"
     },
     {
+      "name": "solliciteren",
+      "name_en": "to apply (for a job)",
+      "id": "solliciteren",
+      "pos": "verb",
+      "domain": "civil",
+      "topic": "business",
+      "stem": "sollicit",
+      "level": "a",
+      "similarity": "universal",
+      "forms": "solliciteerde-solliciteerden, heeft gesolliciteerd, solliciteer, solliciteert, solliciterend, hebt gesolliciteerd, sollicitatie",
+      "tags": "regulat",
+      "preposition": "naar"
+    },
+    {
+      "name": "soms",
+      "name_en": "sometimes",
+      "id": "soms",
+      "pos": "adv",
+      "domain": "system",
+      "topic": "repeat",
+      "stem": "som",
+      "level": "a",
+      "similarity": "native"
+    },
+    {
       "name": "soort",
       "name_en": "sort, kind",
       "similarity": "universal",
@@ -19328,14 +20142,14 @@
       "id": "spiegel",
       "domain": "artifacts",
       "topic": "furniture",
-      "level": "b",
+      "level": "a",
       "stem": "spiegel"
     },
     {
       "pos": "enum",
       "domain": "body",
       "topic": "bodypart",
-      "level": "b",
+      "level": "a",
       "name": "spier",
       "name_en": "muscle",
       "article": "de",
@@ -19516,7 +20330,7 @@
       "article": "de",
       "plural": null,
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "spullen",
       "domain": "core",
@@ -19750,7 +20564,7 @@
       "pos": "enum",
       "domain": "nature",
       "topic": "substance",
-      "level": "b",
+      "level": "a",
       "name": "steen",
       "name_en": "stone",
       "similarity": "native",
@@ -19799,7 +20613,7 @@
     {
       "domain": "resource",
       "topic": "getting",
-      "level": "b",
+      "level": "a",
       "name": "stelen",
       "preposition": "van",
       "tags": "e-a-o",
@@ -20109,11 +20923,25 @@
       "article": "de",
       "plural": "straten",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "straat",
       "domain": "artifacts",
       "topic": "venue",
       "stem": "straat"
+    },
+    {
+      "name": "straatlamp",
+      "name_en": "street lamp",
+      "id": "straatlamp",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "venue",
+      "stem": "lamp",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en",
+      "parent": "straat"
     },
     {
       "pos": "adj",
@@ -20514,7 +21342,7 @@
       "id": "tafel",
       "domain": "artifacts",
       "topic": "furniture",
-      "level": "b",
+      "level": "a",
       "stem": "tafel"
     },
     {
@@ -20538,9 +21366,23 @@
       "id": "tand",
       "domain": "body",
       "topic": "headparts",
-      "level": "b",
+      "level": "a",
       "stem": "tand",
       "forms": "tandarts"
+    },
+    {
+      "name": "tandarts",
+      "name_en": "dentist",
+      "id": "tandarts",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "profession",
+      "stem": "arts",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en",
+      "parent": "arts"
     },
     {
       "name": "tante",
@@ -20549,7 +21391,7 @@
       "article": "de",
       "plural": "-s",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "tante",
       "domain": "socium",
       "topic": "family",
@@ -20805,6 +21647,19 @@
       "forms": "termen"
     },
     {
+      "name": "termijn",
+      "name_en": "term; (korte termijn) short notice",
+      "id": "termijn",
+      "pos": "noun",
+      "domain": "system",
+      "topic": "duration",
+      "stem": "termijn",
+      "level": "a",
+      "similarity": "universal",
+      "article": "de",
+      "plural": "-en"
+    },
+    {
       "name": "terras",
       "name_en": "terrace",
       "id": "terras",
@@ -20828,6 +21683,20 @@
       "parent": "rug"
     },
     {
+      "name": "terugbetaling",
+      "name_en": "refund",
+      "id": "terugbetaling",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "finance",
+      "stem": "taal",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en",
+      "parent": "betalen"
+    },
+    {
       "name": "teruggaan",
       "name_en": "to go back, to return",
       "id": "teruggaan",
@@ -20847,7 +21716,7 @@
       "topic": "exchange",
       "stem": "geef",
       "pos": "verb",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -21197,6 +22066,19 @@
       "similarity": "native"
     },
     {
+      "name": "toetsenbord",
+      "name_en": "keyboard",
+      "id": "toetsenbord",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "technic",
+      "stem": "toets",
+      "level": "a",
+      "similarity": "native",
+      "article": "het",
+      "plural": "-en"
+    },
+    {
       "name": "toevallig",
       "name_en": "by chance",
       "id": "toevallig",
@@ -21206,6 +22088,19 @@
       "pos": "adj",
       "level": "b",
       "similarity": "native"
+    },
+    {
+      "name": "toevoegen",
+      "name_en": "to add, attach",
+      "id": "toevoegen",
+      "pos": "verb",
+      "domain": "core",
+      "topic": "binding",
+      "stem": "voeg",
+      "level": "a",
+      "similarity": "native",
+      "forms": "voegde toe-voegden toe, heeft toegevoegd, voeg toe, voegt toe, toevoegend, hebt toegevoegd, toevoeging",
+      "tags": "separable"
     },
     {
       "name": "toewijding",
@@ -21230,6 +22125,19 @@
       "domain": "civil",
       "topic": "profession",
       "stem": "tolk"
+    },
+    {
+      "name": "tompoes",
+      "name_en": "tompouce (pastry)",
+      "id": "tompoes",
+      "pos": "noun",
+      "domain": "food",
+      "topic": "dishes",
+      "stem": "tompoes",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en"
     },
     {
       "name": "toneel",
@@ -21556,7 +22464,7 @@
       "id": "tuin",
       "domain": "artifacts",
       "topic": "venue",
-      "level": "b",
+      "level": "a",
       "stem": "tuin"
     },
     {
@@ -21582,6 +22490,17 @@
       "pos": "noun",
       "level": "c",
       "similarity": "universal"
+    },
+    {
+      "name": "tweedehands",
+      "name_en": "second-hand",
+      "id": "tweedehands",
+      "pos": "adj",
+      "domain": "civil",
+      "topic": "market",
+      "stem": "hand",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "tweeling",
@@ -21664,7 +22583,7 @@
       "pos": "noun",
       "domain": "agentic",
       "topic": "solution",
-      "level": "b",
+      "level": "a",
       "name": "uitdaging",
       "name_en": "challenge",
       "article": "de",
@@ -21820,6 +22739,20 @@
       "similarity": "native",
       "pos": "verb",
       "stem": "nodig"
+    },
+    {
+      "name": "uitpakken",
+      "name_en": "to unpack",
+      "id": "uitpakken",
+      "pos": "verb",
+      "domain": "resource",
+      "topic": "getting",
+      "stem": "pak",
+      "level": "a",
+      "similarity": "native",
+      "forms": "pakte uit-pakten uit, heeft uitgepakt, pak uit, pakt uit, uitpakkend, hebt uitgepakt",
+      "tags": "separable",
+      "parent": "pakken"
     },
     {
       "name": "uitputten",
@@ -22216,6 +23149,18 @@
       "pos": "adv",
       "level": "a",
       "similarity": "native"
+    },
+    {
+      "name": "vannacht",
+      "name_en": "last night, tonight",
+      "id": "vannacht",
+      "pos": "adv",
+      "domain": "nature",
+      "topic": "daypart",
+      "stem": "nacht",
+      "level": "a",
+      "similarity": "native",
+      "parent": "nacht"
     },
     {
       "name": "vanochtend",
@@ -22638,17 +23583,17 @@
       "similarity": "native"
     },
     {
-      "name": "vergadering",
-      "name_en": "meeting",
-      "similarity": "native",
-      "article": "de",
-      "plural": "-en",
-      "pos": "noun",
-      "level": "b",
-      "id": "vergadering",
+      "name": "vergaderen",
+      "name_en": "to have a meeting",
+      "id": "vergaderen",
+      "pos": "verb",
       "domain": "socium",
       "topic": "meeting",
-      "stem": "gader"
+      "stem": "gader",
+      "level": "a",
+      "similarity": "native",
+      "forms": "vergaderde-vergaderden, heeft vergaderd, vergader, vergadert, vergaderend, hebt vergaderd, vergadering",
+      "tags": "regulat"
     },
     {
       "domain": "core",
@@ -22689,6 +23634,19 @@
       "topic": "mistake",
       "stem": "vergis",
       "forms": "vergiste zich-vergisten zich, heeft zich vergist"
+    },
+    {
+      "name": "vergoeden",
+      "name_en": "to reimburse, compensate",
+      "id": "vergoeden",
+      "pos": "verb",
+      "domain": "civil",
+      "topic": "finance",
+      "stem": "goed",
+      "level": "a",
+      "similarity": "native",
+      "forms": "vergoedde-vergoedden, heeft vergoed, vergoed, vergoedt, vergoedend, hebt vergoed, vergoeding",
+      "tags": "regulat"
     },
     {
       "pos": "verb",
@@ -22750,7 +23708,8 @@
       "pos": "verb",
       "level": "a",
       "similarity": "native",
-      "stem": "huis"
+      "stem": "huis",
+      "forms": "verhuizing"
     },
     {
       "name": "verhuur",
@@ -22768,7 +23727,7 @@
       "pos": "noun",
       "domain": "culture",
       "topic": "customs",
-      "level": "b",
+      "level": "a",
       "name": "verjaardag",
       "name_en": "birthday",
       "similarity": "native",
@@ -22800,6 +23759,18 @@
       "domain": "agentic",
       "topic": "assess",
       "stem": "keer"
+    },
+    {
+      "name": "verkeerslawaai",
+      "name_en": "traffic noise",
+      "id": "verkeerslawaai",
+      "pos": "noun",
+      "domain": "experience",
+      "topic": "audio",
+      "stem": "keer",
+      "level": "a",
+      "similarity": "native",
+      "article": "het"
     },
     {
       "name": "verklaren",
@@ -22838,7 +23809,7 @@
       "stem": "koud",
       "parent": "koud",
       "pos": "adj",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "forms": "verkoudheid"
     },
@@ -23011,7 +23982,7 @@
       "article": "de",
       "plural": "-n",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "verpleegkundige",
       "domain": "civil",
@@ -23059,7 +24030,7 @@
       "pos": "enum",
       "domain": "experience",
       "topic": "taste",
-      "level": "b",
+      "level": "a",
       "name": "vers",
       "name_en": "fresh",
       "similarity": "native",
@@ -23204,6 +24175,20 @@
       "stem": "tel"
     },
     {
+      "name": "vertonen",
+      "name_en": "to show, display",
+      "id": "vertonen",
+      "pos": "verb",
+      "domain": "resource",
+      "topic": "expose",
+      "stem": "toon",
+      "level": "a",
+      "similarity": "native",
+      "forms": "vertoonde-vertoonden, heeft vertoond, vertoon, vertoont, vertonend, hebt vertoond, vertoning",
+      "tags": "regulat",
+      "parent": "tonen"
+    },
+    {
       "name": "vertraging",
       "name_en": "delay",
       "similarity": "native",
@@ -23290,7 +24275,7 @@
       "domain": "resource",
       "topic": "exchange",
       "stem": "vang",
-      "forms": "verving-vervingen, heeft vervangen,vervangend"
+      "forms": "vervanging, verving-vervingen, heeft vervangen,vervangend"
     },
     {
       "domain": "experience",
@@ -23343,6 +24328,19 @@
       "stem": "wacht",
       "level": "a",
       "similarity": "native"
+    },
+    {
+      "name": "verwarming",
+      "name_en": "heating",
+      "id": "verwarming",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "appliances",
+      "stem": "warm",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en"
     },
     {
       "pos": "noun",
@@ -23448,6 +24446,18 @@
       "stem": "zin"
     },
     {
+      "name": "verzoeken",
+      "name_en": "to request",
+      "id": "verzoeken",
+      "pos": "verb",
+      "domain": "socium",
+      "topic": "negotiate",
+      "stem": "zoek",
+      "level": "a",
+      "similarity": "native",
+      "forms": "verzocht-verzochten, heeft verzocht, verzoek, verzoekt, verzoekend, hebt verzocht, verzoek"
+    },
+    {
       "pos": "noun",
       "domain": "socium",
       "topic": "negotiate",
@@ -23491,7 +24501,7 @@
       "topic": "customs",
       "stem": "vier",
       "pos": "verb",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -23505,6 +24515,17 @@
       "id": "vierkant",
       "article": "het",
       "stem": "kant"
+    },
+    {
+      "name": "vies",
+      "name_en": "dirty, gross",
+      "id": "vies",
+      "pos": "adj",
+      "domain": "nature",
+      "topic": "pure",
+      "stem": "vies",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "pos": "noun",
@@ -23589,7 +24610,7 @@
       "id": "vis",
       "domain": "life",
       "topic": "species",
-      "level": "b",
+      "level": "a",
       "stem": "vis"
     },
     {
@@ -23746,6 +24767,19 @@
       "stem": "vloei"
     },
     {
+      "name": "vloer",
+      "name_en": "floor",
+      "id": "vloer",
+      "pos": "noun",
+      "domain": "artifacts",
+      "topic": "buildparts",
+      "stem": "vloer",
+      "level": "a",
+      "similarity": "soundex",
+      "article": "de",
+      "plural": "-en"
+    },
+    {
       "name": "vlucht",
       "name_en": "flight",
       "id": "vlucht",
@@ -23849,6 +24883,19 @@
       "stem": "voet"
     },
     {
+      "name": "voetbalwedstrijd",
+      "name_en": "football match",
+      "id": "voetbalwedstrijd",
+      "pos": "noun",
+      "domain": "culture",
+      "topic": "leisure",
+      "stem": "strijd",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en"
+    },
+    {
       "pos": "enum",
       "domain": "life",
       "topic": "bird",
@@ -23887,6 +24934,19 @@
       "similarity": "native",
       "pos": "verb",
       "stem": "volg"
+    },
+    {
+      "name": "volgend",
+      "name_en": "next",
+      "id": "volgend",
+      "pos": "adj",
+      "domain": "core",
+      "topic": "sequence",
+      "stem": "volg",
+      "level": "a",
+      "similarity": "native",
+      "parent": "volgen",
+      "also": "volgende"
     },
     {
       "name": "volgepropt",
@@ -23937,6 +24997,17 @@
       "name_en": "persevere, persist",
       "similarity": "native",
       "stem": "volhoud"
+    },
+    {
+      "name": "volledig",
+      "name_en": "full, complete",
+      "id": "volledig",
+      "pos": "adj",
+      "domain": "core",
+      "topic": "degree",
+      "stem": "vol",
+      "level": "a",
+      "similarity": "native"
     },
     {
       "name": "volwassen",
@@ -24045,7 +25116,7 @@
       "topic": "choice",
       "stem": "keus",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -24229,7 +25300,7 @@
       "name": "vorig",
       "name_en": "previous",
       "pos": "adj",
-      "level": "b",
+      "level": "a",
       "similarity": "native",
       "id": "vorig",
       "domain": "core",
@@ -24408,6 +25479,18 @@
       "forms": "vriendin"
     },
     {
+      "name": "vriendelijk",
+      "name_en": "friendly",
+      "id": "vriendelijk",
+      "pos": "adj",
+      "domain": "socium",
+      "topic": "virtue",
+      "stem": "vriend",
+      "level": "a",
+      "similarity": "native",
+      "parent": "vriend"
+    },
+    {
       "domain": "system",
       "topic": "tempo",
       "level": "b",
@@ -24441,7 +25524,7 @@
       "article": "de",
       "plural": "-s",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "id": "vrijwilliger",
       "domain": "civil",
       "topic": "profession",
@@ -24709,7 +25792,7 @@
       "pos": "verb",
       "level": "b",
       "similarity": "soundex",
-      "forms": "warm"
+      "forms": "warm,warmte"
     },
     {
       "name": "wasmachine",
@@ -24722,7 +25805,7 @@
       "parent": "wassen",
       "domain": "artifacts",
       "topic": "appliances",
-      "level": "b",
+      "level": "a",
       "stem": "was",
       "also": "vaatwasser"
     },
@@ -24774,7 +25857,7 @@
       "topic": "game",
       "stem": "strijd",
       "pos": "noun",
-      "level": "b",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -24947,6 +26030,17 @@
       "stem": "wel"
     },
     {
+      "name": "weleens",
+      "name_en": "sometimes, ever",
+      "id": "weleens",
+      "pos": "adv",
+      "domain": "system",
+      "topic": "repeat",
+      "stem": "eens",
+      "level": "a",
+      "similarity": "native"
+    },
+    {
       "name": "welkom",
       "name_en": "welcome",
       "id": "welkom",
@@ -25104,6 +26198,19 @@
       "stem": "werk"
     },
     {
+      "name": "werkzaamheden",
+      "name_en": "duties, tasks",
+      "id": "werkzaamheden",
+      "pos": "noun",
+      "domain": "civil",
+      "topic": "business",
+      "stem": "werk",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "parent": "werken"
+    },
+    {
       "pos": "noun",
       "domain": "civil",
       "topic": "justice",
@@ -25202,7 +26309,7 @@
       "id": "wijn",
       "domain": "food",
       "topic": "drinks",
-      "level": "b",
+      "level": "a",
       "stem": "wijn"
     },
     {
@@ -25306,7 +26413,7 @@
       "domain": "civil",
       "topic": "market",
       "stem": "winkel",
-      "forms": "winkel"
+      "forms": "winkel,winkelhulp"
     },
     {
       "pos": "verb",
@@ -25669,7 +26776,7 @@
       "stem": "reis",
       "parent": "reizen",
       "pos": "noun",
-      "level": "c",
+      "level": "a",
       "similarity": "native"
     },
     {
@@ -25935,6 +27042,19 @@
       "stem": "zicht"
     },
     {
+      "name": "zijkant",
+      "name_en": "side",
+      "id": "zijkant",
+      "pos": "noun",
+      "domain": "spatial",
+      "topic": "position",
+      "stem": "kant",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en"
+    },
+    {
       "pos": "verb",
       "domain": "core",
       "topic": "thing",
@@ -25998,6 +27118,18 @@
       "name_en": "sink",
       "similarity": "soundex",
       "stem": "zink"
+    },
+    {
+      "name": "zinvol",
+      "name_en": "meaningful",
+      "id": "zinvol",
+      "pos": "adj",
+      "domain": "mental",
+      "topic": "evaluation",
+      "stem": "zin",
+      "level": "a",
+      "similarity": "native",
+      "parent": "zin"
     },
     {
       "pos": "verb",
@@ -26077,7 +27209,7 @@
       "pos": "enum",
       "domain": "nature",
       "topic": "celestials",
-      "level": "b",
+      "level": "a",
       "name": "zon",
       "name_en": "sun",
       "similarity": "soundex",
@@ -26110,6 +27242,20 @@
       "domain": "socium",
       "topic": "family",
       "stem": "zoon"
+    },
+    {
+      "name": "zorg",
+      "name_en": "care, healthcare",
+      "id": "zorg",
+      "pos": "noun",
+      "domain": "socium",
+      "topic": "care",
+      "stem": "zorg",
+      "level": "a",
+      "similarity": "native",
+      "article": "de",
+      "plural": "-en",
+      "parent": "zorgen"
     },
     {
       "domain": "socium",
@@ -26288,7 +27434,7 @@
       "pos": "enum",
       "domain": "nature",
       "topic": "color",
-      "level": "b",
+      "level": "a",
       "name": "zwart",
       "name_en": "black",
       "similarity": "native",
@@ -26300,7 +27446,7 @@
       "pos": "verb",
       "domain": "body",
       "topic": "behave",
-      "level": "b",
+      "level": "a",
       "name": "zwemmen",
       "tags": "regulat",
       "forms": "zwom-zwommen, heeft gezwommen, zwem, zwemt, zwemmend, bent gezwommen",

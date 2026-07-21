@@ -1,5 +1,26 @@
 # Connectors  
 
+## Prepositions
+
+A handful of prepositions cover **means**, **accompaniment**, and **reference**.
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| `met` | with [component] | Ik ga **met** de trein. |
+| `zonder` | without [component] | Koffie **zonder** suiker. |
+| `per` | by / per [unit-of-measure]| Ik kom **per** trein. |
+| `over` | about [reference] | Een boek **over** geschiedenis. |
+| `tegen` | against / to [opposite] | Hij praat **tegen** zijn baas. |
+| `volgens` | according to [authority]| **Volgens** mij heb je gelijk. |
+| `dankzij` | thanks to [helper] | **Dankzij** jou is het gelukt. |
+| `ondanks` | despite [obstacle]| **Ondanks** de regen was het leuk. |
+
+> **over** here = "about" (*een boek over geschiedenis*), a different sense from the time *over* ("in X from now", *over vijf minuten*).
+
+Many verbs pair with a **fixed preposition** you cannot predict from meaning (*wachten **op***, *denken **aan***, *houden **van*** …) — learn the verb and its preposition as one unit. Full list with examples: [Verbs with fixed prepositions](/#/grammar?doc=5-verbs/22-verb-with-prepositions.md).
+
+Preposition of time, space and directions covered in [Timewise](/#/grammar?doc=0-elements/timewise.md) and [Spacewise](/#/grammar?doc=0-elements/spacewise.md)
+
 ## Logical Conjunctions
 
 Coordinating conjunctions join *same rank* clauses into a logical whole.
@@ -33,7 +54,8 @@ Subordinating conjunctions introduce a **dependent** clauses.
 > **want** adds a justification to a finished thought ;  **omdat** ties the cause in tightly.
 >
 > The same split hits **of**: *of* = "or" (coordinator) vs *of* = "whether" (subordinator).
-
+>
+> **ondanks** takes a **noun** (*ondanks de regen*); for a full clause use **hoewel**.
 ---
 
 Correlations and Equality

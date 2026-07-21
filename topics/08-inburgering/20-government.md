@@ -36,11 +36,7 @@ Words and phrases for talking about government, elections and voting.
 - [ ] Het parlement wil een nieuwe **wet aannemen**.
 - [ ] Welke partij is nu **aan de macht**?
 
-`dialog:19-bij-de-gemeente:Bij de Gemeente`
-
 Words and phrases for filling in forms and planning appointments in your diary.
-
-## Uitdrukkingen — Common phrases
 
 - [ ] Ik wil graag **een afspraak maken**.
 - [ ] Ik ga de datum even **noteren**.
@@ -54,6 +50,8 @@ Words and phrases for filling in forms and planning appointments in your diary.
 - [ ] Wanneer kunt u komen en wanneer past het voor u?
 - [ ] Wat moet ik doen? Wat moet ik meenemen?
 - [ ] Zullen we op 5 juli om 10.00 uur of om 15.00 uur afspreken?
+
+`dialog:19-bij-de-gemeente:Bij de Gemeente`
 
 ## Administratie & overheid — Admin & government
 

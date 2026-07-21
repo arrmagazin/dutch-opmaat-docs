@@ -115,7 +115,7 @@ The clause is the frame; the phrases that fill its slots each have their own pag
 - Adjectives and the *-e* ending → [adjectives](/#/grammar?doc=4-bijworden/34-adjectives.md)
 - Nouns and *de/het* → [nouns](/#/grammar?doc=3-nouns/02-nouns.md)
 - Pronouns (subject vs object form) → [pronouns](/#/grammar?doc=2-pronouns/50-pronouns.md)
-- Possession (*mijn boek*, *het boek van Jan*) → [possessives](/#/grammar?doc=3-nouns/54-possesives.md)
+- Possession (*mijn boek*, *het boek van Jan*) → [possessives](/#/grammar?doc=4-bijworden/54-possesives.md)
 - Prepositions and postpositions (*de berg op*) → [connectors](/#/grammar?doc=1-auxilaries/00-connectors.md)
 - Replacing a thing after a preposition (*erover*) → [er-word](/#/grammar?doc=2-pronouns/70-er-word.md)
 

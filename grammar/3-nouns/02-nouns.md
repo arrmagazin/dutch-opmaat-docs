@@ -76,7 +76,7 @@ Which article — **de** or **het**?
 - [ ] **De** opleiding duurt vier jaar. — The course takes four years.
 - [ ] **Het** meisje speelt buiten. — The girl is playing outside.
 
-> Gender drives more than the article: see [Determiners](/#/grammar?doc=3-nouns/14-determiners.md) for *deze/dit*, [Possessives](/#/grammar?doc=3-nouns/54-possesives.md) for *ons/onze*, and [Adjectives](/#/grammar?doc=4-bijworden/34-adjectives.md) for the *-e* ending.
+> Gender drives more than the article: see [Determiners](/#/grammar?doc=3-nouns/14-determiners.md) for *deze/dit*, [Possessives](/#/grammar?doc=4-bijworden/54-possesives.md) for *ons/onze*, and [Adjectives](/#/grammar?doc=4-bijworden/34-adjectives.md) for the *-e* ending.
 
 ## Common mistakes
 

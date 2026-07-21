@@ -57,7 +57,3 @@ When the object is a **thing** (not a person), the preposition merges into an *e
 - ❌ *Ik wacht **voor** de bus* → ✅ *Ik wacht **op** de bus* — the preposition is fixed, not the literal English "for".
 - ❌ *Ik luister **aan** muziek* → ✅ *Ik luister **naar** muziek* — *luisteren* takes *naar*.
 - ❌ *Ik denk **over** jou* (= considering) → ✅ *Ik denk **aan** jou* — *denken **aan*** = to have in mind; *nadenken **over*** = to reflect on.
-
----
-
-See also: [Prepositions](/#/grammar?doc=1-auxilaries/10-prepositions.md) · [Verbs](/#/grammar?doc=5-verbs/19-verbs.md)
