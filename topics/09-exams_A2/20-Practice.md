@@ -1,8 +1,31 @@
-# Listening Practice
+# Practice exams
 
-Full  playlist [Luistervaardigheid A2](https://www.youtube.com/playlist?list=PLXhM-IdBEVjjXsZrVZAf4X94FCBE2tq99):
+Practice until it starts to make sense. Over and over.
+
+## Reading  exam mock
+
+- [ ] [Reading 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/RV5Y)
+- [ ] [Reading 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/JJPV)
+- [ ] [Reading 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/QCA1)
+- [ ] [Reading 4](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/6N1Z)
+
+## Listening
+
+Listening Practice
+
+- [ ]  [Phrases trainer](/#/phrases?level=a2)
 
 ---
+
+exam mock
+
+- [ ] [Listening 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/NCJ5)
+- [ ] [Listening 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/J845)
+- [ ] [Listening 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/5QCB)
+
+---
+
+Full  playlist [Luistervaardigheid A2](https://www.youtube.com/playlist?list=PLXhM-IdBEVjjXsZrVZAf4X94FCBE2tq99):
 
 - [ ] [Les 1.1](https://www.youtube.com/watch?v=TnzORNjSbMU)  [Les 1.2](https://www.youtube.com/watch?v=0kCEtabeh2o) [Les 1.3](https://www.youtube.com/watch?v=xj8BNwiEMY4)
 - [ ] [Les 2.1](https://www.youtube.com/watch?v=YR8X0InqUVg) [Les 2.2](https://www.youtube.com/watch?v=kc5rtK8eq7U) [Les 2.3](<https://www.youtube.com/watch?v=RMkVMca_xjg>) [Les 2.4](https://www.youtube.com/watch?v=rW4LiP5NJL4)
@@ -36,3 +59,45 @@ Full  playlist [Luistervaardigheid A2](https://www.youtube.com/playlist?list=PLX
 - [ ] [Les 24.1](https://www.youtube.com/watch?v=iURWX_fklKg)
 - [ ] [Les 25.1](https://www.youtube.com/watch?v=kwRR03ER1Ko)
 - [ ] [Les 26.1](https://www.youtube.com/watch?v=9wH9fRuFp0w)
+
+## Writing
+
+- [ ]  [Writing AI trainer](/#/writing)
+
+---
+samples
+
+- [ ] [Writing 1](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-1.pdf)
+- [ ] [Writing 2](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-2.pdf)
+- [ ] [Writing 3](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-3.pdf)
+- [ ]  [Writing AI trainer](/#/writing)
+
+## Speaking  
+
+Speaking Practice
+
+- [ ]  [Q&A trainer](/#/questions?level=a2)
+
+---
+
+exam mock
+
+- [ ] [Speaking 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/DZ66)
+- [ ] [Speaking 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/N94P)
+- [ ] [Speaking 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/TKWW)
+
+---
+
+ [A2 – Spreken 2025 (nieuw format) playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf).
+
+Each practice exam has **12 questions**. The examiner gives a short statement, then asks a question. After a pause (to answer yourself), you hear a *voorbeeldantwoord* — a model answer.
+
+- [ ] [Video 1](https://www.youtube.com/watch?v=7cmueg7A0CU)
+- [ ] [Video 2](https://www.youtube.com/watch?v=dOPLSiuxzqc)
+- [ ] [Video 3](https://www.youtube.com/watch?v=fodGxchgAaw)
+- [ ] [Video 4](https://www.youtube.com/watch?v=yUY_FCN_XiA)
+- [ ] [Video 5](https://www.youtube.com/watch?v=DgwCmj3poSI)
+- [ ] [Video 6](https://www.youtube.com/watch?v=3nx6O9qWGjE)
+- [ ] [Video 7](https://www.youtube.com/watch?v=8nFzjYHSTCA)
+- [ ] [Video 8](https://www.youtube.com/watch?v=kH7RhrA4jTg)
+- [ ] [Video 9](https://www.youtube.com/watch?v=0ZwElCYAfzI)

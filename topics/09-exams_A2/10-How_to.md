@@ -1,6 +1,6 @@
 # How to Pass Dutch Inburgering A2 Exam
 
-## How to be prepared
+## Approach
 
 - [ ] [Strategies](https://inburgeren-ai.nl/strategies)
 - [ ] [Self assess](https://learn-dutch-with-ai.com/dutch-language-self-assessment-test/)
@@ -18,19 +18,27 @@
 ### What DID help me
 
 - [ ] **A paid AI chatbot (ChatGPT).** Use it as a personal tutor — it's amazing.
-- [ ] **The Use Dutch app.** The most modern, easy-to-follow, and helpful of the paid apps I tried.
 - [ ] **Official Inburgering practice exams.** Critical. Almost identical to the real exams. The questions differ, but they're very similar — and you can repeat them as often as you like.
 - [ ] **Google Translate.** For reading, writing, listening, and speaking.
 - [ ] **A 1:1 tutor.** The best way to supplement your learning. Mine was a retired-teacher neighbour — not a professional. I asked her for just two things: (1) pronunciation and (2) basic grammar. About 10–15 hours is enough.
 - [ ] **_De Opmaat naar NT2-niveau A2._** The grammar book my tutor used. In hindsight it's far more than the exam needs, but the opening chapters helped.
 
-## Before the exam
+## External sources
+
+- [ ] [inburgeren.nl](https://www.inburgeren.nl/examen-doen/oefenen.jsp)
+- [ ] [inburgeren.nl - A2 exams mocks](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)
+- [ ] [oefenen.nl](https://oefenen.nl/program/overview)
+- [ ] [learn-dutch-with-ai - mock exams](https://learn-dutch-with-ai.com/inburgering-mock-exams/)
+
+## Logistic
+
+### Before the exam
 
 - [ ] Log in to your **inburgeren.nl** account to see the level you need to pass.
 - [ ] Sign up for exams on that site. Slots fill quickly — book early.
 - [ ] You can move an exam to another date, so it's better to book and reschedule than to have no slot. Note the last date you're allowed to reschedule.
 
-## At the location (Rijswijk)
+### At the location (Rijswijk)
 
 - [ ] Staff speak **only Dutch**. Be prepared.
 - [ ] **Check in immediately** at the desk (to the right as you enter). Your letter gives your room number — go sit by that room.
@@ -38,3 +46,8 @@
 - [ ] When the door opens, join the queue. You're checked in and given a computer number (watch the list if listening is hard). Sit at that computer and wait for everyone to start together.
 - [ ] Someone talks through the exam at length. Don't worry about what you don't understand — if you did the practice exams, you don't need it.
 - [ ] When you're done, you leave.
+
+## What next: NT2
+
+- [ ] [Staatsexamen NT2-I Spreken (B1)](https://nt2-oefenomgeving.facet.onl/facet-openbaar-portaal/oefenen/examens/NT2-I/Spreken)
+- [ ] [Staatsexamen NT2-II Spreken (B2)](https://nt2-oefenomgeving.facet.onl/facet-openbaar-portaal/oefenen/examens/NT2-II/Spreken)
