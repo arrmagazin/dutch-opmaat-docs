@@ -80,8 +80,8 @@
   {
     "id": "w12",
     "title": "Doctor's Visit",
-    "description": "Make an appointment with the doctor and fill in a patient intake form",
-    "modelAnswer": "Beste meneer/mevrouw, ik wil graag een afspraak maken bij de huisarts.\nIk heb al een week last van hoofdpijn en ik ben erg moe.\nOok slaap ik slecht en heb ik geen energie meer.\nWanneer kan ik komen?\nHet liefst deze week nog, het mag ook 's middags.\nMijn telefoonnummer is 06-12345678.\nMet vriendelijke groet, Maria de Vries.\nIntakeformulier:\nNaam: Maria de Vries\nGeboortedatum: 22 juni 1985\nAdres: Bloemstraat 3, 3456 EF Rotterdam\nTelefoonnummer: 06-12345678\nE-mail: maria.devries@mail.nl\n\nIk heb de afgelopen weken vaak hoofdpijn en ik ben snel moe.\nOok slaap ik slecht en heb ik soms last van mijn maag.\nIk gebruik paracetamol als ik hoofdpijn heb.\nIk ben allergisch voor penicilline en pinda's.\nIk rook niet en drink af en toe alcohol."
+    "description":"`inline:texts/visit-doctor`",
+    "promptHint": "Beste meneer/mevrouw, ik wil graag een afspraak maken bij de huisarts.\nIk heb al een week last van hoofdpijn en ik ben erg moe.\nOok slaap ik slecht en heb ik geen energie meer.\nWanneer kan ik komen?\nHet liefst deze week nog, het mag ook 's middags.\nMijn telefoonnummer is 06-12345678.\nMet vriendelijke groet, Maria de Vries.\nIntakeformulier:\nNaam: Maria de Vries\nGeboortedatum: 22 juni 1985\nAdres: Bloemstraat 3, 3456 EF Rotterdam\nTelefoonnummer: 06-12345678\nE-mail: maria.devries@mail.nl\n\nIk heb de afgelopen weken vaak hoofdpijn en ik ben snel moe.\nOok slaap ik slecht en heb ik soms last van mijn maag.\nIk gebruik paracetamol als ik hoofdpijn heb.\nIk ben allergisch voor penicilline en pinda's.\nIk rook niet en drink af en toe alcohol."
   },
   {
     "id": "w29",

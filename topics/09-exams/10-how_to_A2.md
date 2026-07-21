@@ -24,15 +24,6 @@
 - [ ] **A 1:1 tutor.** The best way to supplement your learning. Mine was a retired-teacher neighbour — not a professional. I asked her for just two things: (1) pronunciation and (2) basic grammar. About 10–15 hours is enough.
 - [ ] **_De Opmaat naar NT2-niveau A2._** The grammar book my tutor used. In hindsight it's far more than the exam needs, but the opening chapters helped.
 
-## Practice exams
-
-Practice exams until the words start to make sense. Over and over.
-
-- [ ] [mock exams](https://learn-dutch-with-ai.com/inburgering-mock-exams/)
-- [ ] [inburgeren.nl](https://www.inburgeren.nl/examen-doen/oefenen.jsp)
-- [ ] [oefenen.nl](https://oefenen.nl/program/overview)
-- [ ]  [Writing AI trainer](/#/writing)
-
 ## Before the exam
 
 - [ ] Log in to your **inburgeren.nl** account to see the level you need to pass.

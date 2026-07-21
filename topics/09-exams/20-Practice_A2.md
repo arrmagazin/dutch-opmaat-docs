@@ -1,4 +1,19 @@
-# Official Practice A2 exams mocks
+# Practice exams
+
+Practice until it starts to make sense. Over and over.
+
+- [ ]  [Writing AI trainer](/#/writing)
+- [ ]  [Q&A trainer](/#/questions?level=a2)
+- [ ]  [Phrases trainer](/#/phrases?level=a2)
+
+---
+External sources:
+
+- [ ] [mock exams](https://learn-dutch-with-ai.com/inburgering-mock-exams/)
+- [ ] [inburgeren.nl](https://www.inburgeren.nl/examen-doen/oefenen.jsp)
+- [ ] [oefenen.nl](https://oefenen.nl/program/overview)
+
+## Official Practice A2 exams mocks
 
 Source: [inburgeren.nl](https://www.inburgeren.nl/en/taking-the-integration-exam/practicing.jsp)
 
