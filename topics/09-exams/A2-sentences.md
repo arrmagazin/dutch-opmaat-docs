@@ -1,0 +1,202 @@
+# A2 answer sentences
+
+- Ik bel elke dag met mijn moeder.
+- zij brengt eten bij de passagiers.
+- Zij controleert de kaartjes.
+- Hij controleert de snelheid van auto's.
+- Daar wonen veel mensen.
+- Dafne loopt hard.
+- Dan bel ik mijn baas.
+- Dan gaan we samen lekker eten.
+- De koffie valt op het toetsenbord.
+- Ik denk dat hij in een grote stad werkt.
+- Ik doe de boodschappen bij Albert Heijn.
+- Ik doe de boodschappen online.
+- Ik doe mijn boodschappen met de auto.
+- Ik doe niet mee met Sinterklaas.
+- Ik doe veel aan sport.
+- Hij doet boodschappen.
+- Ik draag op die dag ook oranje kleding.
+- Ik drink dan eerst koffie.
+- Ik drink elke dag koffie.
+- Zij drinkt bier en zij draagt oranje kleding.
+- hij drinkt koffie en hij kijkt naar zijn computer.
+- Zij drinkt rode wijn.
+- Zij drinkt thee.
+- Zij droomt over een villa.
+- Een bouwvakker draagt stenen.
+- Ik eet dan rijst met groente.
+- Hij eet een broodje.
+- Ik eet elke dag een appel.
+- Zij eet iets lekkers.
+- Ik eet meestal met mijn partner.
+- Ik eet niet zoveel en ik drink geen alcohol.
+- Ik eet ook om 6 uur.
+- Zij eet pasta met kaas.
+- Eten, drinken en dansen met veel vrienden.
+- Ik fiets elke dag.
+- Zij fietsen.
+- Hij (fietst|loopt).
+- Ik ga één keer per jaar op vakantie.
+- Ik ga elke week naar het station.
+- Ik ga graag op vakantie naar Italië.
+- Ik ga morgen om 9 uur naar school.
+- Ik ga naar Parijs met de trein.
+- Ik ga naar Spanje op vakantie.
+- Ik ga naar Thailand.
+- Hij gaat met de fiets.
+- Hij gaat naar Bali.
+- Zij gaat naar een grote stad.
+- zij gaat shoppen en zij gaat koffie drinken op een terras.
+- Ik gebruik mijn telefoon om te bellen met mijn partner en met mijn familie.
+- Zij gebruikt haar laptop en een koptelefoon.
+- Ik geef een groot feest op mijn verjaardag.
+- Ik geef veel geld uit aan de supermarkt.
+- Ik geef veel geld uit aan eten kopen in de supermarkt.
+- hij geeft een boete.
+- zij geeft instructies.
+- Zij geven elkaar een cadeau.
+- Ik gooi mijn e-mails weg.
+- Ik heb geen huisdieren.
+- Ik heb gisteren een paraplu gekocht bij de HEMA.
+- Ik heb mijn huis klassiek ingericht.
+- Ik heb Nederlandse les bij Ad Appel.
+- Ik heb twee broers en geen zussen.
+- ik heb wel een rijbewijs.
+- Ik heb zes maanden les.
+- Zij heeft boeken.
+- Zij heeft haar kaartje via internet gekocht.
+- Hij heeft veel rugzakken.
+- Het huis van Vanessa heeft zes kamers.
+- Ik hou van (klassiek|muziek).
+- Ik hou van Nederland en van Amsterdam.
+- Mijn huis heeft vijf kamers.
+- In mijn land regent het nooit.
+- Jongens en meisjes zitten samen in één klas.
+- Ik kan niet veel geld verdienen in de zorg.
+- Ik kan schilderijen in het museum bekijken.
+- Ik kijk graag naar een goede film.
+- Ik kijk veel op Facebook.
+- zij kijkt in de spiegel.
+- zij kijkt op haar telefoon.
+- Zij kijkt thuis naar een voetbalwedstrijd.
+- Kinderen gaan naar school zonder uniform.
+- Ik kook ook graag.
+- ik koop wel eens tweedehands meubels.
+- zij koopt fruit en groente en zij koopt een pak koekjes.
+- Ik leer al het derde jaar Nederlands.
+- Leraar past beter bij mij.
+- Zij loopt op straat.
+- Ik luister elke dag naar de radio, naar popmuziek.
+- Ik maak dan spaghetti.
+- Zij maakt de (vloer|wc|de ramen) schoon.
+- hij maakt een muur. hij maakt ook een dak.
+- Haar maaltijd kost €10.
+- Ze maken een foto.
+- Hij moet de (banden|olie) controleren.
+- Zij moet een nieuw toetsenbord kopen.
+- Hij moet ook de auto schoonmaken.
+- Nederlanders eten appeltaart bij een feestje.
+- Hij neemt een douche.
+- Ik reis nooit met het vliegtuig.
+- Hij reist ongeveer 10 minuten.
+- hij schrijft e-mails.
+- Zij schrijft met een pen op papier.
+- Soms komen vrienden op bezoek.
+- ik sport ook graag.
+- Ik spreek Engels en een klein beetje Nederlands.
+- Ik sta op om 8 uur.
+- Ik sta soms in de file.
+- Veel Nederlanders dragen dan oranje kleding.
+- hij vergadert met collega's.
+- Hij verkoopt kleding.
+- Vincent leest zijn e-mails.
+- zij wandelen en zij zitten bij het water.
+- hij werkt op kantoor.
+- Ik wil daar de Eiffeltoren zien.
+- Ik wil een vakantiehuis hebben op Bali.
+- Ik wil geen tuin.
+- Ik wil graag naar Parijs.
+- Ik wil veel slapen in de vakantie.
+- Ik woon daar sinds 2013.
+- Ik woon in Amsterdam en ik heb weinig contact met de buren.
+- hij ziet boten en hij ziet veel oude huizen.
+- zij ziet een molen en zij ziet een klomp.
+- hij ziet iemand die danst en hij ziet iemand die schildert.
+- Hij ziet iemand die muziek maakt.
+- Zij ziet veel bloemen.
+- Hij ziet veel fietsen.
+- Ik zwem drie keer per week.
+- Zij zwemt volgens mij één keer per week.
+
+## Vind, liever, het liefst
+
+- Ik vind bloemen leuk.
+- Ik vind dat een goede tijd om te eten.
+- Ik vind dat fijn.
+- Ik vind de grote stad leuk.
+- Ik vind de zomer goed.
+- Ik vind drop niet zo lekker.
+- Ik vind fietsen het leukst.
+- Ik vind het klimaat in mijn eigen land beter, want ik hou van zon en warmte.
+- Ik vind het leuk om vrienden te hebben.
+- Ik vind het leuk op school.
+- Ik vind het ook leuk om cadeautjes te krijgen.
+- Ik vind het schilderij met de bloemen mooi.
+- Ik vind huisdieren vies.
+- Ik vind katten niet leuk.
+- Ik vind Nederlands moeilijk.
+- Ik vind Parijs een mooie stad.
+- Ik vind regen in Nederland geen probleem.
+- Ik vind voetbal minder leuk.
+- Zij doet dat liever alleen.
+- Ik drink liever koffie.
+- Ik ga liever met de trein.
+- Ik ga liever naar een (concert|snackbar).
+- Ik gebruik liever een grote computer.
+- Ik werk liever in de zorg.
+- Ik woon liever in de stad.
+- Ik woon liever in een flat.
+- Ik eet het liefst thuis.
+- Ik ga het liefst in de zomer.
+- Ik ga het liefst met de (taxi|trein).
+- Ik ga het liefst naar een discotheek, want ik houd van dansen.
+- Ik luister het liefst naar muziek.
+- Ik woon het liefst in Indonesië.
+
+## Zinnen met *zijn* (is, was, ben, bent, zijn)
+
+- Amsterdam is de mooiste stad van Nederland.
+- Haar auto is kapot.
+- Ik ben al het derde jaar schoonmaker.
+- Ik ben boos als ik veel moet betalen.
+- Ik ben schoonmaker.
+- ik ben wel eens boos.
+- Daar is het lekker warm en daar is veel lekker eten.
+- Dat is beter voor mijn ogen.
+- Dat is leuk.
+- dat is snel.
+- De basisschool is voor kinderen van 4 tot 12 jaar.
+- De hoofdstad van mijn land is Mexico.
+- Een film is leuk.
+- Een grote stad is nooit saai.
+- Een villa is duur.
+- Mijn familie is groot, ik heb veel ooms en tantes en neven.
+- Het concert is in een theater.
+- Het is niet zo schoon in Mexico-Stad.
+- Het weer in mijn eigen land is ook lekker.
+- Het weer in Nederland is lekker.
+- Ik hou niet van autorijden, want er zijn altijd files op de weg.
+- Mijn ideale plaats is Amsterdam.
+- In de stad zijn bioscopen, musea, veel monumenten, winkels en restaurants.
+- In de zomer is het lekker warm.
+- In Italië wonen leuke mensen en het klimaat is prima.
+- Ze zijn in Londen.
+- Hij is in een bioscoop.
+- Zij is met haar (broer|dochter).
+- Hij is slager en hij heeft een mes in zijn hand.
+- Katten zijn vies.
+- Mijn moedertaal is Engels.
+- Op Bali is het altijd mooi weer.
+- Voetbal is niet goed voor kinderen.
+- Ik was daar in een museum.

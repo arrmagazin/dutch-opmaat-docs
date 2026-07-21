@@ -42,32 +42,32 @@ Each practice exam has **12 questions**. The examiner gives a short statement, t
 - **Vraag:** Ik doe allerlei dingen om gezond te blijven. Wat doet u allemaal om gezond te blijven?
 - **Voorbeeldantwoord:** Ik doe veel aan sport. Ik eet niet zoveel en ik drink geen alcohol.
 
-**7. Plaatje — Kirsten**
+**7. Kirsten**
 
-- **Vraag:** Kijk naar het plaatje. Kirsten zit niet in haar auto. Wat doet zij en waarom zit zij volgens u niet in de auto?
+- **Vraag:** Kirsten zit niet in haar auto. Wat doet zij en waarom zit zij volgens u niet in de auto?
 - **Voorbeeldantwoord:** Zij loopt op straat. Haar auto is kapot.
 
-**8. Plaatje — Henk**
+**8. Henk**
 
-- **Vraag:** Kijk naar het plaatje. Henk gaat naar zijn werk. Hoe reist hij en hoe lang moet hij volgens u reizen naar zijn werk?
+- **Vraag:** Henk gaat naar zijn werk. Hoe reist hij en hoe lang moet hij volgens u reizen naar zijn werk?
 - **Voorbeeldantwoord:** Hij gaat met de fiets. Hij reist ongeveer 10 minuten.
 
-**9. Plaatjes — uitgaan**
+**9. uitgaan**
 
 - **Vraag:** Kijk naar de plaatjes. Waar gaat u liever naartoe? Vertel ook waarom u dat het liefste doet.
 - **Voorbeeldantwoord:** Ik ga liever naar een concert. Ik hou van muziek.
 
-**10. Plaatjes — uit eten**
+**10. uit eten**
 
 - **Vraag:** Kijk naar de plaatjes. Waar gaat u liever uit eten, in een snackbar of in een restaurant? Hoe vaak gaat u daar naartoe?
 - **Voorbeeldantwoord:** Ik ga liever naar een snackbar. Ik ga elke week.
 
-**11. Plaatjes — David in de garage**
+**11. David in de garage**
 
 - **Vraag:** David werkt in een garage. Kijk naar de plaatjes. Welke dingen moet hij doen? Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Hij moet de banden controleren, hij moet de olie controleren. Hij moet ook de auto schoonmaken.
 
-**12. Plaatjes — Karina in het vliegtuig**
+**12. Karina in het vliegtuig**
 
 - **Vraag:** Karina werkt in een vliegtuig. Kijk naar de plaatjes. Wat moet zij doen? Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Zij controleert de kaartjes, zij geeft instructies, zij brengt eten bij de passagiers.
@@ -110,32 +110,32 @@ Each practice exam has **12 questions**. The examiner gives a short statement, t
 - **Vraag:** Sommige mensen hebben een vakantiehuis. Waar zou u een vakantiehuis willen hebben en vertel ook waarom juist daar?
 - **Voorbeeldantwoord:** Ik wil een vakantiehuis hebben op Bali. Op Bali is het altijd mooi weer.
 
-**7. Plaatje — Diego**
+**7. Diego**
 
-- **Vraag:** Kijk naar het plaatje. Diego houdt van uitgaan. Wat doet hij en waar is hij volgens u?
+- **Vraag:** Diego houdt van uitgaan. Wat doet hij en waar is hij volgens u?
 - **Voorbeeldantwoord:** Hij kijkt naar een film. Hij is in een bioscoop.
 
-**8. Plaatje — Leila**
+**8. Leila**
 
-- **Vraag:** Kijk naar het plaatje. Leila gaat naar een concert. Waar is het concert volgens u en hoe heeft zij haar kaartje gekocht?
+- **Vraag:** Leila gaat naar een concert. Waar is het concert volgens u en hoe heeft zij haar kaartje gekocht?
 - **Voorbeeldantwoord:** Het concert is in een theater. Zij heeft haar kaartje via internet gekocht.
 
-**9. Plaatje — naar het station**
+**9. naar het station**
 
-- **Vraag:** Kijk naar het plaatje. U gaat van uw huis naar het station. Met welk vervoermiddel gaat u het liefst en hoe vaak gaat u naar het station?
+- **Vraag:** U gaat van uw huis naar het station. Met welk vervoermiddel gaat u het liefst en hoe vaak gaat u naar het station?
 - **Voorbeeldantwoord:** Ik ga het liefst met de taxi. Ik ga elke week naar het station.
 
-**10. Plaatje — naar Spanje**
+**10. naar Spanje**
 
-- **Vraag:** Kijk naar het plaatje. U gaat naar Spanje. Hoe reist u het liefst? Vertel ook wat u gaat doen in Spanje.
+- **Vraag:** U gaat naar Spanje. Hoe reist u het liefst? Vertel ook wat u gaat doen in Spanje.
 - **Voorbeeldantwoord:** Ik ga het liefst met de trein. Ik ga naar Spanje op vakantie.
 
-**11. Plaatjes — Juan op zijn laptop**
+**11. Juan op zijn laptop**
 
 - **Vraag:** Juan is de hele dag bezig op zijn laptop. Kijk naar de plaatjes. Waarvoor gebruikt hij zijn computer? Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Hij doet boodschappen, hij schrijft e-mails, hij vergadert met collega's.
 
-**12. Plaatjes — Melissa volgt een cursus**
+**12. Melissa volgt een cursus**
 
 - **Vraag:** Melissa volgt een cursus. Kijk naar de plaatjes. Welke dingen gebruikt zij bij haar cursus? Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Zij gebruikt haar laptop en een koptelefoon. Zij heeft boeken. Zij schrijft met een pen op papier.
@@ -178,32 +178,32 @@ Each practice exam has **12 questions**. The examiner gives a short statement, t
 - **Vraag:** Ik ben leraar Nederlands. Wat is uw beroep en hoe lang bent u dat al?
 - **Voorbeeldantwoord:** Ik ben schoonmaker. Ik ben al het derde jaar schoonmaker.
 
-**7. Plaatje — Paula's computer**
+**7. Paula's computer**
 
-- **Vraag:** Kijk naar het plaatje. Paula heeft een computer. Wat is het probleem? Wat kan zij het beste doen?
+- **Vraag:** Paula heeft een computer. Wat is het probleem? Wat kan zij het beste doen?
 - **Voorbeeldantwoord:** De koffie valt op het toetsenbord. Zij moet een nieuw toetsenbord kopen.
 
-**8. Plaatje — Vincent's e-mails**
+**8. Vincent's e-mails**
 
-- **Vraag:** Kijk naar het plaatje. Vincent krijgt veel e-mails. Wat gaat hij volgens u doen met deze e-mails? Wat doet u zelf met uw e-mails?
+- **Vraag:** Vincent krijgt veel e-mails. Wat gaat hij volgens u doen met deze e-mails? Wat doet u zelf met uw e-mails?
 - **Voorbeeldantwoord:** Vincent leest zijn e-mails. Ik gooi mijn e-mails weg.
 
-**9. Plaatjes — vakantie**
+**9. vakantie**
 
 - **Vraag:** Kijk naar de plaatjes. Wat doet u liever in de vakantie? Vertel ook wanneer u op vakantie gaat.
 - **Voorbeeldantwoord:** Ik wil veel slapen in de vakantie. Ik ga het liefst in de zomer.
 
-**10. Plaatjes — reizen**
+**10. reizen**
 
 - **Vraag:** Kijk naar de plaatjes. Hoe gaat u het liefst op vakantie? Vertel ook hoe vaak u met het vliegtuig reist.
 - **Voorbeeldantwoord:** Ik ga liever met de trein. Ik reis nooit met het vliegtuig.
 
-**11. Plaatjes — Tamara in het restaurant**
+**11. Tamara in het restaurant**
 
 - **Vraag:** Tamara gaat naar een restaurant. Kijk naar de plaatjes. Wat doet zij in het restaurant en met wie is zij daar? Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Zij eet iets lekkers. Zij drinkt rode wijn. Zij is met haar broer.
 
-**12. Plaatjes — Vladimir en de artiesten**
+**12. Vladimir en de artiesten**
 
 - **Vraag:** Vladimir loopt door de stad en hij ziet drie artiesten. Kijk naar de plaatjes. Wat ziet hij als hij door de stad loopt? Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Hij ziet iemand die muziek maakt, hij ziet iemand die danst en hij ziet iemand die schildert.
@@ -246,32 +246,32 @@ Each practice exam has **12 questions**. The examiner gives a short statement, t
 - **Vraag:** Ik was vandaag te laat op mijn werk. Waarom bent u wel eens te laat? Zeg ook wat u dan doet.
 - **Voorbeeldantwoord:** Ik sta soms in de file. Dan bel ik mijn baas.
 
-**7. Plaatje — 5 december**
+**7. 5 december**
 
-- **Vraag:** Kijk naar het plaatje. Het is vandaag 5 december. Wat doen veel Nederlanders op deze dag en wat doet u op 5 december?
+- **Vraag:** Het is vandaag 5 december. Wat doen veel Nederlanders op deze dag en wat doet u op 5 december?
 - **Voorbeeldantwoord:** Zij geven elkaar een cadeau. Ik doe niet mee met Sinterklaas.
 
-**8. Plaatje — Koningsdag**
+**8. Koningsdag**
 
-- **Vraag:** Kijk naar het plaatje. Het is vandaag 27 april, Koningsdag. Wat doen veel Nederlanders op deze dag en wat doet u op Koningsdag?
+- **Vraag:** Het is vandaag 27 april, Koningsdag. Wat doen veel Nederlanders op deze dag en wat doet u op Koningsdag?
 - **Voorbeeldantwoord:** Veel Nederlanders dragen dan oranje kleding. Ik draag op die dag ook oranje kleding.
 
-**9. Plaatjes — stad of dorp**
+**9. stad of dorp**
 
 - **Vraag:** Kijk naar de plaatjes. Waar woont u liever, in een stad of in een dorp? Vertel ook waarom.
 - **Voorbeeldantwoord:** Ik woon liever in de stad. In de stad zijn winkels en restaurants.
 
-**10. Plaatjes — soort huis**
+**10. soort huis**
 
 - **Vraag:** Kijk naar de plaatjes. In welk huis woont u liever? Vertel ook waarom.
 - **Voorbeeldantwoord:** Ik woon liever in een flat. Ik wil geen tuin.
 
-**11. Plaatjes — Candy op vakantie**
+**11. Candy op vakantie**
 
 - **Vraag:** Candy gaat graag op vakantie. Kijk naar de plaatjes. Vertel wat zij doet. Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Zij gaat naar een grote stad, zij gaat shoppen en zij gaat koffie drinken op een terras.
 
-**12. Plaatjes — Theo en Thea**
+**12. Theo en Thea**
 
 - **Vraag:** Theo en Thea zijn op vakantie in Nederland. Kijk naar de plaatjes. Wat doen zij tijdens de vakantie? Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Zij fietsen, zij wandelen en zij zitten bij het water.
@@ -314,32 +314,32 @@ Each practice exam has **12 questions**. The examiner gives a short statement, t
 - **Vraag:** Wat is de mooiste plaats waar u geweest bent? Vertel ook waarom u daar was.
 - **Voorbeeldantwoord:** Amsterdam is de mooiste stad. Ik was daar in een museum.
 
-**7. Plaatje — Marleen droomt**
+**7. Marleen droomt**
 
-- **Vraag:** Kijk naar het plaatje. Marleen droomt over een nieuw huis. Over wat voor soort huis droomt zij volgens u en is zo'n huis duur of goedkoop?
+- **Vraag:** Marleen droomt over een nieuw huis. Over wat voor soort huis droomt zij volgens u en is zo'n huis duur of goedkoop?
 - **Voorbeeldantwoord:** Zij droomt over een villa. Een villa is duur.
 
-**8. Plaatje — Vanessa's huis**
+**8. Vanessa's huis**
 
-- **Vraag:** Kijk naar het plaatje. Vanessa heeft een huis gevonden. Hoeveel kamers heeft haar huis en hoeveel kamers heeft uw huis?
+- **Vraag:** Vanessa heeft een huis gevonden. Hoeveel kamers heeft haar huis en hoeveel kamers heeft uw huis?
 - **Voorbeeldantwoord:** Het huis van Vanessa heeft zes kamers. Mijn huis heeft vijf kamers.
 
-**9. Plaatjes — beroep**
+**9. beroep**
 
 - **Vraag:** Kijk naar de plaatjes. Welk beroep past beter bij u? Vertel ook waarom.
 - **Voorbeeldantwoord:** Leraar past beter bij mij. Ik vind het leuk op school.
 
-**10. Plaatjes — administratie of zorg**
+**10. administratie of zorg**
 
 - **Vraag:** Kijk naar de plaatjes. U ziet hier twee mensen: de één doet administratief werk, de ander werkt in de zorg. Welk beroep past beter bij u? Vertel ook of u veel of weinig geld kunt verdienen met dit beroep.
 - **Voorbeeldantwoord:** Ik werk liever in de zorg. Ik kan niet veel geld verdienen in de zorg.
 
-**11. Plaatjes — Thomas' lunch**
+**11. Thomas' lunch**
 
 - **Vraag:** Thomas heeft lunchtijd. Kijk naar de plaatjes. Vertel wat hij doet tijdens de lunch. Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Hij eet een broodje, hij drinkt koffie en hij kijkt naar zijn computer.
 
-**12. Plaatjes — Maria in de winkel**
+**12. Maria in de winkel**
 
 - **Vraag:** Maria is met haar dochter in de winkel. Kijk naar de plaatjes. Vertel wat Maria koopt. Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Zij koopt fruit, zij koopt groente en zij koopt een pak koekjes.
@@ -382,32 +382,32 @@ Each practice exam has **12 questions**. The examiner gives a short statement, t
 - **Vraag:** Welke stad zou u graag willen zien? Zeg ook wat u daar wilt doen.
 - **Voorbeeldantwoord:** Ik wil graag naar Parijs. Ik wil daar de Eiffeltoren zien.
 
-**7. Plaatje — zwemmen**
+**7. zwemmen**
 
-- **Vraag:** Kijk naar het plaatje. Zij houdt van sport. Welke sport doet zij hier en hoe vaak doet zij dat volgens u?
+- **Vraag:** Zij houdt van sport. Welke sport doet zij hier en hoe vaak doet zij dat volgens u?
 - **Voorbeeldantwoord:** Zij zwemt. Zij zwemt volgens mij één keer per week.
 
-**8. Plaatje — Dafne**
+**8. Dafne**
 
-- **Vraag:** Kijk naar het plaatje. Dafne is een sportieve vrouw. Van welke sport houdt zij? Doet zij haar sport liever alleen of samen met anderen?
+- **Vraag:** Dafne is een sportieve vrouw. Van welke sport houdt zij? Doet zij haar sport liever alleen of samen met anderen?
 - **Voorbeeldantwoord:** Dafne loopt hard. Zij doet dat liever alleen.
 
-**9. Plaatjes — schilderijen**
+**9. schilderijen**
 
 - **Vraag:** Kijk naar de plaatjes. Welk schilderij vindt u mooier? Waar kunt u schilderijen bekijken?
 - **Voorbeeldantwoord:** Ik vind het schilderij met de bloemen mooi. Ik kan schilderijen in het museum bekijken.
 
-**10. Plaatjes — drop en appeltaart**
+**10. drop en appeltaart**
 
 - **Vraag:** Kijk naar de plaatjes. U ziet twee dingen die Nederlanders eten: drop en appeltaart. Wat vindt u minder lekker en wanneer eten Nederlanders volgens u appeltaart?
 - **Voorbeeldantwoord:** Ik vind drop niet zo lekker. Nederlanders eten appeltaart bij een feestje.
 
-**11. Plaatjes — bouwvakker**
+**11. bouwvakker**
 
 - **Vraag:** U ziet hier een bouwvakker, hij bouwt een huis. Kijk naar de plaatjes. Vertel wat een bouwvakker moet doen tijdens zijn werk. Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Een bouwvakker draagt stenen, hij maakt een muur, hij maakt ook een dak.
 
-**12. Plaatjes — Priscilla maakt schoon**
+**12. Priscilla maakt schoon**
 
 - **Vraag:** Priscilla maakt haar huis schoon. Kijk naar de plaatjes. Vertel wat zij doet. Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Zij maakt de vloer schoon, zij maakt de wc schoon, zij maakt ook de ramen schoon.
@@ -450,32 +450,32 @@ Each practice exam has **12 questions**. The examiner gives a short statement, t
 - **Vraag:** Ik vind de winter een heerlijk seizoen. Welk seizoen vindt u het prettigst en vertel ook waarom.
 - **Voorbeeldantwoord:** Ik vind de zomer goed. In de zomer is het lekker warm.
 
-**7. Plaatje — Kees op vakantie**
+**7. Kees op vakantie**
 
-- **Vraag:** Kijk naar het plaatje. Kees gaat op vakantie. Wat heeft hij bij zich en waar gaat hij volgens u naartoe?
+- **Vraag:** Kees gaat op vakantie. Wat heeft hij bij zich en waar gaat hij volgens u naartoe?
 - **Voorbeeldantwoord:** Hij heeft veel rugzakken. Hij gaat naar Bali.
 
-**8. Plaatje — Wesley en Hanna**
+**8. Wesley en Hanna**
 
-- **Vraag:** Kijk naar het plaatje. Wesley en Hanna zijn op reis. Wat doen zij en waar zijn zij volgens u?
+- **Vraag:** Wesley en Hanna zijn op reis. Wat doen zij en waar zijn zij volgens u?
 - **Voorbeeldantwoord:** Ze maken een foto. Ze zijn in Londen.
 
-**9. Plaatjes — favoriete sport**
+**9. favoriete sport**
 
 - **Vraag:** Kijk naar de plaatjes. Welke sport vindt u het leukst om zelf te doen? Hoe vaak doet u deze sport?
 - **Voorbeeldantwoord:** Ik vind fietsen het leukst. Ik fiets elke dag.
 
-**10. Plaatjes — minder leuke sport**
+**10. minder leuke sport**
 
 - **Vraag:** Kijk naar de plaatjes. Welke sport vindt u minder leuk? Is deze sport volgens u goed of slecht voor kinderen?
 - **Voorbeeldantwoord:** Ik vind voetbal minder leuk. Voetbal is niet goed voor kinderen.
 
-**11. Plaatjes — Karel in Amsterdam**
+**11. Karel in Amsterdam**
 
 - **Vraag:** Karel gaat een dagje naar Amsterdam. Kijk naar de plaatjes. Wat ziet hij in de stad? Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Hij ziet veel fietsen, hij ziet boten en hij ziet veel oude huizen.
 
-**12. Plaatjes — Dina in de Keukenhof**
+**12. Dina in de Keukenhof**
 
 - **Vraag:** Dina gaat naar de Keukenhof. Kijk naar de plaatjes. Wat ziet zij daar? Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Zij ziet veel bloemen, zij ziet een molen en zij ziet een klomp.
@@ -518,32 +518,32 @@ Each practice exam has **12 questions**. The examiner gives a short statement, t
 - **Vraag:** In Nederland regent het heel vaak. Wat vindt u daarvan? En hoe vaak regent het in het land waar u geboren bent?
 - **Voorbeeldantwoord:** Ik vind regen in Nederland geen probleem. In mijn land regent het nooit.
 
-**7. Plaatje — Lea in het restaurant**
+**7. Lea in het restaurant**
 
 - **Vraag:** Lea eet in een restaurant. Wat eet zij volgens u? Vertel ook hoe duur haar maaltijd volgens u is.
 - **Voorbeeldantwoord:** Zij eet pasta met kaas. Haar maaltijd kost €10.
 
-**8. Plaatje — Karin op de markt**
+**8. Karin op de markt**
 
-- **Vraag:** Kijk naar het plaatje. Karin is op de markt. Met wie is zij op de markt? Vertel ook wat zij volgens u gaat kopen.
+- **Vraag:** Karin is op de markt. Met wie is zij op de markt? Vertel ook wat zij volgens u gaat kopen.
 - **Voorbeeldantwoord:** Zij is met haar dochter. Zij koopt fruit.
 
-**9. Plaatjes — laptop of computer**
+**9. laptop of computer**
 
 - **Vraag:** Kijk naar de plaatjes. Gebruikt u liever een laptop of een grote computer? Vertel ook waarom.
 - **Voorbeeldantwoord:** Ik gebruik liever een grote computer. Dat is beter voor mijn ogen.
 
-**10. Plaatje — sociale media**
+**10. sociale media**
 
-- **Vraag:** Kijk naar het plaatje. Wat doet u op sociale media zoals Facebook of Instagram? En wat vindt u van Facebook?
+- **Vraag:** Wat doet u op sociale media zoals Facebook of Instagram? En wat vindt u van Facebook?
 - **Voorbeeldantwoord:** Ik kijk veel op Facebook. Ik vind het leuk om vrienden te hebben.
 
-**11. Plaatjes — Eduardo in de sportschool**
+**11. Eduardo in de sportschool**
 
 - **Vraag:** Eduardo is in de sportschool. Kijk naar de plaatjes. Wat doet hij in de sportschool? Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Hij loopt. Hij fietst. Hij neemt een douche.
 
-**12. Plaatjes — Ingrid en de sportwedstrijd**
+**12. Ingrid en de sportwedstrijd**
 
 - **Vraag:** Ingrid kijkt naar een sportwedstrijd. Kijk naar de plaatjes. Naar welke sport kijkt zij en waar kijkt zij naar de wedstrijd? Zeg ook wat zij doet bij de wedstrijd. Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Zij kijkt thuis naar een voetbalwedstrijd. Zij drinkt bier en zij draagt oranje kleding.
@@ -586,32 +586,32 @@ Each practice exam has **12 questions**. The examiner gives a short statement, t
 - **Vraag:** Ik ga elke ochtend 5 km rennen. Wat vindt u van mensen die elke dag sporten en doet u zelf ook aan sport?
 - **Voorbeeldantwoord:** Ja, ik sport ook graag. Ik zwem drie keer per week.
 
-**7. Plaatje — Mario de slager**
+**7. Mario de slager**
 
-- **Vraag:** Kijk naar het plaatje. Dit is Mario. Wat is zijn beroep? Wat heeft hij in zijn rechterhand?
+- **Vraag:** Dit is Mario. Wat is zijn beroep? Wat heeft hij in zijn rechterhand?
 - **Voorbeeldantwoord:** Hij is slager en hij heeft een mes in zijn hand.
 
-**8. Plaatje — Thomas de verkoper**
+**8. Thomas de verkoper**
 
-- **Vraag:** Kijk naar het plaatje. Thomas is verkoper. Wat verkoopt hij? Werkt hij in een grote stad of in een klein dorpje? Wat denkt u?
+- **Vraag:** Thomas is verkoper. Wat verkoopt hij? Werkt hij in een grote stad of in een klein dorpje? Wat denkt u?
 - **Voorbeeldantwoord:** Hij verkoopt kleding. Ik denk dat hij in een grote stad werkt.
 
-**9. Plaatjes — boodschappen**
+**9. boodschappen**
 
 - **Vraag:** Kijk naar de plaatjes. Hoe doet u de boodschappen, in de gewone supermarkt of online? Vertel ook in welke winkel of op welke website u de boodschappen doet.
 - **Voorbeeldantwoord:** Ik doe de boodschappen online. Ik doe de boodschappen bij Albert Heijn.
 
-**10. Plaatjes — drankje**
+**10. drankje**
 
 - **Vraag:** Kijk naar de plaatjes. U ziet hier twee drankjes. Wat kiest u om te drinken en hoe vaak drinkt u dat?
 - **Voorbeeldantwoord:** Ik drink liever koffie. Ik drink elke dag koffie.
 
-**11. Plaatjes — Adrian de politieagent**
+**11. Adrian de politieagent**
 
 - **Vraag:** Adrian is politieagent. Kijk naar de plaatjes. Vertel wat hij moet doen. Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Hij controleert de snelheid van auto's, hij geeft een boete, hij werkt op kantoor.
 
-**12. Plaatjes — Tes in de file**
+**12. Tes in de file**
 
 - **Vraag:** Tes staat in de file. Kijk naar de plaatjes. Vertel wat zij doet. Gebruik alle plaatjes.
 - **Voorbeeldantwoord:** Zij drinkt thee, zij kijkt in de spiegel, zij kijkt op haar telefoon.
