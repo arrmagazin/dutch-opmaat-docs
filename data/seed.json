@@ -578,7 +578,7 @@
       "domain": "body",
       "topic": "health",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "article": "de",
       "plural": "-en",
@@ -960,7 +960,7 @@
       "domain": "body",
       "topic": "health",
       "stem": "allerg",
-      "level": "a",
+      "level": "b",
       "similarity": "universal"
     },
     {
@@ -1236,18 +1236,6 @@
       "stem": "auto"
     },
     {
-      "name": "autorijden",
-      "name_en": "to drive a car",
-      "id": "autorijden",
-      "domain": "civil",
-      "topic": "travel",
-      "pos": "verb",
-      "level": "a",
-      "similarity": "native",
-      "stem": "rijd",
-      "parent": "auto"
-    },
-    {
       "pos": "enum",
       "domain": "nature",
       "topic": "daypart",
@@ -1259,7 +1247,7 @@
       "plural": "-en",
       "id": "avond",
       "stem": "avond",
-      "also": "vanavond"
+      "also": "vanavond, avonds"
     },
     {
       "name": "avondeten",
@@ -1272,18 +1260,6 @@
       "pos": "noun",
       "level": "a",
       "similarity": "native"
-    },
-    {
-      "name": "avonds",
-      "name_en": "in the evening",
-      "id": "avonds",
-      "domain": "nature",
-      "topic": "daypart",
-      "pos": "adv",
-      "level": "a",
-      "similarity": "native",
-      "stem": "avond",
-      "parent": "avond"
     },
     {
       "pos": "noun",
@@ -1560,7 +1536,7 @@
       "domain": "artifacts",
       "topic": "technic",
       "stem": "dien",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "article": "het",
       "plural": "-panelen"
@@ -1786,7 +1762,7 @@
       "topic": "degree",
       "stem": "hoor",
       "pos": "adv",
-      "level": "a",
+      "level": "b",
       "similarity": "native"
     },
     {
@@ -1984,7 +1960,7 @@
       "domain": "core",
       "topic": "evaluation",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "article": "de",
       "plural": "-en",
@@ -2099,7 +2075,7 @@
       "domain": "civil",
       "topic": "job",
       "pos": "noun",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "article": "de",
       "stem": "keuze",
@@ -2626,7 +2602,7 @@
       "domain": "culture",
       "topic": "leisure",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "article": "de",
       "plural": "-en",
@@ -2840,7 +2816,7 @@
       "domain": "artifacts",
       "topic": "document",
       "stem": "leg",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "article": "de",
       "plural": "-n"
@@ -3108,7 +3084,7 @@
       "pos": "noun",
       "domain": "body",
       "topic": "mimic",
-      "level": "a",
+      "level": "b",
       "name": "blik",
       "tags": "",
       "forms": "blik, blikt, blikkend, blikte, blikten, hebt geblikt, geblikt",
@@ -3184,7 +3160,7 @@
     {
       "domain": "body",
       "topic": "mimic",
-      "level": "a",
+      "level": "b",
       "name": "blozen",
       "tags": "regulat",
       "forms": "bloos, bloost, blozend, bloosde, bloosden, hebt gebloosd, blozend, blos",
@@ -3286,7 +3262,7 @@
       "article": "de",
       "plural": "-s",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "id": "boete",
       "domain": "civil",
@@ -3477,7 +3453,7 @@
       "domain": "civil",
       "topic": "profession",
       "stem": "bouw",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "article": "de",
       "plural": "-s"
@@ -3691,7 +3667,7 @@
       "domain": "civil",
       "topic": "finance",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "universal",
       "article": "het",
       "plural": "-s",
@@ -3729,7 +3705,7 @@
       "article": "het",
       "plural": null,
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "id": "buitenland",
       "domain": "civil",
@@ -3819,7 +3795,7 @@
       "domain": "artifacts",
       "topic": "venue",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "universal",
       "article": "het",
       "stem": "café"
@@ -4109,7 +4085,7 @@
       "domain": "mental",
       "topic": "inspect",
       "stem": "constat",
-      "level": "a",
+      "level": "b",
       "similarity": "universal",
       "forms": "constateerde-constateerden, heeft geconstateerd, constateer, constateert, constaterend, hebt geconstateerd",
       "tags": "regulat"
@@ -4303,7 +4279,7 @@
     {
       "domain": "spatial",
       "topic": "up-down",
-      "level": "a",
+      "level": "b",
       "name": "dalen",
       "tags": "regulat",
       "forms": "daalde-daalden, is gedaald, daal, daalt, dalend, bent gedaald, daling",
@@ -4508,7 +4484,7 @@
       "domain": "spatial",
       "topic": "transform",
       "stem": "deuk",
-      "level": "a",
+      "level": "b",
       "similarity": "soundex",
       "article": "de",
       "plural": "-en"
@@ -4800,7 +4776,7 @@
       "pos": "noun",
       "domain": "body",
       "topic": "live",
-      "level": "a",
+      "level": "b",
       "name": "dood",
       "name_en": "death",
       "similarity": "native",
@@ -4835,7 +4811,7 @@
     {
       "domain": "spatial",
       "topic": "relocate",
-      "level": "a",
+      "level": "b",
       "name": "doorgaan",
       "preposition": "met",
       "tags": "separable",
@@ -5085,7 +5061,7 @@
     {
       "domain": "nature",
       "topic": "pure",
-      "level": "a",
+      "level": "b",
       "name": "drogen",
       "tags": "regulat",
       "forms": "droog, droogt, drogend, droogde, droogden, hebt gedroogd, drogend, droging",
@@ -5196,7 +5172,7 @@
     {
       "domain": "spatial",
       "topic": "surface",
-      "level": "a",
+      "level": "b",
       "name": "duiken",
       "tags": "regulat",
       "forms": "duik, duikt, duikend, dook, doken, bent gedoken, duikend",
@@ -5280,7 +5256,7 @@
     {
       "domain": "socium",
       "topic": "virtue",
-      "level": "a",
+      "level": "b",
       "name": "durven",
       "tags": "aux",
       "forms": "durf, durft, durvend, durfde, durfden, hebt gedurfd, dapper",
@@ -5470,7 +5446,7 @@
       "pos": "noun",
       "domain": "socium",
       "topic": "virtue",
-      "level": "a",
+      "level": "b",
       "name": "eenzaam",
       "name_en": "loneliness",
       "similarity": "native",
@@ -5761,7 +5737,7 @@
       "domain": "experience",
       "topic": "emotion",
       "stem": "eng",
-      "level": "a",
+      "level": "c",
       "similarity": "native"
     },
     {
@@ -5828,7 +5804,7 @@
       "pos": "verb",
       "domain": "experience",
       "topic": "emotion",
-      "level": "a",
+      "level": "b",
       "name": "ergeren",
       "name_en": "be irritated",
       "similarity": "native",
@@ -6138,7 +6114,7 @@
       "domain": "socium",
       "topic": "negotiate",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "universal",
       "article": "de",
       "stem": "feedback"
@@ -6212,7 +6188,7 @@
       "name": "file",
       "name_en": "traffic jam, queue of cars",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "id": "file",
       "domain": "civil",
@@ -6423,7 +6399,7 @@
       "domain": "civil",
       "topic": "justice",
       "pos": "noun",
-      "level": "a",
+      "level": "c",
       "similarity": "soundex",
       "article": "de",
       "stem": "fraude"
@@ -6606,7 +6582,7 @@
       "topic": "surface",
       "stem": "gat",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "forms": "gaten"
     },
@@ -6627,7 +6603,7 @@
     {
       "domain": "body",
       "topic": "gesture",
-      "level": "a",
+      "level": "b",
       "name": "gebaren",
       "tags": "regulat",
       "forms": "gebaar, gebaart, gebarend, gebaarde, gebaarden, hebt gegebaard, gegebaard",
@@ -6756,7 +6732,7 @@
       "domain": "core",
       "topic": "degree",
       "pos": "adj",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "stem": "deel"
     },
@@ -6817,19 +6793,8 @@
       "plural": null,
       "similarity": "native",
       "id": "geduld",
-      "stem": "duld"
-    },
-    {
-      "name": "geduldig",
-      "name_en": "patient",
-      "id": "geduldig",
-      "domain": "agentic",
-      "topic": "dynamic",
-      "pos": "adj",
-      "level": "a",
-      "similarity": "native",
       "stem": "duld",
-      "parent": "geduld"
+      "forms": "geduldig"
     },
     {
       "pos": "enum",
@@ -7046,19 +7011,6 @@
       "pos": "adj",
       "level": "c",
       "similarity": "native"
-    },
-    {
-      "pos": "noun",
-      "domain": "mental",
-      "topic": "assume",
-      "level": "a",
-      "name": "geloof",
-      "name_en": "faith",
-      "similarity": "native",
-      "id": "geloof",
-      "article": "het",
-      "stem": "loof",
-      "parent": "geloven"
     },
     {
       "pos": "verb",
@@ -7362,7 +7314,7 @@
       "topic": "habit",
       "stem": "wenn",
       "pos": "adj",
-      "level": "a",
+      "level": "b",
       "similarity": "native"
     },
     {
@@ -7533,7 +7485,7 @@
       "parent": "avond",
       "stem": "avond",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native"
     },
     {
@@ -7690,7 +7642,7 @@
       "domain": "spatial",
       "topic": "impulse",
       "stem": "gooi",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "forms": "gooide-gooiden, heeft gegooid, gooi, gooit, gooiend, hebt gegooid",
       "tags": "regulat"
@@ -7763,7 +7715,7 @@
       "article": "de",
       "plural": "-en",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "id": "gracht",
       "domain": "artifacts",
@@ -7790,7 +7742,7 @@
       "domain": "language",
       "topic": "language",
       "pos": "noun",
-      "level": "a",
+      "level": "c",
       "similarity": "universal",
       "article": "de",
       "plural": "-'s",
@@ -7800,7 +7752,7 @@
       "name": "grappig",
       "name_en": "funny",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "id": "grappig",
       "domain": "experience",
@@ -8066,7 +8018,7 @@
       "domain": "agentic",
       "topic": "acceptance",
       "pos": "verb",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "stem": "gun",
       "forms": "gun"
@@ -8185,7 +8137,7 @@
       "domain": "resource",
       "topic": "getting",
       "name": "halen",
-      "level": "a",
+      "level": "b",
       "tags": "regulat",
       "forms": "haalde-haalden, heeft gehaald, haal, haalt, halend, hebt gehaald, gehaald, haalen",
       "name_en": "get, to fetch",
@@ -8264,7 +8216,7 @@
       "topic": "effort",
       "stem": "hand",
       "pos": "adj",
-      "level": "a",
+      "level": "b",
       "similarity": "native"
     },
     {
@@ -8345,7 +8297,7 @@
       "domain": "body",
       "topic": "behave",
       "pos": "verb",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "stem": "loop",
       "also": "hardloop"
@@ -8394,7 +8346,7 @@
       "domain": "experience",
       "topic": "taste",
       "pos": "adj",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "stem": "hart"
     },
@@ -8442,7 +8394,7 @@
       "domain": "socium",
       "topic": "family",
       "pos": "adj",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "stem": "hecht",
       "forms": "hechte"
@@ -8861,7 +8813,7 @@
       "name": "honger",
       "name_en": "hunger",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "soundex",
       "id": "honger",
       "domain": "body",
@@ -9223,7 +9175,7 @@
       "domain": "agentic",
       "topic": "guideline",
       "pos": "verb",
-      "level": "a",
+      "level": "b",
       "similarity": "universal",
       "stem": "improviseer",
       "forms": "improviseer"
@@ -9379,7 +9331,7 @@
       "domain": "food",
       "topic": "ingredients",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "universal",
       "article": "het",
       "plural": "-en",
@@ -9612,7 +9564,7 @@
       "domain": "civil",
       "topic": "education",
       "stem": "toets",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "article": "de",
       "plural": "-en"
@@ -9721,7 +9673,7 @@
       "domain": "civil",
       "topic": "society",
       "pos": "adj",
-      "level": "a",
+      "level": "b",
       "similarity": "universal",
       "stem": "internationaal",
       "also": "internationale"
@@ -9746,7 +9698,7 @@
       "domain": "civil",
       "topic": "business",
       "stem": "val",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "forms": "viel in-vielen in, is ingevallen, val in, valt in, invallend, bent ingevallen, invaller",
       "tags": "separable",
@@ -9936,7 +9888,7 @@
       "domain": "socium",
       "topic": "family",
       "stem": "jeugd",
-      "level": "a",
+      "level": "b",
       "similarity": "soundex",
       "article": "de"
     },
@@ -10079,7 +10031,7 @@
     {
       "domain": "experience",
       "topic": "emotion",
-      "level": "a",
+      "level": "b",
       "name": "kalmeren",
       "tags": "regulat",
       "forms": "kalmeer, kalmeert, kalmerend, kalmeerde, kalmeerden, hebt gekalmeerd, kalmerend, kalmering",
@@ -10563,7 +10515,7 @@
     {
       "domain": "socium",
       "topic": "negotiate",
-      "level": "a",
+      "level": "b",
       "name": "klagen",
       "preposition": "over",
       "tags": "regulat",
@@ -10596,14 +10548,14 @@
       "domain": "civil",
       "topic": "service",
       "stem": "klant",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "parent": "klant"
     },
     {
       "domain": "body",
       "topic": "gesture",
-      "level": "a",
+      "level": "b",
       "name": "klappen",
       "tags": "regulat",
       "forms": "klap, klapt, klappend, klapte, klapten, hebt geklapt, geklapt",
@@ -10668,7 +10620,7 @@
       "article": "het",
       "plural": "kleden",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "id": "kleed",
       "domain": "artifacts",
       "topic": "furniture",
@@ -10790,7 +10742,7 @@
     {
       "domain": "spatial",
       "topic": "up-down",
-      "level": "a",
+      "level": "b",
       "name": "klimmen",
       "tags": "i-o-o",
       "forms": "klim, klimt, klimmend, klom, klommen, bent geklommen, klimmend, klimming",
@@ -10835,7 +10787,7 @@
       "domain": "artifacts",
       "topic": "clothing",
       "stem": "klomp",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "article": "de",
       "plural": "-en"
@@ -10918,7 +10870,7 @@
     {
       "domain": "body",
       "topic": "gesture",
-      "level": "a",
+      "level": "b",
       "name": "knikken",
       "tags": "regulat",
       "forms": "knik, knikt, knikkend, knikte, knikten, hebt geknikt, knikkend",
@@ -10931,7 +10883,7 @@
     {
       "domain": "body",
       "topic": "mimic",
-      "level": "a",
+      "level": "b",
       "name": "knipogen",
       "tags": "regulat",
       "forms": "knipoog, knipoogt, knipogend, knipoogde, knipoogden, hebt geknipoogd, knipogend",
@@ -10945,7 +10897,7 @@
     {
       "domain": "body",
       "topic": "mimic",
-      "level": "a",
+      "level": "b",
       "name": "knipperen",
       "tags": "regulat",
       "forms": "knipper, knippert, knipperend, knipperde, knipperden, hebt geknipperd, knipperend, knippering",
@@ -11087,7 +11039,7 @@
       "domain": "culture",
       "topic": "arts",
       "pos": "noun",
-      "level": "a",
+      "level": "c",
       "similarity": "universal",
       "article": "de",
       "plural": "-s",
@@ -11385,7 +11337,7 @@
     {
       "domain": "body",
       "topic": "voice",
-      "level": "a",
+      "level": "c",
       "name": "kreunen",
       "tags": "regulat",
       "forms": "kreun, kreunt, kreunend, kreunde, kreunden, hebt gekreund, kreunend",
@@ -11460,7 +11412,7 @@
     {
       "domain": "food",
       "topic": "cook",
-      "level": "a",
+      "level": "b",
       "name": "kruiden",
       "tags": "regulat",
       "forms": "kruid, kruidt, kruidend, kruidde, kruidden, hebt gekruid, gekruid",
@@ -11600,7 +11552,7 @@
     {
       "domain": "artifacts",
       "topic": "furniture",
-      "level": "a",
+      "level": "b",
       "name": "kussen",
       "tags": "regulat",
       "forms": "kus, kust, kussend, kuste, kusten, hebt gekust, gekust",
@@ -11640,7 +11592,7 @@
       "pos": "noun",
       "domain": "core",
       "topic": "pattern",
-      "level": "a",
+      "level": "c",
       "name": "kwaliteit",
       "name_en": "quality",
       "similarity": "universal",
@@ -11944,7 +11896,7 @@
       "topic": "live",
       "stem": "leef",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native"
     },
     {
@@ -12781,7 +12733,7 @@
       "domain": "civil",
       "topic": "job",
       "pos": "noun",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "article": "de",
       "plural": "-s",
@@ -12795,7 +12747,7 @@
       "article": "de",
       "plural": "-magen",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "id": "maag",
       "domain": "body",
       "topic": "bodypart",
@@ -13081,7 +13033,7 @@
       "domain": "mental",
       "topic": "mental",
       "pos": "verb",
-      "level": "a",
+      "level": "c",
       "similarity": "universal",
       "stem": "mediteer"
     },
@@ -13368,7 +13320,7 @@
       "domain": "artifacts",
       "topic": "transport",
       "pos": "noun",
-      "level": "a",
+      "level": "c",
       "similarity": "universal",
       "article": "de",
       "plural": "-'s",
@@ -13380,7 +13332,7 @@
       "article": "het",
       "plural": "-s of -en",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "universal",
       "id": "meubel",
       "domain": "artifacts",
@@ -13586,7 +13538,7 @@
       "domain": "agentic",
       "topic": "dynamic",
       "pos": "noun",
-      "level": "a",
+      "level": "c",
       "similarity": "universal",
       "article": "de",
       "stem": "mobiel"
@@ -13751,7 +13703,7 @@
       "domain": "artifacts",
       "topic": "technic",
       "stem": "molen",
-      "level": "a",
+      "level": "b",
       "similarity": "soundex",
       "article": "de",
       "plural": "-s"
@@ -13986,7 +13938,7 @@
       "stem": "denk",
       "parent": "denken",
       "pos": "verb",
-      "level": "a",
+      "level": "b",
       "similarity": "native"
     },
     {
@@ -14088,7 +14040,7 @@
       "article": "de",
       "plural": "neven",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "id": "neef",
       "domain": "socium",
@@ -14287,7 +14239,7 @@
     {
       "domain": "body",
       "topic": "behave",
-      "level": "a",
+      "level": "c",
       "name": "niezen",
       "tags": "regulat",
       "forms": "nies, niest, niezend, niesde, niesden, hebt geniesd",
@@ -14452,19 +14404,8 @@
       "plural": "-en",
       "similarity": "native",
       "id": "ochtend",
-      "stem": "ochtend"
-    },
-    {
-      "name": "ochtends",
-      "name_en": "mornings",
-      "id": "ochtends",
-      "domain": "nature",
-      "topic": "daypart",
       "stem": "ochtend",
-      "parent": "ochtend",
-      "pos": "adv",
-      "level": "a",
-      "similarity": "native"
+      "forms": "ochtends"
     },
     {
       "name": "oefenen",
@@ -15563,7 +15504,7 @@
       "name": "opschieten",
       "name_en": "hurry up",
       "pos": "verb",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "id": "opschieten",
       "domain": "system",
@@ -15683,7 +15624,7 @@
     {
       "domain": "experience",
       "topic": "emotion",
-      "level": "a",
+      "level": "b",
       "name": "opwinden",
       "tags": "regulat",
       "forms": "wind op, windt op, opwindend, wond op, wonden op, hebt opgewonden, opwindend, opwinding",
@@ -15840,7 +15781,7 @@
       "domain": "nature",
       "topic": "daypart",
       "stem": "dag",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "parent": "dag"
     },
@@ -16227,7 +16168,7 @@
       "pos": "adj",
       "domain": "system",
       "topic": "situation",
-      "level": "a",
+      "level": "b",
       "name": "pas",
       "name_en": "only, not longer than",
       "similarity": "native",
@@ -16328,21 +16269,6 @@
       "id": "patron",
       "article": "het",
       "stem": "patron"
-    },
-    {
-      "name": "pauze",
-      "name_en": "pause, break",
-      "id": "pauze",
-      "domain": "agentic",
-      "topic": "abrupt",
-      "pos": "noun",
-      "level": "a",
-      "similarity": "universal",
-      "article": "de",
-      "plural": "-s",
-      "stem": "pauze",
-      "forms": "pauzes",
-      "parent": "pauzeren"
     },
     {
       "name": "pauzeren",
@@ -16549,7 +16475,7 @@
       "domain": "food",
       "topic": "ingredients",
       "stem": "pinda",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "article": "de",
       "plural": "-'s"
@@ -16599,7 +16525,7 @@
       "name_en": "spicy, hot",
       "similarity": "native",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "id": "pittig",
       "domain": "experience",
       "topic": "taste",
@@ -16643,20 +16569,6 @@
       "topic": "buildparts",
       "level": "b",
       "stem": "plafond"
-    },
-    {
-      "name": "plan",
-      "name_en": "plan",
-      "id": "plan",
-      "domain": "agentic",
-      "topic": "guideline",
-      "pos": "noun",
-      "level": "a",
-      "similarity": "same",
-      "article": "het",
-      "plural": "-nen",
-      "stem": "plan",
-      "parent": "plannen"
     },
     {
       "name": "plank",
@@ -16839,7 +16751,7 @@
       "topic": "justice",
       "stem": "politie",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "universal"
     },
     {
@@ -17195,7 +17107,7 @@
       "topic": "accent",
       "stem": "prior",
       "pos": "noun",
-      "level": "c",
+      "level": "b",
       "similarity": "universal"
     },
     {
@@ -17205,7 +17117,7 @@
       "domain": "civil",
       "topic": "society",
       "pos": "adj",
-      "level": "a",
+      "level": "b",
       "similarity": "universal",
       "stem": "privé",
       "forms": "privés"
@@ -17389,7 +17301,7 @@
       "domain": "artifacts",
       "topic": "utensils",
       "stem": "bak",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "article": "de",
       "plural": "-ken"
@@ -18048,7 +17960,7 @@
       "article": "het",
       "plural": "-s",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "universal",
       "id": "restaurant",
       "domain": "artifacts",
@@ -18138,7 +18050,7 @@
       "article": "het",
       "plural": "rijbewijzen, thema 8",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "id": "rijbewijs",
       "domain": "artifacts",
       "topic": "document",
@@ -18354,7 +18266,7 @@
       "name_en": "smoke",
       "similarity": "native",
       "pos": "verb",
-      "level": "a",
+      "level": "b",
       "id": "roken",
       "domain": "experience",
       "topic": "scent",
@@ -18395,7 +18307,7 @@
       "topic": "arts",
       "stem": "roman",
       "pos": "noun",
-      "level": "a",
+      "level": "c",
       "similarity": "universal"
     },
     {
@@ -18585,7 +18497,8 @@
       "similarity": "native",
       "article": "de",
       "stem": "rust",
-      "parent": "rusten"
+      "parent": "rusten",
+      "forms": "rustig"
     },
     {
       "pos": "verb",
@@ -18613,18 +18526,6 @@
       "similarity": "native"
     },
     {
-      "name": "rustig",
-      "name_en": "calm",
-      "id": "rustig",
-      "domain": "experience",
-      "topic": "emotion",
-      "parent": "rusten",
-      "stem": "rust",
-      "pos": "adj",
-      "level": "a",
-      "similarity": "native"
-    },
-    {
       "pos": "adj",
       "domain": "spatial",
       "topic": "surface",
@@ -18643,7 +18544,7 @@
       "topic": "conflict",
       "stem": "ruzie",
       "pos": "noun",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "forms": "ruzies"
     },
@@ -18868,7 +18769,7 @@
     {
       "domain": "resource",
       "topic": "produce",
-      "level": "a",
+      "level": "b",
       "name": "scheppen",
       "tags": "mix2",
       "forms": "schep, schept, scheppend, schepte, schepten, hebt geschept, geschept, schepping",
@@ -19286,7 +19187,7 @@
     {
       "domain": "spatial",
       "topic": "move",
-      "level": "a",
+      "level": "b",
       "name": "schuiven",
       "tags": "mix2",
       "forms": "schuif, schuift, schuivend, schoof, schoven, hebt geschoven, geschoven, schuiving",
@@ -19524,7 +19425,7 @@
       "domain": "artifacts",
       "topic": "buildrooms",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "article": "de",
       "plural": "-s",
@@ -19550,7 +19451,7 @@
       "article": "de",
       "plural": "-s",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "id": "slager",
       "domain": "civil",
       "topic": "profession",
@@ -19633,7 +19534,7 @@
     {
       "domain": "body",
       "topic": "eating",
-      "level": "a",
+      "level": "b",
       "name": "slikken",
       "tags": "regulat",
       "forms": "slikte-slikten, heeft geslikt, slik, slikt, slikkend, hebt geslikt, geslikt",
@@ -19861,7 +19762,7 @@
       "domain": "food",
       "topic": "dishes",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "article": "het",
       "stem": "snoep"
@@ -19947,7 +19848,7 @@
       "domain": "civil",
       "topic": "job",
       "stem": "sollicit",
-      "level": "a",
+      "level": "c",
       "similarity": "universal",
       "forms": "solliciteerde-solliciteerden, heeft gesolliciteerd, solliciteer, solliciteert, solliciterend, hebt gesolliciteerd, sollicitatie",
       "tags": "regulat",
@@ -20472,7 +20373,7 @@
     {
       "domain": "body",
       "topic": "mimic",
-      "level": "a",
+      "level": "b",
       "name": "staren",
       "preposition": "naar",
       "tags": "regulat",
@@ -20885,7 +20786,7 @@
       "domain": "artifacts",
       "topic": "venue",
       "stem": "lamp",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "article": "de",
       "plural": "-en",
@@ -21083,7 +20984,7 @@
       "topic": "education",
       "stem": "stud",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "same",
       "forms": "studenten",
       "parent": "studeren"
@@ -21327,7 +21228,7 @@
       "domain": "civil",
       "topic": "profession",
       "stem": "arts",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "article": "de",
       "plural": "-en",
@@ -21639,7 +21540,7 @@
       "domain": "civil",
       "topic": "finance",
       "stem": "taal",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "article": "de",
       "plural": "-en",
@@ -21775,7 +21676,7 @@
       "domain": "civil",
       "topic": "society",
       "pos": "noun",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "article": "het",
       "plural": "-en",
@@ -22022,7 +21923,7 @@
       "domain": "artifacts",
       "topic": "technic",
       "stem": "toets",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "article": "het",
       "plural": "-en"
@@ -22083,7 +21984,7 @@
       "domain": "food",
       "topic": "dishes",
       "stem": "tompoes",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "article": "de",
       "plural": "-en"
@@ -22191,7 +22092,7 @@
       "name_en": "treat, to pay a round",
       "similarity": "native",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "id": "trakteren",
       "domain": "culture",
       "topic": "leisure",
@@ -22315,7 +22216,7 @@
     {
       "domain": "socium",
       "topic": "care",
-      "level": "a",
+      "level": "b",
       "name": "troosten",
       "tags": "regulat",
       "forms": "troost, troost, troostend, troostte, troostten, hebt getroost, getroost",
@@ -22329,7 +22230,7 @@
       "pos": "noun",
       "domain": "experience",
       "topic": "feelings",
-      "level": "a",
+      "level": "b",
       "name": "trots",
       "preposition": "op",
       "name_en": "proud",
@@ -22448,7 +22349,7 @@
       "domain": "civil",
       "topic": "market",
       "stem": "hand",
-      "level": "a",
+      "level": "c",
       "similarity": "native"
     },
     {
@@ -23238,19 +23139,8 @@
       "similarity": "native",
       "id": "veilig",
       "article": "de",
-      "stem": "veil"
-    },
-    {
-      "name": "veiligheid",
-      "name_en": "safety",
-      "id": "veiligheid",
-      "domain": "system",
-      "topic": "security",
-      "parent": "veilig",
-      "stem": "veilig",
-      "pos": "noun",
-      "level": "a",
-      "similarity": "native"
+      "stem": "veil",
+      "forms": "veiligheid"
     },
     {
       "name": "veld",
@@ -23563,7 +23453,7 @@
       "domain": "civil",
       "topic": "finance",
       "stem": "goed",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "forms": "vergoedde-vergoedden, heeft vergoed, vergoed, vergoedt, vergoedend, hebt vergoed, vergoeding",
       "tags": "regulat"
@@ -23600,7 +23490,7 @@
       "preposition": "op",
       "name_en": "look forward to",
       "pos": "verb",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "id": "verheugen",
       "domain": "mental",
@@ -23688,7 +23578,7 @@
       "domain": "experience",
       "topic": "audio",
       "stem": "keer",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "article": "het"
     },
@@ -23848,7 +23738,7 @@
     {
       "domain": "socium",
       "topic": "negotiate",
-      "level": "a",
+      "level": "c",
       "name": "verontschuldigen",
       "tags": "regulat",
       "forms": "verontschuldig, verontschuldigt, verontschuldigend, verontschuldigde, verontschuldigden, hebt verontschuldigd, verontschuldigd, verontschuldiging",
@@ -23890,7 +23780,7 @@
       "article": "de",
       "plural": "-n",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "id": "verpleegkundige",
       "domain": "civil",
@@ -24245,7 +24135,7 @@
       "domain": "artifacts",
       "topic": "appliances",
       "stem": "warm",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "article": "de",
       "plural": "-en"
@@ -24432,7 +24322,7 @@
       "domain": "nature",
       "topic": "pure",
       "stem": "vies",
-      "level": "a",
+      "level": "b",
       "similarity": "native"
     },
     {
@@ -24664,7 +24554,7 @@
     {
       "domain": "system",
       "topic": "flow",
-      "level": "a",
+      "level": "b",
       "name": "vloeien",
       "tags": "most",
       "forms": "vloei, vloeit, vloeiend, vloeide, vloeiden, hebt gevloeid, vloeiend",
@@ -24798,7 +24688,7 @@
       "domain": "culture",
       "topic": "leisure",
       "stem": "strijd",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "article": "de",
       "plural": "-en"
@@ -24896,7 +24786,7 @@
     {
       "domain": "agentic",
       "topic": "strive",
-      "level": "a",
+      "level": "b",
       "name": "volhouden",
       "tags": "regulat",
       "forms": "houd vol, houdt vol, volhoudend, hield vol, hielden vol, hebt volgehouden, volgehouden, volharding",
@@ -24935,7 +24825,7 @@
       "domain": "system",
       "topic": "timeline",
       "pos": "adv",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "stem": "vooraf",
       "parent": "voorkant"
@@ -25117,7 +25007,7 @@
     {
       "domain": "socium",
       "topic": "convince",
-      "level": "a",
+      "level": "b",
       "name": "voorstellen",
       "preposition": "aan",
       "tags": "regulat",
@@ -25132,7 +25022,7 @@
     {
       "domain": "resource",
       "topic": "produce",
-      "level": "a",
+      "level": "b",
       "name": "voortbrengen",
       "tags": "prefix",
       "forms": "breng voort, brengt voort, voortbrengend, bracht voort, brachten voort, hebt voortgebracht, voortgebracht, voortbrenging",
@@ -25371,20 +25261,8 @@
       "similarity": "soundex",
       "id": "vriend",
       "stem": "vriend",
-      "also": "vriendschap",
+      "also": "vriendschap, vriendelijk",
       "forms": "vriendin"
-    },
-    {
-      "name": "vriendelijk",
-      "name_en": "friendly",
-      "id": "vriendelijk",
-      "pos": "adj",
-      "domain": "socium",
-      "topic": "virtue",
-      "stem": "vriend",
-      "level": "a",
-      "similarity": "native",
-      "parent": "vriend"
     },
     {
       "domain": "system",
@@ -25420,7 +25298,7 @@
       "article": "de",
       "plural": "-s",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "id": "vrijwilliger",
       "domain": "civil",
       "topic": "profession",
@@ -25631,7 +25509,7 @@
       "domain": "artifacts",
       "topic": "document",
       "pos": "noun",
-      "level": "a",
+      "level": "c",
       "similarity": "native",
       "article": "het",
       "plural": "-en",
@@ -25988,7 +25866,7 @@
     {
       "domain": "system",
       "topic": "habit",
-      "level": "a",
+      "level": "b",
       "name": "wennen",
       "preposition": "aan",
       "tags": "regulat",
@@ -26672,7 +26550,7 @@
       "stem": "reis",
       "parent": "reizen",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native"
     },
     {
@@ -26896,7 +26774,7 @@
       "topic": "venue",
       "stem": "ziek",
       "pos": "noun",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "forms": "ziekenhuizen",
       "parent": "ziek"
@@ -27012,7 +26890,7 @@
       "domain": "language",
       "topic": "express",
       "stem": "zin",
-      "level": "a",
+      "level": "b",
       "similarity": "native",
       "parent": "zin"
     },
@@ -27184,7 +27062,7 @@
     {
       "domain": "body",
       "topic": "behave",
-      "level": "a",
+      "level": "b",
       "name": "zuchten",
       "tags": "regulat",
       "forms": "zucht, zucht, zuchtend, zuchtte, zuchtten, hebt gezucht, zuchtend",
@@ -27331,7 +27209,7 @@
       "pos": "verb",
       "domain": "body",
       "topic": "behave",
-      "level": "a",
+      "level": "b",
       "name": "zwemmen",
       "tags": "regulat",
       "forms": "zwom-zwommen, heeft gezwommen, zwem, zwemt, zwemmend, bent gezwommen",
@@ -27343,7 +27221,7 @@
     {
       "domain": "socium",
       "topic": "convince",
-      "level": "a",
+      "level": "b",
       "name": "zweren",
       "tags": "most",
       "forms": "zweer, zweert, zwerend, zwoer, zwoeren, hebt gezworen, gezworen, eed",
@@ -27357,7 +27235,7 @@
     {
       "domain": "body",
       "topic": "behave",
-      "level": "a",
+      "level": "b",
       "name": "zweten",
       "tags": "regulat",
       "forms": "zweet, zweet, zwetend, zweette, zweetten, hebt gezweet, zwetend",
