@@ -11,6 +11,8 @@ exam mocks
 - [ ] [Reading 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/QCA1)
 - [ ] [Reading 4](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/6N1Z)
 
+→ [Worked samples & how to pass the Reading exam](40-Reading_samples.md)
+
 ## Listening
 
 Practice
@@ -62,6 +64,8 @@ exam mocks
 - [ ] [Listening 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/J845)
 - [ ] [Listening 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/5QCB)
 
+→ [Worked samples & how to pass the Listening exam](50-Listening_samples.md)
+
 ## Writing
 
 - [ ]  [Writing AI trainer](/#/writing)
@@ -72,6 +76,8 @@ exams samples
 - [ ] [Writing 1](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-1.pdf)
 - [ ] [Writing 2](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-2.pdf)
 - [ ] [Writing 3](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-3.pdf)
+
+→ [Worked samples & how to pass the Writing exam](30-Writing_samples.md)
 
 ## Speaking  
 
@@ -100,3 +106,5 @@ exam mocks
 - [ ] [Speaking 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/DZ66)
 - [ ] [Speaking 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/N94P)
 - [ ] [Speaking 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/TKWW)
+
+→ [Worked samples & how to pass the Speaking exam](60-Speaking_samples.md)

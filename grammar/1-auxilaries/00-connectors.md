@@ -14,6 +14,7 @@ A handful of prepositions cover **means**, **accompaniment**, and **reference**.
 | `volgens` | according to [authority]| **Volgens** mij heb je gelijk. |
 | `dankzij` | thanks to [helper] | **Dankzij** jou is het gelukt. |
 | `ondanks` | despite [obstacle]| **Ondanks** de regen was het leuk. |
+| `behalve` | except [exclusion] | Iedereen kwam **behalve** Jan. |
 
 > **over** here = "about" (*een boek over geschiedenis*), a different sense from the time *over* ("in X from now", *over vijf minuten*).
 

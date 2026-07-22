@@ -1,4 +1,4 @@
-# Calendar
+# Time and Calendar
 
 ## Time prepositions
 
@@ -16,6 +16,7 @@
 | `tijdens` | during [period]| **Tijdens** de vergadering bel ik niet. |
 | `sinds` | since [moment] | Ik woon hier **sinds** 2018. |
 | `tot` / `totdat` | until [moment]| We blijven **tot** zeven uur. |
+| `uiterlijk` | at the latest [deadline] | Kom **uiterlijk** om acht uur. |
 | `vanaf` | from (a time on) [occur] | **Vanaf** maandag ben ik vrij. |
 | `binnen` | within | Ik kom **binnen** een uur. |
 | `over` | in (X from now) | Ik bel je **over** vijf minuten. |
