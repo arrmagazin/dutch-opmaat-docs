@@ -48,6 +48,7 @@ Subordinating conjunctions introduce a **dependent** clauses.
 | `indien` | … formal if [condition] | Neem contact op **indien** nodig. |
 | `hoewel`  | … although [obstacle] | **Hoewel** het regende, gingen we toch. |
 | `zodat` | … so that [goal] | Spreek harder **zodat** ik je **versta**. |
+| `om … te` | … in order to [purpose] | Ik spaar **om** een huis **te** kopen. |
 | `tenzij` | … unless [not-condition] | Ik kom **tenzij** het **regent**. |
 
 > **indien** is a formal, written variant of **als** ("if"). In everyday speech use **als**.
@@ -57,6 +58,27 @@ Subordinating conjunctions introduce a **dependent** clauses.
 > The same split hits **of**: *of* = "or" (coordinator) vs *of* = "whether" (subordinator).
 >
 > **ondanks** takes a **noun** (*ondanks de regen*); for a full clause use **hoewel**.
+>
+> **om … te** vs **zodat** (both purpose): use **om … te** + infinitive when the subject stays the same (*Ik spaar **om** een huis **te** kopen*); use **zodat** + full clause when the goal affects someone else (*Spreek harder **zodat** ik je versta*).
+
+---
+
+These connect sentences but are **adverbs**: put one in front and the verb still comes **second** (V2 inversion — the subject jumps behind the verb).
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| `daarom` | that's why [reason] | Hij was moe; **daarom** ging hij slapen. |
+| `daardoor` | as a result [consequence] | Het vroor; **daardoor** waren de wegen glad. |
+| `daarnaast` | besides [side-effect] | **Daarnaast** is er nog een probleem. |
+| `bovendien` | moreover [appendix] | Het is duur; **bovendien is** het ver. |
+| `echter` | however [obstacle]| Hij kwam **echter** te laat. |
+| `toch` | despite / anyway [overcome]| Het regende; **toch** gingen we wandelen. |
+| `anders` | otherwise [alternative] | Schiet op, **anders**  missen we de trein. |
+
+> Watch the inversion: *Daarom **ging hij**…*, not ~~*Daarom hij ging*~~.
+>
+> **daarom** vs **daardoor** (both "so / therefore"): **daarom** gives a **motive** you act on (*Hij was moe; **daarom** ging hij slapen*); **daardoor** names an **automatic cause‑and‑effect** (*Het vroor; **daardoor** waren de wegen glad*).
+
 ---
 
 Correlations and Equality
@@ -76,8 +98,6 @@ A few connectors come in **two parts** that frame the sentence together.
 >
 > Use **als** (not *dan*!) for equality. *dan* is only for **in**equality — see [Comparatives](/#/grammar?doc=4-bijworden/36-comparatives.md).
 
-> Watch the inversion: *Daarom **ging hij**…*, not ~~*Daarom hij ging*~~.
-
 ## Discourse flow
 
 Order the steps of a story.
@@ -93,19 +113,6 @@ Order the steps of a story.
 > **toen vs dan** (both "then"): use **toen** only for **past** events, **dan** for present/future and for sequencing.
 >
 > **eindelijk vs uiteindelijk**: *eindelijk* = "at last" (relief after a wait); *uiteindelijk* = "eventually / in the end" (the final outcome).
-
----
-
-These connect sentences but are **adverbs**: put one in front and the verb still comes **second** (V2 inversion — the subject jumps behind the verb).
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| `daarom` | that's why [reason] | Hij was moe; **daarom** ging hij slapen. |
-| `daarnaast` | besides [side-effect] | **Daarnaast** is er nog een probleem. |
-| `bovendien` | moreover [appendix] | Het is duur; **bovendien is** het ver. |
-| `echter` | however [obstacle]| Hij kwam **echter** te laat. |
-| `toch` | despite / anyway [overcome]| Het regende; **toch** gingen we wandelen. |
-| `anders` | otherwise [alternative] | Schiet op, **anders**  missen we de trein. |
 
 ---
 
