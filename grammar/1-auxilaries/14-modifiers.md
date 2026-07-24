@@ -1,10 +1,10 @@
-# Modifiers & Intensifiers  *(A2)*
+# Modifiers
 
 Modifiers scale or qualify another word — **how strong**, **how often**, **how exact**.
 
-A degree word goes **directly before** the adjective or adverb it scales: *heel mooi*, *te duur*, *nogal druk*.
+## Degree and Intensifiers
 
-## Degree — how strong
+A degree word goes **directly before** the adjective or adverb it scales: *heel mooi*, *te duur*, *nogal druk*.
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -35,8 +35,7 @@ A degree word goes **directly before** the adjective or adverb it scales: *heel 
 >
 > **te ≠ very.** *te* means "too" (excessive): *te duur* = *too* expensive, not *very* expensive.
 >
-> Degree words often works as **Softeners** (downtoners) turn the volume *down*:
-? Ik ben **een beetje / wat** moe.
+> Degree words often works as **Softeners** (downtoners) turn the volume *down*: Ik ben **een beetje / wat** moe.
 
 ---
 
@@ -61,12 +60,13 @@ A rough scale of quantity: *niets → bijna niets → **weinig** → genoeg → 
 | `elke dag` / `elke keer` | every day / time | Ik drink **elke dag** thee. |
 | `soms` | sometimes | **Soms** regent het. |
 | `af en toe` | now and then | Ik drink **af en toe** wijn. |
+| `alweer` | again (already) | Ben je **alweer** te laat? |
+| `nog eens` / `nogmaals` | once more | Doe het **nog eens**. |
 | `weleens` | ever / occasionally | Ben je **weleens** in Parijs geweest? |
 | `zelden` | rarely | Hij komt **zelden** op tijd. |
 | `bijna nooit` | almost never | Hij belt **bijna nooit**. |
+| `niet eens` | not even | Hij heeft het **niet eens** geprobeerd. |
 | `nooit` | never | Ik ben **nooit** in Parijs geweest. |
-| `alweer` | again (already) | Ben je **alweer** te laat? |
-| `nog eens` / `nogmaals` | once more | Doe het **nog eens**. |
 
 ## Approximation — roughly
 

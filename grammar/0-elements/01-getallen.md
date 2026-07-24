@@ -82,18 +82,18 @@ flowchart LR
 | ⅓ | *een derde* |
 | 1½ | *anderhalf* |
 
-Decimals are read with **komma**: *3,5 → drie komma vijf*; *0,75 → nul komma vijfenzeventig* (the decimal comma is covered in [Symbols](/#/grammar?doc=0-elements/00-symbols.md)). Before a noun, *half* inflects: *een **halve** appel*, *anderhalve* week.
+Decimals are read with **komma**: *3,5 → drie komma vijf*; *0,75 → nul komma vijfenzeventig*
+
+Before a noun, *half* inflects: *een **halve** appel*, *anderhalve* week.
 
 ## In het echt (in real life)
 
-- [ ] Ik ben **vierentwintig** jaar oud.
-- [ ] Dat kost **twaalf euro vijftig**.
-- [ ] Het is vandaag **achttien** graden.
-- [ ] Wij wonen op nummer **tweeënveertig**.
-- [ ] Mijn oma is in **negentienvierentachtig** geboren.
-- [ ] We zitten op de **derde** rij.
-
-For clock time and dates, see [Calendar](/#/grammar?doc=0-elements/02-calendar.md).
+- Ik ben **vierentwintig** jaar oud.
+- Dat kost **twaalf euro vijftig**.
+- Het is vandaag **achttien** graden.
+- Wij wonen op nummer **tweeënveertig**.
+- Mijn oma is in **negentienvierentachtig** geboren.
+- We zitten op de **derde** rij.
 
 ## Common mistakes
 

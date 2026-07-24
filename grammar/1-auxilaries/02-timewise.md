@@ -26,22 +26,26 @@
 >
 > **terwijl vs tijdens** (both "during"): **terwijl** is a conjunction + clause (*terwijl ik werk*); **tijdens** is a preposition + noun (*tijdens het werk*). See [Connectors](/#/grammar?doc=1-auxilaries/00-connectors.md).
 
-## Time adverbs — when (no noun)
+## Time adverbs
 
 | Dutch | English | Example |
 |-------|---------|---------|
 | `nu` | now | Ik heb **nu** geen tijd. |
-| `straks` | later today | Ik kom **straks** langs. |
-| `zo meteen` / `dadelijk` | in a moment | Ik kom **zo meteen**. |
+| `note:al` | `uzho`  already / emphasis | Ik heb **al** gegeten. |
+| `note:zo` | `zaraz`  in a sec / shortly ||
 | `meteen` | immediately | Ik doe het **meteen**. |
-| `net` | just now | Hij is **net** weg. |
-| `pas` | only just / not until | Ik ben **pas** aangekomen. |
+| `zo meteen` / `dadelijk` | in a moment | Ik kom **zo meteen**. |
+| `note:net` | `amalj`  just now / exactly |Hij is **net** weg. |
+| `note:pas` | `vosj tolki`  only just / not until | Ik ben **pas** aangekomen. |
 | `nog` | still / yet | Ben je **nog** hier? |
+| `straks` | later today | Ik kom **straks** langs. |
 | `binnenkort` | soon | We zien elkaar **binnenkort**. |
-| `al` | already | Ik heb **al** gegeten. |
+| `note:soms` | `qasam`  by any chance (in questions) ||
 | `tegenwoordig` | nowadays | **Tegenwoordig** werk ik thuis. |
 
-## Day anchors: the *gisteren – vandaag – morgen* line
+## Day anchors
+
+The *gisteren – vandaag – morgen* line
 
 - [ ] drie dagen geleden
 - [ ] eergisteren

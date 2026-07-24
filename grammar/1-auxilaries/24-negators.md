@@ -1,12 +1,11 @@
-# Negation: niet & geen  *(A2)*
+# Negations
 
-Dutch negates with two words: **niet** (not) and **geen** (no / not a / not any). *Which* one is rule-based; *where* **niet** goes is the trickier skill.
-
-> **No "do"-support.** English inserts *do/does/don't*; Dutch does not. *I don't work* → *Ik werk **niet***, never ~~ Ik doe niet werken~~.
+Dutch negates with two words: **niet** (not) and **geen** (no / not a / not any).
 
 ## niet vs geen — the basic choice
 
-Use **geen** only before an **indefinite** noun (one with *een*, an amount, or no article at all). Everything else takes **niet**.
+Use **geen** only before an **indefinite** noun (one with *een*, an amount, or no article at all).
+Everything else takes **niet**.
 
 ```mermaid
 flowchart TD
@@ -84,7 +83,8 @@ These replace *niet + …* with a single word — one negator per clause is enou
 
 When a **negative** question is answered with "yes, actually" (a contradiction), Dutch uses **jawel**, not *ja*.
 
-- — *Heb je geen tijd?* (Don't you have time?)
+ *Heb je geen tijd?* (Don't you have time?)
+
 - — ***Jawel**, ik kom zo.* (Yes I do, I'm coming.)
 - — ***Nee**, ik heb geen tijd.* (confirming the negative)
 

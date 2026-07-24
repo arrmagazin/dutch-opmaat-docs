@@ -37,7 +37,8 @@ The words that open an information question. This page is the **word inventory**
 | What activity? | **Wat** doe je? |
 | Exclamation | **Wat een** mooie dag! |
 
-> **Never *wat* after a preposition** for a thing. Use a **waar**-word instead: ~~*op wat*~~ → **waarop** / **waar … op** (see below).
+> **Never *wat* after a preposition** for a thing.
+> Use a **waar**-word instead: ~~*op wat*~~ → **waarop** / **waar … op** (see below).
 
 ## welk vs welke — agreement
 

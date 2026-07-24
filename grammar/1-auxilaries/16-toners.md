@@ -10,18 +10,13 @@ These are the "small" words that translate badly in a dictionary but appear cons
 |-------|--------------------|
 | `note:toch` | `vse gh taki`  still / anyway / after all |
 | `note:even` | `navprost`  briefly / just / quickly |
-| `note:echt` | `sapraudy`  really / genuinely |
+| `note:echt` | `ryxtyk`  really / genuinely |
+| `note:wel` | `ryxtyk`  actually / it *is* so (anti-*niet*) |
 | `note:nog` | `esqe`  still / yet / more |
 | `note:nou` | `nu`  well / come on |
 | `note:maar` | `dyk`  just / go ahead |
-| `note:wel` | `ryxtyk`  actually / it *is* so (anti-*niet*) |
 | `note:hoor` | `aga`  reassurance ("really", "you know") |
 | `note:eens` | `razok`  (do it) sometime / just |
-| `note:net` | `amalj`  just now / exactly |
-| `note:soms` | `qasam`  by any chance (in questions) |
-| `note:al` | `uzho`  already / emphasis |
-| `note:zo` | `zaraz`  in a sec / shortly |
-| `note:pas` | `vosj tolki`  only just / not until |
 
 ---
 
@@ -38,7 +33,8 @@ Each particle bends the mood of the same bare sentence.
 | **nou** | Kom **nou**! | oh, come on! (impatience) |
 | **gewoon** | Doe het **gewoon**. | just do it (no fuss) |
 
-> Ordering a drink? *Doe **maar** een koffie* ("Just a coffee, thanks") is the everyday phrasing — the bare *Een koffie* sounds curt. Particles also power polite imperatives: see [Imperatives](/#/grammar?doc=7-modes/04-imperatives.md).
+> Ordering a drink? *Doe **maar** een koffie* ("Just a coffee, thanks") is the everyday phrasing — the bare *Een koffie* sounds curt.
+>Particles also power polite imperatives: see [Imperatives](/#/grammar?doc=7-modes/04-imperatives.md).
 
 ---
 

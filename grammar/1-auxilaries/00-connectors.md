@@ -6,35 +6,35 @@ A handful of prepositions cover **means**, **accompaniment**, and **reference**.
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `met` | with [component] | Ik ga **met** de trein. |
-| `zonder` | without [component] | Koffie **zonder** suiker. |
+| `met` | with [companion] | Ik ga **met** de trein. |
+| `zonder` | without [companion] | Koffie **zonder** suiker. |
+| `behalve` | except [exclusion] | Iedereen kwam **behalve** Jan. |
 | `per` | by / per [unit-of-measure]| Ik kom **per** trein. |
 | `over` | about [reference] | Een boek **over** geschiedenis. |
-| `tegen` | against / to [opposite] | Hij praat **tegen** zijn baas. |
+| `tegen` | against [opposite] | Hij praat **tegen** zijn baas. |
 | `volgens` | according to [authority]| **Volgens** mij heb je gelijk. |
-| `dankzij` | thanks to [helper] | **Dankzij** jou is het gelukt. |
+| `dankzij` | thanks to [support] | **Dankzij** jou is het gelukt. |
 | `ondanks` | despite [obstacle]| **Ondanks** de regen was het leuk. |
-| `behalve` | except [exclusion] | Iedereen kwam **behalve** Jan. |
 
 > **over** here = "about" (*een boek over geschiedenis*), a different sense from the time *over* ("in X from now", *over vijf minuten*).
 
-Many verbs pair with a **fixed preposition** you cannot predict from meaning (*wachten **op***, *denken **aan***, *houden **van*** …) — learn the verb and its preposition as one unit. Full list with examples: [Verbs with fixed prepositions](/#/grammar?doc=5-verbs/22-verb-with-prepositions.md).
+Many verbs are paired with a **fixed preposition** [Verbs with fixed prepositions](/#/grammar?doc=5-verbs/22-verb-with-prepositions.md).
 
-Preposition of time, space and directions covered in [Timewise](/#/grammar?doc=0-elements/timewise.md) and [Spacewise](/#/grammar?doc=0-elements/spacewise.md)
+Preposition of time, space and directions covered in [Timewise](/#/grammar?doc=1-auxilaries/timewise.md) and [Spacewise](/#/grammar?doc=1-auxilaries/spacewise.md)
 
-## Logical Conjunctions
+## Coordinating conjunctions
 
 Coordinating conjunctions join *same rank* clauses into a logical whole.
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `en` | and [peer] | Ik werk **en** ik studeer. |
+| `en` | and [companion] | Ik werk **en** ik studeer. |
 | `maar` | but [contrast] | Ik wil komen, **maar** ik heb geen tijd. |
 | `of` | or [alternative] | Wil je koffie **of** thee? |
 | `want` | justified by [reason] | Ik blijf thuis, **want** ik **ben** moe. |
 | `note:dus` | therefore [conclusion] | Het regent, **dus** ik neem een paraplu. |
 
----
+## Subordinating conjunctions
 
 Subordinating conjunctions introduce a **dependent** clauses.
 
@@ -48,7 +48,7 @@ Subordinating conjunctions introduce a **dependent** clauses.
 | `indien` | … formal if [condition] | Neem contact op **indien** nodig. |
 | `hoewel`  | … although [obstacle] | **Hoewel** het regende, gingen we toch. |
 | `zodat` | … so that [goal] | Spreek harder **zodat** ik je **versta**. |
-| `om … te` | … in order to [purpose] | Ik spaar **om** een huis **te** kopen. |
+| `om … te` | … in order to [goal] | Ik spaar **om** een huis **te** kopen. |
 | `tenzij` | … unless [not-condition] | Ik kom **tenzij** het **regent**. |
 
 > **indien** is a formal, written variant of **als** ("if"). In everyday speech use **als**.
@@ -63,25 +63,25 @@ Subordinating conjunctions introduce a **dependent** clauses.
 
 ---
 
-These connect sentences but are **adverbs**: put one in front and the verb still comes **second** (V2 inversion — the subject jumps behind the verb).
+These connect sentences but are **adverbs**.
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `daarom` | that's why [reason] | Hij was moe; **daarom** ging hij slapen. |
-| `daardoor` | as a result [consequence] | Het vroor; **daardoor** waren de wegen glad. |
-| `daarnaast` | besides [side-effect] | **Daarnaast** is er nog een probleem. |
-| `bovendien` | moreover [appendix] | Het is duur; **bovendien is** het ver. |
+| `daarom` | [cause]; that's why [effect] | Hij was moe; **daarom** ging hij slapen. |
+| `om die reden` | [cause]; that's why [effect] | Hij was moe; **om die reden** ging hij slapen. |
+| `daardoor` | [cause] as a result [effect] | Het vroor; **daardoor** waren de wegen glad. |
 | `echter` | however [obstacle]| Hij kwam **echter** te laat. |
-| `toch` | despite / anyway [overcome]| Het regende; **toch** gingen we wandelen. |
+| `toch` | after all / anyway [overcome]| Het regende; **toch** gingen we wandelen. |
 | `anders` | otherwise [alternative] | Schiet op, **anders**  missen we de trein. |
+| `hoe dan ook` / `sowieso` | anyway / in any case [ultimate-outcome] | **Hoe dan ook**, ik kom morgen. |
 
 > Watch the inversion: *Daarom **ging hij**…*, not ~~*Daarom hij ging*~~.
 >
 > **daarom** vs **daardoor** (both "so / therefore"): **daarom** gives a **motive** you act on (*Hij was moe; **daarom** ging hij slapen*); **daardoor** names an **automatic cause‑and‑effect** (*Het vroor; **daardoor** waren de wegen glad*).
+>
+> **om die reden** is a more formal **daarom** ("for that reason"). Note *om* die reden, not ~~*op* die reden~~.
 
----
-
-Correlations and Equality
+## Correlations and Equality
 
 A few connectors come in **two parts** that frame the sentence together.
 
@@ -114,19 +114,20 @@ Order the steps of a story.
 >
 > **eindelijk vs uiteindelijk**: *eindelijk* = "at last" (relief after a wait); *uiteindelijk* = "eventually / in the end" (the final outcome).
 
----
+## Organizers
 
 Small words that organize surrounding meaning.
 
 | Dutch | English | Example |
 |-------|---------|---------|
 | `niet alleen … maar ook` | not only [subject] but also [appendix] | Hij spreekt **niet alleen** Nederlands, **maar ook** Duits. |
+| `daarnaast` | besides [side-effect] | **Daarnaast** is er nog een probleem. |
+| `bovendien` | moreover [appendix] | Het is duur; **bovendien is** het ver. |
 | `trouwens` | by the way  [appendix] | **Trouwens**, hoe gaat het? |
 | `bijvoorbeeld` | for [example] | Ik hou van fruit, **bijvoorbeeld** appels. |
 | `kortom` | in short [summary] | **Kortom**, het was een leuke dag. |
-| `hoe dan ook` / `sowieso` | anyway / in any case [ultimate-outcome] | **Hoe dan ook**, ik kom morgen. |
 
----
+## Fillers
 
 Filler words that bear no meaning but keep a conversation flowing.
 
