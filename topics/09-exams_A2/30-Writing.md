@@ -2,11 +2,11 @@
 
 Worked samples for every task type in the inburgering **Schrijfvaardigheid A2** exam,
 plus a strategy that reliably gets you over the line. Built from the three official DUO
-practice booklets ([Writing 1](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-1.pdf),
-[Writing 2](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-2.pdf),
-[Writing 3](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-3.pdf)) and the official exam info.
+practice booklets and the official exam info.
 
----
+- [ ] [Writing 1](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-1.pdf)
+- [ ] [Writing 2](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-2.pdf)
+- [ ] [Writing 3](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-3.pdf)
 
 ## How the exam works
 
@@ -87,14 +87,12 @@ Forms are judged only on **adequaatheid, spelling, woordgebruik**.
 
 - Voor- en achternaam · Voorletters · Adres · Postcode · Woonplaats · Telefoonnummer · Geboortedatum · Geslacht: man / vrouw · Datum
 
----
-
 ## Task type 1 — E-mail / note (bericht)
 
 **What they test:** you address each `•` bullet, in the right register, between the given greeting and closing.
 
 ### Sample A — Reschedule an appointment (informal · fellow student)
->
+
 > **Afspraak verzetten.** U volgt een opleiding. U hebt morgen een afspraak met Amber, een andere student. U kunt niet en wilt een andere afspraak maken.
 > • Schrijf dat u de afspraak wilt verzetten. • Schrijf waarom u dat wilt. Bedenk zelf waarom. • Stel een nieuwe datum voor.
 
@@ -111,7 +109,7 @@ Vriendelijke groet,
 ```
 
 ### Sample B — Swap a shift (informal · colleague)
->
+
 > **Dienst ruilen.** U moet zondag werken maar u wilt graag vrij. U schrijft een e-mail aan uw collega Farida.
 > • Schrijf waarom u mailt. • Schrijf waarom u wilt ruilen. Bedenk het zelf. • Schrijf op welke dag u wel kunt werken.
 
@@ -128,7 +126,7 @@ Groetjes,
 ```
 
 ### Sample C — Borrow a book (informal · fellow student)
->
+
 > **Boek lenen.** Voor uw opleiding Techniek hebt u snel het boek 'Natuurkunde 1' nodig. Een medestudente heeft het boek.
 > • Schrijf welk boek u wilt lenen. • Schrijf waarom u het boek van haar wilt lenen. • Schrijf wanneer ze het boek terugkrijgt.
 
@@ -145,7 +143,7 @@ Groetjes,
 ```
 
 ### Sample D — Ask for a day off (formal · your boss)
->
+
 > **Vrije dag aanvragen.** U wilt volgende week een dag vrij vragen. U schrijft een e-mail aan uw chef, meneer Jansen.
 > • Schrijf wanneer u vrij wilt hebben. Bedenk zelf een dag en datum. • Schrijf waarom u vrij wilt hebben. Bedenk zelf waarom.
 
@@ -162,7 +160,7 @@ Met vriendelijke groet,
 ```
 
 ### Sample E — E-mail to your teacher (formal · apology)
->
+
 > **E-mail aan docent.** U doet een computercursus. Morgen moet u een toets maken, maar u kunt niet komen. U schrijft een e-mail aan uw docent.
 > • Schrijf waarom u de e-mail stuurt. • Schrijf waarom u niet kunt komen. • Bied uw excuses aan. • Vraag wanneer u de toets kunt maken.
 
@@ -179,11 +177,11 @@ Groeten,
 ```
 
 ### Sample F — Note for a colleague (informal · instructions)
->
+
 > **Bericht collega.** U werkt in een kledingzaak. Straks komt uw collega Fariha. Zij moet een paar dingen doen (foto's: stofzuigen → kleren netjes ophangen → deur op slot). Schrijf een briefje. Vertel wat zij moet doen. Schrijf drie dingen op.
 
 ```
-Hallo Fariha,
+Hallo Alisa,
 
 Ik ben al weg, maar er zijn nog een paar dingen te doen.
 Wil je eerst de winkel stofzuigen?
@@ -195,8 +193,6 @@ Groeten,
 [naam]
 ```
 
----
-
 ## Task type 2 — Fill in a form (formulier)
 
 **What they test:** correct personal data + short clear sentences in the open fields. Circle/choose the option that matches your invented profile. Spelling of your data matters.
@@ -204,7 +200,7 @@ Groeten,
 > **Tip:** invent one simple identity and reuse it — e.g. *Sara Yılmaz, Kerkstraat 12, 1234 AB Utrecht, 06 12345678, <s.yilmaz@mail.nl>, geboren 15-03-1990.* Then you only have to think about the open-text boxes.
 
 ### Sample A — Gym registration (Sportclub SPRINT)
->
+
 > Vul het formulier in. Sommige gegevens moet u zelf bedenken.
 
 | Veld | Ingevuld |
@@ -226,7 +222,7 @@ Groeten,
 > Mijn gezondheid is goed. Ik heb geen ziektes, maar soms heb ik pijn in mijn rug.
 
 ### Sample B — Insurance claim after a burglary (schadeformulier inboedelverzekering)
->
+
 > • Vul het formulier in. Bedenk zelf de gegevens. • Schrijf wanneer er is ingebroken. • Schrijf drie dingen op die zijn gebeurd (foto's: laptop **gestolen**, horloge **gestolen**, raam **kapot**).
 
 | Veld | Ingevuld |
@@ -239,13 +235,13 @@ Groeten,
 | Datum van de schade | 18-07-2026 |
 
 **Omschrijving gestolen spullen en schade:**
->
+
 > - De dieven hebben mijn laptop gestolen.
 > - Ook is mijn horloge weg.
 > - Het raam in de keuken is kapot.
 
 ### Sample C — Report a problem to the municipality (meldingsformulier gemeente)
->
+
 > U meldt de problemen bij de gemeente (foto's: **afval** op straat + **kapotte stoep**). Vul het formulier in. Sommige gegevens moet u zelf bedenken.
 
 | Veld | Ingevuld |
@@ -272,7 +268,7 @@ Groeten,
 > Start with the given lead-in line (`Dit is mijn tekst over …:`) and just answer each guiding question in one sentence.
 
 ### Sample A — A party you celebrate every year (Feest)
->
+
 > Waarom viert u het feest? · Wie komen er op het feest? · Wat doet u op het feest?
 
 ```
@@ -283,7 +279,7 @@ Het is een gezellige en blije dag.
 ```
 
 ### Sample B — The clothes you like best (Mooiste kleren)
->
+
 > Wat draagt u het liefst? · Hoe zien de kleren eruit? · Wanneer draagt u deze kleren?
 
 ```
@@ -294,7 +290,7 @@ Als het koud is, doe ik er een jas overheen.
 ```
 
 ### Sample C — Your weekend (Weekend)
->
+
 > Wat doet u graag in het weekend? · Met wie doet u dat? · Waar doet u dat?
 
 ```
@@ -303,8 +299,6 @@ Ik doe dat samen met mijn man en onze hond.
 Daarna drinken wij koffie in een klein café in de buurt.
 Op zondag koken we thuis een lekkere maaltijd.
 ```
-
----
 
 ## Common mistakes to avoid
 
@@ -317,8 +311,6 @@ Op zondag koken we thuis een lekkere maaltijd.
 - **Writing too much.** More text = more mistakes. 3–5 clean sentences is the sweet spot.
 - **Leaving a field blank.** Always write something plausible; empty = no points.
 
----
-
 ## Practice plan
 
 1. Do all three practice booklets above **like the real exam** — timed, ~35 minutes, no dictionary.
@@ -326,8 +318,6 @@ Op zondag koken we thuis een lekkere maaltijd.
 3. Reuse one invented identity so forms become automatic.
 4. Drill the six e-mail openers/closings until you can write them without thinking.
 5. Repeat the [Writing AI trainer](/#/writing) for instant feedback.
-
----
 
 ## Sources
 

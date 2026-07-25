@@ -7,8 +7,6 @@ Representative practice texts and multiple-choice questions in the style of the 
 > same text types, same question wording, same difficulty — so you can train the exact skill.
 > Always do the official login exams too; they are the closest thing to the real day.
 
----
-
 ## How the exam works
 
 - **25 multiple-choice questions** about a series of short everyday texts.
@@ -22,8 +20,6 @@ Representative practice texts and multiple-choice questions in the style of the 
 
 Practical reading for real life: work, school, appointments, transport, shops, health, and local services. You must find **a detail, a reason, a rule, a date, a price, a person, or the purpose** of a text.
 
----
-
 ## The text types you will see
 
 | Type (NL) | What it is | Typical question |
@@ -34,8 +30,6 @@ Practical reading for real life: work, school, appointments, transport, shops, h
 | **Rooster / openingstijden** | schedule, opening hours | which day, what time |
 | **Folder / regels** | brochure, house rules, instructions | what is allowed, how much |
 | **Informatieve tekst** | short article, letter from school | main point, a detail |
-
----
 
 ## The question types (learn these stems)
 
@@ -50,8 +44,6 @@ Practical reading for real life: work, school, appointments, transport, shops, h
 | **Hoeveel** … ? | How much / many …? | a number or price |
 | **Welke** … ? | Which …? | one option among several |
 | **Waarom is deze tekst geschreven?** | Why was this text written? | the purpose / main point |
-
----
 
 ## The winning strategy (do this every time)
 
@@ -68,7 +60,12 @@ Practical reading for real life: work, school, appointments, transport, shops, h
 7. **Answer every question** — no penalty for guessing. Never leave one blank.
 8. **Keep ~10 minutes at the end** to check the ones you doubted.
 
----
+## Reading exam mocks
+
+- [ ] [Reading 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/RV5Y)
+- [ ] [Reading 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/JJPV)
+- [ ] [Reading 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/QCA1)
+- [ ] [Reading 4](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/6N1Z)
 
 ## Sample exercises (with answer key)
 
@@ -170,8 +167,6 @@ Read each text, choose **A / B / C**, then check the key at the bottom of the se
 4. Hoe laat zijn de kinderen terug op school?
     A. om 08.30 uur · B. om 12.00 uur · C. om 16.00 uur
 
----
-
 ### Answer key (with the proof sentence)
 
 | # | Answer | Why (proof in the text) |
@@ -198,8 +193,6 @@ Read each text, choose **A / B / C**, then check the key at the bottom of the se
 
 **Score yourself:** 16–19 = on track · 13–15 = keep practising the traps · below 13 = slow down and always find the proof sentence.
 
----
-
 ## Common mistakes / traps to avoid
 
 - **Answering from memory or logic** instead of the text. Only the text counts.
@@ -209,8 +202,6 @@ Read each text, choose **A / B / C**, then check the key at the bottom of the se
 - **Reading the whole text first** and running out of time. Question first, then scan.
 - **Leaving a question blank.** Always guess — you might be right, and blank is always wrong.
 
----
-
 ## Practice plan
 
 1. Do the four official login exams above **timed** (65 min) — they are closest to the real day.
@@ -218,8 +209,6 @@ Read each text, choose **A / B / C**, then check the key at the bottom of the se
 3. Re-read the small-word list until *niet / alleen / uiterlijk / na / voor* jump out at you.
 4. Build vocabulary from the [Phrases trainer](/#/phrases?level=a2) and real Dutch texts (school letters, gemeente pages, opening hours).
 5. Also see [Worked samples for the Writing exam](30-Writing_samples.md) and [How to pass](10-How_to.md).
-
----
 
 ## Sources
 

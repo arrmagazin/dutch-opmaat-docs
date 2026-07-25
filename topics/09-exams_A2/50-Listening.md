@@ -9,8 +9,6 @@ Representative practice scripts and multiple-choice questions in the style of th
 > [3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/5QCB))
 > require a login. In the real exam you **hear** each fragment (audio and short films) — you do not read it.
 > The scripts below are what you would hear, written to match the exam format so you can train the skill.
-> For real audio, use the official login mocks and the
-> [Luistervaardigheid A2 playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjjXsZrVZAf4X94FCBE2tq99) in [Practice](20-Practice.md).
 > **Tip:** have someone read a script aloud once (or use a text-to-speech app) while you answer — don't read it first.
 
 ---
@@ -70,7 +68,54 @@ Everyday spoken Dutch: appointments, work, shops, transport, school, health, loc
 7. **Don't freeze on one unknown word.** Keep listening; you rarely need every word.
 8. **Never leave a question blank** — no penalty for guessing.
 
+## Listening Practice
+
+[Phrases trainer](/#/phrases?level=a2)
+
 ---
+
+[Luistervaardigheid A2 playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjjXsZrVZAf4X94FCBE2tq99):
+
+- [ ] [Les 1.1](https://www.youtube.com/watch?v=TnzORNjSbMU)  [Les 1.2](https://www.youtube.com/watch?v=0kCEtabeh2o) [Les 1.3](https://www.youtube.com/watch?v=xj8BNwiEMY4)
+- [ ] [Les 2.1](https://www.youtube.com/watch?v=YR8X0InqUVg) [Les 2.2](https://www.youtube.com/watch?v=kc5rtK8eq7U) [Les 2.3](<https://www.youtube.com/watch?v=RMkVMca_xjg>) [Les 2.4](https://www.youtube.com/watch?v=rW4LiP5NJL4)
+- [ ] [Les 3.1](https://www.youtube.com/watch?v=6GFg0DiFChA) [Les 3.2](https://www.youtube.com/watch?v=ANLuWHbxiyM) [Les 3.3](https://www.youtube.com/watch?v=wQzgZqZTFyI)
+- [ ] [Les 4.1](https://www.youtube.com/watch?v=_Y46yCxkzr8) [Les 4.2](https://www.youtube.com/watch?v=JuM7pv87UoY) [Les 4.3](https://www.youtube.com/watch?v=fm6xhAQI6Rs)
+- [ ] [Les 5.1](https://www.youtube.com/watch?v=qee7iI--uqs) [Les 5.2](https://www.youtube.com/watch?v=UOhz0LtVHlc)
+- [ ] [Les 6.1](https://www.youtube.com/watch?v=A3QPdZaoUw4) [Les 6.2](https://www.youtube.com/watch?v=QW-A3J_t9gM)
+- [ ] [Les 7.1](https://www.youtube.com/watch?v=ROaWwpn6R-g) [Les 7.2](https://www.youtube.com/watch?v=ID2ygfCHPTU)
+- [ ] [Les 8.1](https://www.youtube.com/watch?v=p0iUEjIuhjo) [Les 8.2](https://www.youtube.com/watch?v=MBXToc0IczE)
+- [ ] [Les 9.1](https://www.youtube.com/watch?v=GgSOa9re4bo)
+- [ ] [Les 10.1](https://www.youtube.com/watch?v=1og1cqix3Cg) [Les 10.2](https://www.youtube.com/watch?v=t1CMJxzOT9Y)
+
+---
+
+- [ ] [Les 11.1](https://www.youtube.com/watch?v=Koz3_OBZVIw) [Les 11.2](https://www.youtube.com/watch?v=lkpfjM9GMWw)
+- [ ] [Les 12.1](https://www.youtube.com/watch?v=hbUGi8EnkHY) [Les 12.2](https://www.youtube.com/watch?v=9x23-WEbQZc)
+- [ ] [Les 13.1](https://www.youtube.com/watch?v=1jYgVE3s9w0)
+- [ ] [Les 14.1](https://www.youtube.com/watch?v=Wr3h91ydA1Q)
+- [ ] [Les 15.1](https://www.youtube.com/watch?v=YlhxcQp3w7o) [Les 15.2](https://www.youtube.com/watch?v=D4jJDPmgi6w)
+- [ ] [Les 16.1](https://www.youtube.com/watch?v=A4McpB5VFjk)
+- [ ] [Les 17.1](https://www.youtube.com/watch?v=c0Y-8_t5hYk) [Les 17.2](https://www.youtube.com/watch?v=cw9wMUxMLKk)
+- [ ] [Les 18.1](https://www.youtube.com/watch?v=Sahp_coWISU)
+- [ ] [Les 19.1](https://www.youtube.com/watch?v=u7HOZRoZL6Y) [Les 19.2](https://www.youtube.com/watch?v=pyPjrI8sxK8)
+- [ ] [Les 20.1](https://www.youtube.com/watch?v=Y8xsKapoI40)
+
+---
+
+- [ ] [Les 21.1](https://www.youtube.com/watch?v=lpJd1mlXoo0) [Les 21.2](https://www.youtube.com/watch?v=gvjk97y6Poc)
+- [ ] [Les 22.1](https://www.youtube.com/watch?v=JkJJIlXioUw) [Les 22.2](https://www.youtube.com/watch?v=gkgAndMf5xk)
+- [ ] [Les 23.1](https://www.youtube.com/watch?v=0IzoMiTwh0E) [Les 23.2](https://www.youtube.com/watch?v=304LXd9Upws)
+- [ ] [Les 24.1](https://www.youtube.com/watch?v=iURWX_fklKg)
+- [ ] [Les 25.1](https://www.youtube.com/watch?v=kwRR03ER1Ko)
+- [ ] [Les 26.1](https://www.youtube.com/watch?v=9wH9fRuFp0w)
+
+---
+
+exam mocks
+
+- [ ] [Listening 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/NCJ5)
+- [ ] [Listening 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/J845)
+- [ ] [Listening 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/5QCB)
 
 ## Sample exercises (with answer key)
 
@@ -105,11 +150,11 @@ Kunt u in plaats daarvan op vrijdag om 09.00 uur komen?
 Belt u ons even terug op 020 1234567. Bedankt.
 ```
 
-3. Waarom belt de tandartspraktijk?
+1. Waarom belt de tandartspraktijk?
    A. de rekening is niet betaald · B. de afspraak moet worden verzet · C. er is een nieuwe tandarts
-4. Wanneer is de nieuwe afspraak?
+2. Wanneer is de nieuwe afspraak?
    A. morgen om 10.00 uur · B. vrijdag om 09.00 uur · C. vandaag
-5. Wat moet u doen?
+3. Wat moet u doen?
    A. terugbellen · B. een e-mail sturen · C. langskomen
 
 **Antwoorden:** 3 — **B** ("Helaas is de tandarts morgen ziek… in plaats daarvan op vrijdag"). · 4 — **B** ("**vrijdag om 09.00 uur**"; morgen 10.00 is the old one). · 5 — **A** ("**Belt u ons even terug**").
@@ -124,11 +169,11 @@ Klant:      Dat is een goed idee. Kunt u het inpakken als cadeau?
 Verkoper:   Natuurlijk, dat doe ik gratis voor u.
 ```
 
-6. Voor wie is het cadeau?
+1. Voor wie is het cadeau?
    A. voor zijn moeder · B. voor zijn zus · C. voor zijn vrouw
-7. Hoeveel kost het boek?
+2. Hoeveel kost het boek?
    A. 12 euro · B. 20 euro · C. 30 euro
-8. Wat vraagt de klant?
+3. Wat vraagt de klant?
    A. korting · B. het cadeau inpakken · C. bezorgen
 
 **Antwoorden:** 6 — **A** ("een cadeau voor mijn **moeder**"). · 7 — **B** ("Het kost **20 euro**"). · 8 — **B** ("Kunt u het **inpakken** als cadeau?").
@@ -144,11 +189,11 @@ In de pauze mag je koffie drinken in de kantine.
 Bel mij als je een vraag hebt.
 ```
 
-9. Hoe laat begint het werk?
+1. Hoe laat begint het werk?
    A. om 7 uur · B. om 8 uur · C. om 9 uur
-10. Wat is verplicht?
+2. Wat is verplicht?
     A. de rode jas dragen · B. koffie drinken · C. de baas bellen
-11. Waar mag je koffie drinken?
+3. Waar mag je koffie drinken?
     A. buiten · B. in de kantine · C. aan je bureau
 
 **Antwoorden:** 9 — **B** ("Je begint elke dag om **8 uur**"). · 10 — **A** ("Trek altijd de rode jas aan; dat is **verplicht**"). · 11 — **B** ("koffie drinken in de **kantine**").
@@ -163,11 +208,11 @@ Vanaf maandag 3 juni bent u welkom op het nieuwe adres.
 Uw boeken kunt u daar ophalen. Tot ziens!
 ```
 
-12. Wat gebeurt er met de bibliotheek?
+1. Wat gebeurt er met de bibliotheek?
     A. hij gaat verhuizen · B. hij gaat voor altijd dicht · C. hij krijgt nieuwe boeken
-13. Waar is het nieuwe gebouw?
+2. Waar is het nieuwe gebouw?
     A. aan de Kerkstraat · B. aan de Marktstraat · C. bij het station
-14. Vanaf wanneer is de nieuwe bibliotheek open?
+3. Vanaf wanneer is de nieuwe bibliotheek open?
     A. vandaag · B. maandag 3 juni · C. volgend jaar
 
 **Antwoorden:** 12 — **A** ("We gaan **verhuizen** naar een nieuw gebouw"). · 13 — **B** ("aan de **Marktstraat**"). · 14 — **B** ("**Vanaf maandag 3 juni** bent u welkom").
@@ -182,11 +227,11 @@ Anna:  Zondag is ook goed. Zullen we om 7 uur afspreken?
 Ben:   Prima, tot zondag!
 ```
 
-15. Wanneer gaan Anna en Ben naar de film?
+1. Wanneer gaan Anna en Ben naar de film?
     A. zaterdag · B. zondag · C. vrijdag
-16. Hoe laat spreken ze af?
+2. Hoe laat spreken ze af?
     A. om 6 uur · B. om 7 uur · C. om 8 uur
-17. Waarom kan Ben niet op zaterdag?
+3. Waarom kan Ben niet op zaterdag?
     A. hij moet werken · B. hij is ziek · C. hij heeft geen geld
 
 **Antwoorden:** 15 — **B** ("**Maar** zaterdag kan ik niet… Kan het **zondag**?"; zaterdag is the trap). · 16 — **B** ("Zullen we om **7 uur** afspreken?"). · 17 — **A** ("ik moet **werken**").

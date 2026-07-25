@@ -40,16 +40,18 @@ Subordinating conjunctions introduce a **dependent** clauses.
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `of` | … whether [option] | Ik weet niet **of** hij **komt**. |
+| `zodat` | … so that [goal] | Spreek harder **zodat** ik je **versta**. |
 | `omdat` | … because [reason] | Ik blijf thuis **omdat** ik ziek **ben**. |
+| `om … te` | … in order to [goal] | Ik spaar **om** een huis **te** kopen. |
 | `vanwege` | … because [noun-reason] | De trein reed niet **vanwege** het weer. |
-| `dat` | … that [report] | Hij zegt **dat** hij morgen **komt**. |
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| `of` | … whether [option] | Ik weet niet **of** hij **komt**. |
 | `als` | … if [condition] | **Als** het regent, blijf ik thuis. |
 | `indien` | … formal if [condition] | Neem contact op **indien** nodig. |
-| `hoewel`  | … although [obstacle] | **Hoewel** het regende, gingen we toch. |
-| `zodat` | … so that [goal] | Spreek harder **zodat** ik je **versta**. |
-| `om … te` | … in order to [goal] | Ik spaar **om** een huis **te** kopen. |
 | `tenzij` | … unless [not-condition] | Ik kom **tenzij** het **regent**. |
+| `hoewel`  | … although [obstacle] | **Hoewel** het regende, gingen we toch. |
 
 > **indien** is a formal, written variant of **als** ("if"). In everyday speech use **als**.
 >
@@ -120,6 +122,7 @@ Small words that organize surrounding meaning.
 
 | Dutch | English | Example |
 |-------|---------|---------|
+| `dat` | … that [report] | Hij zegt **dat** hij morgen **komt**. |
 | `niet alleen … maar ook` | not only [subject] but also [appendix] | Hij spreekt **niet alleen** Nederlands, **maar ook** Duits. |
 | `daarnaast` | besides [side-effect] | **Daarnaast** is er nog een probleem. |
 | `bovendien` | moreover [appendix] | Het is duur; **bovendien is** het ver. |
