@@ -1,16 +1,14 @@
-# Grammar Examples — flat list (sorted A→Z, deduped by emphasised word)
-
-All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and deduped by the bold/emphasised word (longest example kept per word). **318** entries.
+# Grammar By Examples
 
 - [ ] al **de** mensen, al **mijn** boeken, al **het** werk
 - [ ] **Allebei** de kinderen zijn ziek.
 - [ ] **Alle** kinderen spelen buiten.
 - [ ] **Alles** is klaar.
-- [ ] Als het kan, kom ik.
-- [ ] Als ik had gekund, was ik gekomen.
-- [ ] Als ik kon, kwam ik / zou ik komen.
-- [ ] **Als ik tijd heb**, kom ik langs.
-- [ ] Alvorens **te beslissen**, wilde hij meer weten.
+- [ ] **Als** het kan, kom ik.
+- [ ] **Als** ik had gekund, was ik gekomen.
+- [ ] **Als** ik kon, kwam ik / zou ik komen.
+- [ ] **Als** ik tijd heb, kom ik langs.
+- [ ] **Alvorens** te beslissen, wilde hij meer weten.
 - [ ] bal → bal**letje**, kom → kom**metje**, man → man**netje** ding → ding**etje**
 - [ ] **Beide** kinderen zijn ziek.
 - [ ] Bel me **voordat** je **vertrekt**.
@@ -45,7 +43,7 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] De reis kost **circa** 200 euro.
 - [ ] De resultaten **werden** in 2025 **gepubliceerd**.
 - [ ] **Dergelijke** problemen komen vaker voor.
-- [ ] De sleutels liggen **erop**. — on it
+- [ ] De sleutels liggen **erop**.
 - [ ] De stoel **waarop** ik **zit**, is oud.
 - [ ] De trein reed niet **vanwege** het weer.
 - [ ] De trein **vertrekt** om acht uur.
@@ -59,7 +57,7 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] Dit boek is **hetzelfde** als dat.
 - [ ] Dit is **net zo** duur **als** dat.
 - [ ] Dit kost **minder**; dat kost **het minst**.
-- [ ] Doe het **erin**. — put it in it
+- [ ] Doe het **erin**.
 - [ ] Doe het **gewoon**.
 - [ ] Doe het **nog eens**.
 - [ ] een **groot** huis · het **grote** huis
@@ -69,7 +67,7 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] **Enkele** studenten kwamen te laat.
 - [ ] Er is **niets** gebeurd.
 - [ ] Er ligt **overal** sneeuw.
-- [ ] Er staat een hek **eromheen**. — around it
+- [ ] Er staat een hek **eromheen**.
 - [ ] Er staat **iemand** voor de deur.
 - [ ] Er waren **zo'n** twintig mensen.
 - [ ] Er zijn **allerlei** redenen.
@@ -77,7 +75,7 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] Geef het me, **alsjeblieft**.
 - [ ] Geef me **een stuk of** vijf.
 - [ ] Geniet **van** je weekend!
-- [ ] Haal het label **eraf**. — take the label off it
+- [ ] Haal het label **eraf**.
 - [ ] Het begint **te sneeuwen**.
 - [ ] Het beste **wat** je **kunt doen**, is wachten.
 - [ ] Het boek **waarover** hij **sprak**, ligt daar.
@@ -98,7 +96,7 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] Het is **veel te** duur.
 - [ ] Het is **vooral** 's ochtends druk.
 - [ ] Het kind **dat** mij **belde**, was mijn neef.
-- [ ] Het ligt **eronder**. — it's under it
+- [ ] Het ligt **eronder**.
 - [ ] het Nederlands, het rood, het noorden
 - [ ] Het probleem **waarvoor** ik **kwam**, is opgelost.
 - [ ] Het rapport **wordt** vandaag **besproken**.
@@ -113,7 +111,7 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] Hij belooft **te komen**.
 - [ ] Hij belt **bijna nooit**.
 - [ ] Hij besluit **te blijven**.
-- [ ] Hij betaalt **ervoor**. — he pays for it
+- [ ] Hij betaalt **ervoor**.
 - [ ] Hij heeft het **niet eens** geprobeerd.
 - [ ] Hij is de **enige** die het weet.
 - [ ] Hij is een week **weg**.
@@ -126,14 +124,13 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] Hij kwam **echter** te laat.
 - [ ] Hij laat me **wachten**.
 - [ ] Hij las **terwijl** ik **kookte**.
-- [ ] Hij leert **door** veel **te lezen**. — He learns by reading a lot.
+- [ ] Hij leert **door** veel **te lezen**.
 - [ ] Hij praat **tegen** zijn baas.
-- [ ] Hij sliep **in plaats van te werken**. — He slept instead of working.
+- [ ] Hij sliep **in plaats van te werken**.
 - [ ] Hij spreekt **niet alleen** Nederlands, **maar ook** Duits.
-- [ ] Hij stapt **eruit**. — he gets out of it
+- [ ] Hij stapt **eruit**.
 - [ ] Hij vraagt **naar** je gezondheid.
-- [ ] Hij was moe; **daarom** ging hij slapen.
-- [ ] Hij was moe; **om die reden** ging hij slapen.
+- [ ] Hij was moe; **daarom** ging hij slapen; **om die reden** ging hij slapen.
 - [ ] Hij werkt hard **opdat** zijn kinderen het beter **krijgen**.
 - [ ] Hij wil morgen voetbal **spelen**.
 - [ ] Hij zit **naast** mij.
@@ -142,8 +139,7 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] **Hoe** gaat het?
 - [ ] **Hoe groot** is je huis?
 - [ ] **Hoe laat** is het?
-- [ ] **Hoelang** blijf je?
-- [ ] **Hoe lang** duurt het?
+- [ ] **Hoelang** blijf je? **Hoe lang** duurt het?
 - [ ] **Hoe oud** ben je?
 - [ ] **Hoe vaak** sport je?
 - [ ] **Hoeveel** kost dit?
@@ -162,7 +158,7 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] Ik ben **bij** de bakker.
 - [ ] Ik ben **bijna** klaar.
 - [ ] Ik **ben** er over een uur.
-- [ ] Ik ben **ertegen**. — I'm against it
+- [ ] Ik ben **ertegen**.
 - [ ] Ik ben het **helemaal** vergeten.
 - [ ] Ik ben hier drie jaar **geleden** begonnen.
 - [ ] Ik ben **nooit** in Parijs geweest.
@@ -172,7 +168,7 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] Ik blijf thuis, **want** ik **ben** moe.
 - [ ] Ik blijf thuis **omdat** ik ziek **ben**.
 - [ ] Ik blijf vandaag **thuis**.
-- [ ] Ik denk **eraan**. — I'm thinking about it
+- [ ] Ik denk **eraan**.
 - [ ] Ik doe het **meteen**.
 - [ ] Ik drink **af en toe** wijn.
 - [ ] Ik drink **alleen** water.
@@ -187,7 +183,7 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] Ik ga vanavond **werken**.
 - [ ] Ik heb **al** gegeten.
 - [ ] Ik heb **daarvan** gehoord.
-- [ ] Ik heb **daarvoor** betaald. — also de dag **daarvoor** (the day before).
+- [ ] Ik heb **daarvoor** betaald. also de dag **daarvoor** (the day before).
 - [ ] Ik heb **een paar** vragen.
 - [ ] Ik heb **geen geld meer**.
 - [ ] "Ik **heb gegeten**." → Hij zei dat hij **had gegeten**.
@@ -225,7 +221,7 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] "Ik **werk**." → Hij zei dat hij **werkte**.
 - [ ] Ik werk daar **niet meer**.
 - [ ] Ik werk **en** ik studeer.
-- [ ] Ik werk **ermee**. — I work with it
+- [ ] Ik werk **ermee**.
 - [ ] Ik werk **meestal** thuis.
 - [ ] Ik wil **een beetje** melk.
 - [ ] Ik wil graag Nederlands leren.
@@ -249,7 +245,7 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] man → **mannen**, dik → **dikke**
 - [ ] **Meerdere** landen deden mee.
 - [ ] **Met het oog op** de toekomst sparen we.
-- [ ] Mijn fiets **is gestolen**. — My bike has been stolen.
+- [ ] Mijn fiets **is gestolen**.
 - [ ] Mijn ouders wonen **ver weg**.
 - [ ] Mijn ouders zijn **beneden**.
 - [ ] Mijn sleutels liggen **ergens**.
@@ -292,14 +288,14 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] **Wat voor** muziek luister je?
 - [ ] We beginnen **met** hoofdstuk één.
 - [ ] We blijven **tot** zeven uur.
-- [ ] We eten; **daarna** kijken we een film.**Vervolgens** namen we de fiets.
+- [ ] We eten; **daarna** kijken we een film. **Vervolgens** namen we de fiets.
 - [ ] **Weet je**, dat is echt waar.
 - [ ] We gaan **richting** centrum.
 - [ ] We hebben **krap** een week.
 - [ ] **Weinig** mensen weten dat.
 - [ ] **Welk** boek?
 - [ ] **Welke** auto? / **Welke** boeken?
-- [ ] We praten **erover**. — we're talking about it
+- [ ] We praten **erover**.
 - [ ] werken → **werkte**
 - [ ] We vinden je waar dan ook.
 - [ ] We zaten **rond** het vuur.
@@ -308,13 +304,13 @@ All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and dedu
 - [ ] Wij **eten** vanavond bij oma.
 - [ ] Wij zijn **zeer** tevreden.
 - [ ] Ze blijft **staan**.
-- [ ] Ze ging weg **zonder** iets **te zeggen**. — She left without saying anything.
+- [ ] Ze ging weg **zonder** iets **te zeggen**.
 - [ ] Ze helpen **elkaar**.
 - [ ] Ze leert **te zwemmen**. (also without te, see below)
-- [ ] Ze rijden **erdoor**. — they drive through it
+- [ ] Ze rijden **erdoor**.
 - [ ] Ze **vertrekken** volgende week.
 - [ ] Ze weigert **te helpen**.
-- [ ] Ze woont **ernaast**. — she lives next to it
+- [ ] Ze woont **ernaast**.
 - [ ] Ze zijn er **allemaal**.
 - [ ] Zij loopt **even** snel **als** hij.
 - [ ] Zij speelt **beter** dan ik; hij speelt **het best**.
