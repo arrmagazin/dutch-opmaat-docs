@@ -1,15 +1,5 @@
 # Writing exam (Schrijven) A2 — samples & how to pass
 
-Worked samples for every task type in the inburgering **Schrijfvaardigheid A2** exam,
-plus a strategy that reliably gets you over the line. Built from the three official DUO
-practice booklets and the official exam info.
-
-- [ ] [Writing 1](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-1.pdf)
-- [ ] [Writing 2](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-2.pdf)
-- [ ] [Writing 3](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-3.pdf)
-
-Work with [Writing AI trainer](/#/writing) for instant feedback.
-
 ## How the exam works
 
 - **4 tasks** (opgaven), always the same three kinds: a **form**, two-to-three **e-mails / notes**, and one short **wijkkrant** text.
@@ -104,6 +94,14 @@ Forms are judged only on **adequaatheid, spelling, woordgebruik**.
 3. Reuse one invented identity so forms become automatic.
 4. Drill the six e-mail openers/closings until you can write them without thinking.
 5. Repeat the [Writing AI trainer](/#/writing) for instant feedback.
+
+Worked samples for every task type in the inburgering **Schrijfvaardigheid A2** exam,
+plus a strategy that reliably gets you over the line. Built from the three official DUO
+practice booklets and the official exam info.
+
+- [ ] [Writing 1](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-1.pdf)
+- [ ] [Writing 2](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-2.pdf)
+- [ ] [Writing 3](https://www.inburgeren.nl/en/images/oefenexamen-schrijven-3.pdf)
 
 ## Sources
 

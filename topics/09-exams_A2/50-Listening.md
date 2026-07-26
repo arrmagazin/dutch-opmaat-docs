@@ -3,15 +3,13 @@
 Representative practice scripts and multiple-choice questions in the style of the inburgering
 **Luistervaardigheid A2** exam, plus a strategy that reliably gets you over the line.
 
-> The real DUO exam audio is secret, and the online practice mocks
-> ([Listening 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/NCJ5),
+> The real DUO exam audio is secret, and the online Listening practice mocks
+> ([1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/NCJ5),
 > [2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/J845),
 > [3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/5QCB))
 > require a login. In the real exam you **hear** each fragment (audio and short films) — you do not read it.
 > The scripts below are what you would hear, written to match the exam format so you can train the skill.
 > **Tip:** have someone read a script aloud once (or use a text-to-speech app) while you answer — don't read it first.
-
----
 
 ## How the exam works
 
@@ -254,11 +252,10 @@ Ben:   Prima, tot zondag!
 ## Practice plan
 
 1. Do the three official login mocks above **with a headset**, timed — they are closest to the real day.
-2. Work through the [Luistervaardigheid A2 playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjjXsZrVZAf4X94FCBE2tq99) (26 lessons) in [Practice](20-Practice.md) — real Dutch audio, from easy to harder.
+2. Work through the [Luistervaardigheid A2 playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjjXsZrVZAf4X94FCBE2tq99) (26 lessons).
 3. For the samples here, have someone read a script aloud **once** (or use text-to-speech); answer, then check the proof line.
 4. For each mistake, note **what type** you missed — time, person, place, reason, or final plan. Fix that type.
 5. Train daily listening outside the exam: short Dutch news, service videos, appointment calls. Missing a few words is normal — aim to catch the point.
-6. Also see [Reading samples](40-Reading_samples.md), [Writing samples](30-Writing_samples.md), and [How to pass](10-How_to.md).
 
 ---
 

@@ -9,6 +9,14 @@
     "promptHint": "Describe following points: s' ochtend, op mijn werk, s'avond, hobby, weekends, attitude"
   },
   {
+    "id": "w32",
+    "title": "My Weekend",
+    "description": "Write a short neighbourhood-paper text about your weekend",
+    "type": "wijkkrant",
+    "modelAnswer": "`inline:texts/my-weekend`",
+    "hint": "Weekend. Schrijf minstens drie hele zinnen.\n• Wat doet u graag in het weekend?\n• Met wie doet u dat?\n• Waar doet u dat?"
+  },
+  {
     "id": "w04",
     "title": "My Neighborhood",
     "description": "Describe where you live for the neighborhood paper",
@@ -27,6 +35,15 @@
     "promptHint": "<example>Mijn hobby is voetbal en ik doe dit al sinds mijn jeugd.\nIk voetbal twee keer per week met mijn vrienden in het park om de hoek.\nOp zaterdag spelen we wedstrijden tegen andere teams.\nIk vind het leuk omdat het gezond is en ik lekker buiten ben.\nOok leer ik op die manier veel nieuwe mensen kennen.\nDaarna gaan we vaak samen iets drinken.\nVoetbal maakt me blij.</example>"
   },
   {
+    "id": "w01",
+    "title": "My Favorite Party",
+    "description": "Write about your favorite celebration",
+    "type": "wijkkrant",
+    "modelAnswer": "`inline:texts/my-favorite-party`",
+    "hint": "Mijn favoriete feest. Schrijf minstens drie hele zinnen.\n• Welk feest viert u het liefst?\n• Met wie viert u het?\n• Wat doet u op het feest?",
+    "promptHint": "<example>Mijn favoriete feest is Koningsdag.\nHet is op 27 april.\nIk vier het altijd met mijn familie in Amsterdam.\nWe dragen oranje kleren en gaan naar de stad.\nWe eten oranje tompoezen en luisteren naar muziek.\nIn het Vondelpark is een groot feest.\nHet is heel gezellig en leuk.</example>"
+  },
+  {
     "id": "w30",
     "title": "My Favorite Food",
     "description": "Write about your favorite food for the neighborhood paper",
@@ -36,13 +53,12 @@
     "promptHint": "<example>Mijn lievelingseten is nasi goreng.\nHet is een gerecht uit Indonesië, waar mijn moeder vandaan komt.\nMijn moeder maakt het altijd klaar met veel groente, ei en kip.\nWe eten het elke zondag met de hele familie aan een grote tafel.\nHet is lekker en het ruikt heel goed in huis.\nOok mijn kinderen vinden het heerlijk.\nEten brengt onze familie samen.</example>"
   },
   {
-    "id": "w01",
-    "title": "My Favorite Party",
-    "description": "Write about your favorite celebration",
+    "id": "w31",
+    "title": "Your Favourite Clothes",
+    "description": "Write a short neighbourhood-paper text about the clothes you like best",
     "type": "wijkkrant",
-    "modelAnswer": "`inline:texts/my-favorite-party`",
-    "hint": "Mijn favoriete feest. Schrijf minstens drie hele zinnen.\n• Welk feest viert u het liefst?\n• Met wie viert u het?\n• Wat doet u op het feest?",
-    "promptHint": "<example>Mijn favoriete feest is Koningsdag.\nHet is op 27 april.\nIk vier het altijd met mijn familie in Amsterdam.\nWe dragen oranje kleren en gaan naar de stad.\nWe eten oranje tompoezen en luisteren naar muziek.\nIn het Vondelpark is een groot feest.\nHet is heel gezellig en leuk.</example>"
+    "modelAnswer": "Ik draag het liefst een spijkerbroek met een blauwe trui.\nDe trui is zacht en warm, en de broek zit lekker.\nDeze kleren draag ik meestal in het weekend.\nAls het koud is, doe ik er een jas overheen.",
+    "hint": "Mooiste kleren. Schrijf minstens drie hele zinnen.\n• Wat draagt u het liefst?\n• Hoe zien de kleren eruit?\n• Wanneer draagt u deze kleren?"
   },
   {
     "id": "w02",
@@ -70,24 +86,6 @@
     "modelAnswer": "`inline:texts/borrow-book`",
     "hint": "Iets lenen. U hebt iets nodig van een vriend. U schrijft een e-mail.\n• Schrijf wat u wilt lenen.\n• Schrijf waarom u het nodig hebt.\n• Schrijf wanneer u het teruggeeft.",
     "promptHint": "<example>Beste Wilma, ik volg sinds januari een cursus Nederlands en ik heb het boek 'Nederlands in Actie' nodig.\nIn de bibliotheek is het niet beschikbaar en in de boekwinkel is het te duur.\nIk weet dat jij het boek hebt.\nMag ik het van jou lenen voor een maand?\nIk beloof dat ik er voorzichtig mee ben.\nIk geef het volgende maand terug.\nGroetjes, Ahmed</example>"
-  },
-  {
-    "id": "w08",
-    "title": "Library Registration",
-    "description": "Fill in a form to register at the library",
-    "type": "form",
-    "modelAnswer": "`inline:texts/library-registration`",
-    "hint": "Inschrijfformulier bibliotheek. Vul het formulier in. Sommige gegevens moet u zelf bedenken.\n• Vul uw persoonlijke gegevens in.\n• Schrijf wat u graag leest en hoe vaak u wilt komen.",
-    "promptHint": "<example>Naam: Alisa\nAdres: Tulpstraat 8, 1234 AB Amsterdam\nGeboortedatum: 15 maart 1990\nTelefoonnummer: 06-12345678\nE-mailadres: fatima@email.nl\n\nIk lees graag boeken over koken, gezondheid en romans.\nIk wil de bibliotheek twee keer per week bezoeken.\nOok wil ik graag lezingen bijwonen en mijn kinderen meenemen naar de kinderafdeling.\nIk werk als verpleegkundige en heb 's avonds vaak tijd om te lezen.</example>"
-  },
-  {
-    "id": "w47",
-    "title": "Volunteer Work Registration",
-    "description": "Fill in a form to register as a volunteer at a neighborhood centre",
-    "type": "form",
-    "modelAnswer": "`inline:texts/volunteer-registration`",
-    "hint": "Aanmeldingsformulier vrijwilligerswerk. Vul het formulier in. Sommige gegevens moet u zelf bedenken.\n• Vul uw persoonlijke gegevens in.\n• Schrijf waarom u vrijwilligerswerk wilt doen.\n• Schrijf welke ervaring u hebt.",
-    "promptHint": "<example>Aanmeldingsformulier Vrijwilligerswerk Buurtcentrum De Ontmoeting\n\nVoor- en achternaam: Maria van der Berg\nAdres: Dorpsstraat 15\nPostcode en woonplaats: 1234 AB Amsterdam\nTelefoonnummer: 06-12345678\nE-mailadres: maria.vandenberg@email.nl\nGeboortedatum: 15 maart 1975\n\nWelk soort vrijwilligerswerk wilt u doen?\n☑ Hulp bij activiteiten voor ouderen\n☑ Begeleiding van kinderen\n\nWanneer bent u beschikbaar?\n☑ Doordeweeks overdag\n☑ Flexibel\n\nWaarom wilt u vrijwilligerswerk doen?\nIk wil vrijwilligerswerk doen omdat ik graag iets terug wil geven aan de samenleving.\nNa mijn pensionering heb ik meer tijd en wil ik die zinvol besteden.\nBovendien vind ik het belangrijk om contact te hebben met mensen uit mijn buurt.\nWelke ervaring heeft u met het werken met mensen?\nIk heb veel ervaring met het werken met mensen omdat ik dertig jaar als verpleegkundige heb gewerkt in een ziekenhuis.\nDaarnaast heb ik vijf jaar geleden een cursus gevolgd over omgaan met dementie.</example>"
   },
   {
     "id": "w09",
@@ -164,14 +162,6 @@
     "hint": "Klacht over een product. U hebt een kapot product ontvangen van een webshop. U schrijft een e-mail.\n• Schrijf wat u hebt gekocht en wanneer.\n• Beschrijf wat er mis is.\n• Schrijf wat u wilt: vervanging of geld terug."
   },
   {
-    "id": "w19",
-    "title": "Municipality Problem Report Form",
-    "description": "Fill in a form to report street problems to the municipality",
-    "type": "form",
-    "modelAnswer": "Voor- en achternaam: Sara Yılmaz\nAdres: Kerkstraat 12\nPostcode: 1234 AB\nWoonplaats: Utrecht\nTelefoonnummer: 06 12345678\nE-mail: s.yilmaz@mail.nl\n\nIn welke straat zijn er problemen?\nDe problemen zijn in de Kerkstraat.\n\nWat zijn de problemen?\nEr ligt veel afval op straat en dat ruikt heel vies. Ook is de stoep kapot. Mensen kunnen daardoor vallen.\nWilt u dit snel oplossen?",
-    "hint": "Meldingsformulier gemeente.\nU meldt de problemen bij de gemeente: afval op straat en een kapotte stoep.\nVul het formulier in. Sommige gegevens moet u zelf bedenken."
-  },
-  {
     "id": "w25",
     "title": "Noise Complaint",
     "description": "Write a formal complaint to the gemeente about noisy neighbors",
@@ -220,14 +210,6 @@
     "hint": "Bericht collega. U werkt in een kledingzaak. Straks komt uw collega Fariha.\nZij moet een paar dingen doen: stofzuigen, kleren netjes ophangen, deur op slot.\nSchrijf een briefje en vertel wat zij moet doen. Schrijf drie dingen op."
   },
   {
-    "id": "w22",
-    "title": "Gym Registration Form",
-    "description": "Fill in a form to register at a sports club",
-    "type": "form",
-    "modelAnswer": "Voor- en achternaam: Sara Yılmaz\nAdres: Kerkstraat 12\nPostcode: 1234 AB\nWoonplaats: Utrecht\nTelefoonnummer: 06 12345678\nGeslacht: vrouw\nGeboortedatum: 15-03-1990\nWelke groepsles? Yoga\nHoe vaak? 2x per week\n\nWaarom kiest u voor deze groepsles?\nIk kies voor yoga omdat ik rustiger wil worden. Yoga is ook goed voor mijn rug.\n\nHoe is uw gezondheid?\nMijn gezondheid is goed. Ik heb geen ziektes, maar soms heb ik pijn in mijn rug.",
-    "hint": "Inschrijfformulier Sportclub SPRINT. Vul het formulier in.\nSommige gegevens moet u zelf bedenken.\nBeantwoord ook: Waarom kiest u voor deze groepsles? Hoe is uw gezondheid?"
-  },
-  {
     "id": "w23",
     "title": "Burglary Insurance Claim Form",
     "description": "Fill in an insurance claim form after a burglary",
@@ -236,19 +218,37 @@
     "hint": "Schadeformulier inboedelverzekering.\n• Vul het formulier in. Bedenk zelf de gegevens.\n• Schrijf wanneer er is ingebroken.\n• Schrijf drie dingen op die zijn gebeurd (laptop gestolen, horloge gestolen, raam kapot)."
   },
   {
-    "id": "w31",
-    "title": "Your Favourite Clothes",
-    "description": "Write a short neighbourhood-paper text about the clothes you like best",
-    "type": "wijkkrant",
-    "modelAnswer": "Ik draag het liefst een spijkerbroek met een blauwe trui.\nDe trui is zacht en warm, en de broek zit lekker.\nDeze kleren draag ik meestal in het weekend.\nAls het koud is, doe ik er een jas overheen.",
-    "hint": "Mooiste kleren. Schrijf minstens drie hele zinnen.\n• Wat draagt u het liefst?\n• Hoe zien de kleren eruit?\n• Wanneer draagt u deze kleren?"
+    "id": "w19",
+    "title": "Municipality Problem Report Form",
+    "description": "Fill in a form to report street problems to the municipality",
+    "type": "form",
+    "modelAnswer": "Voor- en achternaam: Sara Yılmaz\nAdres: Kerkstraat 12\nPostcode: 1234 AB\nWoonplaats: Utrecht\nTelefoonnummer: 06 12345678\nE-mail: s.yilmaz@mail.nl\n\nIn welke straat zijn er problemen?\nDe problemen zijn in de Kerkstraat.\n\nWat zijn de problemen?\nEr ligt veel afval op straat en dat ruikt heel vies. Ook is de stoep kapot. Mensen kunnen daardoor vallen.\nWilt u dit snel oplossen?",
+    "hint": "Meldingsformulier gemeente.\nU meldt de problemen bij de gemeente: afval op straat en een kapotte stoep.\nVul het formulier in. Sommige gegevens moet u zelf bedenken."
   },
   {
-    "id": "w32",
-    "title": "Your Weekend",
-    "description": "Write a short neighbourhood-paper text about your weekend",
-    "type": "wijkkrant",
-    "modelAnswer": "In het weekend ga ik graag wandelen in het park.\nIk doe dat samen met mijn man en onze hond.\nDaarna drinken wij koffie in een klein café in de buurt.\nOp zondag koken we thuis een lekkere maaltijd.",
-    "hint": "Weekend. Schrijf minstens drie hele zinnen.\n• Wat doet u graag in het weekend?\n• Met wie doet u dat?\n• Waar doet u dat?"
+    "id": "w08",
+    "title": "Library Registration",
+    "description": "Fill in a form to register at the library",
+    "type": "form",
+    "modelAnswer": "`inline:texts/library-registration`",
+    "hint": "Inschrijfformulier bibliotheek. Vul het formulier in. Sommige gegevens moet u zelf bedenken.\n• Vul uw persoonlijke gegevens in.\n• Schrijf wat u graag leest en hoe vaak u wilt komen.",
+    "promptHint": "<example>Naam: Alisa\nAdres: Tulpstraat 8, 1234 AB Amsterdam\nGeboortedatum: 15 maart 1990\nTelefoonnummer: 06-12345678\nE-mailadres: fatima@email.nl\n\nIk lees graag boeken over koken, gezondheid en romans.\nIk wil de bibliotheek twee keer per week bezoeken.\nOok wil ik graag lezingen bijwonen en mijn kinderen meenemen naar de kinderafdeling.\nIk werk als verpleegkundige en heb 's avonds vaak tijd om te lezen.</example>"
+  },
+  {
+    "id": "w22",
+    "title": "Gym Registration Form",
+    "description": "Fill in a form to register at a sports club",
+    "type": "form",
+    "modelAnswer": "Voor- en achternaam: Sara Yılmaz\nAdres: Kerkstraat 12\nPostcode: 1234 AB\nWoonplaats: Utrecht\nTelefoonnummer: 06 12345678\nGeslacht: vrouw\nGeboortedatum: 15-03-1990\nWelke groepsles? Yoga\nHoe vaak? 2x per week\n\nWaarom kiest u voor deze groepsles?\nIk kies voor yoga omdat ik rustiger wil worden. Yoga is ook goed voor mijn rug.\n\nHoe is uw gezondheid?\nMijn gezondheid is goed. Ik heb geen ziektes, maar soms heb ik pijn in mijn rug.",
+    "hint": "Inschrijfformulier Sportclub SPRINT. Vul het formulier in.\nSommige gegevens moet u zelf bedenken.\nBeantwoord ook: Waarom kiest u voor deze groepsles? Hoe is uw gezondheid?"
+  },
+  {
+    "id": "w47",
+    "title": "Volunteer Work Registration",
+    "description": "Fill in a form to register as a volunteer at a neighborhood centre",
+    "type": "form",
+    "modelAnswer": "`inline:texts/volunteer-registration`",
+    "hint": "Aanmeldingsformulier vrijwilligerswerk. Vul het formulier in. Sommige gegevens moet u zelf bedenken.\n• Vul uw persoonlijke gegevens in.\n• Schrijf waarom u vrijwilligerswerk wilt doen.\n• Schrijf welke ervaring u hebt.",
+    "promptHint": "<example>Aanmeldingsformulier Vrijwilligerswerk Buurtcentrum De Ontmoeting\n\nVoor- en achternaam: Maria van der Berg\nAdres: Dorpsstraat 15\nPostcode en woonplaats: 1234 AB Amsterdam\nTelefoonnummer: 06-12345678\nE-mailadres: maria.vandenberg@email.nl\nGeboortedatum: 15 maart 1975\n\nWelk soort vrijwilligerswerk wilt u doen?\n☑ Hulp bij activiteiten voor ouderen\n☑ Begeleiding van kinderen\n\nWanneer bent u beschikbaar?\n☑ Doordeweeks overdag\n☑ Flexibel\n\nWaarom wilt u vrijwilligerswerk doen?\nIk wil vrijwilligerswerk doen omdat ik graag iets terug wil geven aan de samenleving.\nNa mijn pensionering heb ik meer tijd en wil ik die zinvol besteden.\nBovendien vind ik het belangrijk om contact te hebben met mensen uit mijn buurt.\nWelke ervaring heeft u met het werken met mensen?\nIk heb veel ervaring met het werken met mensen omdat ik dertig jaar als verpleegkundige heb gewerkt in een ziekenhuis.\nDaarnaast heb ik vijf jaar geleden een cursus gevolgd over omgaan met dementie.</example>"
   }
 ]
