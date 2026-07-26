@@ -9,14 +9,13 @@ A handful of prepositions cover **means**, **accompaniment**, and **reference**.
 | `met` | with [companion] | Ik ga **met** de trein. |
 | `zonder` | without [companion] | Koffie **zonder** suiker. |
 | `behalve` | except [exclusion] | Iedereen kwam **behalve** Jan. |
-| `per` | by / per [unit-of-measure]| Ik kom **per** trein. |
+| `per` | by [mean]| Ik kom **per** trein. |
+| `per` | per [unit-of-measure]| Ik kom **per** trein. |
 | `over` | about [reference] | Een boek **over** geschiedenis. |
 | `tegen` | against [opposite] | Hij praat **tegen** zijn baas. |
 | `volgens` | according to [authority]| **Volgens** mij heb je gelijk. |
 | `dankzij` | thanks to [support] | **Dankzij** jou is het gelukt. |
 | `ondanks` | despite [obstacle]| **Ondanks** de regen was het leuk. |
-
-> **over** here = "about" (*een boek over geschiedenis*), a different sense from the time *over* ("in X from now", *over vijf minuten*).
 
 Many verbs are paired with a **fixed preposition** [Verbs with fixed prepositions](/#/grammar?doc=5-verbs/22-verb-with-prepositions.md).
 
@@ -41,9 +40,12 @@ Subordinating conjunctions introduce a **dependent** clauses.
 | Dutch | English | Example |
 |-------|---------|---------|
 | `zodat` | … so that [goal] | Spreek harder **zodat** ik je **versta**. |
-| `omdat` | … because [reason] | Ik blijf thuis **omdat** ik ziek **ben**. |
+| `opdat` | … formal so that [goal] | Hij werkt hard **opdat** zijn kinderen het beter **krijgen**. |
+| `omdat` | … because [cause] | Ik blijf thuis **omdat** ik ziek **ben**. |
 | `om … te` | … in order to [goal] | Ik spaar **om** een huis **te** kopen. |
-| `vanwege` | … because [noun-reason] | De trein reed niet **vanwege** het weer. |
+| `teneinde` | … formal in order to [goal] | **Teneinde** kosten **te** besparen, reizen we per trein. |
+| `vanwege` | … because [noun-cause] | De trein reed niet **vanwege** het weer. |
+| `met het oog op` | … with a view to [noun-goal] | **Met het oog op** de toekomst sparen we. |
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -54,6 +56,10 @@ Subordinating conjunctions introduce a **dependent** clauses.
 | `hoewel`  | … although [obstacle] | **Hoewel** het regende, gingen we toch. |
 
 > **indien** is a formal, written variant of **als** ("if"). In everyday speech use **als**.
+>
+> **opdat** is a formal, written variant of **zodat** ("so that"); like every subordinator it sends the verb to the end. In everyday speech use **zodat**.
+>
+> **teneinde** + **te** + infinitive is a formal, written variant of **om … te** ("in order to"). In everyday speech use **om … te**.
 >
 > **want** adds a justification to a finished thought ;  **omdat** ties the cause in tightly.
 >

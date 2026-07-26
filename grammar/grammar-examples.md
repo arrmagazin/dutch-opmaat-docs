@@ -1,0 +1,321 @@
+# Grammar Examples — flat list (sorted A→Z, deduped by emphasised word)
+
+All `Example` cells from every table in `grammar/**/*.md`, sorted A→Z and deduped by the bold/emphasised word (longest example kept per word). **318** entries.
+
+- [ ] al **de** mensen, al **mijn** boeken, al **het** werk
+- [ ] **Allebei** de kinderen zijn ziek.
+- [ ] **Alle** kinderen spelen buiten.
+- [ ] **Alles** is klaar.
+- [ ] Als het kan, kom ik.
+- [ ] Als ik had gekund, was ik gekomen.
+- [ ] Als ik kon, kwam ik / zou ik komen.
+- [ ] **Als ik tijd heb**, kom ik langs.
+- [ ] Alvorens **te beslissen**, wilde hij meer weten.
+- [ ] bal → bal**letje**, kom → kom**metje**, man → man**netje** ding → ding**etje**
+- [ ] **Beide** kinderen zijn ziek.
+- [ ] Bel me **voordat** je **vertrekt**.
+- [ ] Bel me **zodra** je **aankomt**.
+- [ ] Ben je **alweer** te laat?
+- [ ] Ben je **nog** hier?
+- [ ] Ben je **weleens** in Parijs geweest?
+- [ ] boom → boom**pje**, raam → raam**pje**, bezem → bezem**pje**
+- [ ] **Daar** is de bus.
+- [ ] **Daarnaast** is er nog een probleem.
+- [ ] **Dankzij** jou is het gelukt.
+- [ ] Dat doet me **denken** aan...
+- [ ] Dat is **helemaal niet** waar.
+- [ ] Dat is **precies** wat ik bedoel.
+- [ ] Dat is **tamelijk** duur.
+- [ ] Dat is **vrij** goed.
+- [ ] de **andere** mensen / een **ander** boek
+- [ ] de appel, de boom, de bloem
+- [ ] De bakker is **tegenover** de school.
+- [ ] de boeken, de huizen
+- [ ] De boeken zitten **in** de tas.
+- [ ] De brief **is** geschreven.
+- [ ] de drie, de a, de zomer
+- [ ] De film was **best** goed.
+- [ ] De kat ligt **onder** de stoel.
+- [ ] De kinderen spelen **buiten**.
+- [ ] De lamp hangt **boven** de tafel.
+- [ ] De man **met wie** ik **werk**
+- [ ] Denk goed **na over** je keuze.
+- [ ] de opleiding, de vrijheid, de kwaliteit, de familie
+- [ ] De pen **waarmee** ik **schreef**, is leeg.
+- [ ] De reis kost **circa** 200 euro.
+- [ ] De resultaten **werden** in 2025 **gepubliceerd**.
+- [ ] **Dergelijke** problemen komen vaker voor.
+- [ ] De sleutels liggen **erop**. — on it
+- [ ] De stoel **waarop** ik **zit**, is oud.
+- [ ] De trein reed niet **vanwege** het weer.
+- [ ] De trein **vertrekt** om acht uur.
+- [ ] De tuin ligt **achter** het huis.
+- [ ] De vrienden **op wie** ik **wacht**
+- [ ] de vrouw, de leraar, de buurman
+- [ ] De vrouw **aan wie** ik het **gaf**
+- [ ] De vrouw **die** ik gisteren **zag**, werkt hier.
+- [ ] De winkel is heel **dichtbij**.
+- [ ] De zon **scheen** en de vogels **zongen**.
+- [ ] Dit boek is **hetzelfde** als dat.
+- [ ] Dit is **net zo** duur **als** dat.
+- [ ] Dit kost **minder**; dat kost **het minst**.
+- [ ] Doe het **erin**. — put it in it
+- [ ] Doe het **gewoon**.
+- [ ] Doe het **nog eens**.
+- [ ] een **groot** huis · het **grote** huis
+- [ ] **Eerst** drink ik koffie, **dan** ga ik werken.
+- [ ] **Eindelijk** is de zomer er!
+- [ ] **Elke** dag lees ik de krant.
+- [ ] **Enkele** studenten kwamen te laat.
+- [ ] Er is **niets** gebeurd.
+- [ ] Er ligt **overal** sneeuw.
+- [ ] Er staat een hek **eromheen**. — around it
+- [ ] Er staat **iemand** voor de deur.
+- [ ] Er waren **zo'n** twintig mensen.
+- [ ] Er zijn **allerlei** redenen.
+- [ ] Ga bij de kerk **linksaf**.
+- [ ] Geef het me, **alsjeblieft**.
+- [ ] Geef me **een stuk of** vijf.
+- [ ] Geniet **van** je weekend!
+- [ ] Haal het label **eraf**. — take the label off it
+- [ ] Het begint **te sneeuwen**.
+- [ ] Het beste **wat** je **kunt doen**, is wachten.
+- [ ] Het boek **waarover** hij **sprak**, ligt daar.
+- [ ] Het dorp ligt **tussen** twee bossen.
+- [ ] Het duurde **ruim** een uur.
+- [ ] Het duurt **ongeveer** een uur.
+- [ ] het eten, het zwemmen, het roken
+- [ ] het gebouw, het bewijs, het verbod, het ontbijt
+- [ ] het goud, het ijzer, het glas, het hout
+- [ ] het huisje, het meisje, het autootje
+- [ ] Het is, **zeg maar**, een mix.
+- [ ] Het is **behoorlijk** koud.
+- [ ] Het is duur; **bovendien is** het ver.
+- [ ] Het is **erg** mooi.
+- [ ] Het is **heel** mooi.
+- [ ] Het is niet erg, **hoor**.
+- [ ] Het is **nogal** druk in de stad.
+- [ ] Het is **veel te** duur.
+- [ ] Het is **vooral** 's ochtends druk.
+- [ ] Het kind **dat** mij **belde**, was mijn neef.
+- [ ] Het ligt **eronder**. — it's under it
+- [ ] het Nederlands, het rood, het noorden
+- [ ] Het probleem **waarvoor** ik **kwam**, is opgelost.
+- [ ] Het rapport **wordt** vandaag **besproken**.
+- [ ] Het regende; **toch** gingen we wandelen.
+- [ ] Het regent, **dus** ik neem een paraplu.
+- [ ] Het schilderij hangt **aan** de muur.
+- [ ] Het team bestaat **uit** vijf mensen.
+- [ ] het toerisme, het moment, het deksel, het museum
+- [ ] Het vroor; **daardoor** waren de wegen glad.
+- [ ] Het was **redelijk** druk.
+- [ ] Het was **zo** koud **dat** ik bibberde.
+- [ ] Hij belooft **te komen**.
+- [ ] Hij belt **bijna nooit**.
+- [ ] Hij besluit **te blijven**.
+- [ ] Hij betaalt **ervoor**. — he pays for it
+- [ ] Hij heeft het **niet eens** geprobeerd.
+- [ ] Hij is de **enige** die het weet.
+- [ ] Hij is een week **weg**.
+- [ ] Hij **is gegaan / gekomen / gevallen / gebleven**.
+- [ ] Hij is **net** weg.
+- [ ] Hij is **nog niet** klaar.
+- [ ] Hij **komt** morgen.
+- [ ] Hij komt **telkens** te laat.
+- [ ] Hij komt **zelden** op tijd.
+- [ ] Hij kwam **echter** te laat.
+- [ ] Hij laat me **wachten**.
+- [ ] Hij las **terwijl** ik **kookte**.
+- [ ] Hij leert **door** veel **te lezen**. — He learns by reading a lot.
+- [ ] Hij praat **tegen** zijn baas.
+- [ ] Hij sliep **in plaats van te werken**. — He slept instead of working.
+- [ ] Hij spreekt **niet alleen** Nederlands, **maar ook** Duits.
+- [ ] Hij stapt **eruit**. — he gets out of it
+- [ ] Hij vraagt **naar** je gezondheid.
+- [ ] Hij was moe; **daarom** ging hij slapen.
+- [ ] Hij was moe; **om die reden** ging hij slapen.
+- [ ] Hij werkt hard **opdat** zijn kinderen het beter **krijgen**.
+- [ ] Hij wil morgen voetbal **spelen**.
+- [ ] Hij zit **naast** mij.
+- [ ] **Hoe dan ook**, ik kom morgen.
+- [ ] **Hoe duur** is dat?
+- [ ] **Hoe** gaat het?
+- [ ] **Hoe groot** is je huis?
+- [ ] **Hoe laat** is het?
+- [ ] **Hoelang** blijf je?
+- [ ] **Hoe lang** duurt het?
+- [ ] **Hoe oud** ben je?
+- [ ] **Hoe vaak** sport je?
+- [ ] **Hoeveel** kost dit?
+- [ ] **Hoe ver** is het?
+- [ ] **Hoewel** het regende, gingen we toch.
+- [ ] **Hoezo** niet?
+- [ ] huis → huis**je**, boek → boek**je**, kat → kat**je**
+- [ ] huis → **huizen**, lief → **lieve**
+- [ ] **Iedereen** is welkom.
+- [ ] Iedereen kwam **behalve** Jan.
+- [ ] **Iedere** ochtend drink ik koffie.
+- [ ] Ik bedank je **voor** het cadeau.
+- [ ] Ik bel je **over** vijf minuten.
+- [ ] Ik **bel** je straks.
+- [ ] Ik ben al **onderweg**.
+- [ ] Ik ben **bij** de bakker.
+- [ ] Ik ben **bijna** klaar.
+- [ ] Ik **ben** er over een uur.
+- [ ] Ik ben **ertegen**. — I'm against it
+- [ ] Ik ben het **helemaal** vergeten.
+- [ ] Ik ben hier drie jaar **geleden** begonnen.
+- [ ] Ik ben **nooit** in Parijs geweest.
+- [ ] Ik ben **pas** aangekomen.
+- [ ] Ik ben van plan om volgend jaar **te** verhuizen.
+- [ ] Ik ben zo **terug**.
+- [ ] Ik blijf thuis, **want** ik **ben** moe.
+- [ ] Ik blijf thuis **omdat** ik ziek **ben**.
+- [ ] Ik blijf vandaag **thuis**.
+- [ ] Ik denk **eraan**. — I'm thinking about it
+- [ ] Ik doe het **meteen**.
+- [ ] Ik drink **af en toe** wijn.
+- [ ] Ik drink **alleen** water.
+- [ ] Ik drink **altijd** koffie 's ochtends.
+- [ ] Ik drink **elke dag** thee.
+- [ ] Ik drink **liever** thee, maar koffie **het liefst**.
+- [ ] Ik durf het niet **te zeggen**.
+- [ ] Ik eet wat dan ook.
+- [ ] Ik **ga** morgen werken.
+- [ ] Ik ga **vaak** naar de markt.
+- [ ] Ik ga vanavond koken.
+- [ ] Ik ga vanavond **werken**.
+- [ ] Ik heb **al** gegeten.
+- [ ] Ik heb **daarvan** gehoord.
+- [ ] Ik heb **daarvoor** betaald. — also de dag **daarvoor** (the day before).
+- [ ] Ik heb **een paar** vragen.
+- [ ] Ik heb **geen geld meer**.
+- [ ] "Ik **heb gegeten**." → Hij zei dat hij **had gegeten**.
+- [ ] Ik heb **genoeg** tijd.
+- [ ] Ik **heb gewerkt / gegeten / geslapen**.
+- [ ] Ik heb gisteren een boek **gelezen**.
+- [ ] Ik **heb** gisteren **gewerkt**.
+- [ ] Ik heb het **wel** gedaan.
+- [ ] Ik heb **nu** geen tijd.
+- [ ] Ik heb **veel** werk.
+- [ ] Ik help je **koken**. (also with te)
+- [ ] Ik hoop je **te zien**.
+- [ ] Ik hoor het kind **huilen**.
+- [ ] Ik hou niet van **zulke** films.
+- [ ] Ik hou van fruit, **bijvoorbeeld** appels.
+- [ ] Ik kan het **nergens** vinden.
+- [ ] Ik kan je **bijna niet** verstaan.
+- [ ] Ik **kan zwemmen**.
+- [ ] Ik kom **binnen** een uur.
+- [ ] Ik kom **per** trein.
+- [ ] Ik kom **straks** langs.
+- [ ] Ik kom **tenzij** het **regent**.
+- [ ] Ik kom **zo meteen**.
+- [ ] Ik leer hem **zwemmen**. (also with te)
+- [ ] Ik **liep** naar buiten en **zag** hem.
+- [ ] Ik neem **deel aan** de cursus.
+- [ ] Ik probeer het **te begrijpen**.
+- [ ] Ik spaar **om** een huis **te** kopen.
+- [ ] Ik sport **regelmatig**.
+- [ ] Ik vergeet altijd **te bellen**.
+- [ ] Ik vind de sleutels **niet**.
+- [ ] Ik voel mijn hart **kloppen**.
+- [ ] Ik weet **meer**, maar jij weet **het meest**.
+- [ ] Ik weet niet **of** hij **komt**.
+- [ ] "Ik **werk**." → Hij zei dat hij **werkte**.
+- [ ] Ik werk daar **niet meer**.
+- [ ] Ik werk **en** ik studeer.
+- [ ] Ik werk **ermee**. — I work with it
+- [ ] Ik werk **meestal** thuis.
+- [ ] Ik wil **een beetje** melk.
+- [ ] Ik wil graag Nederlands leren.
+- [ ] Ik wil **iets** drinken.
+- [ ] Ik wil komen, **maar** ik heb geen tijd.
+- [ ] Ik woon **hier**.
+- [ ] Ik woon hier **sinds** 2018.
+- [ ] Ik **zal** het niet vergeten.
+- [ ] "Ik **zal komen**." → Hij zei dat hij **zou komen**.
+- [ ] Ik zie hem **komen**.
+- [ ] Je gaat mee, **of niet**?
+- [ ] Je slaagt, **mits** je oefent.
+- [ ] Kijk **eens**! — Take a look!
+- [ ] Kom **nou**! — Come on!
+- [ ] Kom **uiterlijk** om acht uur.
+- [ ] koning → konin**kje**, woning → wonin**kje**
+- [ ] **Kortom**, het was een leuke dag.
+- [ ] Leg het **daarin**.
+- [ ] Lekker, **hè**?
+- [ ] Loop **rechtdoor** tot de stoplichten.
+- [ ] man → **mannen**, dik → **dikke**
+- [ ] **Meerdere** landen deden mee.
+- [ ] **Met het oog op** de toekomst sparen we.
+- [ ] Mijn fiets **is gestolen**. — My bike has been stolen.
+- [ ] Mijn ouders wonen **ver weg**.
+- [ ] Mijn ouders zijn **beneden**.
+- [ ] Mijn sleutels liggen **ergens**.
+- [ ] naam → **namen**, groot → **grote**
+- [ ] **Nadat** we **gegeten hadden**, gingen we wandelen.
+- [ ] Neem contact op **indien** nodig.
+- [ ] **Niemand** wist het antwoord.
+- [ ] **Omdat ik ziek ben**, blijf ik thuis.
+- [ ] **Ondanks** de regen was het leuk.
+- [ ] **Op** maandag werk ik thuis.
+- [ ] Rij **langs** de kerk.
+- [ ] Schiet op, **anders**  missen we de trein.
+- [ ] **Sommige** mensen houden niet van kaas.
+- [ ] **Soms** regent het.
+- [ ] Spreek harder **zodat** ik je **versta**.
+- [ ] **Stel dat** je wint — wat dan?
+- [ ] stoel → stoel**tje**, deur → deur**tje**, tafel → tafel**tje**, ei → ei**tje**
+- [ ] Talen **zoals** Nederlands en Duits.
+- [ ] **Tegenwoordig** werk ik thuis.
+- [ ] **Teneinde** kosten **te** besparen, reizen we per trein.
+- [ ] **Tijdens** de vergadering bel ik niet.
+- [ ] **Toen hij thuiskwam**, was zij al weg.
+- [ ] **Toen** ik klein **was**, woonde ik in Den Haag.
+- [ ] **Trouwens**, hoe gaat het?
+- [ ] **Uiteindelijk kwam** de trein aan.
+- [ ] **Vanaf** hier is het dichtbij.
+- [ ] **Van wie** is dit boek?
+- [ ] **Volgens** mij heb je gelijk.
+- [ ] Vraag het aan **wie dan ook**.
+- [ ] Vroeger **woonde** ik in Den Haag.
+- [ ] **Waardoor** is dat gebeurd?
+- [ ] Waar ga je **heen**? Ik ga er**heen**.
+- [ ] **Waar** kom je **vandaan**?
+- [ ] **Waarom** kom je niet?
+- [ ] Wacht **totdat** ik **kom**.
+- [ ] **Wanneer** kom je? / Ik weet niet **wanneer** hij komt.
+- [ ] **Wat een** mooie dag!
+- [ ] Wat een mooi huis!
+- [ ] Wat voor film vind je leuk?
+- [ ] **Wat voor** muziek luister je?
+- [ ] We beginnen **met** hoofdstuk één.
+- [ ] We blijven **tot** zeven uur.
+- [ ] We eten; **daarna** kijken we een film.**Vervolgens** namen we de fiets.
+- [ ] **Weet je**, dat is echt waar.
+- [ ] We gaan **richting** centrum.
+- [ ] We hebben **krap** een week.
+- [ ] **Weinig** mensen weten dat.
+- [ ] **Welk** boek?
+- [ ] **Welke** auto? / **Welke** boeken?
+- [ ] We praten **erover**. — we're talking about it
+- [ ] werken → **werkte**
+- [ ] We vinden je waar dan ook.
+- [ ] We zaten **rond** het vuur.
+- [ ] We zien elkaar **binnenkort**.
+- [ ] **Wie** zie je?
+- [ ] Wij **eten** vanavond bij oma.
+- [ ] Wij zijn **zeer** tevreden.
+- [ ] Ze blijft **staan**.
+- [ ] Ze ging weg **zonder** iets **te zeggen**. — She left without saying anything.
+- [ ] Ze helpen **elkaar**.
+- [ ] Ze leert **te zwemmen**. (also without te, see below)
+- [ ] Ze rijden **erdoor**. — they drive through it
+- [ ] Ze **vertrekken** volgende week.
+- [ ] Ze weigert **te helpen**.
+- [ ] Ze woont **ernaast**. — she lives next to it
+- [ ] Ze zijn er **allemaal**.
+- [ ] Zij loopt **even** snel **als** hij.
+- [ ] Zij speelt **beter** dan ik; hij speelt **het best**.
+- [ ] **Zullen** we beginnen?
