@@ -5,8 +5,8 @@
     "description": "Write about your daily routine and weekend for the neighborhood paper",
     "type": "wijkkrant",
     "modelAnswer": "`inline:texts/my-day`",
-    "hint": "Wijkkrant — Mijn dag. Schrijf minstens drie hele zinnen.\n• Wat doet u 's ochtends en op uw werk?\n• Wat doet u 's avonds en in het weekend?\n• Wat vindt u van uw dag?",
-    "promptHint": "Describe gollowing point: s' ochtend, op mijn werk, s'avond, hobby, weekends, attitude"
+    "hint": "Mijn dag. Schrijf minstens drie hele zinnen.\n• Wat doet u 's ochtends en op uw werk?\n• Wat doet u 's avonds en in het weekend?\n• Wat vindt u van uw dag?",
+    "promptHint": "Describe following points: s' ochtend, op mijn werk, s'avond, hobby, weekends, attitude"
   },
   {
     "id": "w04",
@@ -14,8 +14,8 @@
     "description": "Describe where you live for the neighborhood paper",
     "type": "wijkkrant",
     "modelAnswer": "`inline:texts/my-buurt`",
-    "hint": "Wijkkrant — Mijn buurt. Schrijf minstens drie hele zinnen.\n• Waar woont u?\n• Wat vindt u leuk aan uw buurt?\n• Wat zou u anders willen?",
-    "promptHint": "Use as example: Ik woon sinds vorig jaar in het centrum van Amsterdam.\nIk vind mijn buurt heel leuk omdat er veel winkels, cafés en restaurants zijn.\nEr is ook een mooi park om de hoek waar ik graag wandel met mijn hond.\nMijn buren zijn vriendelijk en behulpzaam.\nOp zaterdag is er altijd een markt op het plein.\nIk zou willen dat er minder lawaai is van het verkeer in de avond.\nVerder ben ik heel tevreden."
+    "hint": "Mijn buurt. Schrijf minstens drie hele zinnen.\n• Waar woont u?\n• Wat vindt u leuk aan uw buurt?\n• Wat zou u anders willen?",
+    "promptHint": "<example>Ik woon sinds vorig jaar in het centrum van Amsterdam.\nIk vind mijn buurt heel leuk omdat er veel winkels, cafés en restaurants zijn.\nEr is ook een mooi park om de hoek waar ik graag wandel met mijn hond.\nMijn buren zijn vriendelijk en behulpzaam.\nOp zaterdag is er altijd een markt op het plein.\nIk zou willen dat er minder lawaai is van het verkeer in de avond.\nVerder ben ik heel tevreden.</example>"
   },
   {
     "id": "w18",
@@ -23,8 +23,8 @@
     "description": "Write a short story for the neighborhood paper about your hobby",
     "type": "wijkkrant",
     "modelAnswer": "`inline:texts/my-hobby`",
-    "hint": "Wijkkrant — Mijn hobby. Schrijf minstens drie hele zinnen.\n• Wat is uw hobby?\n• Hoe vaak en met wie doet u het?\n• Waarom vindt u het leuk?",
-    "promptHint": "Mijn hobby is voetbal en ik doe dit al sinds mijn jeugd.\nIk voetbal twee keer per week met mijn vrienden in het park om de hoek.\nOp zaterdag spelen we wedstrijden tegen andere teams.\nIk vind het leuk omdat het gezond is en ik lekker buiten ben.\nOok leer ik op die manier veel nieuwe mensen kennen.\nDaarna gaan we vaak samen iets drinken.\nVoetbal maakt me blij."
+    "hint": "Mijn hobby. Schrijf minstens drie hele zinnen.\n• Wat is uw hobby?\n• Hoe vaak en met wie doet u het?\n• Waarom vindt u het leuk?",
+    "promptHint": "<example>Mijn hobby is voetbal en ik doe dit al sinds mijn jeugd.\nIk voetbal twee keer per week met mijn vrienden in het park om de hoek.\nOp zaterdag spelen we wedstrijden tegen andere teams.\nIk vind het leuk omdat het gezond is en ik lekker buiten ben.\nOok leer ik op die manier veel nieuwe mensen kennen.\nDaarna gaan we vaak samen iets drinken.\nVoetbal maakt me blij.</example>"
   },
   {
     "id": "w30",
@@ -32,8 +32,8 @@
     "description": "Write about your favorite food for the neighborhood paper",
     "type": "wijkkrant",
     "modelAnswer": "`inline:texts/my-favorite-food`",
-    "hint": "Wijkkrant — Mijn lievelingseten. Schrijf minstens drie hele zinnen.\n• Wat is uw lievelingseten?\n• Wie maakt het en wanneer eet u het?\n• Waarom vindt u het lekker?",
-    "promptHint": "Mijn lievelingseten is nasi goreng.\nHet is een gerecht uit Indonesië, waar mijn moeder vandaan komt.\nMijn moeder maakt het altijd klaar met veel groente, ei en kip.\nWe eten het elke zondag met de hele familie aan een grote tafel.\nHet is lekker en het ruikt heel goed in huis.\nOok mijn kinderen vinden het heerlijk.\nEten brengt onze familie samen."
+    "hint": "Mijn lievelingseten. Schrijf minstens drie hele zinnen.\n• Wat is uw lievelingseten?\n• Wie maakt het en wanneer eet u het?\n• Waarom vindt u het lekker?",
+    "promptHint": "<example>Mijn lievelingseten is nasi goreng.\nHet is een gerecht uit Indonesië, waar mijn moeder vandaan komt.\nMijn moeder maakt het altijd klaar met veel groente, ei en kip.\nWe eten het elke zondag met de hele familie aan een grote tafel.\nHet is lekker en het ruikt heel goed in huis.\nOok mijn kinderen vinden het heerlijk.\nEten brengt onze familie samen.</example>"
   },
   {
     "id": "w01",
@@ -41,8 +41,8 @@
     "description": "Write about your favorite celebration",
     "type": "wijkkrant",
     "modelAnswer": "`inline:texts/my-favorite-party`",
-    "hint": "Wijkkrant — Mijn favoriete feest. Schrijf minstens drie hele zinnen.\n• Welk feest viert u het liefst?\n• Met wie viert u het?\n• Wat doet u op het feest?",
-    "promptHint": "Mijn favoriete feest is Koningsdag.\nHet is op 27 april.\nIk vier het altijd met mijn familie in Amsterdam.\nWe dragen oranje kleren en gaan naar de stad.\nWe eten oranje tompoezen en luisteren naar muziek.\nIn het Vondelpark is een groot feest.\nHet is heel gezellig en leuk."
+    "hint": "Mijn favoriete feest. Schrijf minstens drie hele zinnen.\n• Welk feest viert u het liefst?\n• Met wie viert u het?\n• Wat doet u op het feest?",
+    "promptHint": "<example>Mijn favoriete feest is Koningsdag.\nHet is op 27 april.\nIk vier het altijd met mijn familie in Amsterdam.\nWe dragen oranje kleren en gaan naar de stad.\nWe eten oranje tompoezen en luisteren naar muziek.\nIn het Vondelpark is een groot feest.\nHet is heel gezellig en leuk.</example>"
   },
   {
     "id": "w02",
@@ -51,7 +51,7 @@
     "type": "email",
     "modelAnswer": "`inline:texts/thanks-for-help`",
     "hint": "Iemand bedanken. Een vriend heeft u geholpen. U schrijft een e-mail.\n• Bedank de ander voor de hulp.\n• Schrijf waarmee hij of zij u heeft geholpen.\n• Nodig de ander uit of doe iets terug.",
-    "promptHint": "Hoi Mark, heel erg bedankt voor je hulp met verhuizen vorige week!\nIk ben erg blij met mijn nieuwe huis in Utrecht.\nZonder jou was het niet gelukt.\nAlle dozen staan nu op de juiste plek.\nVolgende week wil ik je graag uitnodigen voor het eten.\nKun je zaterdagavond om 19:00 uur?\nGroetjes, Sara"
+    "promptHint": "<example>Hoi Mark, heel erg bedankt voor je hulp met verhuizen vorige week!\nIk ben erg blij met mijn nieuwe huis in Utrecht.\nZonder jou was het niet gelukt.\nAlle dozen staan nu op de juiste plek.\nVolgende week wil ik je graag uitnodigen voor het eten.\nKun je zaterdagavond om 19:00 uur?\nGroetjes, Sara</example>"
   },
   {
     "id": "w05",
@@ -60,7 +60,7 @@
     "type": "email",
     "modelAnswer": "`inline:texts/invite-friend`",
     "hint": "Een vriend uitnodigen. U geeft een feest. U schrijft een e-mail aan een vriend.\n• Schrijf waarvoor u uitnodigt en wanneer.\n• Schrijf waar het feest is.\n• Vraag of de ander komt of iets meeneemt.",
-    "promptHint": "Hoi Alisa, ik geef een verjaardagsfeest op zaterdag 18 mei om 19:00 uur.\nHet feest is bij mij thuis op de Kerkstraat 12.\nEr komen ongeveer tien mensen.\nWe gaan eten, drinken en muziek luisteren.\nKun je iets te drinken meenemen?\nEen dieet of allergie hoor ik graag van tevoren.\nIk hoop dat je komt!\nGroetjes, Maria"
+    "promptHint": "<example>Hoi Alisa, ik geef een verjaardagsfeest op zaterdag 18 mei om 19:00 uur.\nHet feest is bij mij thuis op de Kerkstraat 12.\nEr komen ongeveer tien mensen.\nWe gaan eten, drinken en muziek luisteren.\nKun je iets te drinken meenemen?\nEen dieet of allergie hoor ik graag van tevoren.\nIk hoop dat je komt!\nGroetjes, Maria</example>"
   },
   {
     "id": "w10",
@@ -69,7 +69,7 @@
     "type": "email",
     "modelAnswer": "`inline:texts/borrow-book`",
     "hint": "Iets lenen. U hebt iets nodig van een vriend. U schrijft een e-mail.\n• Schrijf wat u wilt lenen.\n• Schrijf waarom u het nodig hebt.\n• Schrijf wanneer u het teruggeeft.",
-    "promptHint": "Beste Wilma, ik volg sinds januari een cursus Nederlands en ik heb het boek 'Nederlands in Actie' nodig.\nIn de bibliotheek is het niet beschikbaar en in de boekwinkel is het te duur.\nIk weet dat jij het boek hebt.\nMag ik het van jou lenen voor een maand?\nIk beloof dat ik er voorzichtig mee ben.\nIk geef het volgende maand terug.\nGroetjes, Ahmed"
+    "promptHint": "<example>Beste Wilma, ik volg sinds januari een cursus Nederlands en ik heb het boek 'Nederlands in Actie' nodig.\nIn de bibliotheek is het niet beschikbaar en in de boekwinkel is het te duur.\nIk weet dat jij het boek hebt.\nMag ik het van jou lenen voor een maand?\nIk beloof dat ik er voorzichtig mee ben.\nIk geef het volgende maand terug.\nGroetjes, Ahmed</example>"
   },
   {
     "id": "w08",
@@ -78,7 +78,7 @@
     "type": "form",
     "modelAnswer": "`inline:texts/library-registration`",
     "hint": "Inschrijfformulier bibliotheek. Vul het formulier in. Sommige gegevens moet u zelf bedenken.\n• Vul uw persoonlijke gegevens in.\n• Schrijf wat u graag leest en hoe vaak u wilt komen.",
-    "promptHint": "Naam: Alisa\nAdres: Tulpstraat 8, 1234 AB Amsterdam\nGeboortedatum: 15 maart 1990\nTelefoonnummer: 06-12345678\nE-mailadres: fatima@email.nl\n\nIk lees graag boeken over koken, gezondheid en romans.\nIk wil de bibliotheek twee keer per week bezoeken.\nOok wil ik graag lezingen bijwonen en mijn kinderen meenemen naar de kinderafdeling.\nIk werk als verpleegkundige en heb 's avonds vaak tijd om te lezen."
+    "promptHint": "<example>Naam: Alisa\nAdres: Tulpstraat 8, 1234 AB Amsterdam\nGeboortedatum: 15 maart 1990\nTelefoonnummer: 06-12345678\nE-mailadres: fatima@email.nl\n\nIk lees graag boeken over koken, gezondheid en romans.\nIk wil de bibliotheek twee keer per week bezoeken.\nOok wil ik graag lezingen bijwonen en mijn kinderen meenemen naar de kinderafdeling.\nIk werk als verpleegkundige en heb 's avonds vaak tijd om te lezen.</example>"
   },
   {
     "id": "w47",
@@ -87,7 +87,7 @@
     "type": "form",
     "modelAnswer": "`inline:texts/volunteer-registration`",
     "hint": "Aanmeldingsformulier vrijwilligerswerk. Vul het formulier in. Sommige gegevens moet u zelf bedenken.\n• Vul uw persoonlijke gegevens in.\n• Schrijf waarom u vrijwilligerswerk wilt doen.\n• Schrijf welke ervaring u hebt.",
-    "promptHint": "Aanmeldingsformulier Vrijwilligerswerk Buurtcentrum De Ontmoeting\n\nVoor- en achternaam: Maria van der Berg\nAdres: Dorpsstraat 15\nPostcode en woonplaats: 1234 AB Amsterdam\nTelefoonnummer: 06-12345678\nE-mailadres: maria.vandenberg@email.nl\nGeboortedatum: 15 maart 1975\n\nWelk soort vrijwilligerswerk wilt u doen?\n☑ Hulp bij activiteiten voor ouderen\n☑ Begeleiding van kinderen\n\nWanneer bent u beschikbaar?\n☑ Doordeweeks overdag\n☑ Flexibel\n\nWaarom wilt u vrijwilligerswerk doen?\nIk wil vrijwilligerswerk doen omdat ik graag iets terug wil geven aan de samenleving.\nNa mijn pensionering heb ik meer tijd en wil ik die zinvol besteden.\nBovendien vind ik het belangrijk om contact te hebben met mensen uit mijn buurt.\nWelke ervaring heeft u met het werken met mensen?\nIk heb veel ervaring met het werken met mensen omdat ik dertig jaar als verpleegkundige heb gewerkt in een ziekenhuis.\nDaarnaast heb ik vijf jaar geleden een cursus gevolgd over omgaan met dementie."
+    "promptHint": "<example>Aanmeldingsformulier Vrijwilligerswerk Buurtcentrum De Ontmoeting\n\nVoor- en achternaam: Maria van der Berg\nAdres: Dorpsstraat 15\nPostcode en woonplaats: 1234 AB Amsterdam\nTelefoonnummer: 06-12345678\nE-mailadres: maria.vandenberg@email.nl\nGeboortedatum: 15 maart 1975\n\nWelk soort vrijwilligerswerk wilt u doen?\n☑ Hulp bij activiteiten voor ouderen\n☑ Begeleiding van kinderen\n\nWanneer bent u beschikbaar?\n☑ Doordeweeks overdag\n☑ Flexibel\n\nWaarom wilt u vrijwilligerswerk doen?\nIk wil vrijwilligerswerk doen omdat ik graag iets terug wil geven aan de samenleving.\nNa mijn pensionering heb ik meer tijd en wil ik die zinvol besteden.\nBovendien vind ik het belangrijk om contact te hebben met mensen uit mijn buurt.\nWelke ervaring heeft u met het werken met mensen?\nIk heb veel ervaring met het werken met mensen omdat ik dertig jaar als verpleegkundige heb gewerkt in een ziekenhuis.\nDaarnaast heb ik vijf jaar geleden een cursus gevolgd over omgaan met dementie.</example>"
   },
   {
     "id": "w09",
@@ -96,15 +96,16 @@
     "type": "email",
     "modelAnswer": "`inline:texts/note-for-housemate`",
     "hint": "Briefje voor uw huisgenoot. U bent een week weg. U schrijft een briefje.\n• Schrijf welke afspraken er zijn in huis.\n• Schrijf wat de ander moet doen, ook voor de planten of het huisdier.\n• Bedank de ander.",
-    "promptHint": "Hallo Tim, hier zijn een paar afspraken voor de komende week.\nDoe alsjeblieft de afwas direct na het eten.\nMaak elke zaterdag de badkamer schoon.\nVergeet niet de prullenbak buiten te zetten op dinsdagavond.\nMaak geen lawaai na 22:00 uur, want ik moet vroeg op.\nWil je deze week ook op de kat en de planten letten?\nGeef de kat elke dag eten en vers water; het kattenvoer staat in de kast in de keuken, op de onderste plank.\nGeef de planten twee keer per week water, op maandag en donderdag.\nAls er post is, leg het op de tafel.\nBedankt en fijne week!\nGroetjes, Sara"
+    "promptHint": "<example>Hallo Tim, hier zijn een paar afspraken voor de komende week.\nDoe alsjeblieft de afwas direct na het eten.\nMaak elke zaterdag de badkamer schoon.\nVergeet niet de prullenbak buiten te zetten op dinsdagavond.\nMaak geen lawaai na 22:00 uur, want ik moet vroeg op.\nWil je deze week ook op de kat en de planten letten?\nGeef de kat elke dag eten en vers water; het kattenvoer staat in de kast in de keuken, op de onderste plank.\nGeef de planten twee keer per week water, op maandag en donderdag.\nAls er post is, leg het op de tafel.\nBedankt en fijne week!\nGroetjes, Sara</example>"
   },
   {
     "id": "w12",
     "title": "Doctor's Visit",
-    "description": "`inline:texts/visit-doctor`",
+    "description": "Book Doctor's Visit",
+    "modelAnswer": "`inline:texts/visit-doctor`",
     "type": "email",
     "hint": "Afspraak maken bij de huisarts. U hebt klachten. U schrijft een e-mail en vult het intakeformulier in.\n• Schrijf waarom u een afspraak wilt.\n• Beschrijf uw klachten.\n• Schrijf wanneer u kunt komen.",
-    "promptHint": "Beste meneer/mevrouw, ik wil graag een afspraak maken bij de huisarts.\nIk heb al een week last van hoofdpijn en ik ben erg moe.\nOok slaap ik slecht en heb ik geen energie meer.\nWanneer kan ik komen?\nHet liefst deze week nog, het mag ook 's middags.\nMijn telefoonnummer is 06-12345678.\nMet vriendelijke groet, Maria de Vries.\nIntakeformulier:\nNaam: Maria de Vries\nGeboortedatum: 22 juni 1985\nAdres: Bloemstraat 3, 3456 EF Rotterdam\nTelefoonnummer: 06-12345678\nE-mail: maria.devries@mail.nl\n\nIk heb de afgelopen weken vaak hoofdpijn en ik ben snel moe.\nOok slaap ik slecht en heb ik soms last van mijn maag.\nIk gebruik paracetamol als ik hoofdpijn heb.\nIk ben allergisch voor penicilline en pinda's.\nIk rook niet en drink af en toe alcohol."
+    "promptHint": "<example>Beste meneer/mevrouw, ik wil graag een afspraak maken bij de huisarts.\nIk heb al een week last van hoofdpijn en ik ben erg moe.\nOok slaap ik slecht en heb ik geen energie meer.\nWanneer kan ik komen?\nHet liefst deze week nog, het mag ook 's middags.\nMijn telefoonnummer is 06-12345678.\nMet vriendelijke groet, Maria de Vries.\nIntakeformulier:\nNaam: Maria de Vries\nGeboortedatum: 22 juni 1985\nAdres: Bloemstraat 3, 3456 EF Rotterdam\nTelefoonnummer: 06-12345678\nE-mail: maria.devries@mail.nl\n\nIk heb de afgelopen weken vaak hoofdpijn en ik ben snel moe.\nOok slaap ik slecht en heb ik soms last van mijn maag.\nIk gebruik paracetamol als ik hoofdpijn heb.\nIk ben allergisch voor penicilline en pinda's.\nIk rook niet en drink af en toe alcohol.</example>"
   },
   {
     "id": "w29",
@@ -112,7 +113,7 @@
     "description": "Email a fellow student to move an appointment to another day",
     "type": "email",
     "modelAnswer": "Beste Amber,\n\nWij hebben morgen een afspraak, maar ik kan helaas niet komen.\nIk moet morgen met mijn zoon naar de dokter.\nKunnen wij de afspraak verzetten naar donderdag om 15.00 uur?\nIk hoor graag of dat goed is voor jou.\n\nVriendelijke groet,\n[naam]",
-    "hint": "Afspraak verzetten. U volgt een opleiding. U hebt morgen een afspraak met Amber, een andere student. U kunt niet en wilt een andere afspraak maken.\n• Schrijf dat u de afspraak wilt verzetten.\n• Schrijf waarom u dat wilt. Bedenk zelf waarom.\n• Stel een nieuwe datum voor."
+    "hint": "Afspraak verzetten. U volgt een opleiding.\nU hebt morgen een afspraak met Amber, een andere student.\nU kunt niet en wilt een andere afspraak maken.\n• Schrijf dat u de afspraak wilt verzetten.\n• Schrijf waarom u dat wilt. Bedenk zelf waarom.\n• Stel een nieuwe datum voor."
   },
   {
     "id": "w17",
@@ -128,7 +129,7 @@
     "description": "Email a language school for course information or to enrol",
     "type": "email",
     "modelAnswer": "Beste meneer/mevrouw, ik wil graag een cursus Nederlands volgen bij uw school.\nIk woon sinds vorig jaar in Nederland en ik wil mijn Nederlands verbeteren.\nKunt u mij vertellen wanneer de volgende cursus begint en hoeveel het kost?\nOok wil ik graag weten op welke dagen en tijden de lessen zijn en of er een instaptoets nodig is.\nHoe kan ik mij inschrijven?\nMet vriendelijke groet, Ahmed Hassan.",
-    "hint": "Informatie vragen over een cursus. U wilt een cursus Nederlands volgen. U schrijft een e-mail aan de school.\n• Schrijf waarom u mailt.\n• Vraag wanneer de cursus begint en wat het kost.\n• Vraag hoe u zich kunt inschrijven."
+    "hint": "Informatie vragen over een cursus.\nU wilt een cursus Nederlands volgen. U schrijft een e-mail aan de school.\n• Schrijf waarom u mailt.\n• Vraag wanneer de cursus begint en wat het kost.\n• Vraag hoe u zich kunt inschrijven."
   },
   {
     "id": "w33",
@@ -167,8 +168,8 @@
     "title": "Municipality Problem Report Form",
     "description": "Fill in a form to report street problems to the municipality",
     "type": "form",
-    "modelAnswer": "Voor- en achternaam: Sara Yılmaz\nAdres: Kerkstraat 12\nPostcode: 1234 AB\nWoonplaats: Utrecht\nTelefoonnummer: 06 12345678\nE-mail: s.yilmaz@mail.nl\n\nIn welke straat zijn er problemen?\nDe problemen zijn in de Kerkstraat.\n\nWat zijn de problemen?\nEr ligt veel afval op straat en dat ruikt heel vies. Ook is de stoep kapot. Mensen kunnen daardoor vallen. Wilt u dit snel oplossen?",
-    "hint": "Meldingsformulier gemeente. U meldt de problemen bij de gemeente: afval op straat en een kapotte stoep. Vul het formulier in. Sommige gegevens moet u zelf bedenken."
+    "modelAnswer": "Voor- en achternaam: Sara Yılmaz\nAdres: Kerkstraat 12\nPostcode: 1234 AB\nWoonplaats: Utrecht\nTelefoonnummer: 06 12345678\nE-mail: s.yilmaz@mail.nl\n\nIn welke straat zijn er problemen?\nDe problemen zijn in de Kerkstraat.\n\nWat zijn de problemen?\nEr ligt veel afval op straat en dat ruikt heel vies. Ook is de stoep kapot. Mensen kunnen daardoor vallen.\nWilt u dit snel oplossen?",
+    "hint": "Meldingsformulier gemeente.\nU meldt de problemen bij de gemeente: afval op straat en een kapotte stoep.\nVul het formulier in. Sommige gegevens moet u zelf bedenken."
   },
   {
     "id": "w25",
@@ -200,7 +201,7 @@
     "description": "Email a colleague to swap a work shift",
     "type": "email",
     "modelAnswer": "Hallo Alisa,\n\nIk moet zondag werken, maar ik wil die dag graag vrij zijn.\nMijn zus is jarig en ik wil naar haar feest gaan.\nKun jij zondag met mij ruilen? Ik kan dan zaterdag voor jou werken.\nLaat je het weten?\n\nGroetjes,\n[naam]",
-    "hint": "Dienst ruilen. U moet zondag werken maar u wilt graag vrij. U schrijft een e-mail aan uw collega Alisa.\n• Schrijf waarom u mailt.\n• Schrijf waarom u wilt ruilen. Bedenk het zelf.\n• Schrijf op welke dag u wel kunt werken."
+    "hint": "Dienst ruilen. U moet zondag werken maar u wilt graag vrij.\n U schrijft een e-mail aan uw collega Alisa.\n• Schrijf waarom u mailt.\n• Schrijf waarom u wilt ruilen. Bedenk het zelf.\n• Schrijf op welke dag u wel kunt werken."
   },
   {
     "id": "w20",
@@ -216,7 +217,7 @@
     "description": "Leave a note telling a colleague what to do",
     "type": "email",
     "modelAnswer": "Hallo Alisa,\n\nIk ben al weg, maar er zijn nog een paar dingen te doen.\nWil je eerst de winkel stofzuigen?\nDaarna moet je de kleren netjes ophangen.\nEn doe je aan het eind de deur op slot?\n\nAlvast bedankt!\nGroeten,\n[naam]",
-    "hint": "Bericht collega. U werkt in een kledingzaak. Straks komt uw collega Fariha. Zij moet een paar dingen doen: stofzuigen, kleren netjes ophangen, deur op slot. Schrijf een briefje en vertel wat zij moet doen. Schrijf drie dingen op."
+    "hint": "Bericht collega. U werkt in een kledingzaak. Straks komt uw collega Fariha.\nZij moet een paar dingen doen: stofzuigen, kleren netjes ophangen, deur op slot.\nSchrijf een briefje en vertel wat zij moet doen. Schrijf drie dingen op."
   },
   {
     "id": "w22",
@@ -224,7 +225,7 @@
     "description": "Fill in a form to register at a sports club",
     "type": "form",
     "modelAnswer": "Voor- en achternaam: Sara Yılmaz\nAdres: Kerkstraat 12\nPostcode: 1234 AB\nWoonplaats: Utrecht\nTelefoonnummer: 06 12345678\nGeslacht: vrouw\nGeboortedatum: 15-03-1990\nWelke groepsles? Yoga\nHoe vaak? 2x per week\n\nWaarom kiest u voor deze groepsles?\nIk kies voor yoga omdat ik rustiger wil worden. Yoga is ook goed voor mijn rug.\n\nHoe is uw gezondheid?\nMijn gezondheid is goed. Ik heb geen ziektes, maar soms heb ik pijn in mijn rug.",
-    "hint": "Inschrijfformulier Sportclub SPRINT. Vul het formulier in. Sommige gegevens moet u zelf bedenken. Beantwoord ook: Waarom kiest u voor deze groepsles? Hoe is uw gezondheid?"
+    "hint": "Inschrijfformulier Sportclub SPRINT. Vul het formulier in.\nSommige gegevens moet u zelf bedenken.\nBeantwoord ook: Waarom kiest u voor deze groepsles? Hoe is uw gezondheid?"
   },
   {
     "id": "w23",
@@ -240,7 +241,7 @@
     "description": "Write a short neighbourhood-paper text about the clothes you like best",
     "type": "wijkkrant",
     "modelAnswer": "Ik draag het liefst een spijkerbroek met een blauwe trui.\nDe trui is zacht en warm, en de broek zit lekker.\nDeze kleren draag ik meestal in het weekend.\nAls het koud is, doe ik er een jas overheen.",
-    "hint": "Wijkkrant — Mooiste kleren. Schrijf minstens drie hele zinnen.\n• Wat draagt u het liefst?\n• Hoe zien de kleren eruit?\n• Wanneer draagt u deze kleren?"
+    "hint": "Mooiste kleren. Schrijf minstens drie hele zinnen.\n• Wat draagt u het liefst?\n• Hoe zien de kleren eruit?\n• Wanneer draagt u deze kleren?"
   },
   {
     "id": "w32",
@@ -248,6 +249,6 @@
     "description": "Write a short neighbourhood-paper text about your weekend",
     "type": "wijkkrant",
     "modelAnswer": "In het weekend ga ik graag wandelen in het park.\nIk doe dat samen met mijn man en onze hond.\nDaarna drinken wij koffie in een klein café in de buurt.\nOp zondag koken we thuis een lekkere maaltijd.",
-    "hint": "Wijkkrant — Weekend. Schrijf minstens drie hele zinnen.\n• Wat doet u graag in het weekend?\n• Met wie doet u dat?\n• Waar doet u dat?"
+    "hint": "Weekend. Schrijf minstens drie hele zinnen.\n• Wat doet u graag in het weekend?\n• Met wie doet u dat?\n• Waar doet u dat?"
   }
 ]
