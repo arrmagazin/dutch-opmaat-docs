@@ -1,0 +1,183 @@
+# Model Answer Sentences
+
+- [ ] 's Avonds is er een concert in het Oosterpark.
+- [ ] 'S middags lunch ik met mijn vrienden.
+- [ ] Als het koud is, doe ik er een jas overheen.
+- [ ] Anders gaan ze dood.
+- [ ] Beste meneer/mevrouw, ik heb vandaag om 9:00 uur een afspraak bij u op kantoor.
+- [ ] Beste meneer/mevrouw, ik schrijf u omdat de verwarming in mijn huis al drie dagen niet werkt.
+- [ ] Beste meneer/mevrouw, ik schrijf u omdat ik graag wil solliciteren voor de baan als winkelhulp bij Albert Heijn in het centrum.
+- [ ] Beste meneer/mevrouw, ik wil graag een cursus Nederlands volgen bij uw school.
+- [ ] Beste meneer/mevrouw, ik woon op de Kerkstraat 12 in Amsterdam.
+- [ ] Beste mevrouw De Boer, ik schrijf u omdat ik vandaag helaas niet naar mijn werk kan komen.
+- [ ] Bij de eerste testwas lekt er water uit de onderkant.
+- [ ] Daarna drinken we iets in het café in de buurt.
+- [ ] Daarna gaan we naar het park wandelen.
+- [ ] Daarna gaan we vaak iets drinken.
+- [ ] Daarna maak ik ontbijt.
+- [ ] Daarna moet je de kleren netjes ophangen.
+- [ ] Daarom heb ik een grammaticaboek nodig om de opdrachten te oefenen.
+- [ ] Dat is fijn voor ons allebei
+- [ ] Dat vind ik heel leuk.
+- [ ] De problemen zijn in de Kerkstraat.
+- [ ] De trui is zacht en warm, en de broek zit lekker.
+- [ ] De zijkant van het apparaat vertoont een duidelijke deuk.
+- [ ] Deze kleren draag ik meestal in het weekend.
+- [ ] Die momenten maken mij blij.
+- [ ] Dit boek is niet beschikbaar in de bibliotheek, en het is te duur om te kopen.
+- [ ] Dit feest maakt mij blij.
+- [ ] En doe je aan het eind de deur op slot?
+- [ ] Er is een mooi park om de hoek, waar Ik vaak met mijn hond wandel.
+- [ ] Er is een ongeluk gebeurd en het verkeer staat al een half uur stil.
+- [ ] Er ligt veel afval op straat en dat ruikt heel vies.
+- [ ] Er zijn veel mensen die langs de grachten wandelen, lachen en zingen.
+- [ ] Eten brengt mijn familie samen.
+- [ ] Helaas is mijn laptop gestolen.
+- [ ] Helaas kan ik morgen niet naar school komen, want ik ben ziek.
+- [ ] Helaas sta ik op dit moment in een lange file op de A4.
+- [ ] Het bedieningspaneel reageert niet op aanraking.
+- [ ] Het feest is bij mij thuis op Westeinde 12.
+- [ ] Het gaat om een zwarte Gazelle uit 2022.
+- [ ] Het is op dit moment erg koud, ook overdag binnen niet meer dan 14 graden.
+- [ ] Het liefst op dinsdag of woensdag.
+- [ ] Het nummer van de aangifte is PL-2024-12345.
+- [ ] Het raam in de slaapkamer is kapot.
+- [ ] Het spijt me heel erg.
+- [ ] Het spijt mij dat ik op zo'n korte termijn afzeg.
+- [ ] Het was een uitdaging en zonder jou was het niet gelukt.
+- [ ] Hoe is uw gezondheid?
+- [ ] Hoe kan ik mij inschrijven?
+- [ ] Hoi huisgenoot, Ik ga volgende week op zakenreis.
+- [ ] Ik begin mijn dag met een glas water en doe oefeningen, want het is gezond.
+- [ ] Ik beloof dat ik er voorzichtig mee ben.
+- [ ] Ik ben al weg, maar er zijn nog een paar dingen te doen.
+- [ ] Ik ben beschikbaar op maandag, woensdag en vrijdag.
+- [ ] Ik ben erg moe en ik heb ook hoofdpijn.
+- [ ] Ik ben sinds gisteravond ziek.
+- [ ] Ik ben vriendelijk, klantgericht en kan goed in een team werken.
+- [ ] Ik denk dat ik rond 9:30 uur aankom, maar misschien wordt het later.
+- [ ] Ik denk dat ik woensdag weer kan werken, als de koorts dan over is.
+- [ ] Ik denk dat ik zo ook mensen uit mijn buurt kan ontmoeten.
+- [ ] Ik doe dat met mijn man en onze hond.
+- [ ] Ik doe de computercursus bij u.
+- [ ] Ik draag het liefst een spijkerbroek met een blauwe trui.
+- [ ] Ik eet brood met kaas, fruit en ham, en drink ik koffie of soms thee.
+- [ ] Ik ga naar mijn werk.
+- [ ] Ik geef de voorkeur dit gerecht uit Italië, waar ik weleens ben geweest.
+- [ ] Ik heb afgelopen nacht niet geslapen.
+- [ ] Ik heb al met hen gesproken, maar het is niet beter geworden.
+- [ ] Ik heb direct aangifte gedaan bij de politie.
+- [ ] Ik heb foto's gemaakt en voeg deze als bijlage toe.
+- [ ] Ik heb geen werk, dus ik heb nu meer tijd.
+- [ ] Ik heb geen ziektes, maar soms heb ik pijn in mijn rug.
+- [ ] Ik heb het zelf geprobeerd te repareren, maar het lukt niet.
+- [ ] Ik heb koorts, hoofdpijn en pijnlijke spieren.
+- [ ] Ik heb twee jaar ervaring in een winkel in mijn land van herkomst.
+- [ ] Ik heb uw advertentie op de website gezien.
+- [ ] Ik heb veel ervaring als verpleegkundige en kan ouders ondersteunen.
+- [ ] Ik hoop dat je komt, want ik vind het gezellig om jou erbij te hebben!
+- [ ] Ik hoor graag of dat goed is voor jou.
+- [ ] Ik hoor graag van u of dat mogelijk is.
+- [ ] Ik hou heel veel van de sfeer.
+- [ ] Ik kan dan zaterdag voor jou werken.
+- [ ] Ik kies voor yoga omdat ik rustiger wil worden.
+- [ ] Ik lees graag over geschiedenis, want ik vind dat heel interessant.
+- [ ] Ik maak me klaar en vertrek om 8 uur de deur uit.
+- [ ] Ik moet morgen met mijn zoon naar de dokter.
+- [ ] Ik moet zondag werken, maar ik wil die dag graag vrij zijn.
+- [ ] Ik neem de tram, want het is sneller dan met de fiets.
+- [ ] Ik nodig mijn beste vrienden uit en er zullen ongeveer 10 mensen komen.
+- [ ] Ik ontspan, kook een maaltijd, kijk televisie of lees een boek.
+- [ ] Ik schrijf u om u te informeren dat er op 23 april in mijn huis is ingebroken.
+- [ ] Ik speel voetbal twee keer per week met mijn vrienden in het park om de hoek.
+- [ ] Ik spreek Nederlands op niveau A2 en leer snel.
+- [ ] Ik vier het elk jaar op 27 April.
+- [ ] Ik vier mijn verjaardag thuis op zaterdag 27 april om 7 uur s avonds.
+- [ ] Ik vind het heel leuk omdat het gezond is en ik lekker buiten ben.
+- [ ] Ik vind het heerlijk, want ik hou van de lekkere smaak en de goede geur.
+- [ ] Ik vind het leuk, want er zijn veel winkels, cafés en restaurants.
+- [ ] Ik vind mijn weekenden ontspannend en gezellig.
+- [ ] Ik volg sinds januari een cursus Nederlands op A2-niveau.
+- [ ] Ik wandel graag in het park, want het is rustig.
+- [ ] Ik weet dat jij het boek hebt.
+- [ ] Ik werk vier uur per dag, dus ik heb tijd om te lezen.
+- [ ] Ik wil graag dat de gemeente met mijn buren praat.
+- [ ] Ik wil graag een afspraak maken bij de dokter, want ik voel me niet lekker.
+- [ ] Ik wil graag van u weten wat ik moet doen om het verzekeringsgeld te krijgen.
+- [ ] Ik wil graag volgende week een dag vrij vragen.
+- [ ] Ik wil graag vrijwilliger worden, omdat ik mijn tijd zinvol wil besteden en iets aan de samenleving wil teruggeven.
+- [ ] Ik wil je graag bedanken voor je hulp bij mijn verhuizing vorige week.
+- [ ] Ik wil je trakteren op pizza en bier.
+- [ ] Ik wil me graag inschrijven bij de bibliotheek.
+- [ ] Ik wil ook graag lezingen bijwonen om het Nederlands te leren.
+- [ ] Ik woon al drie jaar in het centrum van Amsterdam.
+- [ ] Ik woon sinds vorig jaar in Nederland en ik wil mijn Nederlands verbeteren.
+- [ ] Ik zal het binnen een maand aan je teruggeven.
+- [ ] Ik zie uw reactie graag tegemoet.
+- [ ] Ik zou willen dat er minder verkeerslawaai is.
+- [ ] In het weekend doe ik boodschappen of bezoek ik musea of bel met moeder.
+- [ ] In het weekend ga ik graag wandelen in het park, omdat het gezond is.
+- [ ] In welke straat zijn er problemen?
+- [ ] Is het mogelijk om de afspraak alsnog door te laten gaan?
+- [ ] Je mag wat wijn meenemen.
+- [ ] Kan ik de toets op een andere dag maken?
+- [ ] Kan ik op donderdag 30 juli vrij zijn?
+- [ ] Kun je om 7 uur in het centrum komen?
+- [ ] Kun jij zondag met mij ruilen?
+- [ ] Kunnen wij de afspraak verzetten naar donderdag om 15.00 uur?
+- [ ] Kunt u mij helpen?
+- [ ] Kunt u mij laten weten wanneer ik kan komen?
+- [ ] Kunt u mij vertellen wanneer de volgende cursus begint en hoeveel het kost?
+- [ ] Kunt u mij vertellen wat ik moet doen om de schade vergoed te krijgen?
+- [ ] Kunt u zo snel mogelijk iemand sturen?
+- [ ] Laat je het weten?
+- [ ] Maak alsjeblieft geen lawaai na 22.00 uur, want de buren slapen dan.
+- [ ] Mag ik het van jou lenen voor een maand?
+- [ ] Meestal sta ik om 7 uur op.
+- [ ] Mensen kunnen daardoor vallen.
+- [ ] Mijn buren maken elk weekend veel lawaai met harde muziek tot laat in de avond.
+- [ ] Mijn buren zijn vriendelijk, beleefd vrolijk en behulpzaam.
+- [ ] Mijn dochter is die dag jarig en ik wil haar verjaardag vieren.
+- [ ] Mijn favoriete feest is Koningsdag.
+- [ ] Mijn favoriete hobby is voetbal en ik doe dit al sinds mijn jeugd.
+- [ ] Mijn fiets is gisteren rond 17:00 uur gestolen bij Utrecht Centraal.
+- [ ] Mijn gezondheid is goed.
+- [ ] Mijn kinderen zijn al verkouden geworden.
+- [ ] Mijn lievelingseten is pizza.
+- [ ] Mijn moeder maakt het vaak met ham, eieren, en kaas.
+- [ ] Mijn zus is jarig en ik wil naar haar feest gaan.
+- [ ] Morgen moet ik een toets maken.
+- [ ] Nu is alles goed en alle spullen staan op hun plaats.
+- [ ] Om 10 uur 's avonds ga ik naar bed.
+- [ ] Om half acht ga ik naar de badkamer, poets ik mijn tanden, was mijn gezicht, en douche me.
+- [ ] Om vijf uur ben ik klaar met mijn werk en ga ik naar huis.
+- [ ] Ook is de stoep kapot.
+- [ ] Ook is mijn horloge weg.
+- [ ] Ook leer ik op die manier veel nieuwe mensen kennen.
+- [ ] Ook wil ik graag weten op welke dagen en tijden de lessen zijn en of er een instaptoets nodig is.
+- [ ] Op 12 mei heb ik bestelling #88421 ontvangen, een wasmachine van het merk AEG (model L7FB94GS).
+- [ ] Op kantoor doe ik mijn gewone werkzaamheden, schrijf ik e-mails en praat ik met klanten.
+- [ ] Op vrijdag speel ik vaak voetbal met vrienden.
+- [ ] Op zaterdag is er altijd een markt op het plein, waar ik verse groenten en vis kan kopen.
+- [ ] Op zaterdag spelen we wedstrijden tegen andere teams.
+- [ ] Op zondag koken we thuis een lekkere maaltijd.
+- [ ] Vannacht heb ik bijna niet geslapen.
+- [ ] Verder ben ik tevreden.
+- [ ] Voetbal maakt me blij.
+- [ ] Volgende zaterdag wil ik je graag uitnodigen in een café.
+- [ ] Waarom kiest u voor deze groepsles?
+- [ ] Wat zijn de problemen?
+- [ ] We doen dat in het park of langs het strand.
+- [ ] We dragen oranje kleding, eten tompoezen, luisteren naar muziek en dansen.
+- [ ] We eten het meestal op zondag met het hele gezin aan een grote tafel.
+- [ ] We gaan met mijn familie naar Amsterdam.
+- [ ] We zullen pizza eten, bier drinken, naar muziek luisteren en misschien een beetje dansen.
+- [ ] Welke documenten heeft u van mij nodig?
+- [ ] Wij hebben morgen een afspraak, maar ik kan helaas niet komen.
+- [ ] Wil je de planten twee keer per week water geven.
+- [ ] Wil je eerst de winkel stofzuigen?
+- [ ] Wil je na het eten de afwas doen?
+- [ ] Wil je op donderdagavond de prullenbak buiten zetten?
+- [ ] Wil je op zaterdag de badkamer schoonmaken.
+- [ ] Wilt u dit snel oplossen?
+- [ ] Yoga is ook goed voor mijn rug.

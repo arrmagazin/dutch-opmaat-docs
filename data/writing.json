@@ -174,7 +174,7 @@
     "title": "Insurance Claim",
     "description": "Email your insurance company about a stolen bicycle",
     "type": "email",
-    "modelAnswer": "Beste meneer/mevrouw, mijn fiets is gisteren rond 17:00 uur gestolen bij Utrecht Centraal.\nDe fiets stond met twee sloten op het station.\nIk heb direct aangifte gedaan bij de politie.\nHet nummer van de aangifte is PL-2024-12345.\nHet gaat om een zwarte Gazelle uit 2022.\nKunt u mij vertellen wat ik moet doen om de schade {{vergoed}} te krijgen?\nWelke documenten heeft u van mij nodig?\nMet vriendelijke groet, Karim Bouali.",
+    "modelAnswer": "`inline:texts/insurance-claim`",
     "hint": "Schade melden bij de verzekering. Uw fiets is gestolen. U schrijft een e-mail aan uw verzekering.\n• Schrijf wat er is gebeurd en wanneer.\n• Schrijf dat u aangifte hebt gedaan.\n• Vraag wat u moet doen om de schade vergoed te krijgen."
   },
   {
@@ -195,7 +195,7 @@
   },
   {
     "id": "w20",
-    "title": "Email Your Teacher (Miss a Test)",
+    "title": "Miss a Test",
     "description": "Email your teacher that you cannot take a test and apologise",
     "type": "email",
     "modelAnswer": "Beste meneer Bakker,\n\nIk doe de computercursus bij u. Morgen moet ik een toets maken.\nHelaas kan ik morgen niet naar school komen, want ik ben ziek.\nHet spijt me heel erg.\nKan ik de toets op een andere dag maken? Ik hoor graag van u.\n\nGroeten,\n[naam]",
@@ -203,20 +203,13 @@
   },
   {
     "id": "w21",
-    "title": "Note for a Colleague (Tasks)",
+    "title": "Tasks for a Colleague",
     "description": "Leave a note telling a colleague what to do",
     "type": "email",
     "modelAnswer": "Hallo Alisa,\n\nIk ben al weg, maar er zijn nog een paar dingen te doen.\nWil je eerst de winkel stofzuigen?\nDaarna moet je de kleren netjes ophangen.\nEn doe je aan het eind de deur op slot?\n\nAlvast bedankt!\nGroeten,\n[naam]",
     "hint": "Bericht collega. U werkt in een kledingzaak. Straks komt uw collega Fariha.\nZij moet een paar dingen doen: stofzuigen, kleren netjes ophangen, deur op slot.\nSchrijf een briefje en vertel wat zij moet doen. Schrijf drie dingen op."
   },
-  {
-    "id": "w23",
-    "title": "Burglary Insurance Claim Form",
-    "description": "Fill in an insurance claim form after a burglary",
-    "type": "form",
-    "modelAnswer": "Achternaam: Yılmaz\nVoorletters: S.\nAdres: Kerkstraat 12, 1234 AB Utrecht\nTelefoonnummer: 06 12345678\nE-mail: s.yilmaz@mail.nl\nDatum van de schade: 18-07-2026\n\nOmschrijving gestolen spullen en schade:\n- De dieven hebben mijn laptop gestolen.\n- Ook is mijn horloge weg.\n- Het raam in de keuken is kapot.",
-    "hint": "Schadeformulier inboedelverzekering.\n• Vul het formulier in. Bedenk zelf de gegevens.\n• Schrijf wanneer er is ingebroken.\n• Schrijf drie dingen op die zijn gebeurd (laptop gestolen, horloge gestolen, raam kapot)."
-  },
+
   {
     "id": "w19",
     "title": "Municipality Problem Report Form",
