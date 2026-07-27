@@ -40,6 +40,7 @@
 | `nog` | still / yet | Ben je **nog** hier? |
 | `straks` | later today | Ik kom **straks** langs. |
 | `binnenkort` | soon | We zien elkaar **binnenkort**. |
+| `alvast` | in advance / go ahead and | Begin **alvast** met eten. |
 | `note:soms` | `qasam`  by any chance (in questions) ||
 | `tegenwoordig` | nowadays | **Tegenwoordig** werk ik thuis. |
 

@@ -10,7 +10,7 @@ Every Dutch verb has a **stem** and a set of endings. Find the stem — the **in
 | *jij / je*, *hij / zij / het*, *u* | stem + **t** | jij **werkt**, hij **werkt** |
 | *wij / jullie / zij* | infinitive | wij **werken** |
 
-> **Inversion drops the -t:** when *jij / je* comes *after* its verb, the **-t** disappears: *Werk **jij** hier?* (not ~~werkt jij~~), *Waar woon **je**?* This affects *jij / je* only, and only the *-t* ending — never *ik* or the plural.
+> **Inversion drops the -t:** when *jij / je* comes *after* its verb, the **-t** disappears: *Werk **jij** hier?* (not ~~werkt jij~~), *Waar woon **je**?* This affects *jij / je* only, and only the *-t* ending — never *ik*, *u* or the plural.
 
 ```mermaid
 flowchart TD

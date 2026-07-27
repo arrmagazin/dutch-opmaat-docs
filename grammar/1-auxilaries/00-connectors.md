@@ -16,6 +16,7 @@ A handful of prepositions cover **means**, **accompaniment**, and **reference**.
 | `volgens` | according to [authority]| **Volgens** mij heb je gelijk. |
 | `dankzij` | thanks to [support] | **Dankzij** jou is het gelukt. |
 | `ondanks` | despite [obstacle]| **Ondanks** de regen was het leuk. |
+| `in plaats van` | instead of [substitution] | Ik neem thee **in plaats van** koffie. |
 
 Many verbs are paired with a **fixed preposition** [Verbs with fixed prepositions](/#/grammar?doc=5-verbs/22-verb-with-prepositions.md).
 
@@ -75,7 +76,7 @@ These connect sentences but are **adverbs**.
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `daarom` | [cause]; that's why [effect] | Hij was moe; **daarom** ging hij slapen. |
+| [cause]; `daarom` [effect] |  that's why  | Hij was moe; **daarom** ging hij slapen. |
 | `om die reden` | [cause]; that's why [effect] | Hij was moe; **om die reden** ging hij slapen. |
 | `daardoor` | [cause] as a result [effect] | Het vroor; **daardoor** waren de wegen glad. |
 | `echter` | however [obstacle]| Hij kwam **echter** te laat. |

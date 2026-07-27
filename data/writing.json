@@ -228,14 +228,6 @@
     "promptHint": "<example>Naam: Alisa\nAdres: Tulpstraat 8, 1234 AB Amsterdam\nGeboortedatum: 15 maart 1990\nTelefoonnummer: 06-12345678\nE-mailadres: fatima@email.nl\n\nIk lees graag boeken over koken, gezondheid en romans.\nIk wil de bibliotheek twee keer per week bezoeken.\nOok wil ik graag lezingen bijwonen en mijn kinderen meenemen naar de kinderafdeling.\nIk werk als verpleegkundige en heb 's avonds vaak tijd om te lezen.</example>"
   },
   {
-    "id": "w22",
-    "title": "Gym Registration Form",
-    "description": "Fill in a form to register at a sports club",
-    "type": "form",
-    "modelAnswer": "Voor- en achternaam: Sara Yılmaz\nAdres: Kerkstraat 12\nPostcode: 1234 AB\nWoonplaats: Utrecht\nTelefoonnummer: 06 12345678\nGeslacht: vrouw\nGeboortedatum: 15-03-1990\nWelke groepsles? Yoga\nHoe vaak? 2x per week\n\nWaarom kiest u voor deze groepsles?\nIk kies voor yoga omdat ik rustiger wil worden. Yoga is ook goed voor mijn rug.\n\nHoe is uw gezondheid?\nMijn gezondheid is goed. Ik heb geen ziektes, maar soms heb ik pijn in mijn rug.",
-    "hint": "Inschrijfformulier Sportclub SPRINT. Vul het formulier in.\nSommige gegevens moet u zelf bedenken.\nBeantwoord ook: Waarom kiest u voor deze groepsles? Hoe is uw gezondheid?"
-  },
-  {
     "id": "w47",
     "title": "Volunteer Work Registration",
     "description": "Fill in a form to register as a volunteer at a neighborhood centre",
