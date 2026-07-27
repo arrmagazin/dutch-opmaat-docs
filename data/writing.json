@@ -190,7 +190,7 @@
     "title": "Swap a Work Shift",
     "description": "Email a colleague to swap a work shift",
     "type": "email",
-    "modelAnswer": "Hallo Alisa,\n\nIk moet zondag werken, maar ik wil die dag graag vrij zijn.\nMijn zus is jarig en ik wil naar haar feest gaan.\nKun jij zondag met mij ruilen? Ik kan dan zaterdag voor jou werken.\nLaat je het weten?\n\nGroetjes,\n[naam]",
+    "modelAnswer": "`inline:texts/work-shift`",
     "hint": "Dienst ruilen. U moet zondag werken maar u wilt graag vrij.\n U schrijft een e-mail aan uw collega Alisa.\n• Schrijf waarom u mailt.\n• Schrijf waarom u wilt ruilen. Bedenk het zelf.\n• Schrijf op welke dag u wel kunt werken."
   },
   {
@@ -198,7 +198,7 @@
     "title": "Miss a Test",
     "description": "Email your teacher that you cannot take a test and apologise",
     "type": "email",
-    "modelAnswer": "Beste meneer Bakker,\n\nIk doe de computercursus bij u. Morgen moet ik een toets maken.\nHelaas kan ik morgen niet naar school komen, want ik ben ziek.\nHet spijt me heel erg.\nKan ik de toets op een andere dag maken? Ik hoor graag van u.\n\nGroeten,\n[naam]",
+    "modelAnswer": "`inline:texts/miss-a-test`",
     "hint": "E-mail aan docent. U doet een computercursus. Morgen moet u een toets maken, maar u kunt niet komen.\n• Schrijf waarom u de e-mail stuurt.\n• Schrijf waarom u niet kunt komen.\n• Bied uw excuses aan.\n• Vraag wanneer u de toets kunt maken."
   },
   {
@@ -206,8 +206,8 @@
     "title": "Tasks for a Colleague",
     "description": "Leave a note telling a colleague what to do",
     "type": "email",
-    "modelAnswer": "Hallo Alisa,\n\nIk ben al weg, maar er zijn nog een paar dingen te doen.\nWil je eerst de winkel stofzuigen?\nDaarna moet je de kleren netjes ophangen.\nEn doe je aan het eind de deur op slot?\n\nAlvast bedankt!\nGroeten,\n[naam]",
-    "hint": "Bericht collega. U werkt in een kledingzaak. Straks komt uw collega Fariha.\nZij moet een paar dingen doen: stofzuigen, kleren netjes ophangen, deur op slot.\nSchrijf een briefje en vertel wat zij moet doen. Schrijf drie dingen op."
+    "modelAnswer": "`inline:texts/task-for-a-colleague`",
+    "hint": "Bericht collega. U werkt in een kledingzaak. Straks komt uw collega Alisa.\nZij moet een paar dingen doen: stofzuigen, kleren netjes ophangen, deur op slot.\nSchrijf een briefje en vertel wat zij moet doen. Schrijf drie dingen op."
   },
 
   {
