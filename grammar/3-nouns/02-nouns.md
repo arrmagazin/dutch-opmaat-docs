@@ -52,8 +52,6 @@ Dutch has one indefinite article, **een** ("a/an"), used for a singular noun tha
 - in the **plural**: *een boek* → *boeken*, *een appel* → *appels*
 - with **uncountable (mass)** nouns: *water*, *geld*, *muziek*
 
-> Don't confuse **een** (the article, unstressed, sounds like "un" /ən/) with **één** (the number "one", stressed /eːn/). The accents mark it in writing: *een appel* — an apple; *één appel* — one apple.
-
 ## Naming what someone is (drop the article)
 
 Unlike English, Dutch **leaves out the article** when stating a profession, nationality, or belief after *zijn/worden*:
@@ -85,4 +83,4 @@ Which article — **de** or **het**?
 - ❌ *de meisje* → ✅ *het meisje* — every diminutive (*-je*) is a het-word.
 - ❌ *Zij is een lerares* → ✅ *Zij is lerares* — drop *een* before a bare profession.
 - ❌ *het Nederland is mooi* → ✅ *Nederland is mooi* — country names take no article.
-- ❌ *één boek* for "a book" → ✅ *een boek* — *één* means the number one.
+- ❌ *één boek* for "a book" → ✅ *een boek* — *één* (`note:één`) means the number one.

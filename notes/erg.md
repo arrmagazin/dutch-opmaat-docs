@@ -15,3 +15,5 @@ Two senses — an everyday intensifier *and* an adjective "bad".
 | Waving it off | Niet `erg`, hoor. | No harm done. / Doesn't matter. |
 
 > Watch the contrast: *`erg` goed* = "very good", but *Dat is `erg`* = "that's bad". The adverb boosts, the adjective condemns.
+
+**heel = erg = zeer = "very"**: *heel* and *erg* are everyday and interchangeable; *zeer* is formal/written. None of them inflect: *erg mooi*, never *erge mooi*.

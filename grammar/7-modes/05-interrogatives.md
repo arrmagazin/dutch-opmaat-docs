@@ -67,8 +67,6 @@ Short tags seek agreement, like English "right?".
 | **nee** | denying it (or confirming a negative one) |
 | **jawel** | contradicting a *negative* question — "yes, actually" |
 
-> ***wel*** is the positive counterpart of *niet* and pairs with *jawel*: *"Je komt toch niet?" — "**Jawel**, ik kom **wel**."*
-
 Form a negative question by adding *niet* or *geen* in the usual slots — *Heb je **geen** tijd?*, *Werk jij vandaag **niet**?* Such questions often expect *jawel* when you contradict the implied negative.
 
 ## Prepositional questions

@@ -5,18 +5,16 @@ The words that open an information question. This page is the **word inventory**
 
 | Dutch | English | Asks for | Example |
 |-------|---------|----------|---------|
-| `wie` | who | a person | **Wie** belt? |
-| `wat` | what | a thing / action | **Wat** zie je? |
+| `note:wie` | who | a person | **Wie** belt? |
+| `note:wat` | what | a thing / action | **Wat** zie je? |
 | `welk(e)` | which | a choice | **Welke** trein neem je? |
 | `wat voor (een)` | what kind of | a type | **Wat voor** muziek luister je? |
-| `waar` | where | a place | **Waar** woon je? |
-| `wanneer` | when | a time | **Wanneer** kom je terug? |
+| `note:waar` | where | a place | **Waar** woon je? |
+| `note:wanneer` | when | a time | **Wanneer** kom je terug? |
 | `hoe` | how | manner / state | **Hoe** gaat het? |
 | `waarom` | why | a reason | **Waarom** huil je? |
 | `hoeveel` | how much / many | a quantity | **Hoeveel** kost dit? |
 | `hoelang` | how long | a duration | **Hoelang** blijf je? |
-
-> **wanneer** pairs with a preposition to bound the time: **sinds wanneer** (since when — *Sinds wanneer woon je hier?*) and **tot wanneer** (until when — *Tot wanneer blijf je?*).
 
 ## wie — people
 
@@ -27,8 +25,6 @@ The words that open an information question. This page is the **word inventory**
 | After a preposition | **Met wie** ga je? |
 | Possessive ("whose") | **Van wie** is dit boek? |
 
-> For a person, the preposition stays a separate word before **wie**: *met wie*, *voor wie*, *over wie*.
-
 ## wat — things & actions
 
 | Use | Example |
@@ -37,12 +33,9 @@ The words that open an information question. This page is the **word inventory**
 | What activity? | **Wat** doe je? |
 | Exclamation | **Wat een** mooie dag! |
 
-> **Never *wat* after a preposition** for a thing.
-> Use a **waar**-word instead: ~~*op wat*~~ → **waarop** / **waar … op** (see below).
-
 ## welk vs welke — agreement
 
-**welke** behaves like an adjective: it agrees with the noun.
+**welke** (`note:welke`) behaves like an adjective: it agrees with the noun.
 
 ```mermaid
 flowchart TD
@@ -55,8 +48,6 @@ flowchart TD
 |-----------|------|---------|
 | de-word (sg/pl) | **welke** | **Welke** auto? / **Welke** boeken? |
 | het-word (sg) | **welk** | **Welk** boek? |
-
-> With no noun following, use **welke** for both: *Er staan twee fietsen — **welke** is van jou?*
 
 ## hoe + adjective
 
@@ -83,8 +74,6 @@ For places, **waar** takes a directional particle; for *things* after a preposit
 | **waar … heen** / **naartoe** | where to | **Waar** ga je **heen**? |
 | **waarmee** / **waar … mee** | what … with | **Waarmee** schrijf je? |
 | **waarover** / **waar … over** | what … about | **Waar** praat je **over**? |
-
-> Same shape-changes as er-words: **met → mee**, **tot → toe**. The split form (*Waar wacht je **op**?*) is more natural in speech than the joined *Waarop wacht je?*
 
 ## waarom & cousins
 

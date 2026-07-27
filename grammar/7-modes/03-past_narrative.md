@@ -33,8 +33,6 @@ This is the single biggest source of mistakes in Dutch narration. English "when"
 | **als** | habitual past ("whenever") *or* future condition ("if/when") | past or present | ***Als** ik klein was, gingen we elke zomer kamperen.* / ***Als** ik tijd heb, kom ik.* |
 | **wanneer** | asking "when?" — direct or indirect question | any | ***Wanneer** kom je?* / *Ik weet niet **wanneer** hij komt.* |
 
-> **Memorise:** *toen* = once, in the past. *als* = whenever / if. *wanneer* = the question word "when?".
-
 All three are subordinators, so they send the verb to the **end** of their clause (see [subordinating conjunctions](/#/grammar?doc=8-structures/03-subordinating.md)).
 
 ## Connecting clauses in time

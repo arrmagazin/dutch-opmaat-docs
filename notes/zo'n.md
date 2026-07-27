@@ -6,3 +6,7 @@
 
 > **Rule of thumb:** *zo'n* + singular noun → plural becomes *zulke*.
 > *zo'n huis* → *zulke huizen*; *zo'n idee* → *zulke ideeën*.
+
+**zo'n** (approximation) — about / roughly, before a number.
+
+- *Er waren **zo'n** twintig mensen.* — There were about twenty people.

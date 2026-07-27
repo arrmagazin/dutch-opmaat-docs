@@ -45,11 +45,7 @@ flowchart TD
 
 ## dan vs als
 
-> **"Than" = *dan*.** *Hij is **groter dan** ik.* Never *groter als*.
-
 *als* is for **equality**, not difference: *even groot **als*** / *net zo groot **als*** (as big as) — see [Modifiers](/#/grammar?doc=1-auxilaries/14-modifiers.md).
-
-> **Register:** *groter als* is very common in casual speech, but non-standard. Write and say **dan** in exams and formal Dutch.
 
 ## Comparing adverbs
 

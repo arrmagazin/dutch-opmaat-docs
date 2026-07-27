@@ -8,8 +8,6 @@ Relative clauses, reported speech, and conditionals are all subordinate clauses 
 
 For the full inventory of connectors and their meanings, see [connectors](/#/grammar?doc=1-auxilaries/00-connectors.md).
 
-> **toen / als / wanneer** all cover English "when": use **toen** for a single event in the **past**, **als** for the present/future or something repeated (*Als het regent…* = whenever it rains), and **wanneer** in questions (*Wanneer kom je?*).
-
 ## Word order inside the clause
 
 1. The **finite verb** moves to the end.

@@ -8,34 +8,25 @@ A degree word goes **directly before** the adjective or adverb it scales: *heel 
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `heel` | very | Het is **heel** mooi. |
-| `erg` | very | Het is **erg** mooi. |
-| `zeer` | very (formal/written) | Wij zijn **zeer** tevreden. |
-| `zo` | so (this much) | Deze tas is **zo** zwaar! |
-| `te` | too (excessive) | Dat is **te** duur. |
-| `veel te` | far too | Het is **veel te** duur. |
-| `helemaal` | completely | Ik ben het **helemaal** vergeten. |
-| `bijna` | almost | Ik ben **bijna** klaar. |
-| `behoorlijk` | considerably | Het is **behoorlijk** koud. |
-| `vooral` | especially / above all | Het is **vooral** 's ochtends druk. |
-| `alleen` | only / just | Ik drink **alleen** water. |
-| `een beetje` | a little | Ik ben **een beetje** moe. |
-| `wat` | a bit | Ik ben **wat** moe. |
-| `nogal` | rather | Het is **nogal** druk in de stad. |
-| `best` | quite / pretty | De film was **best** goed. |
-| `tamelijk` | fairly | Dat is **tamelijk** duur. |
-| `redelijk` | reasonably | Het was **redelijk** druk. |
-| `vrij` | fairly / rather | Dat is **vrij** goed. |
-
-> **wat vs nog wat**: *wat* = "a bit" (*Ik ben **wat** moe*); **nog wat** = "a bit more / some more" (*Wil je **nog wat** koffie?* — Would you like some more coffee?).
->
-> *alleen* also works as an adjective meaning **alone**: *Ik woon **alleen***.
->
-> **heel = erg = zeer = "very".** *heel* and *erg* are everyday and interchangeable; *zeer* is formal/written. None of them inflect: *erg mooi*, never ~~*erge mooi*~~.
->
-> **te ≠ very.** *te* means "too" (excessive): *te duur* = *too* expensive, not *very* expensive.
->
-> Degree words often works as **Softeners** (downtoners) turn the volume *down*: Ik ben **een beetje / wat** moe.
+| `note:heel` | very | Het is **heel** mooi. |
+| `note:erg` | very | Het is **erg** mooi. |
+| `note:zeer` | very (formal/written) | Wij zijn **zeer** tevreden. |
+| `note:zo` | so (this much) | Deze tas is **zo** zwaar! |
+| `note:te` | too (excessive) | Dat is **te** duur. |
+| `note:veel-te` | far too | Het is **veel te** duur. |
+| `note:helemaal` | completely | Ik ben het **helemaal** vergeten. |
+| `note:bijna` | almost | Ik ben **bijna** klaar. |
+| `note:behoorlijk` | considerably | Het is **behoorlijk** koud. |
+| `note:vooral` | especially / above all | Het is **vooral** 's ochtends druk. |
+| `note:alleen` | only / just | Ik drink **alleen** water. |
+| `note:een-beetje` | a little | Ik ben **een beetje** moe. |
+| `note:wat` | a bit | Ik ben **wat** moe. |
+| `note:nog-wat` | a bit more / some more | Wil je **nog wat** koffie? |
+| `note:nogal` | rather | Het is **nogal** druk in de stad. |
+| `note:best` | quite / pretty | De film was **best** goed. |
+| `note:tamelijk` | fairly | Dat is **tamelijk** duur. |
+| `note:redelijk` | reasonably | Het was **redelijk** druk. |
+| `note:vrij` | fairly / rather | Dat is **vrij** goed. |
 
 ---
 
@@ -52,34 +43,34 @@ A rough scale of quantity: *niets → bijna niets → **weinig** → genoeg → 
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `altijd` | always | Ik drink **altijd** koffie 's ochtends. |
-| `meestal` | usually | Ik werk **meestal** thuis. |
-| `vaak` / `dikwijls` | often | Ik ga **vaak** naar de markt. |
-| `regelmatig` | regularly | Ik sport **regelmatig**. |
-| `telkens` | every time | Hij komt **telkens** te laat. |
-| `elke dag` / `elke keer` | every day / time | Ik drink **elke dag** thee. |
-| `soms` | sometimes | **Soms** regent het. |
-| `af en toe` | now and then | Ik drink **af en toe** wijn. |
-| `alweer` | again (already) | Ben je **alweer** te laat? |
-| `nog eens` / `nogmaals` | once more | Doe het **nog eens**. |
-| `weleens` | ever / occasionally | Ben je **weleens** in Parijs geweest? |
-| `zelden` | rarely | Hij komt **zelden** op tijd. |
-| `bijna nooit` | almost never | Hij belt **bijna nooit**. |
-| `niet eens` | not even | Hij heeft het **niet eens** geprobeerd. |
-| `nooit` | never | Ik ben **nooit** in Parijs geweest. |
+| `note:altijd` | always | Ik drink **altijd** koffie 's ochtends. |
+| `note:meestal` | usually | Ik werk **meestal** thuis. |
+| `note:vaak` / `note:dikwijls` | often | Ik ga **vaak** naar de markt. |
+| `note:regelmatig` | regularly | Ik sport **regelmatig**. |
+| `note:telkens` | every time | Hij komt **telkens** te laat. |
+| `note:elke-dag` / `note:elke-keer` | every day / time | Ik drink **elke dag** thee. |
+| `note:soms` | sometimes | **Soms** regent het. |
+| `note:af-en-toe` | now and then | Ik drink **af en toe** wijn. |
+| `note:alweer` | again (already) | Ben je **alweer** te laat? |
+| `note:nog-eens` / `note:nogmaals` | once more | Doe het **nog eens**. |
+| `note:weleens` | ever / occasionally | Ben je **weleens** in Parijs geweest? |
+| `note:zelden` | rarely | Hij komt **zelden** op tijd. |
+| `note:bijna-nooit` | almost never | Hij belt **bijna nooit**. |
+| `note:niet-eens` | not even | Hij heeft het **niet eens** geprobeerd. |
+| `note:nooit` | never | Ik ben **nooit** in Parijs geweest. |
 
 ## Approximation — roughly
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `precies` | exactly | Dat is **precies** wat ik bedoel. |
-| `ongeveer` | approximately | Het duurt **ongeveer** een uur. |
-| `circa` / `ca.` | approx. (formal) | De reis kost **circa** 200 euro. |
-| `rond` | around (time/number) | Ik kom **rond** acht uur. |
-| `zo'n` | about (informal) | Er waren **zo'n** twintig mensen. |
-| `een stuk of` | about (countable) | Geef me **een stuk of** vijf. |
-| `ruim` | a little over | Het duurde **ruim** een uur. |
-| `krap` | just under | We hebben **krap** een week. |
+| `note:precies` | exactly | Dat is **precies** wat ik bedoel. |
+| `note:ongeveer` | approximately | Het duurt **ongeveer** een uur. |
+| `note:circa` / `note:ca` | approx. (formal) | De reis kost **circa** 200 euro. |
+| `note:rond` | around (time/number) | Ik kom **rond** acht uur. |
+| `note:zo'n` | about (informal) | Er waren **zo'n** twintig mensen. |
+| `note:een-stuk-of` | about (countable) | Geef me **een stuk of** vijf. |
+| `note:ruim` | a little over | Het duurde **ruim** een uur. |
+| `note:krap` | just under | We hebben **krap** een week. |
 
 ## Common mistakes
 

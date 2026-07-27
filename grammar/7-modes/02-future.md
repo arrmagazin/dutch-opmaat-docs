@@ -32,7 +32,7 @@ Use **gaan** + infinitive for something you intend or are about to do — like E
 
 ## *zullen* + infinitive (promise / prediction / suggestion)
 
-**zullen** carries a promise, a prediction, or a polite suggestion. It is more formal than *gaan*.
+**zullen** (`note:zullen`) carries a promise, a prediction, or a polite suggestion. It is more formal than *gaan*.
 
 - *Ik **zal** het morgen **doen**.* — I'll do it tomorrow. *(promise)*
 - *Het **zal** wel **regenen**.* — It'll probably rain. *(hedged prediction)*
@@ -67,11 +67,9 @@ In casual speech, **present + time word** or **gaan + inf.** dominate; *zullen* 
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `Ik ben van plan om … te …` | I plan to … | *Ik ben van plan om volgend jaar **te** verhuizen.* |
+| `note:ik-ben-van-plan-om-te` | I plan to … | *Ik ben van plan om volgend jaar **te** verhuizen.* |
 | `Ik wil graag …` | I'd like to … | *Ik wil graag Nederlands leren.* |
 | `Ik ga …` | I'm going to … | *Ik ga vanavond koken.* |
-
-> *Ik ben van plan om* always pairs with **te + infinitive** at the end of the clause.
 
 ## Practice
 

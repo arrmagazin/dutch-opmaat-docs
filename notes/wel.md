@@ -8,3 +8,7 @@ Core function: **affirmative counter to a negation**. No exact English word — 
 | Contrast in a sentence | Bier heb ik niet, wijn **wel**. | No beer, but I do have wine. |
 
 `wel` is essentially the "anti-*niet*" — it always pulls toward "yes" against an expected "no".
+
+***wel*** is the positive counterpart of *niet* and pairs with *jawel* when contradicting a negative question.
+
+- *"Je komt toch niet?" — "**Jawel**, ik kom **wel**."* — "You're not coming, right?" — "Yes I am, actually."

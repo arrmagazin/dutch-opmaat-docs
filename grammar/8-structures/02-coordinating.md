@@ -11,7 +11,6 @@ flowchart LR
 
 Memory hook: **en, maar, of, want, dus** are the only true coordinators. Everything else that "feels like because/so" (*omdat*, *daarom*, *zodat* …) is a subordinator or an adverb and changes the word order.
 
-For more, see [connectors](/#/grammar?doc=1-auxilaries/00-connectors.md).
 
 ## Sharing a subject with `en`
 

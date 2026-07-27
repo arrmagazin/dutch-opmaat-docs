@@ -1,6 +1,6 @@
 # The word er and er-words  *(B1)*
 
-Unstressed **er** is one of the most versatile — and trickiest — words in Dutch. It plays four distinct roles: **existential**, **locative**, **quantitative**, and **pronominal** (fused with a preposition).
+Unstressed **er** (`note:er`) is one of the most versatile — and trickiest — words in Dutch. It plays four distinct roles: **existential**, **locative**, **quantitative**, and **pronominal** (fused with a preposition).
 
 ```mermaid
 flowchart TD
@@ -21,8 +21,6 @@ Introduces a new, **indefinite** noun into the conversation. It sits at or near 
 | `Er was` eens een koning. | Once upon a time there was a king. |
 | `Er` wordt hier niet `gerookt`. | No smoking here. (lit. "there is not smoked here") |
 
-> Without it the sentence is ungrammatical: ~~*Is een probleem.*~~ → ***Er** is een probleem.*
-
 ## Locative er — "there" (a place)
 
 Replaces a place already mentioned. This is the *unstressed* "there".
@@ -33,8 +31,6 @@ Replaces a place already mentioned. This is the *unstressed* "there".
 | Ben je in Parijs geweest? Ja, ik ben `er` vorig jaar geweest. | … Yes, I was there last year. |
 | Ga je naar de markt? Ik ga `er` elke zaterdag heen. | … I go there every Saturday. |
 
-> For a *stressed*, pointing "there", use **daar**: *Daar woon ik.* ("*That's* where I live.")
-
 ## Quantitative er — "of them" (with a number)
 
 When a counted noun is dropped (already known), **er** holds its place next to the number or amount.
@@ -44,8 +40,6 @@ When a counted noun is dropped (already known), **er** holds its place next to t
 | Hoeveel appels heb je? — Ik heb `er` drie. | … I have three (of them). |
 | Van die acteurs ken ik `er` maar één. | Of those actors I only know one. |
 | De aardbeien waren goedkoop, dus ze kocht `er` veel. | … so she bought a lot of them. |
-
-> Existential *and* quantitative together doubles the **er**: *Er waren tien koekjes en nu zijn **er** nog vijf.* (first *er* = existential, second = quantitative).
 
 ## Pronominal er-words (er + preposition)
 
@@ -71,11 +65,6 @@ Two prepositions change shape: **met → mee**, **tot → toe** (so *ermee*, *er
 
 The er-word *eruit* also forms the fixed verb **eruitzien** ("to look / appear"): *Je ziet er moe uit.* (You look tired.)
 
-> **Person vs. thing.** Er-words replace only **things**. For a person, keep preposition + pronoun:
->
-> - *Ik denk aan **hem**.* — about **him** (person) ✓
-> - *Ik denk **eraan**.* — about **it** (thing) ✓ — never ~~*ik denk eraan*~~ for a person.
-
 ## Splitting er-words
 
 Er-words **split** when anything (an adverb, negation, an object) comes between the two parts. The split form is the norm in speech; the unsplit form sounds bookish.
@@ -96,10 +85,6 @@ Swap **er** for **daar** and you get the stressed, pointing version — "in *tha
 | **daarin** | in that | Leg het **daarin**. |
 | **daarvoor** | for that / before that | Ik heb **daarvoor** betaald. — also *de dag **daarvoor*** (the day before). |
 | **daarvan** | of that | Ik heb **daarvan** gehoord. |
-
-> **daarom** (therefore) and **daarna** (after that) belong to the same family — *daar* + preposition, frozen into a fixed adverb.
->
-> To *ask* about an er-word, swap *er* for **waar**: *Waaraan* denk je? See [Question words](/#/grammar?doc=2-pronouns/60-vraag-worden.md). The same pattern with *hier/daar* is covered under [Adverbs](/#/grammar?doc=4-bijworden/35-adverbs.md).
 
 ## Common mistakes
 

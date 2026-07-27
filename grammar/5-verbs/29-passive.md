@@ -14,8 +14,6 @@ This split is the single most important thing to internalise. English collapses 
 | **worden** | the action / process | *De brief **wordt** geschreven.* | The letter **is being** written. |
 | **zijn** | the result / completed state | *De brief **is** geschreven.* | The letter **has been** written. |
 
-> **Rule of thumb:** if you can replace the English verb with "is being / was being," use **worden**. If you can replace it with "has been / had been," use **zijn**.
-
 ```mermaid
 flowchart TD
   A["Focus on the action, or the finished state?"] -->|"action"| B["worden + participle — wordt geschreven"]
@@ -51,11 +49,6 @@ The agent — the original subject of the active sentence — is introduced with
 
 - *De brief **is** **geschreven**.* — The letter has been written.
 - *De ramen **zijn** **gewassen**.* — The windows have been washed.
-
-> So both *Het huis is gebouwd* and *Het huis werd gebouwd* translate as "The house was built," but they don't mean the same thing:
->
-> - *werd gebouwd* — talks about the **building process** (e.g. *in 1920*).
-> - *is gebouwd* — talks about the **current finished state** (it stands built today).
 
 ## Future passive — *zullen* + *worden*
 

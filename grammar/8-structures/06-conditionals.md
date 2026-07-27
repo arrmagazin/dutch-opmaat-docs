@@ -101,9 +101,6 @@ You can drop **als** and instead start the condition with its **verb** (like a y
 | **mits** | "provided that" (formal) | Je slaagt, **mits** je oefent. |
 | **stel dat** | "suppose that" | **Stel dat** je wint — wat dan? |
 
-> Don't confuse **als** (if/when) with **of** (whether). "I don't know **if** he's
-> coming" is *Ik weet niet **of** hij komt*, never *als*.
-
 ## Practice
 
 - [ ] **Als** het morgen mooi weer is, gaan we fietsen. — If the weather is nice tomorrow, we'll go cycling.

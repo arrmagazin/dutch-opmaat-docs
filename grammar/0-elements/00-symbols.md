@@ -52,9 +52,9 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 
 | Symbol | NL naam | English | Voorbeeld |
 |:------:|:--------|:--------|:----------|
-| `'` | apostrof | apostrophe | 's morgens, auto`'`s |
-| `.` | punt | period / full stop | einde van een zin `.` |
-| `,` | komma | comma | ja `,` maar… |
+| `'` | `note:apostrof` | apostrophe | 's morgens, auto`'`s |
+| `.` | `note:punt` | period / full stop | einde van een zin `.` |
+| `,` | `note:komma` | comma | ja `,` maar… |
 | `;` | puntkomma | semicolon | hij kwam `;` zij ging |
 | `:` | dubbele punt | colon | let op `:` dit is belangrijk |
 | `?` | vraagteken | question mark | hoe gaat het `?` |
@@ -70,13 +70,11 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 | `[…]` | rechte haakjes | square brackets | [redactie] |
 | `{…}` | accolades | curly braces | { code } |
 
-> The **apostrof** shows up in two places: the old genitive *'s-* (*'s morgens*, *'s-Gravenhage*) and the plural of vowel-final loanwords (*auto's, foto's, baby's*).
-
 ## Speciale tekens (Special characters)
 
 | Symbol | NL naam | English | Use |
 |:------:|:--------|:--------|:----|
-| `@` | apenstaartje | "at" sign | e-mail: alex `apenstaartje` voorbeeld punt nl |
+| `@` | `note:apenstaartje` | "at" sign | e-mail: alex `apenstaartje` voorbeeld punt nl |
 | `#` | hekje | hash / pound | hashtag, telefoonmenu |
 | `&` | ampersand / en-teken | ampersand | bedrijfsnamen: Smit `&` Zoon |
 | `*` | sterretje | asterisk | voetnoot |
@@ -88,8 +86,6 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 | `©` | copyrightteken | copyright | © 2026 |
 | `®` | gedeponeerd handelsmerk | registered trademark | merknaam® |
 | `™` | handelsmerk | trademark | merknaam™ |
-
-> **apenstaartje** = "little monkey tail", one of the most charming Dutch words. Spelling an e-mail aloud you say *alex apenstaartje gmail punt com*.
 
 ## Wiskundige symbolen (Mathematical symbols)
 
@@ -120,8 +116,6 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 | `$` | dollar / dollarteken | $ 100 — *honderd dollar* |
 | `£` | pond | £ 10 — *tien pond* |
 | `¥` | yen | ¥ 1000 — *duizend yen* |
-
-> In Dutch the decimal separator is a **comma** (€ 12*,*50) and the thousands separator is a **point** (1*.*000.000) — the opposite of English. *Twaalf euro vijftig* = €12.50, not €12,500.
 
 ## Common mistakes
 

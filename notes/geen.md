@@ -10,3 +10,5 @@ Like the article *een*, **geen** doesn't change for gender, but adjectives after
 
 - *geen **groot** huis* (het-word, indefinite singular → no -e)
 - *geen **grote** auto* (de-word → -e)
+
+**Quick test**: could you say "no X" / "not a X" in English (no article)? → **geen**. Is there a *de*/*het*, possessive, or demonstrative? → **niet**.

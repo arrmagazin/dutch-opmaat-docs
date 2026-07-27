@@ -27,8 +27,6 @@ flowchart TD
 | Het is mooi. | Het is **niet** mooi. |
 | Ik werk vandaag. | Ik werk vandaag **niet**. |
 
-> **Quick test:** could you say "no X" / "not a X" in English (no article)? → **geen**. Is there a *de*/*het*, possessive, or demonstrative? → **niet**.
-
 ## Placing niet
 
 **niet** negates the *whole clause* from the **end**, but jumps *forward* to sit directly before a single element it targets. Two rules cover almost everything.
@@ -58,37 +56,31 @@ With no single target, **niet** lands at the very end — but *after* definite o
 | Ik wil **niet** komen. | before the infinitive |
 | Hij staat **niet** op. | before the separable prefix |
 
-> **Rule of thumb:** *de/het*-objects, pronouns, and time/place words go **before niet**; participles, infinitives, and prefixes go **after** it.
-
 ## Other negative words
 
 These replace *niet + …* with a single word — one negator per clause is enough.
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `niets` | nothing | Ik zie **niets**. |
-| `niemand` | nobody | **Niemand** belt me. |
-| `nergens` | nowhere | Ze is **nergens** te vinden. |
-| `nooit` | never | Hij komt **nooit** te laat. |
-| `geen … meer` | no more / no longer | Ik heb **geen geld meer**. |
-| `niet meer` | no longer | Ik werk daar **niet meer**. |
-| `nog niet` | not yet | Hij is **nog niet** klaar. |
-| `niet eens` | not even | Hij heeft het **niet eens** geprobeerd. |
-| `helemaal niet` | not at all | Dat is **helemaal niet** waar. |
-| `bijna niet` | hardly | Ik kan je **bijna niet** verstaan. |
-
-> **No double negatives.** English "I don't know nothing" does *not* carry over. Dutch uses one negator: ✅ *Ik weet **niets*** ("I know nothing").
+| `note:niets` | nothing | Ik zie **niets**. |
+| `note:niemand` | nobody | **Niemand** belt me. |
+| `note:nergens` | nowhere | Ze is **nergens** te vinden. |
+| `note:nooit` | never | Hij komt **nooit** te laat. |
+| `note:geen-meer` | no more / no longer | Ik heb **geen geld meer**. |
+| `note:niet-meer` | no longer | Ik werk daar **niet meer**. |
+| `note:nog-niet` | not yet | Hij is **nog niet** klaar. |
+| `note:niet-eens` | not even | Hij heeft het **niet eens** geprobeerd. |
+| `note:helemaal-niet` | not at all | Dat is **helemaal niet** waar. |
+| `note:bijna-niet` | hardly | Ik kan je **bijna niet** verstaan. |
 
 ## Answering a negative question: jawel
 
-When a **negative** question is answered with "yes, actually" (a contradiction), Dutch uses **jawel**, not *ja*.
+When a **negative** question is answered with "yes, actually" (a contradiction), Dutch uses **jawel** (`note:jawel`), not *ja*.
 
  *Heb je geen tijd?* (Don't you have time?)
 
 - — ***Jawel**, ik kom zo.* (Yes I do, I'm coming.)
 - — ***Nee**, ik heb geen tijd.* (confirming the negative)
-
-> **jawel** pairs with **wel**, the positive counterpart of **niet**: *Ik kom **wel***. — see [Toners](/#/grammar?doc=1-auxilaries/16-toners.md).
 
 ## Common mistakes
 

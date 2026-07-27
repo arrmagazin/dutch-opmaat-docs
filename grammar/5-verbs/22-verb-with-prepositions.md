@@ -36,8 +36,6 @@ Many Dutch verbs demand a **specific preposition** that English does not share �
 - *Ik **wacht op** de bus.* — I'm waiting for the bus.
 - *Ze **houdt van** haar werk.* — She loves her job.
 
-> **vragen om vs naar.** *vragen **om*** = to request (ask *for* something): *Ze vraagt **om** hulp.* *vragen **naar*** = to enquire (ask *about / after*): *Hij vraagt **naar** de weg.*
-
 ## Adjective / state + preposition
 
 The same fixed-preposition pattern applies to some adjectives used with *zijn*:

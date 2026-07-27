@@ -40,7 +40,18 @@ Forms are judged only on **adequaatheid, spelling, woordgebruik**.
 6. **Check the small facts before you submit:** names, dates, street names, phone number, e-mail address. These are cheap spelling points.
 7. **Simple and correct beats long and wrong.** Short clear sentences score higher than ambitious ones with broken word order.
 
----
+## How to Write Longer, Richer Sentences Without Making More Mistakes
+
+The technique is simple: start with a basic sentence and gradually add one layer at a time - time, purpose, reason, detail, or contrast. See the progression below:
+
+- Basic **subject-predicat-object**: "Ik ga naar de supermarkt."
+- Add **time-mode-place**: "Vandaag ga ik naar de supermarkt."
+- Add **purpose**: "Vandaag ga ik naar de supermarkt om groente te kopen."
+- Add **reason**: "Vandaag ga ik naar de supermarkt om groente te kopen, omdat ik vanavond wil koken."
+- Add **details**: "Vandaag ga ik naar de supermarkt om groente te kopen, omdat ik vanavond wil koken en ik geen eten meer thuis heb."
+- Add **contrast**: "Hoewel ik moe ben, ga ik vandaag naar de supermarkt om groente te kopen, omdat ik vanavond wil koken en ik geen eten meer thuis heb."
+
+This approach strengthens grammar, connectors, vocabulary, and natural sentence rhythm without forcing complexity.
 
 ## Building blocks (phrase bank)
 

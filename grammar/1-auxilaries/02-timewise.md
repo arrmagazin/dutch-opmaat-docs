@@ -4,45 +4,41 @@
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `in` | in (month/year/season) | **In** januari sneeuwt het. |
-| `op` | on (day/date) | **Op** maandag werk ik thuis. |
-| `om` | at (clock time) | De film begint **om** acht uur. |
-| `voordat` | before [occur] | Bel me **voordat** je **vertrekt**. |
-| `nadat` | after [occur] | **Nadat** we **gegeten hadden**, gingen we wandelen. |
-| `zodra` | as soon as [occur] | Bel me **zodra** je **aankomt**. |
-| `totdat` | until [occur] | Wacht **totdat** ik **kom**. |
-| `toen`  | when [past-period] | **Toen** ik klein **was**, woonde ik hier. |
-| `terwijl`  | while [period] | Hij las **terwijl** ik **kookte**. |
-| `tijdens` | during [period]| **Tijdens** de vergadering bel ik niet. |
-| `sinds` | since [moment] | Ik woon hier **sinds** 2018. |
-| `tot` / `totdat` | until [moment]| We blijven **tot** zeven uur. |
-| `uiterlijk` | at the latest [deadline] | Kom **uiterlijk** om acht uur. |
-| `vanaf` | from (a time on) [occur] | **Vanaf** maandag ben ik vrij. |
-| `binnen` | within | Ik kom **binnen** een uur. |
-| `over` | in (X from now) | Ik bel je **over** vijf minuten. |
-| `geleden` | ago | Ik ben hier drie jaar **geleden** begonnen. |
-
-> *over een uur* = in an hour (future) ↔ *een uur **geleden*** = an hour ago (**geleden** follows the time phrase). *binnen een uur* = any time within the next hour.
->
-> **terwijl vs tijdens** (both "during"): **terwijl** is a conjunction + clause (*terwijl ik werk*); **tijdens** is a preposition + noun (*tijdens het werk*). See [Connectors](/#/grammar?doc=1-auxilaries/00-connectors.md).
+| `note:in` | in (month/year/season) | **In** januari sneeuwt het. |
+| `note:op` | on (day/date) | **Op** maandag werk ik thuis. |
+| `note:om` | at (clock time) | De film begint **om** acht uur. |
+| `note:voordat` | before [occur] | Bel me **voordat** je **vertrekt**. |
+| `note:nadat` | after [occur] | **Nadat** we **gegeten hadden**, gingen we wandelen. |
+| `note:zodra` | as soon as [occur] | Bel me **zodra** je **aankomt**. |
+| `note:totdat` | until [occur] | Wacht **totdat** ik **kom**. |
+| `note:toen`  | when [past-period] | **Toen** ik klein **was**, woonde ik hier. |
+| `note:terwijl`  | while [period] | Hij las **terwijl** ik **kookte**. |
+| `note:tijdens` | during [period]| **Tijdens** de vergadering bel ik niet. |
+| `note:sinds` | since [moment] | Ik woon hier **sinds** 2018. |
+| `note:tot` / `note:totdat` | until [moment]| We blijven **tot** zeven uur. |
+| `note:uiterlijk` | at the latest [deadline] | Kom **uiterlijk** om acht uur. |
+| `note:vanaf` | from (a time on) [occur] | **Vanaf** maandag ben ik vrij. |
+| `note:binnen` | within | Ik kom **binnen** een uur. |
+| `note:over` | in (X from now) | Ik bel je **over** vijf minuten. |
+| `note:geleden` | ago | Ik ben hier drie jaar **geleden** begonnen. |
 
 ## Time adverbs
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `nu` | now | Ik heb **nu** geen tijd. |
+| `note:nu` | now | Ik heb **nu** geen tijd. |
 | `note:al` | `uzho`  already / emphasis | Ik heb **al** gegeten. |
 | `note:zo` | `zaraz`  in a sec / shortly ||
-| `meteen` | immediately | Ik doe het **meteen**. |
-| `zo meteen` / `dadelijk` | in a moment | Ik kom **zo meteen**. |
+| `note:meteen` | immediately | Ik doe het **meteen**. |
+| `note:zo-meteen` / `note:dadelijk` | in a moment | Ik kom **zo meteen**. |
 | `note:net` | `amalj`  just now / exactly |Hij is **net** weg. |
 | `note:pas` | `vosj tolki`  only just / not until | Ik ben **pas** aangekomen. |
-| `nog` | still / yet | Ben je **nog** hier? |
-| `straks` | later today | Ik kom **straks** langs. |
-| `binnenkort` | soon | We zien elkaar **binnenkort**. |
-| `alvast` | in advance / go ahead and | Begin **alvast** met eten. |
+| `note:nog` | still / yet | Ben je **nog** hier? |
+| `note:straks` | later today | Ik kom **straks** langs. |
+| `note:binnenkort` | soon | We zien elkaar **binnenkort**. |
+| `note:alvast` | in advance / go ahead and | Begin **alvast** met eten. |
 | `note:soms` | `qasam`  by any chance (in questions) ||
-| `tegenwoordig` | nowadays | **Tegenwoordig** werk ik thuis. |
+| `note:tegenwoordig` | nowadays | **Tegenwoordig** werk ik thuis. |
 
 ## Day anchors
 
@@ -55,8 +51,6 @@ The *gisteren – vandaag – morgen* line
 - [ ] morgen
 - [ ] overmorgen
 - [ ] over drie dagen
-
-> **morgen** has two meanings: as a standalone word it usually means **tomorrow**; combined into **vanmorgen** / **morgenochtend** it refers to morning. Context decides.
 
 ## Parts of the Day
 
@@ -146,16 +140,12 @@ flowchart LR
 - [ ] kwart **voor** negen
 - [ ] vijf **voor** negen
 
-> ⚠️ **Half-trap:** *half negen* = **8:30**, not 9:30. Dutch counts toward the next hour.
-
 For "at X o'clock" use **om**:
 
 - *De vergadering begint **om** half drie.* — The meeting starts at 2:30.
 - *Ik sta **om** zeven uur op.* — I get up at 7.
 
 For 24-hour formal time (schedules, news): *14:30 → veertien uur dertig*.
-
-> Note the present tense for ongoing duration: *Ik woon hier **al** vijf jaar* (= I have been living here for five years). English uses the present perfect here; Dutch stays in the present.
 
 ## Woordenschat — Vocabulary
 
@@ -201,9 +191,9 @@ How to talk about *when* things happen — clock time, days, parts of the day, w
 
 ## Common mistakes
 
-- ❌ *half negen* = 9:30 → ✅ *half negen* = **8:30** — Dutch *half* counts toward the next hour.
+- ❌ *half negen* = 9:30 → ✅ *half negen* (`note:half`) = **8:30** — Dutch *half* counts toward the next hour.
 - ❌ *op acht uur* → ✅ *om acht uur* — clock time takes *om*, not *op*.
 - ❌ *tien over half negen* = 8:20 → ✅ = **8:40** — *over half* is already past the half hour.
-- ❌ confusing *morgen* (tomorrow) with *'s morgens* (in the morning) — context decides.
+- ❌ confusing *morgen* (`note:morgen`) (tomorrow) with *'s morgens* (in the morning) — context decides.
 - ❌ *ochtends drink ik koffie* → ✅ *'s ochtends…* — the *'s* (from old *des*) is required in *'s ochtends / 's middags / 's avonds*.
 - ❌ *De les duurt voor een uur* → ✅ *De les duurt een uur* — drop the English "for".

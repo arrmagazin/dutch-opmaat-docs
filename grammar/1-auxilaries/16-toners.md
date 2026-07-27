@@ -10,7 +10,7 @@ These are the "small" words that translate badly in a dictionary but appear cons
 |-------|--------------------|
 | `note:toch` | `vse gh taki`  still / anyway / after all |
 | `note:even` | `navprost`  briefly / just / quickly |
-| `note:echt` | `ryxtyk`  really / genuinely |
+| `note:echt` | `sapravdy`  really / genuinely |
 | `note:wel` | `ryxtyk`  actually / it *is* so (anti-*niet*) |
 | `note:nog` | `esqe`  still / yet / more |
 | `note:nou` | `nu`  well / come on |
@@ -58,7 +58,7 @@ The hallmark of natural speech is **stacking** particles — a native speaker th
 | `note:lekker` | `gusto`  nicely / just (defiant) |
 | `note:gerust` | `spakojna`  feel free / safely |
 | `note:juist` | `akurat`  precisely / on the contrary |
-| `namelijk` |  namely  |
+| `note:namelijk` |  namely  |
 | `note:eigenlijk` | actually  |
 
 ## Common mistakes
