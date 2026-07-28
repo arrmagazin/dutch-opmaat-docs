@@ -28,15 +28,16 @@
 |-------|---------|---------|
 | `note:nu` | now | Ik heb **nu** geen tijd. |
 | `note:al` | `uzho`  already / emphasis | Ik heb **al** gegeten. |
+| `note:alvast` | already /  ahead | Begin **alvast** met eten. |
+| `note:van-tevoren` | beforehand / in advance | Ik heb de tafel **van tevoren** gereserveerd. |
 | `note:zo` | `zaraz`  in a sec / shortly ||
 | `note:meteen` | immediately | Ik doe het **meteen**. |
 | `note:zo-meteen` / `note:dadelijk` | in a moment | Ik kom **zo meteen**. |
-| `note:net` | `amalj`  just now / exactly |Hij is **net** weg. |
+| `note:net` | `amalj`  just now / exactly | Hij is **net** weg. |
 | `note:pas` | `vosj tolki`  only just / not until | Ik ben **pas** aangekomen. |
 | `note:nog` | still / yet | Ben je **nog** hier? |
 | `note:straks` | later today | Ik kom **straks** langs. |
 | `note:binnenkort` | soon | We zien elkaar **binnenkort**. |
-| `note:alvast` | in advance / go ahead and | Begin **alvast** met eten. |
 | `note:soms` | `qasam`  by any chance (in questions) ||
 | `note:tegenwoordig` | nowadays | **Tegenwoordig** werk ik thuis. |
 
@@ -147,7 +148,7 @@ For "at X o'clock" use **om**:
 
 For 24-hour formal time (schedules, news): *14:30 → veertien uur dertig*.
 
-## Woordenschat — Vocabulary
+## Woordenschat en Uitdrukkingen — Vocabulary and Common phrases
 
 - [ ] Ik heb geen **tijd** vandaag.
 - [ ] De les duurt een **uur**.
@@ -168,7 +169,7 @@ For 24-hour formal time (schedules, news): *14:30 → veertien uur dertig*.
 - [ ] Het is al **laat**, ik ga naar bed.
 - [ ] De trein is **op tijd**.
 
-## Uitdrukkingen — Common phrases
+---
 
 - [ ] **Hoe laat is het** nu?
 - [ ] **Het is half twee**, tijd voor de lunch.

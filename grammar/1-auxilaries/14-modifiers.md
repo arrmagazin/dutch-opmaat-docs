@@ -1,6 +1,6 @@
 # Modifiers
 
-Modifiers scale or qualify another word — **how strong**, **how often**, **how exact**.
+Modifiers scale or qualify another words.
 
 ## Degree and Intensifiers
 

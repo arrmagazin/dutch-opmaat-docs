@@ -44,6 +44,9 @@
 - [ ] **Hoe laat** is het?
 - [ ] **Spreek** je Engels?
 - [ ] **Wat betekent dit woord** in het Engels?
+- [ ] **Kunt u mij vertellen** wanneer de volgende cursus begint en hoeveel het kost?
+- [ ] **Ik wil graag weten** hoe ik me kan inschrijven.
+- [ ] **Ik hoor  graag van u** op welke dagen en tijden de lessen zijn?
 
 `dialog:04-begrijp-je-dat:Begrijp je dat?`
 

@@ -1,7 +1,7 @@
 Geachte meneer/mevrouw,
 
 ---
-Ik schrijf u om u te informeren dat er op 23 april in mijn huis is ingebroken.
+Ik schrijf u om u te laten weten dat er op 23 april in mijn huis is ingebroken.
 
 Omschrijving gestolen spullen en schade:
 

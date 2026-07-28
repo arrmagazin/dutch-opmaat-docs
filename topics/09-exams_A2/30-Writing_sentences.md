@@ -88,7 +88,7 @@
 - [ ] Ik neem de tram, want het is sneller dan met de fiets.
 - [ ] Ik nodig mijn beste vrienden uit en er zullen ongeveer 10 mensen komen.
 - [ ] Ik ontspan, kook een maaltijd, kijk televisie of lees een boek.
-- [ ] Ik schrijf u om u te informeren dat er op 23 april in mijn huis is ingebroken.
+- [ ] Ik schrijf u om u te laten weten dat er op 23 april in mijn huis is ingebroken.
 - [ ] Ik speel voetbal twee keer per week met mijn vrienden in het park om de hoek.
 - [ ] Ik spreek Nederlands op niveau A2 en leer snel.
 - [ ] Ik vier het elk jaar op 27 April.

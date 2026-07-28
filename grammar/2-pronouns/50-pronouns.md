@@ -32,15 +32,15 @@ Used after a verb or a preposition (*voor mij*, *met haar*).
 
 | Person | Full | Reduced | English |
 |--------|------|---------|---------|
-| 1st sg | **mij** | me | me |
-| 2nd sg informal | **jou** | je | you |
+| 1st sg | **mij** | **me** | me |
+| 2nd sg informal | **jou** | **je** | you |
 | 2nd formal | **u** | — | you (polite) |
 | 3rd sg masc | **hem** | 'm | him |
 | 3rd sg fem | **haar** | 'r / d'r | her |
 | 3rd sg neuter | **het** | 't | it |
 | 1st pl | **ons** | — | us |
 | 2nd pl | **jullie** | — | you |
-| 3rd pl | **hen / hun** | ze | them |
+| 3rd pl | **hen / hun** | **ze** | them |
 
 ### hen vs hun vs ze
 

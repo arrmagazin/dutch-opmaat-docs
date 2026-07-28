@@ -126,7 +126,7 @@
     "title": "Email About a Course",
     "description": "Email a language school for course information or to enrol",
     "type": "email",
-    "modelAnswer": "Beste meneer/mevrouw, ik wil graag een cursus Nederlands volgen bij uw school.\nIk woon sinds vorig jaar in Nederland en ik wil mijn Nederlands verbeteren.\nKunt u mij vertellen wanneer de volgende cursus begint en hoeveel het kost?\nOok wil ik graag weten op welke dagen en tijden de lessen zijn en of er een instaptoets nodig is.\nHoe kan ik mij inschrijven?\nMet vriendelijke groet, Ahmed Hassan.",
+    "modelAnswer": "`inline:texts/follow-courses`",
     "hint": "Informatie vragen over een cursus.\nU wilt een cursus Nederlands volgen. U schrijft een e-mail aan de school.\n• Schrijf waarom u mailt.\n• Vraag wanneer de cursus begint en wat het kost.\n• Vraag hoe u zich kunt inschrijven."
   },
   {
@@ -134,7 +134,7 @@
     "title": "Calling in Sick",
     "description": "Email your boss that you are sick and cannot work",
     "type": "email",
-    "modelAnswer": "Beste mevrouw De Boer, ik schrijf u omdat ik vandaag helaas niet naar mijn werk kan komen.\nIk ben sinds gisteravond ziek.\nIk heb koorts, hoofdpijn en pijnlijke spieren.\nVannacht heb ik bijna niet geslapen.\nHet spijt mij dat ik op zo'n korte termijn afzeg.\nIk denk dat ik woensdag weer kan werken, als de koorts dan over is.\nMet vriendelijke groet, Ahmed.",
+    "modelAnswer": "`inline:texts/calling-in-sick`",
     "hint": "Ziekmelden. U bent ziek en kunt niet naar uw werk komen. U schrijft een e-mail aan uw chef.\n• Schrijf waarom u mailt.\n• Schrijf wat u mankeert.\n• Schrijf wanneer u weer denkt te kunnen werken."
   },
   {
@@ -142,7 +142,7 @@
     "title": "Ask Your Boss for a Day Off",
     "description": "Email your manager to request a day off",
     "type": "email",
-    "modelAnswer": "Beste meneer Jansen,\n\nIk wil graag volgende week een dag vrij vragen.\nKan ik op donderdag 30 juli vrij zijn?\nMijn dochter is die dag jarig en ik wil haar verjaardag vieren.\nIk hoor graag van u of dat mogelijk is.\n\nMet vriendelijke groet,\n[naam]",
+    "modelAnswer": "`inline:texts/ask-for-a-dayoff`",
     "hint": "Vrije dag aanvragen. U wilt volgende week een dag vrij vragen. U schrijft een e-mail aan uw chef, meneer Jansen.\n• Schrijf wanneer u vrij wilt hebben. Bedenk zelf een dag en datum.\n• Schrijf waarom u vrij wilt hebben. Bedenk zelf waarom."
   },
   {
@@ -150,7 +150,7 @@
     "title": "Broken Heating",
     "description": "Email your landlord about a broken heater",
     "type": "email",
-    "modelAnswer": "Beste meneer/mevrouw, ik schrijf u omdat de verwarming in mijn huis al drie dagen niet werkt.\nHet is op dit moment erg koud, ook overdag binnen niet meer dan 14 graden.\nMijn kinderen zijn al verkouden geworden.\nIk heb het zelf geprobeerd te repareren, maar het lukt niet.\nKunt u zo snel mogelijk iemand sturen?\nMet vriendelijke groet, Sara El Idrissi.",
+    "modelAnswer": "`inline:texts/file-a-complaint`",
     "hint": "Probleem melden aan de verhuurder. De verwarming in uw huis is kapot. U schrijft een e-mail aan de verhuurder.\n• Schrijf wat het probleem is.\n• Schrijf sinds wanneer het speelt.\n• Vraag of er snel iemand kan komen."
   },
   {
@@ -158,7 +158,8 @@
     "title": "File a Complaint",
     "description": "Email a webshop to return or complain about a damaged product",
     "type": "email",
-    "modelAnswer": "Geachte heer/mevrouw,\n\nOp 12 mei heb ik bestelling #88421 ontvangen, een wasmachine van het merk AEG (model L7FB94GS).\nHelaas constateer ik bij uitpakken een aantal problemen:\n\n- De zijkant van het apparaat vertoont een duidelijke deuk.\n- Het bedieningspaneel reageert niet op aanraking.\n- Bij de eerste testwas lekt er water uit de onderkant.\nIk heb foto's gemaakt en voeg deze als bijlage toe.\nAangezien het apparaat in deze staat onbruikbaar is, verzoek ik u om binnen 48 uur contact op te nemen voor vervanging of volledige terugbetaling, conform mijn rechten als consument.\nIk zie uw reactie graag tegemoet.\nMet vriendelijke groet,\nAlex Petrov\nKlantnummer: 7748392",
+        "modelAnswer": "`inline:texts/file-a-complaint`",
+
     "hint": "Klacht over een product. U hebt een kapot product ontvangen van een webshop. U schrijft een e-mail.\n• Schrijf wat u hebt gekocht en wanneer.\n• Beschrijf wat er mis is.\n• Schrijf wat u wilt: vervanging of geld terug."
   },
   {

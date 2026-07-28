@@ -4,41 +4,44 @@
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `note:en` | [this] and [appendix] | Ik werk **en** ik studeer. |
+| `note:en` | [this] and [addition] | Ik luister **en** spreek. |
+| `note:ook` | [this] also / too [addition] | Hij toevoegt dat **ook**. |
 | `note:of` | [this] or [alternative] | Wil je koffie **of** thee? |
 | `note:maar` | [this] but [contrast] | Ik wil komen, **maar** ik heb geen tijd. |
+| `note:over` | [this] about [reference] | Een boek **over** geschiedenis. |
 | `note:met` | [this] with [that] | Ik ga **met** de trein. |
-| `note:zonder` | [this] without [companion] | Koffie **zonder** suiker. |
-| `note:behalve` | [set] except [exclusion] | Iedereen kwam **behalve** Jan. |
+| `note:zonder` | [this] without [that] | Koffie **zonder** suiker. |
+| `note:behalve` | [group] except [exclusion] | Iedereen kwam **behalve** Jan. |
+| `note:in-plaats-van` | [substitution] instead of [this] | Ik neem thee **in plaats van** koffie. |
+| `note:tegen` | [this] against [opposite] | Hij praat **tegen** zijn baas. |
 | `note:per` | [action] by [mediator]| Ik kom **per** trein. |
 | `note:per` | [amount] per [unit]| 2 euro **per** kilo. |
-| `note:over` | [this] about [reference] | Een boek **over** geschiedenis. |
-| `note:tegen` | [this] against [opposite] | Hij praat **tegen** zijn baas. |
-| `note:in-plaats-van` | [substitution] instead of [origin] | Ik neem thee **in plaats van** koffie. |
 
 ## Logical connectors
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `note:daarom` | [premise]; that's why [effect] | Hij was moe; **daarom** ging hij slapen. |
-| `note:daardoor` | [premise]; as a result [effect] | Het vroor; **daardoor** waren de wegen glad. |
-| `note:om-die-reden` | [premise]; for that reason [effect] | Hij was moe; **om die reden** ging hij slapen. |
-| `note:dus` | [premise], therefore [effect] | Het regent, **dus** ik neem een paraplu. |
-| `note:want` | justified by [explain,reason] | Ik blijf thuis, **want** ik **ben** moe. |
-| `note:omdat` | … because [explain,reason,cause] | Ik blijf thuis **omdat** ik ziek **ben**. |
-| `note:opdat` | … formal so that [goal] | Hij werkt hard **opdat** zijn kinderen het beter **krijgen**. |
+| `note:daarom` | [cause] that's why [effect] | Hij was moe; **daarom** ging hij slapen. |
+| `note:daardoor` | [cause]; as a result [effect] | Het vroor; **daardoor** waren de wegen glad. |
+| `note:om-die-reden` | [cause]; for that reason [effect] | Hij was moe; **om die reden** ging hij slapen. |
+| `Naar aanleiding van` | as result of [cause], ... |  **Naar aanleiding van** uw nieuwsbrief zou ik graag meer informatie ontvangen.|
+| `note:dus` | [cause], therefore [effect] | Het regent, **dus** ik neem een paraplu. |
+| `note:want` | justified by [reason] | Ik blijf thuis, **want** ik **ben** moe. |
+| `note:omdat` | … because [reason,cause] | Ik blijf thuis **omdat** ik ziek **ben**. |
+| `note:opdat` | … formal so that [intent,goal] | Hij werkt hard **opdat** zijn kinderen het beter **krijgen**. |
 | `note:om-te` | … in order to [intent,goal] | Ik spaar **om** een huis **te** kopen. |
-| `note:teneinde` | … formal in order to [goal] | **Teneinde** kosten **te** besparen, reizen we per trein. |
+| `note:teneinde` | … formal in order to [intent,goal] | **Teneinde** kosten **te** besparen, reizen we per trein. |
+| `aangezien` | With a view to [reason], [conclusion] | Aangezien het apparaat onbruikbaar is, wil ik graag mijn geld terugkrijgen. |
 | `note:vanwege` | … because [noun-cause] | De trein reed niet **vanwege** het weer. |
-| `note:met-het-oog-op` | With a view to [noun-goal] | **Met het oog op** de toekomst sparen we. |
+| `note:met-het-oog-op`  | With a view to [noun-goal] | **Met het oog op** de toekomst sparen we. |
+| `note:ondanks` | despite [obstacle]| **Ondanks** de regen was het leuk. |
+| `note:dankzij` | thanks to [cause] | **Dankzij** jou is het gelukt. |
 | `note:of` | … whether [option] | Ik weet niet **of** hij **komt**. |
 | `note:als` | … if [premise] | **Als** het regent, blijf ik thuis. |
 | `note:indien` | … formal if [premise] | Neem contact op **indien** nodig. |
-| `note:tenzij` | … unless [not-condition] | Ik kom **tenzij** het **regent**. |
+| `note:tenzij` | … unless [restriction] | Ik kom **tenzij** het **regent**. |
 | `note:hoewel`  | … although [obstacle] | **Hoewel** het regende, gingen we toch. |
-| `note:ondanks` | despite [obstacle]| **Ondanks** de regen was het leuk. |
-| `note:dankzij` | thanks to [support] | **Dankzij** jou is het gelukt. |
-| `note:volgens` | according to [authority]| **Volgens** mij heb je gelijk. |
+| `note:volgens` `conform` | according to [authority]| **Volgens** mij heb je gelijk. |
 | `note:zodat` | [degree] so that [goal] | Spreek harder **zodat** ik je **versta**. |
 | `note:zo-dat` | so [degree] that [effect] | Het was **zo** koud **dat** ik bibberde. |
 
@@ -70,7 +73,6 @@ Order the steps of a story.
 | `note:ten-slotte` / `note:uiteindelijk` | finally / lastly | **Uiteindelijk kwam** de trein aan. |
 | `note:eindelijk` | finally / at last | **Eindelijk** is de zomer er! |
 
-
 ## Organizers and Fillers
 
 Small words that organize surrounding meaning.
@@ -87,4 +89,3 @@ Filler words that bear no meaning but keep a conversation flowing.
 |-------|---------|---------|
 | `note:weet-je` | you know  [subject]| **Weet je**, dat is echt waar. |
 | `note:zeg-maar` | so to speak  [subject]| Het is, **zeg maar**, een mix. |
-

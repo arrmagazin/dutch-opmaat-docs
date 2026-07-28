@@ -31,13 +31,19 @@ Forms are judged only on **adequaatheid, spelling, woordgebruik**.
 ## The winning strategy (do this every time)
 
 1. **Read the bullets first.** Each task lists 2–4 things you must include (`•` points). Those bullets **are** the scoring rubric. Treat them as a checklist.
-2. **Write one full sentence per bullet.** Not keywords — whole sentences (`Schrijf in hele zinnen` appears on every task). 3–5 sentences is plenty at A2.
+2. **Write one full sentence per bullet.**
+Not keywords — whole sentences (`Schrijf in hele zinnen` appears on every task). 3–5 sentences is plenty at A2.
 3. **Keep the frame they give you.** Every e-mail already has the greeting (`Beste …`) and closing (`Groetjes,` / `Met vriendelijke groet,`). Write between them; don't remove them.
 4. **Choose the right register:**
    - **u / formal** for a boss, teacher, doctor, landlord, the municipality → close with **Met vriendelijke groet**.
    - **je / informal** for a colleague, fellow student, neighbour, friend → close with **Groetjes / Groeten**.
 5. **Verb in second position** in a main clause: *Ik **kan** morgen niet komen.* (not *Morgen ik kan…*). After **omdat / dat** the verb goes to the end: *…, **omdat** ik ziek **ben**.*
-6. **Check the small facts before you submit:** names, dates, street names, phone number, e-mail address. These are cheap spelling points.
+6. **Checklist before you submit:**
+   - names, dates, street names, phone number, e-mail address.
+   - word spelling, avoid english words
+   - word order in sentence
+   - auxiliary words
+   - articles
 7. **Simple and correct beats long and wrong.** Short clear sentences score higher than ambitious ones with broken word order.
 
 ## How to Write Longer, Richer Sentences Without Making More Mistakes
