@@ -57,7 +57,7 @@
     "title": "My Favourite Clothes",
     "description": "Write a short neighbourhood-paper text about the clothes you like best",
     "type": "wijkkrant",
-    "modelAnswer": "Ik draag het liefst een spijkerbroek met een blauwe trui.\nDe trui is zacht en warm, en de broek zit lekker.\nDeze kleren draag ik meestal in het weekend.\nAls het koud is, doe ik er een jas overheen.",
+    "modelAnswer": "`inline:texts/my-favorite-clothes`",
     "hint": "Mooiste kleren. Schrijf minstens drie hele zinnen.\n• Wat draagt u het liefst?\n• Hoe zien de kleren eruit?\n• Wanneer draagt u deze kleren?"
   },
   {
@@ -110,7 +110,7 @@
     "title": "Reschedule a Study Appointment",
     "description": "Email a fellow student to move an appointment to another day",
     "type": "email",
-    "modelAnswer": "Beste Amber,\n\nWij hebben morgen een afspraak, maar ik kan helaas niet komen.\nIk moet morgen met mijn zoon naar de dokter.\nKunnen wij de afspraak verzetten naar donderdag om 15.00 uur?\nIk hoor graag of dat goed is voor jou.\n\nVriendelijke groet,\n[naam]",
+    "modelAnswer": "`inline:texts/reschedule-appointment`",
     "hint": "Afspraak verzetten. U volgt een opleiding.\nU hebt morgen een afspraak met Amber, een andere student.\nU kunt niet en wilt een andere afspraak maken.\n• Schrijf dat u de afspraak wilt verzetten.\n• Schrijf waarom u dat wilt. Bedenk zelf waarom.\n• Stel een nieuwe datum voor."
   },
   {
@@ -118,7 +118,7 @@
     "title": "Reporting Being Late",
     "description": "Email to say you'll be late for an appointment",
     "type": "email",
-    "modelAnswer": "Beste meneer/mevrouw, ik heb vandaag om 9:00 uur een afspraak bij u op kantoor.\nHelaas sta ik op dit moment in een lange file op de A4.\nEr is een ongeluk gebeurd en het verkeer staat al een half uur stil.\nIk denk dat ik rond 9:30 uur aankom, maar misschien wordt het later.\nIs het mogelijk om de afspraak alsnog door te laten gaan?\nMet vriendelijke groet, Pieter Jansen.",
+    "modelAnswer": "`inline:texts/reporting-being-late`",
     "hint": "Te laat komen. U hebt een afspraak maar u komt te laat. U schrijft een e-mail.\n• Schrijf voor welke afspraak u mailt.\n• Schrijf waarom u te laat bent.\n• Schrijf hoe laat u ongeveer aankomt."
   },
   {
@@ -158,8 +158,7 @@
     "title": "File a Complaint",
     "description": "Email a webshop to return or complain about a damaged product",
     "type": "email",
-        "modelAnswer": "`inline:texts/file-a-complaint`",
-
+    "modelAnswer": "`inline:texts/file-a-complaint`",
     "hint": "Klacht over een product. U hebt een kapot product ontvangen van een webshop. U schrijft een e-mail.\n• Schrijf wat u hebt gekocht en wanneer.\n• Beschrijf wat er mis is.\n• Schrijf wat u wilt: vervanging of geld terug."
   },
   {
@@ -167,7 +166,7 @@
     "title": "Noise Complaint",
     "description": "Write a formal complaint to the gemeente about noisy neighbors",
     "type": "email",
-    "modelAnswer": "Beste meneer/mevrouw, ik woon op de Kerkstraat 12 in Amsterdam.\nMijn buren maken elk weekend veel lawaai met harde muziek tot laat in de avond.\nIk heb al met hen gesproken, maar het is niet beter geworden.\nKunt u mij helpen?\nIk wil graag dat de gemeente met mijn buren praat.\nMet vriendelijke groet.",
+    "modelAnswer": "`inline:texts/noise-complaint`",
     "hint": "Klacht over overlast. Uw buren maken veel lawaai. U schrijft een e-mail aan de gemeente.\n• Schrijf waar u woont.\n• Beschrijf de overlast.\n• Schrijf wat u van de gemeente wilt."
   },
   {
@@ -175,7 +174,7 @@
     "title": "Insurance Claim",
     "description": "Email your insurance company about a stolen bicycle",
     "type": "email",
-    "modelAnswer": "`inline:texts/insurance-claim`",
+    "modelAnswer": "`inline:texts/job-application`",
     "hint": "Schade melden bij de verzekering. Uw fiets is gestolen. U schrijft een e-mail aan uw verzekering.\n• Schrijf wat er is gebeurd en wanneer.\n• Schrijf dat u aangifte hebt gedaan.\n• Vraag wat u moet doen om de schade vergoed te krijgen."
   },
   {
@@ -183,7 +182,7 @@
     "title": "Job Application",
     "description": "Write a short motivation letter for a job",
     "type": "email",
-    "modelAnswer": "Beste meneer/mevrouw, ik schrijf u omdat ik graag wil solliciteren voor de baan als winkelhulp bij Albert Heijn in het centrum.\nIk heb uw advertentie op de website gezien.\nIk heb twee jaar ervaring in een winkel in mijn land van herkomst.\nIk ben vriendelijk, klantgericht en kan goed in een team werken.\nIk spreek Nederlands op niveau A2 en leer snel.\nIk ben beschikbaar op maandag, woensdag en vrijdag.\nMet vriendelijke groet, Alisa.",
+    "modelAnswer": "`inline:texts/job-application`",
     "hint": "Sollicitatie. U wilt solliciteren op een baan. U schrijft een korte motivatie.\n• Schrijf op welke baan u solliciteert en waar u die zag.\n• Schrijf welke ervaring u hebt.\n• Schrijf wanneer u beschikbaar bent."
   },
   {
@@ -216,7 +215,7 @@
     "title": "Municipality Problem Report Form",
     "description": "Fill in a form to report street problems to the municipality",
     "type": "form",
-    "modelAnswer": "Voor- en achternaam: Sara Yılmaz\nAdres: Kerkstraat 12\nPostcode: 1234 AB\nWoonplaats: Utrecht\nTelefoonnummer: 06 12345678\nE-mail: s.yilmaz@mail.nl\n\nIn welke straat zijn er problemen?\nDe problemen zijn in de Kerkstraat.\n\nWat zijn de problemen?\nEr ligt veel afval op straat en dat ruikt heel vies. Ook is de stoep kapot. Mensen kunnen daardoor vallen.\nWilt u dit snel oplossen?",
+    "modelAnswer": "`inline:texts/problem-report`",
     "hint": "Meldingsformulier gemeente.\nU meldt de problemen bij de gemeente: afval op straat en een kapotte stoep.\nVul het formulier in. Sommige gegevens moet u zelf bedenken."
   },
   {

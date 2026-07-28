@@ -42,7 +42,7 @@ flowchart LR
 
 ## The mid-field: T-M-P
 
-When several elements share the mid-field, Dutch orders them **Time → Manner → Place**.
+When several context elements share the mid-field, Dutch orders them **Time → Manner → Place**.
 
 | Time | Manner | Place |
 |------|--------|-------|
@@ -59,6 +59,20 @@ Promote any element to slot 1 for emphasis — the verb still stays second:
 
 - *Morgen ga ik met de trein naar Amsterdam.* (emphasises *time*)
 - *Met de trein ga ik morgen naar Amsterdam.* (emphasises *manner*)
+
+## Mid-field order: pronouns, definite objects, negation
+
+The **object** shares this mid-field too.
+Light, already-known material moves left; new, heavy material stays right.
+
+- **Pronouns** and **definite** noun objects come **early**, before a time adverb:
+  - *Ik heb **het** gisteren gelezen.* (pronoun first)
+  - *Ik heb **het boek** gisteren gelezen.* (definite NP first)
+- **Indefinite** objects stay **later**:
+  - *Ik heb gisteren **een boek** gelezen.*
+- **niet** comes **late** — after definite objects, just before the end verbs:
+  - *Ik heb het boek gisteren **niet** gelezen.*
+  - See [negation](/#/grammar?doc=1-auxilaries/24-negators.md) for the full *niet* vs *geen* rules.
 
 ### Worked example
 
@@ -85,20 +99,6 @@ Every **non-finite verb** (past participle, infinitive) and every **separable pr
 
 > With two non-finite verbs, the **infinitive of the main verb comes last**: *Ik heb het **moeten doen*** (I had to do it); *Hij is gaan **zwemmen***.
 
-## Mid-field order: pronouns, definite objects, negation
-
-Light, already-known material moves left; new, heavy material stays right.
-
-- **Pronouns** and **definite** noun objects come **early**, before a time adverb:
-  - *Ik heb **het** gisteren gelezen.* (pronoun first)
-  - *Ik heb **het boek** gisteren gelezen.* (definite NP first)
-- **Indefinite** objects stay **later**:
-  - *Ik heb gisteren **een boek** gelezen.*
-- **niet** comes **late** — after definite objects, just before the end verbs:
-  - *Ik heb het boek gisteren **niet** gelezen.*
-
-See [negation](/#/grammar?doc=1-auxilaries/24-negators.md) for the full *niet* vs *geen* rules.
-
 ## Practice
 
 - [ ] **Morgen** ga ik naar de tandarts. — Tomorrow I'm going to the dentist.
@@ -106,20 +106,6 @@ See [negation](/#/grammar?doc=1-auxilaries/24-negators.md) for the full *niet* v
 - [ ] **Om acht uur** staat hij op. — He gets up at eight.
 - [ ] Ik ga **met de fiets** naar mijn werk. — I go to work by bike.
 - [ ] Ze hebben de film gisteren **gezien**. — They saw the film yesterday.
-
-## Building bigger sentences
-
-The clause is the frame; the phrases that fill its slots each have their own page:
-
-- Determiners and quantifiers → [determiners](/#/grammar?doc=3-nouns/14-determiners.md)
-- Adjectives and the *-e* ending → [adjectives](/#/grammar?doc=4-bijworden/34-adjectives.md)
-- Nouns and *de/het* → [nouns](/#/grammar?doc=3-nouns/02-nouns.md)
-- Pronouns (subject vs object form) → [pronouns](/#/grammar?doc=2-pronouns/50-pronouns.md)
-- Possession (*mijn boek*, *het boek van Jan*) → [possessives](/#/grammar?doc=4-bijworden/54-possesives.md)
-- Prepositions and postpositions (*de berg op*) → [connectors](/#/grammar?doc=1-auxilaries/00-connectors.md)
-- Replacing a thing after a preposition (*erover*) → [er-word](/#/grammar?doc=2-pronouns/70-er-word.md)
-
-To join clauses: [coordinating](/#/grammar?doc=8-structures/02-coordinating.md) and [subordinating](/#/grammar?doc=8-structures/03-subordinating.md) conjunctions. To attach a clause to a noun: [relative clauses](/#/grammar?doc=8-structures/04-relative_clauses.md).
 
 ## Common mistakes
 
