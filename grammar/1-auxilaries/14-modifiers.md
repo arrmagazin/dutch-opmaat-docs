@@ -47,6 +47,7 @@ A rough scale of quantity: *niets → bijna niets → **weinig** → genoeg → 
 | `note:meestal` | usually | Ik werk **meestal** thuis. |
 | `note:vaak` / `note:dikwijls` | often | Ik ga **vaak** naar de markt. |
 | `note:regelmatig` | regularly | Ik sport **regelmatig**. |
+| `toevallig` | by the cance | Heb je **toevallig** een paraplu? |
 | `note:telkens` | every time | Hij komt **telkens** te laat. |
 | `note:elke-dag` / `note:elke-keer` | every day / time | Ik drink **elke dag** thee. |
 | `note:soms` | sometimes | **Soms** regent het. |

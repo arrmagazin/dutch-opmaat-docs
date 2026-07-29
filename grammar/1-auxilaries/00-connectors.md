@@ -8,22 +8,23 @@
 | `note:ook` | [this] also / too [addition] | Hij toevoegt dat **ook**. |
 | `note:of` | [this] or [alternative] | Wil je koffie **of** thee? |
 | `note:maar` | [this] but [contrast] | Ik wil komen, **maar** ik heb geen tijd. |
+| `note:tegen` | [this] against [opposite] | Hij praat **tegen** zijn baas. |
+| `integendeel` | by [contrast] |**Integendeel**, het ging goed. |
 | `note:over` | [this] about [reference] | Een boek **over** geschiedenis. |
 | `note:met` | [this] with [that] | Ik ga **met** de trein. |
 | `note:zonder` | [this] without [that] | Koffie **zonder** suiker. |
 | `note:behalve` | [group] except [exclusion] | Iedereen kwam **behalve** Jan. |
 | `note:in-plaats-van` | [substitution] instead of [this] | Ik neem thee **in plaats van** koffie. |
-| `note:tegen` | [this] against [opposite] | Hij praat **tegen** zijn baas. |
 | `note:per` | [action] by [mediator]| Ik kom **per** trein. |
 | `note:per` | [amount] per [unit]| 2 euro **per** kilo. |
 
-## Logical connectors
+## Causuality connectors
 
 | Dutch | English | Example |
 |-------|---------|---------|
 | `note:daarom` | [cause]; that's why [effect] | Hij was moe; **daarom** ging hij slapen. |
 | `note:om-die-reden` | [cause]; for that reason [effect] | Hij was moe; **om die reden** ging hij slapen. |
-| `note:daardoor` | [cause]; as a result [effect] | Mensen **kunnen** **daardoor** vallen. |
+| `note:daardoor` | [cause]; as a result | Mensen **kunnen** **daardoor** vallen. |
 | `Naar aanleiding van` | as result of [cause], ... |  **Naar aanleiding van** uw nieuwsbrief zou ik graag meer informatie ontvangen.|
 | `note:dus` | [reason], therefore [action] | Het regent, **dus** ik neem een paraplu. |
 | `note:want` | [action], justified by [reason] | Ik blijf thuis, **want** ik **ben** moe. |
@@ -36,13 +37,13 @@
 | `note:met-het-oog-op`  | With a view to [noun-goal] | **Met het oog op** de toekomst sparen we. |
 | `note:ondanks` | despite [obstacle]| **Ondanks** de regen was het leuk. |
 | `note:dankzij` | thanks to [cause] | **Dankzij** jou is het gelukt. |
-| `note:of` | … whether [option] | Ik weet niet **of** hij **komt**. |
-| `note:als` | … if [premise] | **Als** het regent, blijf ik thuis. |
-| `note:indien` | … formal if [premise] | Neem contact op **indien** nodig. |
-| `note:tenzij` | … unless [restriction] | Ik kom **tenzij** het **regent**. |
-| `note:hoewel`  | … although [obstacle] | **Hoewel** het regende, gingen we toch. |
+| `note:of` | whether [option] | Ik weet niet **of** hij **komt**. |
+| `note:als` | if [premise] | **Als** het regent, blijf ik thuis. |
+| `note:indien` | formal if [premise] | Neem contact op **indien** nodig. |
+| `note:tenzij` | unless [restriction] | Ik kom **tenzij** het **regent**. |
+| `note:hoewel`  | although [obstacle] | **Hoewel** het regende, gingen we toch. |
 | `note:volgens` `conform` | according to [authority]| **Volgens** mij heb je gelijk. |
-| `note:zodat` | [degree] so that [goal] | Spreek harder **zodat** ik je **versta**. |
+| `note:zodat` | so that [goal] | Spreek harder **zodat** ik je **versta**. |
 | `note:zo-dat` | so [degree] that [effect] | Het was **zo** koud **dat** ik bibberde. |
 
 ## Comparing and Equality
@@ -63,8 +64,8 @@ Order the steps of a story.
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `note:eerst` / `note:dan` | first / then | **Eerst** drink ik koffie, **dan** ga ik werken. |
-| `note:toen` | then (past) | **Toen** was ik nog jong. |
+| `note:eerst`  | first | **Eerst** drink ik koffie, **dan** ga ik werken. |
+| `note:dan` / `note:toen` | then / (past) | **Toen** was ik nog jong. |
 | `note:daarna`, `note:vervolgens` | after that, next | We eten; **daarna** kijken we een film.**Vervolgens** namen we de fiets. |
 | `note:daarnaast` | besides [side-effect] | **Daarnaast** is er nog een probleem. |
 | `note:trouwens` | by the way  [appendix] | **Trouwens**, hoe gaat het? |

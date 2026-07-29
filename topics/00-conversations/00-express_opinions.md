@@ -1,18 +1,5 @@
 # Express personal opinions
 
-## Starters
-
-- [ ] **Ik vind dat** we moeten gaan.
-- [ ] **Ik denk dat** het morgen regent.
-- [ ] **Volgens mij** heb je gelijk.
-- [ ] **Naar mijn idee** is het waar.
-- [ ] **In mijn ogen** heb je ongelijk.
-- [ ] **Persoonlijk** vind ik het lekker.
-- [ ] **Wat mij betreft** hoeft dat niet.
-
-> After Ik denk dat / Ik vind dat the verb moves to the end of the clause: *Ik denk dat het leuk is* — not *…dat het is leuk*.
->
-
 ## Affirmatives and Certainty
 
 - [ ] **Precies**! Zo bedoel ik.
@@ -45,35 +32,37 @@
 
 ## Negation and Hedging Phrases
 
-- [ ] Ik vind het **niet echt** lekker.
 - [ ] **Nee hoor**. **Echt niet**, nooit.
-- [ ] Ik wil **liever niet** gaan.
 - [ ] Het is **niet zo** moeilijk.
 - [ ] Hij is **niet bepaald** vriendelijk.
-- [ ] **Integendeel**, het ging goed.
 - [ ] Dat is **eerder** een voordeel.
 
-## Express Attitude
+## Express Attitude and Preferences
 
-- [ ] **Ik hou van** koffie.
+- [ ] **Dat klinkt** `enum:goed:leuk`.
+- [ ] **Ik vind** het **niet echt** `enum:goed:lekker`.
+- [ ] **Ik vind** we moeten gaan.
 - [ ] **Ik vind** voetbal `enum:goed:leuk`, want het is `enum:goed:gezond`.
 - [ ] **Ik vind het** `enum:goed:heerlijk`, want **ik hou van** de `enum:goed:lekkere` smaak en geur.
-- [ ] **Dat klinkt** (leuk|heerlijk|logisch|perfect).
-- [ ] Ik **geef de voorkeur aan**...
+
+- [ ] **Persoonlijk** vind ik het lekker.
+- [ ] **Ik denk dat** het morgen regent.
+- [ ] **Volgens mij** heb je gelijk. **Naar mijn idee** is het waar.
+- [ ] **In mijn ogen** heb je ongelijk.
+- [ ] **Wat mij betreft** hoeft dat niet.
 - [ ] Het **belangrijkste** voor mij is dat...
-- [ ] **Ik heb een hekel aan** wachten.
 - [ ] **Ik kan** dat geluid **niet uitstaan**.
+
 - [ ] **Ik geef de voorkeur aan** thee.
+- [ ] **Ik hou van** koffie.
+- [ ] Mijn **favoriete** plek is het park, want het is `enum:goed:leuk`.
+— [ ] **Ik heb liever** koffie. Ik wil **liever** (niet) gaan. Ik kom **liefst** morgen.
+- [ ] Ik woon **(graag|liever)** in de stad, want (het is `enum:goed:gezellig` en er is veel te doen).
+- [ ] Ik **zou willen** dat er minder lawaai. Ik **zou graag** extra les **willen**.
+
 - [ ] **Ik ben gek op** reizen.
-- [ ] **Het kan me niet schelen** wat hij zegt.
 - [ ] **Ik ben benieuwd** naar de uitslag.
 - [ ] **Ik heb er (geen) zin in**!
-- [ ] Mijn **favoriete** plek is het park, want het is `enum:goed:leuk`.
-- [ ] Ik woon **(graag|liever)** in de stad, want (het is `enum:goed:gezellig` en er is veel te doen).
-— [ ] **Ik heb liever** koffie.
-— [ ] Ik kom **liefst** morgen.
-- [ ] Ik draag **het liefst** jurken de hele dag.
-- [ ] Ik **zou willen** dat er minder lawaai. Ik **zou graag** extra les **willen**.
+- [ ] **Ik heb een hekel aan** wachten.
 - [ ] **Ik ben dol op** chocolade.
 - [ ] Verder ben ik heel **tevreden**.
-- [ ] Ik hoor **graag** van u.

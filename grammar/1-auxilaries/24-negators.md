@@ -27,35 +27,6 @@ flowchart TD
 | Het is mooi. | Het is **niet** mooi. |
 | Ik werk vandaag. | Ik werk vandaag **niet**. |
 
-## Placing niet
-
-**niet** negates the *whole clause* from the **end**, but jumps *forward* to sit directly before a single element it targets. Two rules cover almost everything.
-
-### Rule 1 — niet before the word it negates
-
-Put **niet** directly in front of an adjective, adverb, prepositional phrase, or predicate noun.
-
-| Target | Example |
-|--------|---------|
-| adjective | Het is **niet** lekker. |
-| adverb | Hij rijdt **niet** snel. |
-| prepositional phrase | Ik ga **niet** naar huis. |
-| predicate noun | Dat is **niet** mijn tas. |
-
-### Rule 2 — niet at the end for the whole predicate
-
-With no single target, **niet** lands at the very end — but *after* definite objects, pronouns, and time/place adverbs, and *before* any participle, infinitive, or separable prefix.
-
-| Example | Note |
-|---------|------|
-| Ik werk **niet**. | plain verb → end |
-| Ik zie hem **niet**. | pronoun object comes first |
-| Ik vind de sleutels **niet**. | definite object comes first |
-| Ik kom morgen **niet**. | time adverb comes first |
-| Ik heb hem **niet** gezien. | before the participle |
-| Ik wil **niet** komen. | before the infinitive |
-| Hij staat **niet** op. | before the separable prefix |
-
 ## Other negative words
 
 These replace *niet + …* with a single word — one negator per clause is enough.
@@ -72,22 +43,3 @@ These replace *niet + …* with a single word — one negator per clause is enou
 | `note:niet-eens` | not even | Hij heeft het **niet eens** geprobeerd. |
 | `note:helemaal-niet` | not at all | Dat is **helemaal niet** waar. |
 | `note:bijna-niet` | hardly | Ik kan je **bijna niet** verstaan. |
-
-## Answering a negative question: jawel
-
-When a **negative** question is answered with "yes, actually" (a contradiction), Dutch uses **jawel** (`note:jawel`), not *ja*.
-
- *Heb je geen tijd?* (Don't you have time?)
-
-- — ***Jawel**, ik kom zo.* (Yes I do, I'm coming.)
-- — ***Nee**, ik heb geen tijd.* (confirming the negative)
-
-## Common mistakes
-
-- ❌ *Ik heb **niet** een auto* → ✅ *Ik heb **geen** auto* — indefinite noun takes *geen*.
-- ❌ *Ik zie **geen de** auto* → ✅ *Ik zie **de auto niet*** — a definite noun takes *niet*.
-- ❌ *Ik zie **niet** hem* → ✅ *Ik zie hem **niet*** — pronoun objects come before *niet*.
-- ❌ *Ik heb gezien **niet*** → ✅ *Ik heb **niet** gezien* — *niet* comes before the participle.
-- ❌ *Ik werk **niet meer daar*** → ✅ *Ik werk daar **niet meer*** — the place word comes first.
-- ❌ *Ik **doe niet** werken* → ✅ *Ik werk **niet*** — no *do*-support in Dutch.
-- ❌ *Heb je geen tijd? — **Ja*** → ✅ ***Jawel*** — use *jawel* to contradict a negative question.

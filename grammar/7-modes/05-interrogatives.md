@@ -69,6 +69,13 @@ Short tags seek agreement, like English "right?".
 
 Form a negative question by adding *niet* or *geen* in the usual slots — *Heb je **geen** tijd?*, *Werk jij vandaag **niet**?* Such questions often expect *jawel* when you contradict the implied negative.
 
+When a **negative** question is answered with "yes, actually" (a contradiction), Dutch uses **jawel** (`note:jawel`), not *ja*.
+
+ *Heb je geen tijd?* (Don't you have time?)
+
+- — ***Jawel**, ik kom zo.* (Yes I do, I'm coming.)
+- — ***Nee**, ik heb geen tijd.* (confirming the negative)
+
 ## Prepositional questions
 
 When the question asks about the object of a preposition, people and things behave differently.

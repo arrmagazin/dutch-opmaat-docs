@@ -125,7 +125,8 @@
 - [ ] **Kan** ik de toets op een andere dag maken?
 - [ ] Ik **wil** **graag** lezingen bijwonen **om** Nederlands **te** leren.
 - [ ] Daarom **heb** ik uw hulp nodig.
-- [ ] Daarom **heb** ik een grammaticaboek nodig **om** de opdrachten **te** oefenen. Dit boek **is** **niet** beschikbaar in de bibliotheek, en het **is** **te** duur **om** **te** kopen.
+- [ ] Daarom **heb** ik een grammaticaboek nodig **om** de opdrachten **te** oefenen.
+- [ ] Dit boek **is** **niet** beschikbaar in de bibliotheek, en het **is** **te** duur **om** **te** kopen.
 - [ ] Ik **wil** **graag** weten hoe ik me **kan** inschrijven.
 - [ ] Ik **wil** me **graag** inschrijven bij de bibliotheek.
 - [ ] Kunt u mij vertellen wanneer de volgende cursus begint en hoeveel het kost?
@@ -219,7 +220,7 @@
 ## Email closings
 
 - [ ] Ik hoor **graag** of die datum goed voor je **is**.
-- [ ] Ik hoor **graag** uw reactie.
+- [ ] Ik hoor **graag** uw reactie. Ik wacht op uw reactie.
 - [ ] Ik hoor **graag** van u of **dat** mogelijk **is**.
 - [ ] Ik hoor **graag** van u wanneer ik de toets **kan** maken.
 - [ ] Ik hoor **ook** **graag** van u of ik eventueel eerder **kan** komen?

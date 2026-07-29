@@ -10,7 +10,7 @@ flowchart TD
   A --> E["pronominal — erop, ermee"]
 ```
 
-## Existential er — "there is / there are"
+## Existential `er` — "there is / there are"
 
 Introduces a new, **indefinite** noun into the conversation. It sits at or near the front and **cannot be dropped**.
 
@@ -21,7 +21,7 @@ Introduces a new, **indefinite** noun into the conversation. It sits at or near 
 | `Er was` eens een koning. | Once upon a time there was a king. |
 | `Er` wordt hier niet `gerookt`. | No smoking here. (lit. "there is not smoked here") |
 
-## Locative er — "there" (a place)
+## Locative `er` —  *unstressed* "there" (a place)
 
 Replaces a place already mentioned. This is the *unstressed* "there".
 
@@ -31,7 +31,7 @@ Replaces a place already mentioned. This is the *unstressed* "there".
 | Ben je in Parijs geweest? Ja, ik ben `er` vorig jaar geweest. | … Yes, I was there last year. |
 | Ga je naar de markt? Ik ga `er` elke zaterdag heen. | … I go there every Saturday. |
 
-## Quantitative er — "of them" (with a number)
+## Quantitative `er` — "of them" (with a number)
 
 When a counted noun is dropped (already known), **er** holds its place next to the number or amount.
 
@@ -41,9 +41,10 @@ When a counted noun is dropped (already known), **er** holds its place next to t
 | Van die acteurs ken ik `er` maar één. | Of those actors I only know one. |
 | De aardbeien waren goedkoop, dus ze kocht `er` veel. | … so she bought a lot of them. |
 
-## Pronominal er-words (er + preposition)
+## Pronominal `er`-words (er + preposition)
 
-The most important use. To refer back to a **thing** (not a person) after a preposition, Dutch fuses **er + preposition** into one word — an **er-word**.
+To refer back to a **thing** (not a person) after a preposition.
+Dutch fuses **er + preposition** into one word — an **er-word**.
 
 Two prepositions change shape: **met → mee**, **tot → toe** (so *ermee*, *ertoe*).
 

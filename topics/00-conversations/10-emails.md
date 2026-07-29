@@ -154,7 +154,6 @@ naar functie. De voorbeeldzinnen komen uit de modelantwoorden.
 - [ ] Ik heb foto's gemaakt en voeg deze als **bijlage** toe.
 - [ ] **Ik zie uw reactie graag tegemoet**.
 - [ ] **Bij voorbaat dank** voor uw aandacht.
-- [ ] Ik wacht op uw reactie.
 
 ### Afspraken & planning
 
@@ -204,7 +203,7 @@ naar functie. De voorbeeldzinnen komen uit de modelantwoorden.
 - [ ] Ik ga volgende maand **verhuizen** naar Den Haag.
 - [ ] Hoe kunnen wij ons **inschrijven** op het nieuwe adres?
 - [ ] Ik woon in een rustige **buurt** in Amsterdam.
-- [ ] Mijn buren zijn aardig en **behulpzaam**.
+- [ ] Mijn buren zijn **aardig** en **behulpzaam**.
 - [ ] Ik zou graag een vrijblijvende **offerte** ontvangen.
 - [ ] Ik wil een **vrijblijvende** offerte aanvragen.
 - [ ] De annulering valt binnen de gestelde **termijn** van 7 dagen.

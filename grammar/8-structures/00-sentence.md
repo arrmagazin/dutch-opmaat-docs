@@ -74,6 +74,35 @@ Light, already-known material moves left; new, heavy material stays right.
   - *Ik heb het boek gisteren **niet** gelezen.*
   - See [negation](/#/grammar?doc=1-auxilaries/24-negators.md) for the full *niet* vs *geen* rules.
 
+## Placing niet
+
+**niet** negates the *whole clause* from the **end**, but jumps *forward* to sit directly before a single element it targets. Two rules cover almost everything.
+
+### Rule 1 — niet before the word it negates
+
+Put **niet** directly in front of an adjective, adverb, prepositional phrase, or predicate noun.
+
+| Target | Example |
+|--------|---------|
+| adjective | Het is **niet** lekker. |
+| adverb | Hij rijdt **niet** snel. |
+| prepositional phrase | Ik ga **niet** naar huis. |
+| predicate noun | Dat is **niet** mijn tas. |
+
+### Rule 2 — niet at the end for the whole predicate
+
+With no single target, **niet** lands at the very end — but *after* definite objects, pronouns, and time/place adverbs, and *before* any participle, infinitive, or separable prefix.
+
+| Example | Note |
+|---------|------|
+| Ik werk **niet**. | plain verb → end |
+| Ik zie hem **niet**. | pronoun object comes first |
+| Ik vind de sleutels **niet**. | definite object comes first |
+| Ik kom morgen **niet**. | time adverb comes first |
+| Ik heb hem **niet** gezien. | before the participle |
+| Ik wil **niet** komen. | before the infinitive |
+| Hij staat **niet** op. | before the separable prefix |
+
 ### Worked example
 
 *Gisteren* **heb** *ik* *met mijn broer in de stad* **gewandeld**.
@@ -114,3 +143,8 @@ Every **non-finite verb** (past participle, infinitive) and every **separable pr
 - ❌ *Ik ga naar Utrecht met de trein morgen* → ✅ *Ik ga **morgen met de trein naar Utrecht*** — T-M-P, not English P-M-T.
 - ❌ *Ik **opsta** om zeven uur* → ✅ *Ik **sta** om zeven uur **op*** — the separable prefix goes to the end.
 - ❌ *Ik heb gisteren **het** gelezen* → ✅ *Ik heb **het** gisteren gelezen* — an object pronoun moves early in the mid-field.
+- ❌ *Ik zie **niet** hem* → ✅ *Ik zie hem **niet*** — pronoun objects come before *niet*.
+- ❌ *Ik heb gezien **niet*** → ✅ *Ik heb **niet** gezien* — *niet* comes before the participle.
+- ❌ *Ik werk **niet meer daar*** → ✅ *Ik werk daar **niet meer*** — the place word comes first.
+- ❌ *Ik **doe niet** werken* → ✅ *Ik werk **niet*** — no *do*-support in Dutch.
+- ❌ *Heb je geen tijd? — **Ja*** → ✅ ***Jawel*** — use *jawel* to contradict a negative question.
