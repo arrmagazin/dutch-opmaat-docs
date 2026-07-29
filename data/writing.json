@@ -150,7 +150,7 @@
     "title": "Broken Heating",
     "description": "Email your landlord about a broken heater",
     "type": "email",
-    "modelAnswer": "`inline:texts/file-a-complaint`",
+    "modelAnswer": "`inline:texts/broken-heating`",
     "hint": "Probleem melden aan de verhuurder. De verwarming in uw huis is kapot. U schrijft een e-mail aan de verhuurder.\n• Schrijf wat het probleem is.\n• Schrijf sinds wanneer het speelt.\n• Vraag of er snel iemand kan komen."
   },
   {
@@ -174,7 +174,7 @@
     "title": "Insurance Claim",
     "description": "Email your insurance company about a stolen bicycle",
     "type": "email",
-    "modelAnswer": "`inline:texts/job-application`",
+    "modelAnswer": "`inline:texts/insurance-claim`",
     "hint": "Schade melden bij de verzekering. Uw fiets is gestolen. U schrijft een e-mail aan uw verzekering.\n• Schrijf wat er is gebeurd en wanneer.\n• Schrijf dat u aangifte hebt gedaan.\n• Vraag wat u moet doen om de schade vergoed te krijgen."
   },
   {
