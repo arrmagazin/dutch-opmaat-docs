@@ -166,11 +166,10 @@
 ## Theft, loss & police report
 
 - [ ] Ik schrijf u **om** u **te** laten weten **dat** er op 23 april in mijn huis **is** ingebroken.
-- [ ] Helaas **is** mijn laptop gestolen.
+- [ ] Helaas **is** mijn laptop gestolen.  Ook **is** mijn horloge weg.
 - [ ] Mijn fiets **is** gisteren rond 17:00 uur gestolen bij Utrecht Centraal.
 - [ ] Het gaat **om** een zwarte Gazelle uit 2022.
 - [ ] Ik **heb** direct aangifte gedaan bij de politie. Het nummer van de aangifte **is** PL-2024-12345.
-- [ ] Ook **is** mijn horloge weg.
 - [ ] Nu **is** alles goed en alle spullen staan op hun plaats.
 
 ## Borrowing, favors & thanks

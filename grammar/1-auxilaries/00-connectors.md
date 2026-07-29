@@ -21,18 +21,18 @@
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `note:daarom` | [cause] that's why [effect] | Hij was moe; **daarom** ging hij slapen. |
-| `note:daardoor` | [cause]; as a result [effect] | Het vroor; **daardoor** waren de wegen glad. |
+| `note:daarom` | [cause]; that's why [effect] | Hij was moe; **daarom** ging hij slapen. |
 | `note:om-die-reden` | [cause]; for that reason [effect] | Hij was moe; **om die reden** ging hij slapen. |
+| `note:daardoor` | [cause]; as a result [effect] | Mensen **kunnen** **daardoor** vallen. |
 | `Naar aanleiding van` | as result of [cause], ... |  **Naar aanleiding van** uw nieuwsbrief zou ik graag meer informatie ontvangen.|
-| `note:dus` | [cause], therefore [effect] | Het regent, **dus** ik neem een paraplu. |
-| `note:want` | justified by [reason] | Ik blijf thuis, **want** ik **ben** moe. |
-| `note:omdat` | … because [reason,cause] | Ik blijf thuis **omdat** ik ziek **ben**. |
-| `note:opdat` | … formal so that [intent,goal] | Hij werkt hard **opdat** zijn kinderen het beter **krijgen**. |
-| `note:om-te` | … in order to [intent,goal] | Ik spaar **om** een huis **te** kopen. |
-| `note:teneinde` | … formal in order to [intent,goal] | **Teneinde** kosten **te** besparen, reizen we per trein. |
-| `aangezien` | With a view to [reason], [conclusion] | Aangezien het apparaat onbruikbaar is, wil ik graag mijn geld terugkrijgen. |
-| `note:vanwege` | … because [noun-cause] | De trein reed niet **vanwege** het weer. |
+| `note:dus` | [reason], therefore [action] | Het regent, **dus** ik neem een paraplu. |
+| `note:want` | [action], justified by [reason] | Ik blijf thuis, **want** ik **ben** moe. |
+| `note:omdat` | [action] because [reason,cause] | Ik blijf thuis **omdat** ik ziek **ben**. |
+| `note:vanwege` | [action] because [noun-cause] | De trein reed niet **vanwege** het weer. |
+| `note:opdat` | [action] formal so that [intent,goal] | Hij werkt hard **opdat** zijn kinderen het beter **krijgen**. |
+| `note:om-te` | [action] in order to [intent,goal] | Ik spaar **om** een huis **te** kopen. |
+| `note:teneinde` | [action] formal in order to [intent,goal] | reizen we per trein, **teneinde** kosten **te** besparen |
+| `aangezien` | With a view to [reason], [action] | **Aangezien** het apparaat onbruikbaar is, wil ik graag mijn geld terugkrijgen. |
 | `note:met-het-oog-op`  | With a view to [noun-goal] | **Met het oog op** de toekomst sparen we. |
 | `note:ondanks` | despite [obstacle]| **Ondanks** de regen was het leuk. |
 | `note:dankzij` | thanks to [cause] | **Dankzij** jou is het gelukt. |

@@ -41,18 +41,6 @@
 | `note:soms` | `qasam`  by any chance (in questions) ||
 | `note:tegenwoordig` | nowadays | **Tegenwoordig** werk ik thuis. |
 
-## Day anchors
-
-The *gisteren – vandaag – morgen* line
-
-- [ ] drie dagen geleden
-- [ ] eergisteren
-- [ ] gisteren
-- [ ] vandaag
-- [ ] morgen
-- [ ] overmorgen
-- [ ] over drie dagen
-
 ## Parts of the Day
 
 - [ ] In de **ochtend** drink ik koffie.
@@ -69,9 +57,9 @@ Combine with **van-** for *this* or anchor words for *that*:
 | `vanavond` | `gisteravond` | `morgenavond` |
 | `vannacht` | `vannacht` (last night) | `morgennacht` (rare) |
 
-## Days of the Week (de dagen van de week)
+## Day anchors and Days of the Week (de dagen van de week)
 
-Lowercase in Dutch.
+*drie dagen geleden - eergisteren - gistereng – vandaag – morgen - overmorgen - over drie dagen*
 
 - [ ] Op **maandag** begint de week.
 - [ ] Ik heb **dinsdag** een afspraak.
@@ -80,6 +68,8 @@ Lowercase in Dutch.
 - [ ] **Vrijdag** ga ik vroeg naar huis.
 - [ ] Op **zaterdag** doe ik boodschappen.
 - [ ] **Zondag** slaap ik uit.
+
+> Lowercase in Dutch.
 
 Use **op** before a day for "on Monday":
 
