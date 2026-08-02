@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bg-transportation" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e3f6fb"/><stop offset="1" stop-color="#a5dcec"/>
+    </linearGradient>
+    <filter id="sh-transportation" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="36" fill="url(#bg-transportation)"/>
+  <circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+  <g filter="url(#sh-transportation)">
+      <circle cx="290" cy="330" r="78" fill="none" stroke="#1976a3" stroke-width="16"/>
+      <circle cx="510" cy="330" r="78" fill="none" stroke="#1976a3" stroke-width="16"/>
+      <path d="M 290 330 L 380 210 h 78 M 380 210 l 78 120 M 290 330 h 168 M 458 330 l -40 -80" fill="none" stroke="#0f5d84" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M 250 210 h 40 l 14 30" fill="none" stroke="#0f5d84" stroke-width="14" stroke-linecap="round"/>
+      <circle cx="290" cy="330" r="14" fill="#0f5d84"/><circle cx="510" cy="330" r="14" fill="#0f5d84"/></g>
+  <rect x="0" y="502" width="800" height="98" rx="0" fill="#ffffff" opacity="0.0"/>
+  <text x="400" y="548" text-anchor="middle" font-size="42" font-weight="800" fill="#1a6d86">Transportation</text>
+  <text x="400" y="580" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="3" fill="#1a6d86" opacity="0.55">DUTCH A2 · VRAAG &amp; ANTWOORD</text>
+</svg>

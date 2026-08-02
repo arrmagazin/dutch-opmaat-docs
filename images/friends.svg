@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bg-friends" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffeef6"/><stop offset="1" stop-color="#ffc2df"/>
+    </linearGradient>
+    <filter id="sh-friends" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="36" fill="url(#bg-friends)"/>
+  <circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+  <g filter="url(#sh-friends)">
+      <circle cx="316" cy="165" r="26.599999999999998" fill="#f06292"/>
+   <path d="M 276.1 275.2 a 39.9 49.4 0 0 1 79.8 0 Z" fill="#ec407a"/>
+      <circle cx="486" cy="165" r="26.599999999999998" fill="#ba68c8"/>
+   <path d="M 446.1 275.2 a 39.9 49.4 0 0 1 79.8 0 Z" fill="#ab47bc"/>
+      <path d="M 388 210 c -22 -26 -58 -4 0 34 c 58 -38 22 -60 0 -34 Z" fill="#ffffff"/>
+      <path d="M 402 250 h 40 v 20 h -40 Z" fill="none"/>
+      <rect x="360" y="360" width="120" height="10" rx="5" fill="#d81b60" opacity="0.5"/></g>
+  <rect x="0" y="502" width="800" height="98" rx="0" fill="#ffffff" opacity="0.0"/>
+  <text x="400" y="548" text-anchor="middle" font-size="42" font-weight="800" fill="#b23070">Friends</text>
+  <text x="400" y="580" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="3" fill="#b23070" opacity="0.55">DUTCH A2 · VRAAG &amp; ANTWOORD</text>
+</svg>

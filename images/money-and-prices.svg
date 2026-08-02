@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bg-money-and-prices" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e6f7ee"/><stop offset="1" stop-color="#a7e3c4"/>
+    </linearGradient>
+    <filter id="sh-money-and-prices" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="36" fill="url(#bg-money-and-prices)"/>
+  <circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+  <g filter="url(#sh-money-and-prices)">
+      
+        <ellipse cx="330" cy="388" rx="86" ry="26" fill="#f4c430" stroke="#c99a12" stroke-width="4"/>
+        <text x="330" y="397" text-anchor="middle" font-size="26" font-weight="800" fill="#b5850a">€</text>
+        <ellipse cx="330" cy="352" rx="86" ry="26" fill="#ffd75e" stroke="#c99a12" stroke-width="4"/>
+        <text x="330" y="361" text-anchor="middle" font-size="26" font-weight="800" fill="#b5850a">€</text>
+        <ellipse cx="330" cy="316" rx="86" ry="26" fill="#f4c430" stroke="#c99a12" stroke-width="4"/>
+        <text x="330" y="325" text-anchor="middle" font-size="26" font-weight="800" fill="#b5850a">€</text>
+        <ellipse cx="330" cy="280" rx="86" ry="26" fill="#ffd75e" stroke="#c99a12" stroke-width="4"/>
+        <text x="330" y="289" text-anchor="middle" font-size="26" font-weight="800" fill="#b5850a">€</text>
+      <g transform="translate(486 220) rotate(20)">
+        <path d="M 0 0 h 96 l 60 60 l -78 78 l -60 -60 Z" fill="#26a69a"/>
+        <circle cx="30" cy="30" r="15" fill="#ffffff"/>
+      </g></g>
+  <rect x="0" y="502" width="800" height="98" rx="0" fill="#ffffff" opacity="0.0"/>
+  <text x="400" y="548" text-anchor="middle" font-size="42" font-weight="800" fill="#1c7a4d">Money &amp; Prices</text>
+  <text x="400" y="580" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="3" fill="#1c7a4d" opacity="0.55">DUTCH A2 · VRAAG &amp; ANTWOORD</text>
+</svg>

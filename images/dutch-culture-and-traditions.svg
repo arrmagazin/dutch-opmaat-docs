@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bg-dutch-culture-and-traditions" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff2df"/><stop offset="1" stop-color="#ffce8f"/>
+    </linearGradient>
+    <filter id="sh-dutch-culture-and-traditions" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="36" fill="url(#bg-dutch-culture-and-traditions)"/>
+  <circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+  <g filter="url(#sh-dutch-culture-and-traditions)">
+      <rect x="372" y="250" width="56" height="200" fill="#8d5524"/>
+      <path d="M 344 250 L 400 196 L 456 250 Z" fill="#a86a2e"/>
+      <g stroke="#5b3a12" stroke-width="14" stroke-linecap="round">
+        <line x1="400" y1="216" x2="316" y2="132"/><line x1="400" y1="216" x2="484" y2="300"/>
+        <line x1="400" y1="216" x2="316" y2="300"/><line x1="400" y1="216" x2="484" y2="132"/>
+      </g>
+      
+        <path d="M 300 430 q -14 -30 0 -44 q 14 14 0 44 Z" fill="#e53935"/>
+        <path d="M 300 432 v 30" stroke="#2e7d32" stroke-width="5"/>
+        <path d="M 350 442 q -14 -30 0 -44 q 14 14 0 44 Z" fill="#fb8c00"/>
+        <path d="M 350 444 v 30" stroke="#2e7d32" stroke-width="5"/>
+        <path d="M 458 442 q -14 -30 0 -44 q 14 14 0 44 Z" fill="#8e24aa"/>
+        <path d="M 458 444 v 30" stroke="#2e7d32" stroke-width="5"/>
+        <path d="M 508 430 q -14 -30 0 -44 q 14 14 0 44 Z" fill="#e53935"/>
+        <path d="M 508 432 v 30" stroke="#2e7d32" stroke-width="5"/></g>
+  <rect x="0" y="502" width="800" height="98" rx="0" fill="#ffffff" opacity="0.0"/>
+  <text x="400" y="548" text-anchor="middle" font-size="42" font-weight="800" fill="#a55f10">Dutch Culture &amp; Traditions</text>
+  <text x="400" y="580" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="3" fill="#a55f10" opacity="0.55">DUTCH A2 · VRAAG &amp; ANTWOORD</text>
+</svg>

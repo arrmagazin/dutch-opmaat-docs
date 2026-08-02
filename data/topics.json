@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "personal-introduction",
+    "name": "Personal Introduction",
+    "domain": "socium"
+  },
+  {
+    "id": "family",
+    "name": "Family",
+    "domain": "socium"
+  },
+  {
+    "id": "daily-routines",
+    "name": "Daily Routines",
+    "domain": "system"
+  },
+  {
+    "id": "free-time",
+    "name": "Free Time",
+    "domain": "culture"
+  },
+  {
+    "id": "job-and-workplace",
+    "name": "Job & Workplace",
+    "domain": "civil"
+  },
+  {
+    "id": "food-and-shopping",
+    "name": "Food & Shopping",
+    "domain": "food"
+  },
+  {
+    "id": "learning-dutch",
+    "name": "Learning Dutch",
+    "domain": "language"
+  },
+  {
+    "id": "life-in-the-netherlands",
+    "name": "Life in the Netherlands",
+    "domain": "civil"
+  },
+  {
+    "id": "body-and-health",
+    "name": "Body & Health",
+    "domain": "body"
+  },
+  {
+    "id": "home-and-living",
+    "name": "Home & Living",
+    "domain": "artifacts"
+  },
+  {
+    "id": "money-and-prices",
+    "name": "Money & Prices",
+    "domain": "civil"
+  },
+  {
+    "id": "transportation",
+    "name": "Transportation",
+    "domain": "artifacts"
+  },
+  {
+    "id": "friends",
+    "name": "Friends",
+    "domain": "socium"
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "domain": "artifacts"
+  },
+  {
+    "id": "travel",
+    "name": "Travel",
+    "domain": "civil"
+  },
+  {
+    "id": "future-and-dreams",
+    "name": "Future & Dreams",
+    "domain": "agentic"
+  },
+  {
+    "id": "dutch-culture-and-traditions",
+    "name": "Dutch Culture & Traditions",
+    "domain": "culture"
+  },
+  {
+    "id": "weather-and-seasons",
+    "name": "Weather & Seasons",
+    "domain": "nature"
+  },
+  {
+    "id": "abrupt",
+    "name": "Abrupt",
+    "domain": "agentic"
+  },
+  {
+    "id": "acceptance",
+    "name": "Acceptance",
+    "domain": "agentic"
+  },
+  {
+    "id": "assess",
+    "name": "Assess",
+    "domain": "agentic"
+  },
+  {
+    "id": "choice",
+    "name": "Choice",
+    "domain": "agentic"
+  },
+  {
+    "id": "control",
+    "name": "Control",
+    "domain": "agentic"
+  },
+  {
+    "id": "dynamic",
+    "name": "Dynamic",
+    "domain": "agentic"
+  },
+  {
+    "id": "effort",
+    "name": "Effort",
+    "domain": "agentic"
+  },
+  {
+    "id": "guideline",
+    "name": "Guideline",
+    "domain": "agentic"
+  },
+  {
+    "id": "intent",
+    "name": "Intent",
+    "domain": "agentic"
+  },
+  {
+    "id": "mistake",
+    "name": "Mistake",
+    "domain": "agentic"
+  },
+  {
+    "id": "operation",
+    "name": "Operation",
+    "domain": "agentic"
+  },
+  {
+    "id": "result",
+    "name": "Result",
+    "domain": "agentic"
+  },
+  {
+    "id": "solution",
+    "name": "Solution",
+    "domain": "agentic"
+  },
+  {
+    "id": "strive",
+    "name": "Strive",
+    "domain": "agentic"
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "domain": "artifacts"
+  },
+  {
+    "id": "appliances",
+    "name": "Appliances",
+    "domain": "artifacts"
+  },
+  {
+    "id": "building",
+    "name": "Building",
+    "domain": "artifacts"
+  },
+  {
+    "id": "buildparts",
+    "name": "Buildparts",
+    "domain": "artifacts"
+  },
+  {
+    "id": "buildrooms",
+    "name": "Buildrooms",
+    "domain": "artifacts"
+  },
+  {
+    "id": "clothing",
+    "name": "Clothing",
+    "domain": "artifacts"
+  },
+  {
+    "id": "document",
+    "name": "Document",
+    "domain": "artifacts"
+  },
+  {
+    "id": "furniture",
+    "name": "Furniture",
+    "domain": "artifacts"
+  },
+  {
+    "id": "media",
+    "name": "Media",
+    "domain": "artifacts"
+  },
+  {
+    "id": "technic",
+    "name": "Technic",
+    "domain": "artifacts"
+  },
+  {
+    "id": "tool",
+    "name": "Tool",
+    "domain": "artifacts"
+  },
+  {
+    "id": "transport",
+    "name": "Transport",
+    "domain": "artifacts"
+  },
+  {
+    "id": "utensils",
+    "name": "Utensils",
+    "domain": "artifacts"
+  },
+  {
+    "id": "venue",
+    "name": "Venue",
+    "domain": "artifacts"
+  },
+  {
+    "id": "behave",
+    "name": "Behave",
+    "domain": "body"
+  },
+  {
+    "id": "bodypart",
+    "name": "Bodypart",
+    "domain": "body"
+  },
+  {
+    "id": "eating",
+    "name": "Eating",
+    "domain": "body"
+  },
+  {
+    "id": "gesture",
+    "name": "Gesture",
+    "domain": "body"
+  },
+  {
+    "id": "headparts",
+    "name": "Headparts",
+    "domain": "body"
+  },
+  {
+    "id": "health",
+    "name": "Health",
+    "domain": "body"
+  },
+  {
+    "id": "limbs",
+    "name": "Limbs",
+    "domain": "body"
+  },
+  {
+    "id": "live",
+    "name": "Live",
+    "domain": "body"
+  },
+  {
+    "id": "mimic",
+    "name": "Mimic",
+    "domain": "body"
+  },
+  {
+    "id": "voice",
+    "name": "Voice",
+    "domain": "body"
+  },
+  {
+    "id": "walk",
+    "name": "Walk",
+    "domain": "body"
+  },
+  {
+    "id": "business",
+    "name": "Business",
+    "domain": "civil"
+  },
+  {
+    "id": "city",
+    "name": "City",
+    "domain": "civil"
+  },
+  {
+    "id": "craft",
+    "name": "Craft",
+    "domain": "civil"
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "domain": "civil"
+  },
+  {
+    "id": "finance",
+    "name": "Finance",
+    "domain": "civil"
+  },
+  {
+    "id": "job",
+    "name": "Job",
+    "domain": "civil"
+  },
+  {
+    "id": "justice",
+    "name": "Justice",
+    "domain": "civil"
+  },
+  {
+    "id": "market",
+    "name": "Market",
+    "domain": "civil"
+  },
+  {
+    "id": "profession",
+    "name": "Profession",
+    "domain": "civil"
+  },
+  {
+    "id": "service",
+    "name": "Service",
+    "domain": "civil"
+  },
+  {
+    "id": "society",
+    "name": "Society",
+    "domain": "civil"
+  },
+  {
+    "id": "accent",
+    "name": "Accent",
+    "domain": "core"
+  },
+  {
+    "id": "binding",
+    "name": "Binding",
+    "domain": "core"
+  },
+  {
+    "id": "compare",
+    "name": "Compare",
+    "domain": "core"
+  },
+  {
+    "id": "complex",
+    "name": "Complex",
+    "domain": "core"
+  },
+  {
+    "id": "content",
+    "name": "Content",
+    "domain": "core"
+  },
+  {
+    "id": "degree",
+    "name": "Degree",
+    "domain": "core"
+  },
+  {
+    "id": "diff",
+    "name": "Diff",
+    "domain": "core"
+  },
+  {
+    "id": "essence",
+    "name": "Essence",
+    "domain": "core"
+  },
+  {
+    "id": "evaluation",
+    "name": "Evaluation",
+    "domain": "core"
+  },
+  {
+    "id": "group",
+    "name": "Group",
+    "domain": "core"
+  },
+  {
+    "id": "limit",
+    "name": "Limit",
+    "domain": "core"
+  },
+  {
+    "id": "measure",
+    "name": "Measure",
+    "domain": "core"
+  },
+  {
+    "id": "norm",
+    "name": "Norm",
+    "domain": "core"
+  },
+  {
+    "id": "order",
+    "name": "Order",
+    "domain": "core"
+  },
+  {
+    "id": "pattern",
+    "name": "Pattern",
+    "domain": "core"
+  },
+  {
+    "id": "quantity",
+    "name": "Quantity",
+    "domain": "core"
+  },
+  {
+    "id": "sequence",
+    "name": "Sequence",
+    "domain": "core"
+  },
+  {
+    "id": "structure",
+    "name": "Structure",
+    "domain": "core"
+  },
+  {
+    "id": "thing",
+    "name": "Thing",
+    "domain": "core"
+  },
+  {
+    "id": "type",
+    "name": "Type",
+    "domain": "core"
+  },
+  {
+    "id": "arts",
+    "name": "Arts",
+    "domain": "culture"
+  },
+  {
+    "id": "customs",
+    "name": "Customs",
+    "domain": "culture"
+  },
+  {
+    "id": "leisure",
+    "name": "Leisure",
+    "domain": "culture"
+  },
+  {
+    "id": "audio",
+    "name": "Audio",
+    "domain": "experience"
+  },
+  {
+    "id": "beauty",
+    "name": "Beauty",
+    "domain": "experience"
+  },
+  {
+    "id": "emotion",
+    "name": "Emotion",
+    "domain": "experience"
+  },
+  {
+    "id": "feelings",
+    "name": "Feelings",
+    "domain": "experience"
+  },
+  {
+    "id": "love",
+    "name": "Love",
+    "domain": "experience"
+  },
+  {
+    "id": "perceive",
+    "name": "Perceive",
+    "domain": "experience"
+  },
+  {
+    "id": "pleasure",
+    "name": "Pleasure",
+    "domain": "experience"
+  },
+  {
+    "id": "scent",
+    "name": "Scent",
+    "domain": "experience"
+  },
+  {
+    "id": "taste",
+    "name": "Taste",
+    "domain": "experience"
+  },
+  {
+    "id": "visual",
+    "name": "Visual",
+    "domain": "experience"
+  },
+  {
+    "id": "cook",
+    "name": "Cook",
+    "domain": "food"
+  },
+  {
+    "id": "dishes",
+    "name": "Dishes",
+    "domain": "food"
+  },
+  {
+    "id": "drinks",
+    "name": "Drinks",
+    "domain": "food"
+  },
+  {
+    "id": "ingredients",
+    "name": "Ingredients",
+    "domain": "food"
+  },
+  {
+    "id": "knowledge",
+    "name": "Knowledge",
+    "domain": "knowledge"
+  },
+  {
+    "id": "science",
+    "name": "Science",
+    "domain": "knowledge"
+  },
+  {
+    "id": "express",
+    "name": "Express",
+    "domain": "language"
+  },
+  {
+    "id": "language",
+    "name": "Language",
+    "domain": "language"
+  },
+  {
+    "id": "script",
+    "name": "Script",
+    "domain": "language"
+  },
+  {
+    "id": "animals",
+    "name": "Animals",
+    "domain": "life"
+  },
+  {
+    "id": "bird",
+    "name": "Bird",
+    "domain": "life"
+  },
+  {
+    "id": "insect",
+    "name": "Insect",
+    "domain": "life"
+  },
+  {
+    "id": "plant",
+    "name": "Plant",
+    "domain": "life"
+  },
+  {
+    "id": "rodents",
+    "name": "Rodents",
+    "domain": "life"
+  },
+  {
+    "id": "species",
+    "name": "Species",
+    "domain": "life"
+  },
+  {
+    "id": "tamed",
+    "name": "Tamed",
+    "domain": "life"
+  },
+  {
+    "id": "tree",
+    "name": "Tree",
+    "domain": "life"
+  },
+  {
+    "id": "vegetables",
+    "name": "Vegetables",
+    "domain": "life"
+  },
+  {
+    "id": "assume",
+    "name": "Assume",
+    "domain": "mental"
+  },
+  {
+    "id": "certainty",
+    "name": "Certainty",
+    "domain": "mental"
+  },
+  {
+    "id": "cognition",
+    "name": "Cognition",
+    "domain": "mental"
+  },
+  {
+    "id": "creative",
+    "name": "Creative",
+    "domain": "mental"
+  },
+  {
+    "id": "find",
+    "name": "Find",
+    "domain": "mental"
+  },
+  {
+    "id": "inspect",
+    "name": "Inspect",
+    "domain": "mental"
+  },
+  {
+    "id": "know",
+    "name": "Know",
+    "domain": "mental"
+  },
+  {
+    "id": "learn",
+    "name": "Learn",
+    "domain": "mental"
+  },
+  {
+    "id": "mental",
+    "name": "Mental",
+    "domain": "mental"
+  },
+  {
+    "id": "prognosis",
+    "name": "Prognosis",
+    "domain": "mental"
+  },
+  {
+    "id": "reasoning",
+    "name": "Reasoning",
+    "domain": "mental"
+  },
+  {
+    "id": "smart",
+    "name": "Smart",
+    "domain": "mental"
+  },
+  {
+    "id": "celestials",
+    "name": "Celestials",
+    "domain": "nature"
+  },
+  {
+    "id": "color",
+    "name": "Color",
+    "domain": "nature"
+  },
+  {
+    "id": "daypart",
+    "name": "Daypart",
+    "domain": "nature"
+  },
+  {
+    "id": "landscape",
+    "name": "Landscape",
+    "domain": "nature"
+  },
+  {
+    "id": "materials",
+    "name": "Materials",
+    "domain": "nature"
+  },
+  {
+    "id": "metal",
+    "name": "Metal",
+    "domain": "nature"
+  },
+  {
+    "id": "pure",
+    "name": "Pure",
+    "domain": "nature"
+  },
+  {
+    "id": "season",
+    "name": "Season",
+    "domain": "nature"
+  },
+  {
+    "id": "seescape",
+    "name": "Seescape",
+    "domain": "nature"
+  },
+  {
+    "id": "substance",
+    "name": "Substance",
+    "domain": "nature"
+  },
+  {
+    "id": "temperature",
+    "name": "Temperature",
+    "domain": "nature"
+  },
+  {
+    "id": "timeunit",
+    "name": "Timeunit",
+    "domain": "nature"
+  },
+  {
+    "id": "weather",
+    "name": "Weather",
+    "domain": "nature"
+  },
+  {
+    "id": "consume",
+    "name": "Consume",
+    "domain": "resource"
+  },
+  {
+    "id": "exchange",
+    "name": "Exchange",
+    "domain": "resource"
+  },
+  {
+    "id": "expose",
+    "name": "Expose",
+    "domain": "resource"
+  },
+  {
+    "id": "getting",
+    "name": "Getting",
+    "domain": "resource"
+  },
+  {
+    "id": "lend",
+    "name": "Lend",
+    "domain": "resource"
+  },
+  {
+    "id": "loss",
+    "name": "Loss",
+    "domain": "resource"
+  },
+  {
+    "id": "need",
+    "name": "Need",
+    "domain": "resource"
+  },
+  {
+    "id": "possess",
+    "name": "Possess",
+    "domain": "resource"
+  },
+  {
+    "id": "prepare",
+    "name": "Prepare",
+    "domain": "resource"
+  },
+  {
+    "id": "produce",
+    "name": "Produce",
+    "domain": "resource"
+  },
+  {
+    "id": "send",
+    "name": "Send",
+    "domain": "resource"
+  },
+  {
+    "id": "care",
+    "name": "Care",
+    "domain": "socium"
+  },
+  {
+    "id": "communicate",
+    "name": "Communicate",
+    "domain": "socium"
+  },
+  {
+    "id": "conflict",
+    "name": "Conflict",
+    "domain": "socium"
+  },
+  {
+    "id": "convince",
+    "name": "Convince",
+    "domain": "socium"
+  },
+  {
+    "id": "cooperate",
+    "name": "Cooperate",
+    "domain": "socium"
+  },
+  {
+    "id": "deceive",
+    "name": "Deceive",
+    "domain": "socium"
+  },
+  {
+    "id": "game",
+    "name": "Game",
+    "domain": "socium"
+  },
+  {
+    "id": "meeting",
+    "name": "Meeting",
+    "domain": "socium"
+  },
+  {
+    "id": "negotiate",
+    "name": "Negotiate",
+    "domain": "socium"
+  },
+  {
+    "id": "person",
+    "name": "Person",
+    "domain": "socium"
+  },
+  {
+    "id": "recognition",
+    "name": "Recognition",
+    "domain": "socium"
+  },
+  {
+    "id": "secret",
+    "name": "Secret",
+    "domain": "socium"
+  },
+  {
+    "id": "talk",
+    "name": "Talk",
+    "domain": "socium"
+  },
+  {
+    "id": "virtue",
+    "name": "Virtue",
+    "domain": "socium"
+  },
+  {
+    "id": "angle",
+    "name": "Angle",
+    "domain": "spatial"
+  },
+  {
+    "id": "destination",
+    "name": "Destination",
+    "domain": "spatial"
+  },
+  {
+    "id": "direction",
+    "name": "Direction",
+    "domain": "spatial"
+  },
+  {
+    "id": "distance",
+    "name": "Distance",
+    "domain": "spatial"
+  },
+  {
+    "id": "extent",
+    "name": "Extent",
+    "domain": "spatial"
+  },
+  {
+    "id": "impulse",
+    "name": "Impulse",
+    "domain": "spatial"
+  },
+  {
+    "id": "linear",
+    "name": "Linear",
+    "domain": "spatial"
+  },
+  {
+    "id": "move",
+    "name": "Move",
+    "domain": "spatial"
+  },
+  {
+    "id": "place",
+    "name": "Place",
+    "domain": "spatial"
+  },
+  {
+    "id": "position",
+    "name": "Position",
+    "domain": "spatial"
+  },
+  {
+    "id": "relocate",
+    "name": "Relocate",
+    "domain": "spatial"
+  },
+  {
+    "id": "shape",
+    "name": "Shape",
+    "domain": "spatial"
+  },
+  {
+    "id": "surface",
+    "name": "Surface",
+    "domain": "spatial"
+  },
+  {
+    "id": "transform",
+    "name": "Transform",
+    "domain": "spatial"
+  },
+  {
+    "id": "up-down",
+    "name": "Up-down",
+    "domain": "spatial"
+  },
+  {
+    "id": "cause",
+    "name": "Cause",
+    "domain": "system"
+  },
+  {
+    "id": "change",
+    "name": "Change",
+    "domain": "system"
+  },
+  {
+    "id": "disruption",
+    "name": "Disruption",
+    "domain": "system"
+  },
+  {
+    "id": "duration",
+    "name": "Duration",
+    "domain": "system"
+  },
+  {
+    "id": "flow",
+    "name": "Flow",
+    "domain": "system"
+  },
+  {
+    "id": "habit",
+    "name": "Habit",
+    "domain": "system"
+  },
+  {
+    "id": "occurence",
+    "name": "Occurence",
+    "domain": "system"
+  },
+  {
+    "id": "potention",
+    "name": "Potention",
+    "domain": "system"
+  },
+  {
+    "id": "power",
+    "name": "Power",
+    "domain": "system"
+  },
+  {
+    "id": "progress",
+    "name": "Progress",
+    "domain": "system"
+  },
+  {
+    "id": "repeat",
+    "name": "Repeat",
+    "domain": "system"
+  },
+  {
+    "id": "security",
+    "name": "Security",
+    "domain": "system"
+  },
+  {
+    "id": "situation",
+    "name": "Situation",
+    "domain": "system"
+  },
+  {
+    "id": "systain",
+    "name": "Systain",
+    "domain": "system"
+  },
+  {
+    "id": "tempo",
+    "name": "Tempo",
+    "domain": "system"
+  },
+  {
+    "id": "timeline",
+    "name": "Timeline",
+    "domain": "system"
+  }
+]

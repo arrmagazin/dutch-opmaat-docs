@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bg-family" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff0ec"/><stop offset="1" stop-color="#ffc9b8"/>
+    </linearGradient>
+    <filter id="sh-family" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="36" fill="url(#bg-family)"/>
+  <circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+  <g filter="url(#sh-family)">
+      <circle cx="300" cy="150" r="28" fill="#ff8a65"/>
+   <path d="M 258 266 a 42 52 0 0 1 84 0 Z" fill="#ff7043"/>
+      <circle cx="500" cy="150" r="28" fill="#ffb27a"/>
+   <path d="M 458 266 a 42 52 0 0 1 84 0 Z" fill="#ff9a52"/>
+      <circle cx="400" cy="235" r="20.16" fill="#ffd28a"/>
+   <path d="M 369.76 318.52 a 30.24 37.44 0 0 1 60.48 0 Z" fill="#ffbe5c"/>
+      <path d="M 400 300 c -30 -34 -78 -6 0 46 c 78 -52 30 -80 0 -46 Z" fill="#e53935"/></g>
+  <rect x="0" y="502" width="800" height="98" rx="0" fill="#ffffff" opacity="0.0"/>
+  <text x="400" y="548" text-anchor="middle" font-size="42" font-weight="800" fill="#a8412a">Family</text>
+  <text x="400" y="580" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="3" fill="#a8412a" opacity="0.55">DUTCH A2 · VRAAG &amp; ANTWOORD</text>
+</svg>

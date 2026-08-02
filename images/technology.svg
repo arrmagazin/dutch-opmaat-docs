@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bg-technology" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e9ecfb"/><stop offset="1" stop-color="#b7bff0"/>
+    </linearGradient>
+    <filter id="sh-technology" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="36" fill="url(#bg-technology)"/>
+  <circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+  <g filter="url(#sh-technology)">
+      <rect x="270" y="200" width="260" height="170" rx="16" fill="#3f51b5"/>
+      <rect x="286" y="216" width="228" height="138" rx="6" fill="#c5cbf2"/>
+      <path d="M 244 370 h 312 l 22 40 q 6 14 -12 14 H 234 q -18 0 -12 -14 Z" fill="#5866c9"/>
+      <g stroke="#ffffff" stroke-width="10" fill="none" stroke-linecap="round">
+        <path d="M 360 300 a 46 46 0 0 1 80 0"/>
+        <path d="M 378 322 a 24 24 0 0 1 44 0"/>
+      </g>
+      <circle cx="400" cy="336" r="7" fill="#ffffff"/></g>
+  <rect x="0" y="502" width="800" height="98" rx="0" fill="#ffffff" opacity="0.0"/>
+  <text x="400" y="548" text-anchor="middle" font-size="42" font-weight="800" fill="#37409a">Technology</text>
+  <text x="400" y="580" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="3" fill="#37409a" opacity="0.55">DUTCH A2 · VRAAG &amp; ANTWOORD</text>
+</svg>

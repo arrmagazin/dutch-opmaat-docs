@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bg-home-and-living" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbeee2"/><stop offset="1" stop-color="#e8c3a0"/>
+    </linearGradient>
+    <filter id="sh-home-and-living" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="36" fill="url(#bg-home-and-living)"/>
+  <circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+  <g filter="url(#sh-home-and-living)">
+      <path d="M 400 160 L 560 300 H 240 Z" fill="#c0562b"/>
+      <rect x="270" y="300" width="260" height="150" fill="#e8b98c"/>
+      <rect x="360" y="360" width="80" height="90" rx="6" fill="#8a5320"/>
+      <rect x="300" y="330" width="52" height="46" rx="6" fill="#fff3e0"/>
+      <rect x="448" y="330" width="52" height="46" rx="6" fill="#fff3e0"/>
+      <rect x="486" y="196" width="34" height="70" fill="#9a4622"/>
+      <circle cx="400" cy="405" r="6" fill="#e8b98c"/></g>
+  <rect x="0" y="502" width="800" height="98" rx="0" fill="#ffffff" opacity="0.0"/>
+  <text x="400" y="548" text-anchor="middle" font-size="42" font-weight="800" fill="#8a5320">Home &amp; Living</text>
+  <text x="400" y="580" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="3" fill="#8a5320" opacity="0.55">DUTCH A2 · VRAAG &amp; ANTWOORD</text>
+</svg>

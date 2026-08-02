@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bg-travel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e4f2fe"/><stop offset="1" stop-color="#a9d4f7"/>
+    </linearGradient>
+    <filter id="sh-travel" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="36" fill="url(#bg-travel)"/>
+  <circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+  <g filter="url(#sh-travel)">
+      <path d="M 230 400 q 180 -230 360 -160" fill="none" stroke="#3a86c8" stroke-width="8" stroke-dasharray="4 22" stroke-linecap="round"/>
+      <g transform="translate(430 210) rotate(28)">
+        <path d="M -110 0 L 90 -14 q 40 -2 40 14 q 0 16 -40 14 L -110 0 Z" fill="#1e88e5"/>
+        <path d="M -30 -6 L -70 -70 h 34 L 20 -14 Z" fill="#1565c0"/>
+        <path d="M -30 6 L -70 70 h 34 L 20 14 Z" fill="#1565c0"/>
+        <path d="M 70 -4 L 100 -34 h 20 L 108 0 Z" fill="#1565c0"/>
+      </g>
+      <circle cx="250" cy="410" r="46" fill="#4fc3f7"/>
+      <path d="M 250 364 v 92 M 204 410 h 92 M 214 386 q 36 20 72 0 M 214 434 q 36 -20 72 0" stroke="#0277bd" stroke-width="5" fill="none"/></g>
+  <rect x="0" y="502" width="800" height="98" rx="0" fill="#ffffff" opacity="0.0"/>
+  <text x="400" y="548" text-anchor="middle" font-size="42" font-weight="800" fill="#1c5f9e">Travel</text>
+  <text x="400" y="580" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="3" fill="#1c5f9e" opacity="0.55">DUTCH A2 · VRAAG &amp; ANTWOORD</text>
+</svg>

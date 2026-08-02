@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bg-daily-routines" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff7e0"/><stop offset="1" stop-color="#ffe08a"/>
+    </linearGradient>
+    <filter id="sh-daily-routines" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="36" fill="url(#bg-daily-routines)"/>
+  <circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+  <g filter="url(#sh-daily-routines)">
+      <circle cx="400" cy="250" r="150" fill="#ffffff"/>
+      <circle cx="400" cy="250" r="150" fill="none" stroke="#f4b52e" stroke-width="14"/>
+      <line x1="400.0" y1="132.0" x2="400.0" y2="116.0" stroke="#f4b52e" stroke-width="7" stroke-linecap="round"/><line x1="459.0" y1="147.8" x2="467.0" y2="134.0" stroke="#f4b52e" stroke-width="7" stroke-linecap="round"/><line x1="502.2" y1="191.0" x2="516.0" y2="183.0" stroke="#f4b52e" stroke-width="7" stroke-linecap="round"/><line x1="518.0" y1="250.0" x2="534.0" y2="250.0" stroke="#f4b52e" stroke-width="7" stroke-linecap="round"/><line x1="502.2" y1="309.0" x2="516.0" y2="317.0" stroke="#f4b52e" stroke-width="7" stroke-linecap="round"/><line x1="459.0" y1="352.2" x2="467.0" y2="366.0" stroke="#f4b52e" stroke-width="7" stroke-linecap="round"/><line x1="400.0" y1="368.0" x2="400.0" y2="384.0" stroke="#f4b52e" stroke-width="7" stroke-linecap="round"/><line x1="341.0" y1="352.2" x2="333.0" y2="366.0" stroke="#f4b52e" stroke-width="7" stroke-linecap="round"/><line x1="297.8" y1="309.0" x2="284.0" y2="317.0" stroke="#f4b52e" stroke-width="7" stroke-linecap="round"/><line x1="282.0" y1="250.0" x2="266.0" y2="250.0" stroke="#f4b52e" stroke-width="7" stroke-linecap="round"/><line x1="297.8" y1="191.0" x2="284.0" y2="183.0" stroke="#f4b52e" stroke-width="7" stroke-linecap="round"/><line x1="341.0" y1="147.8" x2="333.0" y2="134.0" stroke="#f4b52e" stroke-width="7" stroke-linecap="round"/>
+      <line x1="400" y1="250" x2="400" y2="168" stroke="#5b4a1f" stroke-width="12" stroke-linecap="round"/>
+      <line x1="400" y1="250" x2="462" y2="288" stroke="#5b4a1f" stroke-width="12" stroke-linecap="round"/>
+      <circle cx="400" cy="250" r="14" fill="#5b4a1f"/>
+      <path d="M 250 120 a 30 30 0 0 1 -52 0 Z" fill="#ff8f00"/>
+      <path d="M 600 120 a 30 30 0 0 0 52 0 Z" fill="#455a64"/></g>
+  <rect x="0" y="502" width="800" height="98" rx="0" fill="#ffffff" opacity="0.0"/>
+  <text x="400" y="548" text-anchor="middle" font-size="42" font-weight="800" fill="#9a6b12">Daily Routines</text>
+  <text x="400" y="580" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="3" fill="#9a6b12" opacity="0.55">DUTCH A2 · VRAAG &amp; ANTWOORD</text>
+</svg>

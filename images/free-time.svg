@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bg-free-time" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e3f7f4"/><stop offset="1" stop-color="#a7e6dc"/>
+    </linearGradient>
+    <filter id="sh-free-time" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="36" fill="url(#bg-free-time)"/>
+  <circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+  <g filter="url(#sh-free-time)">
+      <path d="M 250 330 q 0 -26 26 -26 h 118 v 190 h -118 q -26 0 -26 -26 Z" fill="#26a69a"/>
+      <path d="M 394 304 h 118 q 26 0 26 26 v 138 q 0 26 -26 26 h -118 Z" fill="#00897b"/>
+      <line x1="394" y1="304" x2="394" y2="494" stroke="#0b4a42" stroke-width="8"/>
+      <path d="M 300 330 h 66 M 300 366 h 66 M 300 402 h 66" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+      <g transform="translate(560 160)">
+        <path d="M 0 120 V 8 l 78 -20 v 96" fill="none" stroke="#0b4a42" stroke-width="12" stroke-linecap="round"/>
+        <circle cx="-14" cy="120" r="22" fill="#0b4a42"/>
+        <circle cx="64" cy="104" r="22" fill="#0b4a42"/>
+      </g></g>
+  <rect x="0" y="502" width="800" height="98" rx="0" fill="#ffffff" opacity="0.0"/>
+  <text x="400" y="548" text-anchor="middle" font-size="42" font-weight="800" fill="#1d6f63">Free Time</text>
+  <text x="400" y="580" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="3" fill="#1d6f63" opacity="0.55">DUTCH A2 · VRAAG &amp; ANTWOORD</text>
+</svg>

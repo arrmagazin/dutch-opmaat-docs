@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bg-learning-dutch" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff1e2"/><stop offset="1" stop-color="#ffcf9e"/>
+    </linearGradient>
+    <filter id="sh-learning-dutch" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="36" fill="url(#bg-learning-dutch)"/>
+  <circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+  <g filter="url(#sh-learning-dutch)">
+      <path d="M 400 300 q -80 -46 -150 -22 v 176 q 70 -24 150 22 Z" fill="#ffffff"/>
+      <path d="M 400 300 q 80 -46 150 -22 v 176 q -70 -24 -150 22 Z" fill="#ffe0bd"/>
+      <path d="M 400 300 v 176" stroke="#c77c30" stroke-width="6"/>
+      <path d="M 288 320 h 78 M 288 350 h 78 M 288 380 h 60" stroke="#e0a866" stroke-width="7" stroke-linecap="round"/>
+      <text x="474" y="392" text-anchor="middle" font-size="60" font-weight="900" fill="#e8641c">NL</text>
+      <g transform="translate(400 176)">
+        <path d="M -96 34 L 0 0 L 96 34 L 0 68 Z" fill="#5b3a12"/>
+        <path d="M 30 47 v 40 l 22 8 v -40" fill="none" stroke="#5b3a12" stroke-width="7"/>
+        <path d="M 0 68 v 24" stroke="#5b3a12" stroke-width="7"/>
+      </g></g>
+  <rect x="0" y="502" width="800" height="98" rx="0" fill="#ffffff" opacity="0.0"/>
+  <text x="400" y="548" text-anchor="middle" font-size="42" font-weight="800" fill="#a85a10">Learning Dutch</text>
+  <text x="400" y="580" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="3" fill="#a85a10" opacity="0.55">DUTCH A2 · VRAAG &amp; ANTWOORD</text>
+</svg>

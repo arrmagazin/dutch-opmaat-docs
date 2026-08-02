@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bg-future-and-dreams" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#efe6fb"/><stop offset="1" stop-color="#c4a9ef"/>
+    </linearGradient>
+    <filter id="sh-future-and-dreams" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="36" fill="url(#bg-future-and-dreams)"/>
+  <circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+  <g filter="url(#sh-future-and-dreams)">
+      <path d="M 250 164 l 5 12 l 13 4 l -13 4 l -5 12 l -5 -12 l -13 -4 l 13 -4 Z" fill="#ffffff" opacity="0.5"/><path d="M 560 144 l 5 12 l 13 4 l -13 4 l -5 12 l -5 -12 l -13 -4 l 13 -4 Z" fill="#ffffff" opacity="0.6"/><path d="M 600 304 l 5 12 l 13 4 l -13 4 l -5 12 l -5 -12 l -13 -4 l 13 -4 Z" fill="#ffffff" opacity="0.7"/><path d="M 220 324 l 5 12 l 13 4 l -13 4 l -5 12 l -5 -12 l -13 -4 l 13 -4 Z" fill="#ffffff" opacity="0.5"/><path d="M 520 404 l 5 12 l 13 4 l -13 4 l -5 12 l -5 -12 l -13 -4 l 13 -4 Z" fill="#ffffff" opacity="0.6"/>
+      <g transform="translate(400 300)">
+        <path d="M 0 -130 c 46 30 46 110 0 170 c -46 -60 -46 -140 0 -170 Z" fill="#ffffff"/>
+        <circle cx="0" cy="-40" r="24" fill="#7e57c2"/>
+        <path d="M -30 44 q -34 8 -40 56 q 40 -6 46 -30 Z" fill="#ff7043"/>
+        <path d="M 30 44 q 34 8 40 56 q -40 -6 -46 -30 Z" fill="#ff7043"/>
+        <path d="M -16 60 q 16 44 32 0 q -6 30 -16 44 q -10 -14 -16 -44 Z" fill="#ffca28"/>
+      </g></g>
+  <rect x="0" y="502" width="800" height="98" rx="0" fill="#ffffff" opacity="0.0"/>
+  <text x="400" y="548" text-anchor="middle" font-size="42" font-weight="800" fill="#5b2f9e">Future &amp; Dreams</text>
+  <text x="400" y="580" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="3" fill="#5b2f9e" opacity="0.55">DUTCH A2 · VRAAG &amp; ANTWOORD</text>
+</svg>
