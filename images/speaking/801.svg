@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg801" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eafaef"/><stop offset="1" stop-color="#b4e6bf"/></linearGradient>
+<filter id="sh801" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg801)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh801)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><path d="M 50 30 q 22 -10 30 12 q 8 24 -12 42 q -12 12 -18 4 q -6 8 -18 -4 q -20 -18 -12 -42 q 8 -22 30 -12 Z" fill="#e0483d"/><rect x="47" y="18" width="5" height="14" rx="2" fill="#8d6042"/><path d="M 52 24 q 14 -10 20 0 q -12 8 -20 0 Z" fill="#2e7d32"/><path d="M 38 44 q 6 -8 14 -6" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<circle cx="86" cy="122" r="17" fill="#2f7d43"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh801)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><rect x="16" y="20" width="68" height="66" rx="8" fill="#ffffff" stroke="#5b6b7d" stroke-width="3"/><rect x="16" y="20" width="68" height="18" rx="8" fill="#e0483d"/><rect x="16" y="32" width="68" height="6" fill="#e0483d"/><line x1="32" y1="12" x2="32" y2="26" stroke="#33404f" stroke-width="5" stroke-linecap="round"/><line x1="68" y1="12" x2="68" y2="26" stroke="#33404f" stroke-width="5" stroke-linecap="round"/><rect x="25" y="46" width="10" height="8" rx="2" fill="#d6dee7"/><rect x="40" y="46" width="10" height="8" rx="2" fill="#d6dee7"/><rect x="55" y="46" width="10" height="8" rx="2" fill="#d6dee7"/><rect x="70" y="46" width="10" height="8" rx="2" fill="#d6dee7"/><rect x="25" y="59" width="10" height="8" rx="2" fill="#d6dee7"/><rect x="40" y="59" width="10" height="8" rx="2" fill="#d6dee7"/><rect x="55" y="59" width="10" height="8" rx="2" fill="#d6dee7"/><rect x="70" y="59" width="10" height="8" rx="2" fill="#d6dee7"/><rect x="25" y="72" width="10" height="8" rx="2" fill="#d6dee7"/><rect x="40" y="72" width="10" height="8" rx="2" fill="#d6dee7"/><rect x="55" y="72" width="10" height="8" rx="2" fill="#d6dee7"/><rect x="70" y="72" width="10" height="8" rx="2" fill="#d6dee7"/></g>
+<circle cx="446" cy="122" r="17" fill="#2f7d43"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#2f7d43">Food and Shopping</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#2f7d43" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

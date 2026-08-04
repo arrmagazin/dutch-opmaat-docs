@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg826" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e6f7ee"/><stop offset="1" stop-color="#a7e3c4"/></linearGradient>
+<filter id="sh826" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg826)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh826)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><path d="M 30 26 L 44 22 q 6 6 12 0 L 70 26 L 92 44 L 80 58 L 72 52 L 72 88 L 28 88 L 28 52 L 20 58 L 8 44 Z" fill="#8e6ac4" stroke="#6f4fa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="28" y1="66" x2="72" y2="66" stroke="#6f4fa5" stroke-width="3" stroke-linecap="round"/><line x1="28" y1="76" x2="72" y2="76" stroke="#6f4fa5" stroke-width="3" stroke-linecap="round"/></g>
+<circle cx="86" cy="122" r="17" fill="#1c7a4d"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh826)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><path d="M 8 50 q 8 -36 42 -36 q 34 0 42 36 Z" fill="#e0483d" stroke="#b8382e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 8 50 q 12 -12 21 0 q 12 -12 21 0 q 12 -12 21 0 q 12 -12 21 0" fill="none" stroke="#b8382e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="50" y1="50" x2="50" y2="82" stroke="#68757f" stroke-width="5" stroke-linecap="round"/><path d="M 50 82 q 0 10 -12 10 q -8 0 -8 -8" fill="none" stroke="#68757f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<circle cx="446" cy="122" r="17" fill="#1c7a4d"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#1c7a4d">Money and Prices</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#1c7a4d" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

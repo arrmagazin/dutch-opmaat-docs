@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg837" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3f7f4"/><stop offset="1" stop-color="#a7e6dc"/></linearGradient>
+<filter id="sh837" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg837)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh837)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><rect x="8" y="32" width="84" height="52" rx="8" fill="#8d6042" stroke="#6b4630" stroke-width="3"/><circle cx="34" cy="58" r="16" fill="#d6dee7" stroke="#33404f" stroke-width="3"/><line x1="22" y1="50" x2="46" y2="50" stroke="#68757f" stroke-width="2" stroke-linecap="round"/><line x1="22" y1="56" x2="46" y2="56" stroke="#68757f" stroke-width="2" stroke-linecap="round"/><line x1="22" y1="62" x2="46" y2="62" stroke="#68757f" stroke-width="2" stroke-linecap="round"/><line x1="22" y1="68" x2="46" y2="68" stroke="#68757f" stroke-width="2" stroke-linecap="round"/><circle cx="70" cy="50" r="7" fill="#33404f"/><circle cx="70" cy="70" r="7" fill="#33404f"/><line x1="80" y1="32" x2="92" y2="10" stroke="#68757f" stroke-width="4" stroke-linecap="round"/></g>
+<circle cx="86" cy="122" r="17" fill="#1d6f63"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh837)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><line x1="38" y1="24" x2="38" y2="70" stroke="#33404f" stroke-width="5" stroke-linecap="round"/><line x1="72" y1="16" x2="72" y2="62" stroke="#33404f" stroke-width="5" stroke-linecap="round"/><rect x="38" y="16" width="34" height="10" rx="3" fill="#33404f"/><ellipse cx="30" cy="72" rx="12" ry="9" fill="#8e6ac4"/><ellipse cx="64" cy="64" rx="12" ry="9" fill="#8e6ac4"/></g>
+<circle cx="446" cy="122" r="17" fill="#1d6f63"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#1d6f63">Free Time</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#1d6f63" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

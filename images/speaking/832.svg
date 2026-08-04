@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg832" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff2df"/><stop offset="1" stop-color="#ffce8f"/></linearGradient>
+<filter id="sh832" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg832)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh832)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><rect x="18" y="34" width="20" height="20" rx="5" fill="#33404f"/><rect x="36" y="50" width="20" height="20" rx="5" fill="#33404f"/><rect x="54" y="34" width="20" height="20" rx="5" fill="#33404f"/><rect x="72" y="50" width="20" height="20" rx="5" fill="#33404f"/><rect x="20" y="78" width="60" height="10" rx="4" fill="#68757f"/></g>
+<circle cx="86" cy="122" r="17" fill="#a55f10"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh832)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><path d="M 10 58 L 90 58 L 82 84 L 18 84 Z" fill="#d9a05b" stroke="#8d6042" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 14 58 q 36 -30 72 0 Z" fill="#e8b96e"/><line x1="24" y1="44" x2="34" y2="58" stroke="#8d6042" stroke-width="3" stroke-linecap="round"/><line x1="36" y1="44" x2="46" y2="58" stroke="#8d6042" stroke-width="3" stroke-linecap="round"/><line x1="48" y1="44" x2="58" y2="58" stroke="#8d6042" stroke-width="3" stroke-linecap="round"/><line x1="60" y1="44" x2="70" y2="58" stroke="#8d6042" stroke-width="3" stroke-linecap="round"/><line x1="72" y1="44" x2="82" y2="58" stroke="#8d6042" stroke-width="3" stroke-linecap="round"/><circle cx="50" cy="34" r="6" fill="#e0483d"/><rect x="48" y="26" width="4" height="8" rx="1" fill="#8d6042"/></g>
+<circle cx="446" cy="122" r="17" fill="#a55f10"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#a55f10">Dutch Culture and Traditions</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#a55f10" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

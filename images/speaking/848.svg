@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg848" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e4f2fe"/><stop offset="1" stop-color="#a9d4f7"/></linearGradient>
+<filter id="sh848" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg848)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh848)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><rect x="18" y="24" width="64" height="70" rx="4" fill="#e6dcc8" stroke="#8d6042" stroke-width="3"/><rect x="26" y="34" width="11" height="11" rx="2" fill="#8ecdf0"/><rect x="43" y="34" width="11" height="11" rx="2" fill="#8ecdf0"/><rect x="60" y="34" width="11" height="11" rx="2" fill="#8ecdf0"/><rect x="26" y="50" width="11" height="11" rx="2" fill="#8ecdf0"/><rect x="43" y="50" width="11" height="11" rx="2" fill="#8ecdf0"/><rect x="60" y="50" width="11" height="11" rx="2" fill="#8ecdf0"/><rect x="26" y="66" width="11" height="11" rx="2" fill="#8ecdf0"/><rect x="43" y="66" width="11" height="11" rx="2" fill="#8ecdf0"/><rect x="60" y="66" width="11" height="11" rx="2" fill="#8ecdf0"/><rect x="42" y="82" width="16" height="12" rx="2" fill="#8d6042"/><polygon points="26.0,11.0 27.3,14.2 30.8,14.5 28.1,16.7 28.9,20.0 26.0,18.2 23.1,20.0 23.9,16.7 21.2,14.5 24.7,14.2" fill="#f7c948"/><polygon points="38.0,11.0 39.3,14.2 42.8,14.5 40.1,16.7 40.9,20.0 38.0,18.2 35.1,20.0 35.9,16.7 33.2,14.5 36.7,14.2" fill="#f7c948"/><polygon points="50.0,11.0 51.3,14.2 54.8,14.5 52.1,16.7 52.9,20.0 50.0,18.2 47.1,20.0 47.9,16.7 45.2,14.5 48.7,14.2" fill="#f7c948"/><polygon points="62.0,11.0 63.3,14.2 66.8,14.5 64.1,16.7 64.9,20.0 62.0,18.2 59.1,20.0 59.9,16.7 57.2,14.5 60.7,14.2" fill="#f7c948"/><polygon points="74.0,11.0 75.3,14.2 78.8,14.5 76.1,16.7 76.9,20.0 74.0,18.2 71.1,20.0 71.9,16.7 69.2,14.5 72.7,14.2" fill="#f7c948"/></g>
+<circle cx="86" cy="122" r="17" fill="#1c5f9e"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh848)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><circle cx="72" cy="26" r="16" fill="#f7c948"/><rect x="0" y="46" width="100" height="54" rx="2" fill="#4aa3d8"/><path d="M 0 54 q 14 -8 26 0 t 26 0 t 26 0 t 26 0" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 0 68 q 14 -8 26 0 t 26 0 t 26 0 t 26 0" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 0 82 q 14 -8 26 0 t 26 0 t 26 0 t 26 0" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><polygon points="14,46 22,26 30,46" fill="#f0e2c0"/></g>
+<circle cx="446" cy="122" r="17" fill="#1c5f9e"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#1c5f9e">Travel</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#1c5f9e" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

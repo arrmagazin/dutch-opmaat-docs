@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg806" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff2df"/><stop offset="1" stop-color="#ffce8f"/></linearGradient>
+<filter id="sh806" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg806)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh806)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><path d="M 12 70 L 20 26 L 36 46 L 50 18 L 64 46 L 80 26 L 88 70 Z" fill="#ff9d00" stroke="#d97b00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="12" y="70" width="76" height="14" rx="4" fill="#ff7a00"/><circle cx="50" cy="40" r="6" fill="#e0483d"/><circle cx="26" cy="46" r="5" fill="#3f7fd0"/><circle cx="74" cy="46" r="5" fill="#4caf50"/></g>
+<circle cx="86" cy="122" r="17" fill="#a55f10"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh806)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><path d="M 28 24 L 42 20 q 8 8 16 0 L 72 24 L 92 42 L 80 56 L 72 50 L 72 88 L 28 88 L 28 50 L 20 56 L 8 42 Z" fill="#ff7a00" stroke="#d96500" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="50" y="72" text-anchor="middle" font-size="26" font-weight="800" fill="#ffffff">NL</text></g>
+<circle cx="446" cy="122" r="17" fill="#a55f10"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#a55f10">Dutch Culture and Traditions</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#a55f10" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

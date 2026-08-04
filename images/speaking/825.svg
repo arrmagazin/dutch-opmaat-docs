@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg825" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff1e2"/><stop offset="1" stop-color="#ffcf9e"/></linearGradient>
+<filter id="sh825" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg825)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh825)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><rect x="8" y="12" width="84" height="34" rx="4" fill="#2e7d32"/><line x1="18" y1="24" x2="66" y2="24" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/><line x1="18" y1="34" x2="48" y2="34" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/><rect x="10" y="62" width="34" height="8" rx="2" fill="#8d6042"/><rect x="56" y="62" width="34" height="8" rx="2" fill="#8d6042"/><circle cx="27" cy="54.05" r="6.050000000000001" fill="#f0c49b"/><path d="M 20.95 53.1425 a 6.050000000000001 6.050000000000001 0 0 1 12.100000000000001 0 a 6.050000000000001 4.235 0 0 0 -12.100000000000001 0 Z" fill="#3c2f2a"/><circle cx="24.8825" cy="54.775999999999996" r="0.6655000000000001" fill="#33404f"/><circle cx="29.1175" cy="54.775999999999996" r="0.6655000000000001" fill="#33404f"/><path d="M 18.75 74.95 L 18.75 66.425 a 8.25 6.6000000000000005 0 0 1 16.5 0 L 35.25 74.95 Z" fill="#3f7fd0"/><circle cx="73" cy="54.05" r="6.050000000000001" fill="#f0c49b"/><path d="M 66.95 53.1425 a 6.050000000000001 6.050000000000001 0 0 1 12.100000000000001 0 a 6.050000000000001 4.235 0 0 0 -12.100000000000001 0 Z" fill="#3c2f2a"/><circle cx="70.8825" cy="54.775999999999996" r="0.6655000000000001" fill="#33404f"/><circle cx="75.1175" cy="54.775999999999996" r="0.6655000000000001" fill="#33404f"/><path d="M 64.75 74.95 L 64.75 66.425 a 8.25 6.6000000000000005 0 0 1 16.5 0 L 81.25 74.95 Z" fill="#e87fa8"/></g>
+<circle cx="86" cy="122" r="17" fill="#a85a10"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh825)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><rect x="26" y="14" width="48" height="8" rx="3" fill="#8d6042"/><rect x="26" y="78" width="48" height="8" rx="3" fill="#8d6042"/><path d="M 32 22 L 68 22 L 52 50 L 68 78 L 32 78 L 48 50 Z" fill="#ffffff" stroke="#33404f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 36 26 L 64 26 L 50 48 Z" fill="#f7c948"/><path d="M 38 74 L 62 74 L 50 60 Z" fill="#f7c948"/></g>
+<circle cx="446" cy="122" r="17" fill="#a85a10"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#a85a10">Learning Dutch</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#a85a10" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

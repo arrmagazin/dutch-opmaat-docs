@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg772" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eafaef"/><stop offset="1" stop-color="#b4e6bf"/></linearGradient>
+<filter id="sh772" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg772)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh772)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><rect x="10" y="34" width="80" height="54" rx="4" fill="#f2d9a8" stroke="#8d6042" stroke-width="3"/><polygon points="6,36 50,16 94,36" fill="#e0483d"/><rect x="22" y="52" width="56" height="22" rx="3" fill="#ffffff"/><path d="M 34 70 l 6 -18 l 6 18 Z" fill="#f7c948"/><rect x="52" y="54" width="20" height="16" rx="3" fill="#c9773f"/><circle cx="62" cy="50" r="5" fill="#e0483d"/></g>
+<circle cx="86" cy="122" r="17" fill="#2f7d43"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh772)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><circle cx="50" cy="50" r="34" fill="#ffffff" stroke="#9aa5b1" stroke-width="3"/><circle cx="50" cy="50" r="22" fill="#d6dee7"/><line x1="16" y1="24" x2="16" y2="76" stroke="#33404f" stroke-width="5" stroke-linecap="round"/><path d="M 10 24 l 0 16 M 22 24 l 0 16" fill="none" stroke="#33404f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M 84 24 q 10 6 4 24 l -4 28" fill="none" stroke="#33404f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<circle cx="446" cy="122" r="17" fill="#2f7d43"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#2f7d43">Food and Shopping</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#2f7d43" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

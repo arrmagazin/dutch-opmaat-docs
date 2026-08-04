@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg777" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eef0ff"/><stop offset="1" stop-color="#c9cdff"/></linearGradient>
+<filter id="sh777" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg777)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh777)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><circle cx="50" cy="50" r="34" fill="#f3a3a3" stroke="#e0483d" stroke-width="4"/><line x1="30" y1="34" x2="44" y2="42" stroke="#33404f" stroke-width="5" stroke-linecap="round"/><line x1="70" y1="34" x2="56" y2="42" stroke="#33404f" stroke-width="5" stroke-linecap="round"/><circle cx="38" cy="52" r="5" fill="#33404f"/><circle cx="62" cy="52" r="5" fill="#33404f"/><path d="M 34 76 q 16 -14 32 0" fill="none" stroke="#33404f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<circle cx="86" cy="122" r="17" fill="#3a3d8f"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh777)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><path d="M 18 10 L 82 10 L 82 84 L 70 76 L 58 84 L 46 76 L 34 84 L 22 76 L 18 84 Z" fill="#ffffff" stroke="#68757f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="28" y1="26" x2="72" y2="26" stroke="#d6dee7" stroke-width="3" stroke-linecap="round"/><line x1="28" y1="38" x2="72" y2="38" stroke="#d6dee7" stroke-width="3" stroke-linecap="round"/><line x1="28" y1="50" x2="72" y2="50" stroke="#d6dee7" stroke-width="3" stroke-linecap="round"/><text x="50" y="70" text-anchor="middle" font-size="20" font-weight="800" fill="#e0483d">&#8364;</text></g>
+<circle cx="446" cy="122" r="17" fill="#3a3d8f"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#3a3d8f">Personal Introduction</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#3a3d8f" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

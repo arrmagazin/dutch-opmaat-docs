@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg764" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eef0ff"/><stop offset="1" stop-color="#c9cdff"/></linearGradient>
+<filter id="sh764" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg764)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh764)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><circle cx="50" cy="50" r="36" fill="#8ecdf0" stroke="#2a5da8" stroke-width="4"/><path d="M 50 14 q -18 36 0 72 M 50 14 q 18 36 0 72" fill="none" stroke="#2a5da8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="14" y1="50" x2="86" y2="50" stroke="#2a5da8" stroke-width="3" stroke-linecap="round"/><path d="M 26 32 q 14 6 10 16 q -4 10 -14 6 Z" fill="#4caf50"/><path d="M 56 58 q 16 -4 18 8 q 2 12 -12 12 q -12 0 -6 -20 Z" fill="#4caf50"/><path d="M 58 24 q 12 0 14 10 q -14 4 -14 -10 Z" fill="#4caf50"/></g>
+<circle cx="86" cy="122" r="17" fill="#3a3d8f"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh764)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><path d="M 6 20 L 60 20 q 8 0 8 8 L 68 54 q 0 8 -8 8 L 30 62 L 16 76 L 18 62 q -12 0 -12 -8 Z" fill="#3f7fd0" stroke="#2a5da8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 44 44 L 94 44 q 6 0 6 6 L 100 74 q 0 6 -6 6 L 74 80 L 62 92 L 64 80 q -8 0 -8 -6 Z" fill="#ffffff" stroke="#68757f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="18" y1="34" x2="54" y2="34" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/><line x1="18" y1="46" x2="44" y2="46" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/><line x1="64" y1="58" x2="92" y2="58" stroke="#9aa5b1" stroke-width="3" stroke-linecap="round"/><line x1="64" y1="68" x2="84" y2="68" stroke="#9aa5b1" stroke-width="3" stroke-linecap="round"/></g>
+<circle cx="446" cy="122" r="17" fill="#3a3d8f"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#3a3d8f">Personal Introduction</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#3a3d8f" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

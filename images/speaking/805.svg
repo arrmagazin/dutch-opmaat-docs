@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg805" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff2df"/><stop offset="1" stop-color="#ffce8f"/></linearGradient>
+<filter id="sh805" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg805)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh805)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><path d="M 30 40 q 20 -30 40 0 L 74 46 L 26 46 Z" fill="#e0483d"/><circle cx="50" cy="58" r="18" fill="#f0c49b"/><path d="M 32 58 q 18 34 36 0 q -4 26 -18 26 q -14 0 -18 -26 Z" fill="#ffffff" stroke="#9aa5b1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="43" cy="54" r="3" fill="#33404f"/><circle cx="57" cy="54" r="3" fill="#33404f"/><rect x="24" y="42" width="52" height="8" rx="3" fill="#ffffff"/><circle cx="50" cy="30" r="5" fill="#f7c948"/></g>
+<circle cx="86" cy="122" r="17" fill="#a55f10"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh805)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><rect x="12" y="40" width="76" height="50" rx="6" fill="#e0483d"/><rect x="8" y="28" width="84" height="16" rx="5" fill="#c33a30"/><rect x="42" y="28" width="16" height="62" fill="#f7c948"/><path d="M 50 28 q -20 -6 -18 -14 q 2 -8 18 14 Z" fill="#f7c948"/><path d="M 50 28 q 20 -6 18 -14 q -2 -8 -18 14 Z" fill="#f7c948"/></g>
+<circle cx="446" cy="122" r="17" fill="#a55f10"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#a55f10">Dutch Culture and Traditions</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#a55f10" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

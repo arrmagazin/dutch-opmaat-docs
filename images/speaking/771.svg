@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg771" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3f7f4"/><stop offset="1" stop-color="#a7e6dc"/></linearGradient>
+<filter id="sh771" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg771)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh771)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><line x1="38" y1="24" x2="38" y2="70" stroke="#33404f" stroke-width="5" stroke-linecap="round"/><line x1="72" y1="16" x2="72" y2="62" stroke="#33404f" stroke-width="5" stroke-linecap="round"/><rect x="38" y="16" width="34" height="10" rx="3" fill="#33404f"/><ellipse cx="30" cy="72" rx="12" ry="9" fill="#8e6ac4"/><ellipse cx="64" cy="64" rx="12" ry="9" fill="#8e6ac4"/></g>
+<circle cx="86" cy="122" r="17" fill="#1d6f63"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh771)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><rect x="6" y="10" width="88" height="58" rx="4" fill="#33404f"/><rect x="12" y="16" width="76" height="46" rx="2" fill="#7fb3e0"/><polygon points="30,54 50,26 70,54" fill="#ffffff"/><circle cx="50" cy="34" r="6" fill="#f7c948"/><rect x="10" y="76" width="16" height="18" rx="4" fill="#e0483d"/><rect x="30" y="76" width="16" height="18" rx="4" fill="#e0483d"/><rect x="50" y="76" width="16" height="18" rx="4" fill="#e0483d"/><rect x="70" y="76" width="16" height="18" rx="4" fill="#e0483d"/><rect x="90" y="76" width="16" height="18" rx="4" fill="#e0483d"/></g>
+<circle cx="446" cy="122" r="17" fill="#1d6f63"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#1d6f63">Free Time</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#1d6f63" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

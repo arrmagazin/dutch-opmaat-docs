@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg783" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3f6fb"/><stop offset="1" stop-color="#a5dcec"/></linearGradient>
+<filter id="sh783" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg783)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh783)"><rect x="36" y="110" width="228" height="320" rx="28" fill="#ffffff"/></g>
+<g transform="translate(65.0,185.0) scale(1.7)"><rect x="8" y="22" width="84" height="52" rx="8" fill="#f28c28"/><rect x="14" y="30" width="32" height="20" rx="3" fill="#8ecdf0"/><rect x="54" y="30" width="32" height="20" rx="3" fill="#8ecdf0"/><rect x="14" y="58" width="20" height="8" rx="2" fill="#f7c948"/><rect x="66" y="58" width="20" height="8" rx="2" fill="#f7c948"/><circle cx="26" cy="78" r="10" fill="#33404f"/><circle cx="26" cy="78" r="4" fill="#d6dee7"/><circle cx="74" cy="78" r="10" fill="#33404f"/><circle cx="74" cy="78" r="4" fill="#d6dee7"/></g>
+<circle cx="62" cy="136" r="17" fill="#1a6d86"/>
+<text x="62" y="142" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh783)"><rect x="286" y="110" width="228" height="320" rx="28" fill="#ffffff"/></g>
+<g transform="translate(315.0,185.0) scale(1.7)"><path d="M 8 66 L 12 46 q 2 -6 8 -6 L 80 40 q 6 0 8 6 L 92 66 Z" fill="#f7c948"/><path d="M 24 42 L 28 26 q 1 -4 6 -4 L 66 22 q 5 0 6 4 L 76 42 Z" fill="#8ecdf0" stroke="#f7c948" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="6" y="60" width="88" height="12" rx="5" fill="#f7c948"/><circle cx="26" cy="74" r="11" fill="#33404f"/><circle cx="26" cy="74" r="5" fill="#d6dee7"/><circle cx="74" cy="74" r="11" fill="#33404f"/><circle cx="74" cy="74" r="5" fill="#d6dee7"/><rect x="38" y="12" width="24" height="10" rx="3" fill="#33404f"/><text x="50" y="21" text-anchor="middle" font-size="9" font-weight="800" fill="#f7c948">TAXI</text></g>
+<circle cx="312" cy="136" r="17" fill="#1a6d86"/>
+<text x="312" y="142" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<g filter="url(#sh783)"><rect x="536" y="110" width="228" height="320" rx="28" fill="#ffffff"/></g>
+<g transform="translate(565.0,185.0) scale(1.7)"><circle cx="24" cy="66" r="20" fill="none" stroke="#33404f" stroke-width="5"/><circle cx="76" cy="66" r="20" fill="none" stroke="#33404f" stroke-width="5"/><path d="M 24 66 L 44 36 L 68 36 L 76 66" fill="none" stroke="#3f7fd0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M 44 36 L 52 66 L 76 66" fill="none" stroke="#3f7fd0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><line x1="40" y1="30" x2="52" y2="30" stroke="#33404f" stroke-width="5" stroke-linecap="round"/><rect x="62" y="30" width="14" height="6" rx="3" fill="#33404f"/></g>
+<circle cx="562" cy="136" r="17" fill="#1a6d86"/>
+<text x="562" y="142" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">3</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#1a6d86">Transportation</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#1a6d86" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

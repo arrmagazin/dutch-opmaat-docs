@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg820" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eaf0fb"/><stop offset="1" stop-color="#b9c8ec"/></linearGradient>
+<filter id="sh820" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg820)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh820)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><circle cx="30" cy="25.0" r="11.0" fill="#f0c49b"/><path d="M 19.0 23.35 a 11.0 11.0 0 0 1 22.0 0 a 11.0 7.699999999999999 0 0 0 -22.0 0 Z" fill="#3c2f2a"/><circle cx="26.15" cy="26.32" r="1.21" fill="#33404f"/><circle cx="33.85" cy="26.32" r="1.21" fill="#33404f"/><path d="M 15.0 63.0 L 15.0 47.5 a 15.0 12.0 0 0 1 30.0 0 L 45.0 63.0 Z" fill="#2a5da8"/><rect x="18.0" y="63.0" width="9.0" height="18.0" rx="3.0" fill="#33404f"/><rect x="33.0" y="63.0" width="9.0" height="18.0" rx="3.0" fill="#33404f"/><rect x="52" y="44" width="44" height="30" rx="3" fill="#d6dee7" stroke="#33404f" stroke-width="3"/><rect x="58" y="50" width="32" height="18" fill="#3f7fd0"/><rect x="48" y="76" width="52" height="6" rx="2" fill="#68757f"/></g>
+<circle cx="86" cy="122" r="17" fill="#2f4a86"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh820)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><circle cx="50" cy="30" r="14" fill="#f0c49b"/><path d="M 36 27.9 a 14 14 0 0 1 28 0 a 14 9.799999999999999 0 0 0 -28 0 Z" fill="#3c2f2a"/><circle cx="45.1" cy="31.68" r="1.54" fill="#33404f"/><circle cx="54.9" cy="31.68" r="1.54" fill="#33404f"/><path d="M 50 6 a 14 14 0 0 1 14 14 l -28 0 a 14 14 0 0 1 14 -14 Z" fill="#ffffff" stroke="#68757f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="45" y="10" width="10" height="4" fill="#e0483d"/><rect x="48" y="7" width="4" height="10" fill="#e0483d"/><path d="M 29.0 86 L 29.0 60.7 a 21.0 16.8 0 0 1 42 0 L 71.0 86 Z" fill="#ffffff" stroke="#68757f" stroke-width="3"/><rect x="43" y="62" width="14" height="5" fill="#e0483d"/><rect x="47" y="58" width="6" height="13" fill="#e0483d"/><rect x="34" y="86" width="12" height="12" rx="3" fill="#4a5b6b"/><rect x="54" y="86" width="12" height="12" rx="3" fill="#4a5b6b"/></g>
+<circle cx="446" cy="122" r="17" fill="#2f4a86"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#2f4a86">Job and Workplace</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#2f4a86" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

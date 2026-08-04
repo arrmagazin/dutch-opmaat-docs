@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg830" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffecec"/><stop offset="1" stop-color="#ffbcbc"/></linearGradient>
+<filter id="sh830" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg830)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh830)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><circle cx="58" cy="18" r="11" fill="#f0c49b"/><path d="M 47 16.35 a 11 11 0 0 1 22 0 a 11 7.699999999999999 0 0 0 -22 0 Z" fill="#3c2f2a"/><circle cx="54.15" cy="19.32" r="1.21" fill="#33404f"/><circle cx="61.85" cy="19.32" r="1.21" fill="#33404f"/><path d="M 40.0 52 L 40.0 39.8 a 14.0 11.200000000000001 0 0 1 28 0 L 68.0 52 Z" fill="#e0483d"/><line x1="48" y1="52" x2="30" y2="74" stroke="#33404f" stroke-width="8" stroke-linecap="round"/><line x1="56" y1="52" x2="74" y2="66" stroke="#33404f" stroke-width="8" stroke-linecap="round"/><line x1="30" y1="74" x2="22" y2="86" stroke="#33404f" stroke-width="8" stroke-linecap="round"/><line x1="42" y1="36" x2="24" y2="30" stroke="#e0483d" stroke-width="8" stroke-linecap="round"/><line x1="66" y1="36" x2="82" y2="46" stroke="#e0483d" stroke-width="8" stroke-linecap="round"/></g>
+<circle cx="86" cy="122" r="17" fill="#b02a2a"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh830)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><circle cx="50" cy="36.3" r="14.3" fill="#f0c49b"/><path d="M 35.7 34.154999999999994 a 14.3 14.3 0 0 1 28.6 0 a 14.3 10.01 0 0 0 -28.6 0 Z" fill="#3c2f2a"/><circle cx="44.995" cy="38.016" r="1.5730000000000002" fill="#33404f"/><circle cx="55.005" cy="38.016" r="1.5730000000000002" fill="#33404f"/><path d="M 30.5 85.7 L 30.5 65.55 a 19.5 15.600000000000001 0 0 1 39.0 0 L 69.5 85.7 Z" fill="#2fa899"/><rect x="34.4" y="85.7" width="11.700000000000001" height="23.400000000000002" rx="3.9000000000000004" fill="#33404f"/><rect x="53.9" y="85.7" width="11.700000000000001" height="23.400000000000002" rx="3.9000000000000004" fill="#33404f"/><circle cx="50" cy="50" r="44" fill="none" stroke="#2fa899" stroke-width="3"/></g>
+<circle cx="446" cy="122" r="17" fill="#b02a2a"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#b02a2a">Body and Health</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#b02a2a" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

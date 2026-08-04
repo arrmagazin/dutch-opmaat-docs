@@ -35,7 +35,7 @@ Historical years
 | **2001** | Same-sex marriage legalized — NL was the **first country in the world** to do so [Q7, Q16] |
 | **2013** | Koning Willem-Alexander began his reign (succeeded Koningin Beatrix) [Q65] |
 
-## Geography
+## Geography and Transport
 
 | Fact | Value |
 |---|---|
@@ -50,7 +50,7 @@ Historical years
 - The `fiets` (bicycle) is the typical Dutch means of transport — there are more bikes than inhabitants [Q149]
 - The `OV-chipkaart` is the payment card for public transport: bus, trein, tram, metro [Q150]
 
-## Institutions
+## Gov Institutions
 
 | Short numbers | Functions |
 | ------| --- |
@@ -59,7 +59,7 @@ Historical years
 | **0800-2000** | Veilig Thuis. Child abuse / domestic violence |
 | **0800-9009** | Nationaal Storingsnummer, Gas / electricity problem. (gratis, 24/7 bereikbaar) |
 
-| Gov Institution | Functions |
+| Institution | Functions |
 | ------| --- |
 | Mijn Overheid | Government messages online (DigiD) |
 | IND | Residence permit; Become Dutch citizen (naturalisatie) |
@@ -162,7 +162,7 @@ Civic termins
 - Het `HBO` (Hoger Beroepsonderwijs) is an education at a hogeschool ending in a bachelor diploma; you can enter after HAVO or MBO [Q137]
 - Een `ouderavond` is an evening where parents talk with the teacher about how their child is doing; parents are expected to attend [Q60]
 
-## Insurance & health, Employment — leave, pay, deadlines
+## Insurance & health
 
 - **Zorgverzekering** (basic health insurance) is compulsory from age **18**;
 - children under 18 are co-insured for free [Q38]
@@ -188,7 +188,7 @@ Care providers
 - `Rijksvaccinatieprogramma`: children are vaccinated **free of charge** against serious diseases (mazelen, difterie) [Q79]
 - You arrange it yourself: huisarts, tandarts
 
-Work — terms
+## Work and Employment — terms, leave, pay, deadlines
 
 - **Arbeidsovereenkomst**: contract between employer and employee covering salary, working hours and tasks [Q42]
 - **Proeftijd**: short trial period at the start of a contract in which either side may end it immediately [Q44]
@@ -210,10 +210,7 @@ Work — terms
 | Sociale huurwoning | Requires registration with a woningcorporatie **and** income below a limit; waiting times can be long [Q55] |
 | Onderverhuren | Not allowed without **written permission** from the verhuurder — can end your contract [Q131] |
 
-- Bij `geluidsoverlast` from neighbours: first talk to them yourself; if that does not help, complain to the gemeente or call the police [Q134]
-- `Afval scheiden` is compulsory: papier, plastic, glas and restafval are collected separately — better for the environment [Q135]
-
-Traditional foods
+### Traditional foods
 
 - `Oliebollen` — fried dough balls, eaten at Oud en Nieuw [Q2]
 - `Pepernoten` and `speculaas` — spiced cookies, associated with Sinterklaas [Q4]
@@ -231,7 +228,9 @@ Traditional foods
 - **Open curtains** in the evening is a tradition of openness — but it does not mean you may stare inside [Q31]
 - **U vs jij**: `u` is formal (older people, strangers, authority); `jij`/`je` is informal. Many Dutch workplaces use `jij` even with the boss [Q35]
 - **Handdruk** (handshake) is the standard greeting in professional/formal settings; you say your name while shaking hands [Q18]
-- Among friends and family, the Dutch greet with drie zoenen (three kisses on the cheeks: right-left-right). A handshake is used in formal/professional settings. [Q21]
+- Among friends and family, the Dutch greet with **drie zoenen** (three kisses on the cheeks: right-left-right) [Q21]
+- Bij `geluidsoverlast` from neighbours: first talk to them yourself; if that does not help, complain to the gemeente or call the police [Q134]
+- `Afval scheiden` is compulsory: papier, plastic, glas and restafval are collected separately — better for the environment [Q135]
 
 Relationships & life events
 

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg803" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9ecfb"/><stop offset="1" stop-color="#b7bff0"/></linearGradient>
+<filter id="sh803" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg803)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh803)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><rect x="30" y="10" width="40" height="80" rx="8" fill="#33404f"/><rect x="34" y="18" width="32" height="60" rx="3" fill="#8ecdf0"/><circle cx="50" cy="84" r="4" fill="#d6dee7"/><rect x="42" y="13" width="16" height="3" rx="1.5" fill="#68757f"/><rect x="38" y="24" width="8" height="8" rx="2" fill="#ffffff"/><rect x="48" y="24" width="8" height="8" rx="2" fill="#ffffff"/><rect x="58" y="24" width="8" height="8" rx="2" fill="#ffffff"/><rect x="38" y="36" width="8" height="8" rx="2" fill="#ffffff"/><rect x="48" y="36" width="8" height="8" rx="2" fill="#ffffff"/><rect x="58" y="36" width="8" height="8" rx="2" fill="#ffffff"/></g>
+<circle cx="86" cy="122" r="17" fill="#37409a"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh803)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><path d="M 22 16 q 12 -6 18 4 l 6 12 q 3 6 -3 10 l -6 4 q 6 16 20 24 l 4 -6 q 4 -6 10 -3 l 12 6 q 10 6 4 18 q -6 12 -22 8 q -22 -6 -38 -22 q -16 -16 -22 -38 q -4 -16 8 -22 Z" fill="#2e7d32"/><path d="M 66 20 q 12 4 14 16 M 62 32 q 6 2 8 8" fill="none" stroke="#4caf50" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<circle cx="446" cy="122" r="17" fill="#37409a"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#37409a">Technology</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#37409a" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

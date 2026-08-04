@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg818" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbeee2"/><stop offset="1" stop-color="#e8c3a0"/></linearGradient>
+<filter id="sh818" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg818)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh818)"><rect x="170" y="86" width="460" height="368" rx="28" fill="#ffffff"/></g>
+<g transform="translate(270.0,140.0) scale(2.6)"><rect x="10" y="14" width="80" height="74" rx="4" fill="#ffffff" stroke="#33404f" stroke-width="4"/><line x1="50" y1="14" x2="50" y2="52" stroke="#33404f" stroke-width="4" stroke-linecap="round"/><line x1="10" y1="52" x2="90" y2="52" stroke="#33404f" stroke-width="4" stroke-linecap="round"/><line x1="70" y1="52" x2="70" y2="88" stroke="#33404f" stroke-width="4" stroke-linecap="round"/><text x="26" y="34" text-anchor="middle" font-size="12" font-weight="700" fill="#68757f">&#9634;</text><text x="66" y="34" text-anchor="middle" font-size="12" font-weight="700" fill="#68757f">&#9634;</text><text x="34" y="72" text-anchor="middle" font-size="12" font-weight="700" fill="#68757f">&#9634;</text><text x="80" y="72" text-anchor="middle" font-size="12" font-weight="700" fill="#68757f">&#9634;</text></g>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#8a5320">Home and Living</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#8a5320" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

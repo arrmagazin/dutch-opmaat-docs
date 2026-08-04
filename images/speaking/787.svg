@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg787" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3f7f4"/><stop offset="1" stop-color="#a7e6dc"/></linearGradient>
+<filter id="sh787" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg787)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh787)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(110.0,160.0) scale(2.2)"><rect x="12" y="40" width="76" height="50" rx="6" fill="#e0483d"/><rect x="8" y="28" width="84" height="16" rx="5" fill="#c33a30"/><rect x="42" y="28" width="16" height="62" fill="#f7c948"/><path d="M 50 28 q -20 -6 -18 -14 q 2 -8 18 14 Z" fill="#f7c948"/><path d="M 50 28 q 20 -6 18 -14 q -2 -8 -18 14 Z" fill="#f7c948"/></g>
+<circle cx="86" cy="122" r="17" fill="#1d6f63"/>
+<text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh787)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
+<g transform="translate(470.0,160.0) scale(2.2)"><line x1="30" y1="90" x2="34" y2="44" stroke="#2e7d32" stroke-width="4" stroke-linecap="round"/><line x1="50" y1="92" x2="50" y2="40" stroke="#2e7d32" stroke-width="4" stroke-linecap="round"/><line x1="70" y1="90" x2="66" y2="46" stroke="#2e7d32" stroke-width="4" stroke-linecap="round"/><ellipse cx="34" cy="27" rx="7" ry="9" fill="#e87fa8"/><ellipse cx="43" cy="36" rx="7" ry="9" fill="#e87fa8"/><ellipse cx="34" cy="45" rx="7" ry="9" fill="#e87fa8"/><ellipse cx="25" cy="36" rx="7" ry="9" fill="#e87fa8"/><circle cx="34" cy="36" r="6" fill="#f7c948"/><ellipse cx="50" cy="21" rx="7" ry="9" fill="#e0483d"/><ellipse cx="59" cy="30" rx="7" ry="9" fill="#e0483d"/><ellipse cx="50" cy="39" rx="7" ry="9" fill="#e0483d"/><ellipse cx="41" cy="30" rx="7" ry="9" fill="#e0483d"/><circle cx="50" cy="30" r="6" fill="#f7c948"/><ellipse cx="66" cy="29" rx="7" ry="9" fill="#8e6ac4"/><ellipse cx="75" cy="38" rx="7" ry="9" fill="#8e6ac4"/><ellipse cx="66" cy="47" rx="7" ry="9" fill="#8e6ac4"/><ellipse cx="57" cy="38" rx="7" ry="9" fill="#8e6ac4"/><circle cx="66" cy="38" r="6" fill="#f7c948"/><path d="M 34 68 q -14 -6 -18 4 q 12 6 18 -4 Z" fill="#4caf50"/><path d="M 66 70 q 14 -6 18 4 q -12 6 -18 -4 Z" fill="#4caf50"/></g>
+<circle cx="446" cy="122" r="17" fill="#1d6f63"/>
+<text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#1d6f63">Free Time</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#1d6f63" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

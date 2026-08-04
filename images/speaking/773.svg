@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg773" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eaf0fb"/><stop offset="1" stop-color="#b9c8ec"/></linearGradient>
+<filter id="sh773" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg773)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh773)"><rect x="36" y="110" width="228" height="320" rx="28" fill="#ffffff"/></g>
+<g transform="translate(65.0,185.0) scale(1.7)"><circle cx="50" cy="50" r="38" fill="#33404f"/><circle cx="50" cy="50" r="22" fill="#d6dee7" stroke="#68757f" stroke-width="3"/><circle cx="50" cy="50" r="8" fill="#68757f"/><g transform="translate(0,0) scale(1)"><rect x="46" y="8" width="8" height="10" rx="2" fill="#68757f"/></g><g transform="translate(0,0) scale(1) rotate(45,50,50)"><rect x="46" y="8" width="8" height="10" rx="2" fill="#68757f"/></g><g transform="translate(0,0) scale(1) rotate(90,50,50)"><rect x="46" y="8" width="8" height="10" rx="2" fill="#68757f"/></g><g transform="translate(0,0) scale(1) rotate(135,50,50)"><rect x="46" y="8" width="8" height="10" rx="2" fill="#68757f"/></g><g transform="translate(0,0) scale(1) rotate(180,50,50)"><rect x="46" y="8" width="8" height="10" rx="2" fill="#68757f"/></g><g transform="translate(0,0) scale(1) rotate(225,50,50)"><rect x="46" y="8" width="8" height="10" rx="2" fill="#68757f"/></g><g transform="translate(0,0) scale(1) rotate(270,50,50)"><rect x="46" y="8" width="8" height="10" rx="2" fill="#68757f"/></g><g transform="translate(0,0) scale(1) rotate(315,50,50)"><rect x="46" y="8" width="8" height="10" rx="2" fill="#68757f"/></g></g>
+<circle cx="62" cy="136" r="17" fill="#2f4a86"/>
+<text x="62" y="142" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh773)"><rect x="286" y="110" width="228" height="320" rx="28" fill="#ffffff"/></g>
+<g transform="translate(315.0,185.0) scale(1.7)"><path d="M 16 46 L 62 46 L 62 84 q 0 6 -6 6 L 22 90 q -6 0 -6 -6 Z" fill="#2e7d32" stroke="#33404f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="28" y="34" width="22" height="12" rx="3" fill="#2e7d32"/><path d="M 62 56 L 92 34" fill="none" stroke="#68757f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M 34 60 q 4 8 8 0 q -4 -6 -8 0 Z" fill="#f7c948"/><circle cx="90" cy="40" r="5" fill="#c9a300"/></g>
+<circle cx="312" cy="136" r="17" fill="#2f4a86"/>
+<text x="312" y="142" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<g filter="url(#sh773)"><rect x="536" y="110" width="228" height="320" rx="28" fill="#ffffff"/></g>
+<g transform="translate(565.0,185.0) scale(1.7)"><path d="M 8 66 L 12 46 q 2 -6 8 -6 L 80 40 q 6 0 8 6 L 92 66 Z" fill="#3f7fd0"/><path d="M 24 42 L 28 26 q 1 -4 6 -4 L 66 22 q 5 0 6 4 L 76 42 Z" fill="#8ecdf0" stroke="#3f7fd0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="6" y="60" width="88" height="12" rx="5" fill="#3f7fd0"/><circle cx="26" cy="74" r="11" fill="#33404f"/><circle cx="26" cy="74" r="5" fill="#d6dee7"/><circle cx="74" cy="74" r="11" fill="#33404f"/><circle cx="74" cy="74" r="5" fill="#d6dee7"/><path d="M 20 18 q 4 6 0 10 q -4 -4 0 -10 Z" fill="#8ecdf0"/><path d="M 40 18 q 4 6 0 10 q -4 -4 0 -10 Z" fill="#8ecdf0"/><path d="M 60 18 q 4 6 0 10 q -4 -4 0 -10 Z" fill="#8ecdf0"/><path d="M 80 18 q 4 6 0 10 q -4 -4 0 -10 Z" fill="#8ecdf0"/></g>
+<circle cx="562" cy="136" r="17" fill="#2f4a86"/>
+<text x="562" y="142" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">3</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#2f4a86">Job and Workplace</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#2f4a86" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>

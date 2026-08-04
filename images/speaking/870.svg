@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+<linearGradient id="bg870" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3f6fb"/><stop offset="1" stop-color="#a5dcec"/></linearGradient>
+<filter id="sh870" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
+</defs>
+<rect width="800" height="600" rx="36" fill="url(#bg870)"/>
+<circle cx="678" cy="120" r="150" fill="#ffffff" opacity="0.14"/>
+<circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
+<g filter="url(#sh870)"><rect x="36" y="110" width="228" height="320" rx="28" fill="#ffffff"/></g>
+<g transform="translate(65.0,185.0) scale(1.7)"><path d="M 22 36 L 74 36 L 68 78 q -1 8 -9 8 L 33 86 q -8 0 -9 -8 Z" fill="#ffffff" stroke="#33404f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M 26 46 L 70 46 L 66 74 q -1 6 -7 6 L 35 80 q -6 0 -7 -6 Z" fill="#c98a3c"/><rect x="46" y="20" width="20" height="14" rx="2" fill="#f7c948"/><line x1="52" y1="34" x2="52" y2="46" stroke="#68757f" stroke-width="2" stroke-linecap="round"/><path d="M 74 46 q 14 0 14 12 q 0 12 -14 12" fill="none" stroke="#33404f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<circle cx="62" cy="136" r="17" fill="#1a6d86"/>
+<text x="62" y="142" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
+<g filter="url(#sh870)"><rect x="286" y="110" width="228" height="320" rx="28" fill="#ffffff"/></g>
+<g transform="translate(315.0,185.0) scale(1.7)"><path d="M 10 34 q 40 -18 80 0 l 0 30 q -40 16 -80 0 Z" fill="#8ecdf0" stroke="#33404f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><rect x="44" y="64" width="12" height="16" rx="3" fill="#33404f"/><circle cx="38" cy="48" r="8" fill="#f0c49b"/><path d="M 30 44 a 8 8 0 0 1 16 0 Z" fill="#3c2f2a"/><line x1="58" y1="44" x2="78" y2="44" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/></g>
+<circle cx="312" cy="136" r="17" fill="#1a6d86"/>
+<text x="312" y="142" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
+<g filter="url(#sh870)"><rect x="536" y="110" width="228" height="320" rx="28" fill="#ffffff"/></g>
+<g transform="translate(565.0,185.0) scale(1.7)"><rect x="30" y="10" width="40" height="80" rx="8" fill="#33404f"/><rect x="34" y="18" width="32" height="60" rx="3" fill="#8ecdf0"/><circle cx="50" cy="84" r="4" fill="#d6dee7"/><rect x="42" y="13" width="16" height="3" rx="1.5" fill="#68757f"/><rect x="38" y="24" width="8" height="8" rx="2" fill="#ffffff"/><rect x="48" y="24" width="8" height="8" rx="2" fill="#ffffff"/><rect x="58" y="24" width="8" height="8" rx="2" fill="#ffffff"/><rect x="38" y="36" width="8" height="8" rx="2" fill="#ffffff"/><rect x="48" y="36" width="8" height="8" rx="2" fill="#ffffff"/><rect x="58" y="36" width="8" height="8" rx="2" fill="#ffffff"/></g>
+<circle cx="562" cy="136" r="17" fill="#1a6d86"/>
+<text x="562" y="142" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">3</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#1a6d86">Transportation</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#1a6d86" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+</svg>
