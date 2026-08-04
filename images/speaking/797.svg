@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
 <defs>
-<linearGradient id="bg797" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eafaef"/><stop offset="1" stop-color="#b4e6bf"/></linearGradient>
+<linearGradient id="bg797" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff0ec"/><stop offset="1" stop-color="#ffc9b8"/></linearGradient>
 <filter id="sh797" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
 </defs>
 <rect width="800" height="600" rx="36" fill="url(#bg797)"/>
@@ -8,16 +8,16 @@
 <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
 <g filter="url(#sh797)"><rect x="36" y="110" width="228" height="320" rx="28" fill="#ffffff"/></g>
 <g transform="translate(65.0,185.0) scale(1.7)"><ellipse cx="50" cy="58" rx="42" ry="28" fill="#ffffff" stroke="#9aa5b1" stroke-width="3"/><ellipse cx="50" cy="58" rx="30" ry="19" fill="#d6dee7"/><path d="M 32 58 q 8 -14 20 -4 q 10 -10 18 4 q -18 12 -38 0 Z" fill="#c9773f"/><circle cx="40" cy="52" r="5" fill="#4caf50"/><circle cx="62" cy="52" r="5" fill="#e0483d"/></g>
-<circle cx="62" cy="136" r="17" fill="#2f7d43"/>
+<circle cx="62" cy="136" r="17" fill="#a8412a"/>
 <text x="62" y="142" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
 <g filter="url(#sh797)"><rect x="286" y="110" width="228" height="320" rx="28" fill="#ffffff"/></g>
 <g transform="translate(315.0,185.0) scale(1.7)"><path d="M 30 14 L 70 14 q 0 30 -16 36 L 54 76 L 68 84 L 32 84 L 46 76 L 46 50 q -16 -6 -16 -36 Z" fill="#ffffff" stroke="#33404f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M 31 20 L 69 20 q -2 22 -19 26 q -17 -4 -19 -26 Z" fill="#9b2f43"/></g>
-<circle cx="312" cy="136" r="17" fill="#2f7d43"/>
+<circle cx="312" cy="136" r="17" fill="#a8412a"/>
 <text x="312" y="142" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
 <g filter="url(#sh797)"><rect x="536" y="110" width="228" height="320" rx="28" fill="#ffffff"/></g>
 <g transform="translate(565.0,185.0) scale(1.7)"><circle cx="34" cy="35.55" r="11.55" fill="#f0c49b"/><path d="M 22.45 33.817499999999995 a 11.55 11.55 0 0 1 23.1 0 a 11.55 8.085 0 0 0 -23.1 0 Z" fill="#3c2f2a"/><circle cx="29.9575" cy="36.936" r="1.2705000000000002" fill="#33404f"/><circle cx="38.042500000000004" cy="36.936" r="1.2705000000000002" fill="#33404f"/><path d="M 18.25 75.45 L 18.25 59.175 a 15.75 12.600000000000001 0 0 1 31.5 0 L 49.75 75.45 Z" fill="#3f7fd0"/><rect x="21.4" y="75.45" width="9.450000000000001" height="18.900000000000002" rx="3.1500000000000004" fill="#33404f"/><rect x="37.15" y="75.45" width="9.450000000000001" height="18.900000000000002" rx="3.1500000000000004" fill="#33404f"/><circle cx="68" cy="37.0" r="11.0" fill="#f0c49b"/><path d="M 57.0 35.35 a 11.0 11.0 0 0 1 22.0 0 a 11.0 7.699999999999999 0 0 0 -22.0 0 Z" fill="#8a5a2b"/><circle cx="64.15" cy="38.32" r="1.21" fill="#33404f"/><circle cx="71.85" cy="38.32" r="1.21" fill="#33404f"/><path d="M 53.0 75.0 L 53.0 59.5 a 15.0 12.0 0 0 1 30.0 0 L 83.0 75.0 Z" fill="#f28c28"/><rect x="56.0" y="75.0" width="9.0" height="18.0" rx="3.0" fill="#33404f"/><rect x="71.0" y="75.0" width="9.0" height="18.0" rx="3.0" fill="#33404f"/></g>
-<circle cx="562" cy="136" r="17" fill="#2f7d43"/>
+<circle cx="562" cy="136" r="17" fill="#a8412a"/>
 <text x="562" y="142" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">3</text>
-<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#2f7d43">Food and Shopping</text>
-<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#2f7d43" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#a8412a">Family</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#a8412a" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
 </svg>

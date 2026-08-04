@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
 <defs>
-<linearGradient id="bg854" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eafaef"/><stop offset="1" stop-color="#b4e6bf"/></linearGradient>
+<linearGradient id="bg854" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff0ec"/><stop offset="1" stop-color="#ffc9b8"/></linearGradient>
 <filter id="sh854" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0b1220" flood-opacity="0.18"/></filter>
 </defs>
 <rect width="800" height="600" rx="36" fill="url(#bg854)"/>
@@ -8,12 +8,12 @@
 <circle cx="120" cy="500" r="120" fill="#ffffff" opacity="0.10"/>
 <g filter="url(#sh854)"><rect x="60" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
 <g transform="translate(110.0,160.0) scale(2.2)"><polygon points="4,30 96,30 88,44 12,44" fill="#e0483d"/><rect x="12" y="30" width="9" height="14" fill="#ffffff"/><rect x="31" y="30" width="9" height="14" fill="#ffffff"/><rect x="50" y="30" width="9" height="14" fill="#ffffff"/><rect x="69" y="30" width="9" height="14" fill="#ffffff"/><rect x="10" y="44" width="6" height="46" fill="#8d6042"/><rect x="84" y="44" width="6" height="46" fill="#8d6042"/><rect x="18" y="60" width="64" height="22" rx="3" fill="#c9a882"/><circle cx="30" cy="56" r="7" fill="#e0483d"/><circle cx="44" cy="56" r="7" fill="#f28c28"/><circle cx="58" cy="56" r="7" fill="#4caf50"/><circle cx="72" cy="56" r="7" fill="#8e6ac4"/></g>
-<circle cx="86" cy="122" r="17" fill="#2f7d43"/>
+<circle cx="86" cy="122" r="17" fill="#a8412a"/>
 <text x="86" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">1</text>
 <g filter="url(#sh854)"><rect x="420" y="96" width="320" height="348" rx="28" fill="#ffffff"/></g>
 <g transform="translate(470.0,160.0) scale(2.2)"><circle cx="36" cy="30.65" r="12.649999999999999" fill="#f0c49b"/><path d="M 23.35 28.752499999999998 a 12.649999999999999 12.649999999999999 0 0 1 25.299999999999997 0 a 12.649999999999999 8.854999999999999 0 0 0 -25.299999999999997 0 Z" fill="#8a5a2b"/><circle cx="31.5725" cy="32.168" r="1.3915" fill="#33404f"/><circle cx="40.4275" cy="32.168" r="1.3915" fill="#33404f"/><path d="M 18.75 74.35 L 18.75 56.52499999999999 a 17.25 13.8 0 0 1 34.5 0 L 53.25 74.35 Z" fill="#e87fa8"/><rect x="22.200000000000003" y="74.35" width="10.35" height="20.7" rx="3.4499999999999997" fill="#33404f"/><rect x="39.45" y="74.35" width="10.35" height="20.7" rx="3.4499999999999997" fill="#33404f"/><circle cx="72" cy="55.7" r="7.699999999999999" fill="#f0c49b"/><path d="M 64.3 54.545 a 7.699999999999999 7.699999999999999 0 0 1 15.399999999999999 0 a 7.699999999999999 5.389999999999999 0 0 0 -15.399999999999999 0 Z" fill="#3c2f2a"/><circle cx="69.305" cy="56.624" r="0.847" fill="#33404f"/><circle cx="74.695" cy="56.624" r="0.847" fill="#33404f"/><path d="M 61.5 82.3 L 61.5 71.44999999999999 a 10.5 8.4 0 0 1 21.0 0 L 82.5 82.3 Z" fill="#f7c948"/><rect x="63.6" y="82.3" width="6.3" height="12.6" rx="2.0999999999999996" fill="#33404f"/><rect x="74.1" y="82.3" width="6.3" height="12.6" rx="2.0999999999999996" fill="#33404f"/></g>
-<circle cx="446" cy="122" r="17" fill="#2f7d43"/>
+<circle cx="446" cy="122" r="17" fill="#a8412a"/>
 <text x="446" y="128" text-anchor="middle" font-size="19" font-weight="800" fill="#ffffff">2</text>
-<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#2f7d43">Food and Shopping</text>
-<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#2f7d43" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
+<text x="400" y="512" text-anchor="middle" font-size="34" font-weight="800" fill="#a8412a">Family</text>
+<text x="400" y="548" text-anchor="middle" font-size="17" font-weight="600" letter-spacing="3" fill="#a8412a" opacity="0.55">A2 &#183; SPREEKEXAMEN</text>
 </svg>
