@@ -1,6 +1,8 @@
 # Verbs with fixed prepositions  *(A2)*
 
-Many Dutch verbs demand a **specific preposition** that English does not share — and you cannot predict it from meaning. Learn each verb together with its preposition as **one unit**. Grouped by preposition:
+Many Dutch verbs demand a **specific preposition** that English does not share — and you cannot predict it from meaning.
+
+Learn each verb together with its preposition as **one unit**. Grouped by preposition:
 
 | Dutch | English | Example |
 |-------|---------|---------|

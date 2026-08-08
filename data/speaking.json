@@ -306,7 +306,7 @@
   {
     "id": 801,
     "question": "Welk fruit eet u graag? Vertel ook hoe vaak u fruit eet.",
-    "answer": "Appel. Ik eet elke dag een appel.",
+    "answer": "Ik eet graag appels. Ik eet elke dag een appel.",
     "level": "a2",
     "topic": "food-and-shopping",
     "image": "images/speaking/801.svg"
@@ -530,7 +530,7 @@
   {
     "id": 829,
     "question": "Zij houdt van sport. Welke sport doet zij hier en hoe vaak doet zij dat volgens u?",
-    "answer": "Zij zwemt. Zij zwemt volgens mij één keer per week.",
+    "answer": "Zij zwemt in het zwembad. Zij zwemt volgens mij één keer per week.",
     "level": "a2",
     "topic": "body-and-health",
     "image": "images/speaking/829.svg"
@@ -754,7 +754,7 @@
   {
     "id": 857,
     "question": "Eduardo is in de sportschool. Wat doet hij in de sportschool? Gebruik alle plaatjes.",
-    "answer": "Hij loopt. Hij fietst. Hij neemt een douche.",
+    "answer": "Hij loopt op de loopband. Hij fietst op de hometrainer. Hij neemt een douche.",
     "level": "a2",
     "topic": "body-and-health",
     "image": "images/speaking/857.svg"

@@ -41,10 +41,6 @@ Same **'t kofschip** split as the [imperfectum](/#/grammar?doc=5-verbs/25-imperf
 
 > Same **voicing trap**: *v / z* (written *f / s*) take **-d**: *leven → **geleefd***, *reizen → **gereisd***. And *-eren* loanwords **do** keep *ge-*: *gestudeerd*, *gereserveerd*, ***gefeliciteerd***.
 
-### Strong verbs — *ge-* + stem + *-en*
-
-Strong participles end in **-en**, usually with a changed vowel: *eten → **gegeten***, *lezen → **gelezen***, *drinken → **gedronken***, *schrijven → **geschreven***, *zien → **gezien***. See the [verbs](/#/grammar?doc=5-verbs/19-verbs.md) principal-parts list.
-
 ### No *ge-* with inseparable prefixes
 
 Verbs beginning with the unstressed prefixes **be-, ge-, ver-, ont-, her-, er-, mis-** take **no** *ge-*:

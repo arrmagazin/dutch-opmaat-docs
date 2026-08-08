@@ -33,22 +33,6 @@ More weak verbs:
 
 > **Voicing trap:** base the choice on the consonant in the **infinitive**, not on the devoiced stem. Stems written with *-f / -s* that come from *v / z* still take **-de**: *leven → **leefde***, *reizen → **reisde***, *verhuizen → **verhuisde***.
 
-## Strong verbs — vowel change
-
-Strong verbs do **not** use *-te / -de*. They change the stem vowel (ablaut) and keep one form across the whole singular; the plural adds **-en** (often with a second vowel again).
-
-| Infinitive | Past sg | Past pl | English |
-|------------|---------|---------|---------|
-| **eten** | at | aten | ate |
-| **lopen** | liep | liepen | walked |
-| **drinken** | dronk | dronken | drank |
-| **zien** | zag | zagen | saw |
-| **gaan** | ging | gingen | went |
-
-- *Wij **dronken** koffie en **aten** taart.* — We drank coffee and ate cake.
-
-The full principal-parts list lives on the [verbs](/#/grammar?doc=5-verbs/19-verbs.md) page — strong verbs have to be memorised one by one.
-
 ## Worked example
 
 *Vroeger **woonde** ik in Utrecht en **fietste** ik elke dag naar mijn werk.*
