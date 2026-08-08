@@ -47,14 +47,6 @@ Its perfect uses *zijn*: *Hij **is** dokter **geworden**.* — He has become a d
 
 One sentence, two auxiliaries: the verb decides which one, not the subject.
 
-## Oefen — practice
-
-- [ ] Ik **ben** moe vandaag.
-- [ ] **Heb** jij honger?
-- [ ] Het **wordt** koud buiten.
-- [ ] Wij **zijn** op vakantie.
-- [ ] Zij **heeft** een nieuwe fiets.
-
 ## Common mistakes
 
 - ❌ *hij ben / hij zijn* → ✅ *hij **is*** — third person singular of *zijn* is *is*.

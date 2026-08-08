@@ -41,6 +41,27 @@ When a counted noun is dropped (already known), **er** holds its place next to t
 | Van die acteurs ken ik `er` maar één. | Of those actors I only know one. |
 | De aardbeien waren goedkoop, dus ze kocht `er` veel. | … so she bought a lot of them. |
 
+## Splitting er-words
+
+Er-words **split** when anything (an adverb, negation, an object) comes between the two parts. The split form is the norm in speech; the unsplit form sounds bookish.
+
+| Unsplit | Split |
+|---------|-------|
+| Ik denk eraan. | Ik denk er vaak **aan**. |
+| Ik reken erop. | Ik reken er echt **op**. |
+| Hij houdt ervan. | Hij houdt er niet **van**. |
+| Ik ben ermee klaar. | Ik ben er bijna **mee** klaar. |
+
+## Demonstrative daar-words
+
+Swap **er** for **daar** and you get the stressed, pointing version — "in *that*", "for *that*". Same formation, more emphasis.
+
+| Daar-word | English | Example |
+|-----------|---------|---------|
+| **daarin** | in that | Leg het **daarin**. |
+| **daarvoor** | for that / before that | Ik heb **daarvoor** betaald. — also *de dag **daarvoor*** (the day before). |
+| **daarvan** | of that | Ik heb **daarvan** gehoord. |
+
 ## Pronominal `er`-words (er + preposition)
 
 To refer back to a **thing** (not a person) after a preposition.
@@ -66,26 +87,8 @@ Two prepositions change shape: **met → mee**, **tot → toe** (so *ermee*, *er
 
 The er-word *eruit* also forms the fixed verb **eruitzien** ("to look / appear"): *Je ziet er moe uit.* (You look tired.)
 
-## Splitting er-words
-
-Er-words **split** when anything (an adverb, negation, an object) comes between the two parts. The split form is the norm in speech; the unsplit form sounds bookish.
-
-| Unsplit | Split |
-|---------|-------|
-| Ik denk eraan. | Ik denk er vaak **aan**. |
-| Ik reken erop. | Ik reken er echt **op**. |
-| Hij houdt ervan. | Hij houdt er niet **van**. |
-| Ik ben ermee klaar. | Ik ben er bijna **mee** klaar. |
-
-## Demonstrative daar-words
-
-Swap **er** for **daar** and you get the stressed, pointing version — "in *that*", "for *that*". Same formation, more emphasis.
-
-| Daar-word | English | Example |
-|-----------|---------|---------|
-| **daarin** | in that | Leg het **daarin**. |
-| **daarvoor** | for that / before that | Ik heb **daarvoor** betaald. — also *de dag **daarvoor*** (the day before). |
-| **daarvan** | of that | Ik heb **daarvan** gehoord. |
+The same happens eith other  Pronominal adverbs when a preposition points at a **thing** (not a person):  daar / waar / hier:
+*daarover, waarop, hierin*.  *met → mee* and *tot → toe* in these combos: *ermee, daarmee, ertoe*.
 
 ## Common mistakes
 

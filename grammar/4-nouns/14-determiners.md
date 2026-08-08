@@ -46,32 +46,6 @@ English has four words (this/that/these/those); Dutch has four too, but the spli
 | `note:zulk` (zulke) | such (plural / mass) | *Ik hou niet van **zulke** films.* |
 | `note:dergelijk` | such, similar (formal) | ***Dergelijke** problemen komen vaker voor.* |
 
-## Quantity
-
-**A lot:**
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| `elk` / `elke` | every | ***Elke** dag lees ik de krant.* |
-| `ieder` / `iedere` | each | ***Iedere** ochtend drink ik koffie.* |
-| `alle` | all | ***Alle** kinderen spelen buiten.* |
-| `beide` | both | ***Beide** kinderen zijn ziek.* |
-| `veel` | much / many | *Ik heb **veel** werk.* |
-| `meerdere` | several | ***Meerdere** landen deden mee.* |
-| `allerlei` | all sorts of, various | *Er zijn **allerlei** redenen.* |
-
-**A little / a few:**
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| `sommige` | some (certain ones) | ***Sommige** mensen houden niet van kaas.* |
-| `enkele` | a few | ***Enkele** studenten kwamen te laat.* |
-| `note:paar` | a couple, a few | *Ik heb **een paar** vragen.* |
-| `een beetje` | a little (uncountable) | *Ik wil **een beetje** melk.* |
-| `weinig` | few, little | ***Weinig** mensen weten dat.* |
-
-> *elk / ieder* take **-e** before de-words (*elke dag*) and drop it before singular het-words (*elk kind*). Modern Dutch increasingly uses *elke/iedere* for both.
-
 ## Predeterminers — *al*, *heel*, *allebei*
 
 A few totality words sit **before** another determiner (an article or a possessive), not in its place:
@@ -83,23 +57,6 @@ A few totality words sit **before** another determiner (an article or a possessi
 | `heel` | the whole, all of | *heel **de** dag*, *heel **Nederland*** |
 
 > *heel* stays bare **before** a determiner (*heel de dag*) but inflects to **hele** **after** one: *de **hele** dag*, *het **hele** boek*. Both are correct; *de hele dag* is the more common.
-
-## Comparing amounts
-
-| Dutch | English | Example |
-|-------|---------|---------|
-| `note:genoeg` | enough | *Ik heb **genoeg** tijd.* |
-| `meer` | more | *Ik wil **meer** koffie.* |
-| `minder` | less / fewer | *Hij werkt **minder** uren.* |
-
-## The negative determiner: geen
-
-**geen** means "no / not any". It replaces *een* (or a bare mass/plural noun) to negate the whole noun:
-
-- *Ik heb **een** auto.* → *Ik heb **geen** auto.* — I have no car.
-- *Ik heb tijd.* → *Ik heb **geen** tijd.* — I have no time.
-
-> Use **geen** for indefinite nouns, **niet** for definite ones (*de auto*, *mijn auto*). Full rules on the [Negation](/#/grammar?doc=1-auxilaries/24-negators.md) page.
 
 ## Determiners and adjective endings
 

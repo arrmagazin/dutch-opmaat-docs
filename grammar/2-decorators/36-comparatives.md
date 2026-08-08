@@ -1,6 +1,8 @@
 # Comparatives & superlatives  *(A2)*
 
-To compare, add **-er** (comparative) and **-st** (superlative): *snel → sneller → snelst*. Use *het + -st* for the predicative superlative (*het snelst*) and *de/het + -ste* before a noun (*de snelste*). "Than" is **dan** — never *als*.
+To compare, add **-er** (comparative) and **-st** (superlative): *snel → sneller → snelst*.
+
+Use *het + -st* for the predicative superlative (*het snelst*) and *de/het + -ste* before a noun (*de snelste*).
 
 ## Forming them
 
@@ -45,17 +47,22 @@ flowchart TD
 
 ## dan vs als
 
+"Than" is **dan** — never *als*.
+
 *als* is for **equality**, not difference: *even groot **als*** / *net zo groot **als*** (as big as) — see [Modifiers](/#/grammar?doc=1-auxilaries/14-modifiers.md).
 
 ## Comparing adverbs
 
-Adverbs compare with the same endings and the same irregulars:
+Adverbs compare exactly like adjectives — *-er* / *het -st* — and share the same irregulars (*goed → beter → best*, *graag → liever → liefst*):
 
 - [ ] *Zij loopt **sneller** dan ik, maar hij loopt **het snelst**.*
 - [ ] *Hij komt nu **vaker**, maar jij komt **het vaakst**.*
 - [ ] *Hij praat **harder**, maar zij schreeuwt **het hardst**.*
 - [ ] *Hij legt het **duidelijker** uit; zij doet het **het duidelijkst**.*
 - [ ] *Vandaag speelt hij **slechter** dan gisteren.*
+- [ ] *Ik drink **liever** thee.* — I'd rather drink tea.
+
+For the full paradigm and the *dan* vs *als* trap, see [Comparatives](/#/grammar?doc=4-bijworden/36-comparatives.md).
 
 ## Common mistakes
 

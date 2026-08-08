@@ -98,7 +98,7 @@ When the singular ends in a stressed **-ee** or **-ie**, the plural takes **-ën
 
 Unstressed **-ie** takes plain -s: *de tralie → de tralies*, *de actie → de acties*.
 
-## Compound words
+## Pluralize compound words
 
 Pluralize **only the final element** — the head of the compound.
 

@@ -124,13 +124,3 @@ Inflectional endings attach to the very edge of a word and signal **grammatical 
 | Werkwoord — verleden tijd (past tense)| **-te** / **-ten**, **-de** / **-den**|
 | Voltooid deelwoord (past participle) | **-t** / **-d**, **-en**|
 | Vergelijking (comparative & superlative) | **-er**, **-st** |
-
-Each inflection has its own home page: [noun plurals](/#/grammar?doc=3-nouns/62-plurals.md), [diminutives](/#/grammar?doc=3-nouns/60-diminutives.md), [adjective *-e*](/#/grammar?doc=4-bijworden/34-adjectives.md), [comparatives](/#/grammar?doc=4-bijworden/36-comparatives.md), [verb conjugation](/#/grammar?doc=5-verbs/19-verbs.md) and [participles](/#/grammar?doc=5-verbs/24-participles.md).
-
-## Common mistakes
-
-- ❌ *Ik opbel je* → ✅ *Ik bel je op* — a separable prefix moves to the end of a main clause.
-- ❌ *gebetaald*, *geverkocht* → ✅ *betaald*, *verkocht* — verbs with *be-, ge-, ver-, ont-, her-, er-, mis-* take no extra *ge-* in the participle.
-- ❌ *telefoneeren* → ✅ *telefoneren* — the verb suffix is *-eren* (one *e*).
-- ❌ *hooploos* → ✅ *hopeloos* — the long vowel is written single in the open syllable (*ho-pe-loos*).
-- ❌ *ontmogelijk* → ✅ *onmogelijk* — *on-* negates (adjectives); *ont-* is a verb prefix meaning "undo" (*ontdekken*).

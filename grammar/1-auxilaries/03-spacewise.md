@@ -1,6 +1,6 @@
 # Place & direction words
 
-## Place prepositions
+## Prepositions of Place
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -23,7 +23,7 @@ flowchart TD
   A -->|"flat surface — op tafel, op straat"| C["op"]
 ```
 
-## Direction prepositions
+## Prepositions of Direction
 
 | Dutch | English | Example |
 |-------|---------|---------|
@@ -37,9 +37,9 @@ flowchart TD
 | `note:richting` | toward(s) | We gaan **richting** centrum. |
 | `note:heen` | to, away | We gaan **heen** centrum. |
 
-*Naar huis*, *naar bed*, *naar school*, *naar werk* drop the article (fixed phrases). Some prepositions follow the noun as **postpositions** to show motion toward a goal: *de trap **op*** (up the stairs), *het bos **in*** (into the woods), *de stad **uit*** (out of the city) — compare location *op de trap*. See [Sentence structure](/#/grammar?doc=8-structures/00-sentence.md).
+- *Naar huis*, *naar bed*, *naar school*, *naar werk* drop the article (fixed phrases).
 
-`table:/topic_direction?columns=name_en#Direction`
+- Some prepositions follow the noun as **postpositions** to show motion toward a goal: *de trap **op*** (up the stairs), *het bos **in*** (into the woods), *de stad **uit*** (out of the city) — compare location *op de trap*.
 
 ## Place & direction adverbs — where / which way
 
@@ -62,7 +62,9 @@ flowchart TD
 | `note:linksaf` / `note:rechtsaf` | (turn) left / right | Ga bij de kerk **linksaf**. |
 | `note:rechtdoor` | straight on | Loop **rechtdoor** tot de stoplichten. |
 
-Giving directions chains imperatives, prepositions, and separable verbs:
+`table:/topic_direction?columns=name_en#Direction`
+
+## Giving directions chains imperatives, prepositions, and separable verbs
 
 - ***Loop** rechtdoor en **neem** de tweede straat rechts.*
 - ***Ga** bij het stoplicht **linksaf** en **steek** de brug **over**.*

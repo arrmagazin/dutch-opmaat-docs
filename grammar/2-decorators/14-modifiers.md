@@ -2,7 +2,7 @@
 
 Modifiers scale or qualify another words.
 
-## Degree and Intensifiers
+## Degree and Intensity
 
 A degree word goes **directly before** the adjective or adverb it scales: *heel mooi*, *te duur*, *nogal druk*.
 
@@ -11,17 +11,16 @@ A degree word goes **directly before** the adjective or adverb it scales: *heel 
 | `note:heel` | very | Het is **heel** mooi. |
 | `note:erg` | very | Het is **erg** mooi. |
 | `note:zeer` | very (formal/written) | Wij zijn **zeer** tevreden. |
+| `note:bijna` | almost | Ik ben **bijna** klaar. |
 | `note:zo` | so (this much) | Deze tas is **zo** zwaar! |
 | `note:te` | too (excessive) | Dat is **te** duur. |
 | `note:veel-te` | far too | Het is **veel te** duur. |
 | `note:helemaal` | completely | Ik ben het **helemaal** vergeten. |
-| `note:bijna` | almost | Ik ben **bijna** klaar. |
+| `note:een-beetje` | a little | Ik ben **een beetje** moe. |
+| `note:wat` | a bit | Ik ben **wat** moe. |
 | `note:behoorlijk` | considerably | Het is **behoorlijk** koud. |
 | `note:vooral` | especially / above all | Het is **vooral** 's ochtends druk. |
 | `note:alleen` | only / just | Ik drink **alleen** water. |
-| `note:een-beetje` | a little | Ik ben **een beetje** moe. |
-| `note:wat` | a bit | Ik ben **wat** moe. |
-| `note:nog-wat` | a bit more / some more | Wil je **nog wat** koffie? |
 | `note:nogal` | rather | Het is **nogal** druk in de stad. |
 | `note:best` | quite / pretty | De film was **best** goed. |
 | `note:tamelijk` | fairly | Dat is **tamelijk** duur. |
@@ -34,10 +33,43 @@ Degree words form an intensity ladder:
 
 ```mermaid
 flowchart LR
-  A["een beetje — a little"] --> B["nogal — rather"] --> C["heel / erg — very"] --> D["te — too much"]
+  A["een beetje"] --> B["nogal"] --> C["heel / erg"] --> D["te ..."]
 ```
 
+## Partition
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| `elk` / `elke` | every | **Elke** dag lees ik de krant. |
+| `ieder` / `iedere` | each | **Iedere** ochtend drink ik koffie. |
+| `alle` | all | **Alle** kinderen spelen buiten. |
+| `sommige` | some (certain ones) | ***Sommige** mensen houden niet van kaas.* |
+| `enkele` | a few | **Enkele** studenten kwamen te laat. |
+| `beide` | both | **Beide** kinderen zijn ziek. |
+| `note:paar` | a couple, a few | *Ik heb **een paar** vragen.* |
+| `geen` | not any | Ik heb **geen** tijd. |
+
+> *elk / ieder* take **-e** before de-words (*elke dag*) and drop it before singular het-words (*elk kind*). Modern Dutch increasingly uses *elke/iedere* for both.
+
+## Quantity
+
 A rough scale of quantity: *niets → bijna niets → **weinig** → genoeg → veel → heel veel → te veel → veel te veel*.
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| `veel` | much / many | *Ik heb **veel** werk.* |
+| `meerdere` | several | ***Meerdere** landen deden mee.* |
+| `allerlei` | all sorts of, various | *Er zijn **allerlei** redenen.* |
+| `weinig` | few, little | ***Weinig** mensen weten dat.* |
+
+### Comparing amounts
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| `meer` | more | *Ik wil **meer** koffie.* |
+| `note:nog-wat` | a bit more / some more | Wil je **nog wat** koffie? |
+| `minder` | less / fewer | *Hij werkt **minder** uren.* |
+| `note:genoeg` | enough | *Ik heb **genoeg** tijd.* |
 
 ## Frequency — how often
 

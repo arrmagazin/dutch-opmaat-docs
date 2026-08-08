@@ -44,7 +44,7 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 | **´** | accent aigu | stress / French loanwords | *één* (one, vs *een* = a/an), *café* |
 | **`** | accent grave | open vowel (French loans) | scène, blèren |
 | **^** | accent circonflexe | French loans only | enquête, gêne |
-| **¨** | trema | "split this vowel from the previous" | België, geïnteresseerd, ruïne, patiënt |
+| **¨** | trema | split this vowel from the previous | België, geïnteresseerd, ruïne, patiënt |
 | **ç** | cedille | French loans | reçu |
 | **ñ** | tilde | Spanish loans | mañana |
 
@@ -92,18 +92,18 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 | Symbol | NL naam | Spoken as | English |
 |:------:|:--------|:----------|:--------|
 | `+` `−` `±` | plus-minus| - | plus-minus |
-| `×` | maal / keer | *vijf `maal` drie* | times |
-| `÷` | gedeeld door | *tien `gedeeld door` twee* | divided by |
-| `=` | is gelijk aan | *twee plus twee `is` vier* | equals |
+| `×` | maal / keer | vijf `maal` drie | times |
+| `÷` | gedeeld door | tien `gedeeld door` twee | divided by |
+| `=` | is gelijk aan | twee plus twee `is` vier | equals |
 | `≠` | is niet gelijk aan | ongelijk | not equal |
-| `<` | is kleiner dan | *drie `is kleiner dan` vijf* | less than |
-| `>` | is groter dan | *vijf `is groter dan` drie* | greater than |
+| `<` | is kleiner dan | drie `is kleiner dan` vijf | less than |
+| `>` | is groter dan | vijf `is groter dan` drie | greater than |
 | `≤` | kleiner dan of gelijk aan | — | less or equal |
 | `≥` | groter dan of gelijk aan | — | greater or equal |
-| `%` | procent | *tien `procent`* | percent |
-| `‰` | promille | *vijf `promille`* | per mille |
-| `°` | graden | *twintig `graden`* | degrees |
-| `√` | wortel | *de `wortel` van negen* | square root |
+| `%` | procent | tien `procent` | percent |
+| `‰` | promille | vijf `promille` | per mille |
+| `°` | graden | twintig `graden` | degrees |
+| `√` | wortel | de `wortel` van negen | square root |
 | `∞` | oneindig | oneindig | infinity |
 | `π` | pi | pi | pi |
 
@@ -111,16 +111,8 @@ Dutch itself uses very few diacritics — but they appear in loanwords and to di
 
 | Symbol | NL naam | Voorbeeld |
 |:------:|:--------|:----------|
-| `€` | euro | € 12,50 — *twaalf euro vijftig* |
-| `¢` | eurocent | 50 ¢ — *vijftig cent* |
-| `$` | dollar / dollarteken | $ 100 — *honderd dollar* |
-| `£` | pond | £ 10 — *tien pond* |
-| `¥` | yen | ¥ 1000 — *duizend yen* |
-
-## Common mistakes
-
-- ❌ *€ 12.50* (twelve fifty) → ✅ *€ 12,50* — Dutch uses a comma for decimals; a point marks thousands.
-- ❌ *1,000,000* → ✅ *1.000.000* — thousands are grouped with points, not commas.
-- ❌ *ééne* → ✅ *één* — stressed "one" takes two accents on *een*, no extra *-e*.
-- ❌ spelling *geinteresseerd* → ✅ *geïnteresseerd* — the trema (*¨*) splits the vowel from the one before it, it is not optional.
-- ❌ reading *@* as "at" in Dutch → ✅ *apenstaartje* — say *alex apenstaartje gmail punt com*.
+| `€` | euro | € 12,50 — twaalf euro vijftig |
+| `¢` | eurocent | 50 ¢ — vijftig cent |
+| `$` | dollar / dollarteken | $ 100 — honderd dollar |
+| `£` | pond | £ 10 — tien pond |
+| `¥` | yen | ¥ 1000 — duizend yen |

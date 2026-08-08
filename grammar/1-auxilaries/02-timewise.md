@@ -158,9 +158,6 @@ For 24-hour formal time (schedules, news): *14:30 → veertien uur dertig*.
 - [ ] Ik sta altijd **vroeg** op.
 - [ ] Het is al **laat**, ik ga naar bed.
 - [ ] De trein is **op tijd**.
-
----
-
 - [ ] **Hoe laat is het** nu?
 - [ ] **Het is half twee**, tijd voor de lunch.
 - [ ] De film begint om **kwart over drie**.
@@ -171,9 +168,6 @@ For 24-hour formal time (schedules, news): *14:30 → veertien uur dertig*.
 - [ ] **Tot straks**, tot vanavond!
 - [ ] **Het is bijna tijd** om te gaan.
 - [ ] **Sorry dat ik te laat ben**, er was file.
-
-How to talk about *when* things happen — clock time, days, parts of the day, weeks, months, and seasons.
-
 - [ ] Wat is de **datum** van vandaag?
 - [ ] Volgende **week** ben ik vrij.
 - [ ] In welke **maand** ben je jarig?

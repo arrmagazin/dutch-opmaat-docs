@@ -51,6 +51,22 @@ Traditional written rule:
 
 > In everyday speech almost everyone just says **ze** for both, and the *hen/hun* split is fading. Learn to recognise it; use *ze* when unsure. Note *hun* is also the possessive "their" — don't use it as a subject: ~~*Hun komen*~~.
 
+## Indefinite pronouns
+
+These stand alone (no noun follows).
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| `alles` | everything | ***Alles** is klaar.* |
+| `allemaal` | all (of them) | *Ze zijn er **allemaal**.* |
+| `iedereen` | everyone | ***Iedereen** is welkom.* |
+| `elkaar` | each other | *Ze helpen **elkaar**.* |
+| `iemand` | someone | *Er staat **iemand** voor de deur.* |
+| `iets` / `wat` | something | *Ik wil **iets** drinken.* |
+| `niets` / `niks` | nothing | *Er is **niets** gebeurd.* |
+| `niemand` | no one | ***Niemand** wist het antwoord.* |
+| `wie/wat dan ook` | anyone / anything at all | *Vraag het aan **wie dan ook**.* |
+
 ## Reflexive pronouns
 
 Used when the subject and object are the same person. Dutch uses **zich** for the third person and formal *u*; the others reuse the object pronoun.

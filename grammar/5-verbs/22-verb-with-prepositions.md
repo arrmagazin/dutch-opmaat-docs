@@ -4,6 +4,7 @@ Many Dutch verbs demand a **specific preposition** that English does not share â
 
 | Dutch | English | Example |
 |-------|---------|---------|
+| houden `van` | to love / like | Ik houd **van** koffie. |
 | wachten `op` | to wait for | Ik wacht **op** de bus. |
 | letten `op` | to pay attention to | Let **op** de trap. |
 | rekenen `op` | to count on | Je kunt **op** mij rekenen. |
@@ -19,7 +20,6 @@ Many Dutch verbs demand a **specific preposition** that English does not share â
 | kijken `naar` | to look at / watch | We kijken **naar** de wedstrijd. |
 | vragen `naar` | to ask about | Hij vraagt **naar** je gezondheid. |
 | zoeken `naar` | to look for | Ik zoek **naar** werk. |
-| houden `van` | to love / like | Ik houd **van** koffie. |
 | genieten `van` | to enjoy | Geniet **van** je weekend! |
 | praten `over` | to talk about | Ze praten **over** het nieuws. |
 | nadenken `over` | to think about | Denk goed **na over** je keuze. |
@@ -32,9 +32,6 @@ Many Dutch verbs demand a **specific preposition** that English does not share â
 | vragen `om` | to ask for | De klant vraagt **om** de rekening. |
 | geloven `in` | to believe in | Ik geloof **in** jou. |
 | bestaan `uit` | to consist of | Het team bestaat **uit** vijf mensen. |
-
-- *Ik **wacht op** de bus.* â€” I'm waiting for the bus.
-- *Ze **houdt van** haar werk.* â€” She loves her job.
 
 ## Adjective / state + preposition
 
