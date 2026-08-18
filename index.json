@@ -1,0 +1,2022 @@
+{
+  "sha": "main",
+  "truncated": false,
+  "tree": [
+    {
+      "path": "README.md",
+      "type": "blob"
+    },
+    {
+      "path": "SEED.md",
+      "type": "blob"
+    },
+    {
+      "path": "data",
+      "type": "tree"
+    },
+    {
+      "path": "data/idioms.json",
+      "type": "blob"
+    },
+    {
+      "path": "data/knm.json",
+      "type": "blob"
+    },
+    {
+      "path": "data/lessons.json",
+      "type": "blob"
+    },
+    {
+      "path": "data/links.json",
+      "type": "blob"
+    },
+    {
+      "path": "data/phrases.json",
+      "type": "blob"
+    },
+    {
+      "path": "data/qa.json",
+      "type": "blob"
+    },
+    {
+      "path": "data/seed.json",
+      "type": "blob"
+    },
+    {
+      "path": "data/speaking.json",
+      "type": "blob"
+    },
+    {
+      "path": "data/stem.json",
+      "type": "blob"
+    },
+    {
+      "path": "data/topics.json",
+      "type": "blob"
+    },
+    {
+      "path": "data/verbs.json",
+      "type": "blob"
+    },
+    {
+      "path": "data/videos.json",
+      "type": "blob"
+    },
+    {
+      "path": "data/writing.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs",
+      "type": "tree"
+    },
+    {
+      "path": "dialogs/03-meet-markus.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/04-begrijp-je-dat.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/05-hulp-nodig.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/06-mijn-dag.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/07-bel-dokter.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/08-in-restaurant.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/08-koken.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/09-supermarkt.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/10-online-klantenservice.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/11-in-een-kleding-en-schoenenwinkel.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/11-in-een-woonwinkel.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/11-op-de-markt.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/12-elke-dag.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/13-op-het-station.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/14-in-de-apotheek.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/15-sollicitatiegesprek.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/16-op-kantoor.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/17-de-vergadering.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/18-technisch-probleem.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/19-bij-de-gemeente.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/20-mijn-weekend.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/21-het-nieuwe-huis.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/22-de-eerste-schooldag.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/23-de-familiefoto.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/24-het-weer.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/25-de-huisdieren.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/26-welke-sport.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/27-in-het-bos.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/28-nederlandse-gewoontes.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/29-de-bezichtiging.json",
+      "type": "blob"
+    },
+    {
+      "path": "dialogs/30-de-uitgaven.json",
+      "type": "blob"
+    },
+    {
+      "path": "grammar",
+      "type": "tree"
+    },
+    {
+      "path": "grammar/0-elements",
+      "type": "tree"
+    },
+    {
+      "path": "grammar/0-elements/00-symbols.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/0-elements/01-getallen.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/0-elements/06-morfologie.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/0-elements/20-spelling.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/1-auxilaries",
+      "type": "tree"
+    },
+    {
+      "path": "grammar/1-auxilaries/00-connectors.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/1-auxilaries/02-timewise.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/1-auxilaries/03-spacewise.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/1-auxilaries/24-negators.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/2-decorators",
+      "type": "tree"
+    },
+    {
+      "path": "grammar/2-decorators/14-modifiers.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/2-decorators/34-adjectives.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/2-decorators/35-adverbs.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/2-decorators/36-comparatives.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/2-decorators/40-toners.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/3-pronouns",
+      "type": "tree"
+    },
+    {
+      "path": "grammar/3-pronouns/50-pronouns.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/3-pronouns/54-possesives.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/3-pronouns/60-vraag-worden.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/3-pronouns/70-er-word.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/4-nouns",
+      "type": "tree"
+    },
+    {
+      "path": "grammar/4-nouns/02-nouns.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/4-nouns/14-determiners.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/4-nouns/60-diminutives.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/4-nouns/62-plurals.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/5-verbs",
+      "type": "tree"
+    },
+    {
+      "path": "grammar/5-verbs/19-verbs.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/5-verbs/21-zijn_hebben_worden.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/5-verbs/22-verb-with-prepositions.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/5-verbs/23-modal_verbs.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/5-verbs/24-participles.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/5-verbs/25-imperfectum.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/5-verbs/26-perfectum.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/5-verbs/27-te-infinitive.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/5-verbs/29-passive.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/5-verbs/30-strong_verbs.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/7-modes",
+      "type": "tree"
+    },
+    {
+      "path": "grammar/7-modes/01-modalities.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/7-modes/02-future.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/7-modes/03-past_narrative.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/7-modes/04-imperatives.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/7-modes/05-interrogatives.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/8-structures",
+      "type": "tree"
+    },
+    {
+      "path": "grammar/8-structures/00-sentence.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/8-structures/02-coordinating.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/8-structures/03-subordinating.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/8-structures/04-relative_clauses.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/8-structures/05-reported_speech.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/8-structures/06-conditionals.md",
+      "type": "blob"
+    },
+    {
+      "path": "grammar/CLAUDE.md",
+      "type": "blob"
+    },
+    {
+      "path": "guide.md",
+      "type": "blob"
+    },
+    {
+      "path": "images",
+      "type": "tree"
+    },
+    {
+      "path": "images/body-and-health.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/daily-routines.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/dutch-culture-and-traditions.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/family.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/food-and-shopping.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/free-time.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/friends.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/future-and-dreams.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/home-and-living.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/job-and-workplace.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/learning-dutch.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/life-in-the-netherlands.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/money-and-prices.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/personal-introduction.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking",
+      "type": "tree"
+    },
+    {
+      "path": "images/speaking/763.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/764.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/765.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/766.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/767.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/768.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/769.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/770.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/771.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/772.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/773.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/774.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/775.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/776.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/777.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/778.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/779.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/780.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/781.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/782.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/783.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/784.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/785.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/786.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/787.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/788.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/789.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/790.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/791.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/792.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/793.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/794.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/795.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/796.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/797.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/798.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/799.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/800.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/801.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/802.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/803.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/804.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/805.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/806.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/807.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/808.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/809.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/810.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/811.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/812.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/813.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/814.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/815.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/816.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/817.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/818.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/819.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/820.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/821.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/822.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/823.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/824.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/825.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/826.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/827.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/828.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/829.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/830.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/831.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/832.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/833.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/834.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/835.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/836.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/837.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/838.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/839.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/840.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/841.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/842.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/843.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/844.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/845.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/846.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/847.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/848.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/849.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/850.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/851.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/852.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/853.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/854.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/855.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/856.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/857.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/858.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/859.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/860.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/861.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/862.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/863.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/864.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/865.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/866.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/867.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/868.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/869.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/speaking/870.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/technology.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/transportation.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/travel.svg",
+      "type": "blob"
+    },
+    {
+      "path": "images/weather-and-seasons.svg",
+      "type": "blob"
+    },
+    {
+      "path": "notes",
+      "type": "tree"
+    },
+    {
+      "path": "notes/aan.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/achter.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/af-en-toe.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/al.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/alleen.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/als.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/altijd.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/alvast.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/alweer.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/ander.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/apenstaartje.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/apostrof.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/behalve.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/behoorlijk.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/beneden.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/best.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/bij.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/bijna-niet.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/bijna-nooit.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/bijna.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/bijvoorbeeld.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/binnen.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/binnenkort.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/boven.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/bovendien.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/buiten.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/ca.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/circa.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/daar.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/daardoor.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/daarna.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/daarnaast.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/daarom.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/dadelijk.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/dan.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/dankzij.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/dat.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/dergelijk.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/dichtbij.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/dikwijls.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/door.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/dus.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/echt.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/een-beetje.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/een-stuk-of.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/een.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/eens.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/eerst.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/eigenlijk.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/eindelijk.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/elke-dag.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/elke-keer.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/en.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/er.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/erg.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/ergens.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/even-als.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/even.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/geen-meer.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/geen.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/geleden.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/genoeg.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/gerust.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/gewoon.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/half.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/hebben.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/heel.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/heen.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/helemaal-niet.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/helemaal.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/hier.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/hoewel.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/hoor.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/ik-ben-van-plan-om-te.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/in-plaats-van.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/in.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/indien.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/jawel.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/juist.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/komma.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/kortom.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/krap.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/langs.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/lekker.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/linksaf.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/maar.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/meestal.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/met-het-oog-op.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/met.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/meteen.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/morgen.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/naar.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/naartoe.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/naast.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/nadat.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/namelijk.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/nergens.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/net-zo-als.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/net.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/niemand.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/niet-alleen-maar-ook.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/niet-eens.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/niet-meer.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/niet.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/niets.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/nog-eens.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/nog-niet.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/nog-wat.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/nog.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/nogal.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/nogmaals.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/nooit.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/nou.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/nu.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/of.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/om-die-reden.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/om-te.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/om.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/omdat.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/ondanks.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/onder.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/onderweg.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/ongeveer.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/op.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/opdat.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/over.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/overal.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/paar.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/pas.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/per.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/precies.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/punt.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/rechtdoor.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/rechtsaf.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/redelijk.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/regelmatig.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/richting.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/rond.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/ruim.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/sinds.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/soms.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/straks.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/tamelijk.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/te.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/tegen.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/tegenover.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/tegenwoordig.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/telkens.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/ten-slotte.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/teneinde.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/tenzij.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/terug.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/terwijl.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/thuis.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/tijdens.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/toch.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/toen.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/tot.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/totdat.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/trouwens.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/tussen.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/uit.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/uiteindelijk.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/uiterlijk.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/vaak.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/van.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/vanaf.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/vanwege.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/veel-te.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/ver-weg.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/vervolgens.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/vlakbij.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/volgens.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/voor.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/vooral.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/voordat.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/vrij.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/waar.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/wanneer.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/want.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/wat.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/weet-je.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/weg.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/wel.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/weleens.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/welke.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/wie.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/worden.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zeer.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zeg-maar.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zeker.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zelden.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zijn.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zo'n.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zo-als.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zo-dat.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zo-meteen.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zo.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zoals.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zodat.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zodra.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zonder.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zulk.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/zullen.md",
+      "type": "blob"
+    },
+    {
+      "path": "notes/één.md",
+      "type": "blob"
+    },
+    {
+      "path": "package.json",
+      "type": "blob"
+    },
+    {
+      "path": "scripts",
+      "type": "tree"
+    },
+    {
+      "path": "scripts/gen_speaking_images.py",
+      "type": "blob"
+    },
+    {
+      "path": "texts",
+      "type": "tree"
+    },
+    {
+      "path": "texts/ask-for-a-dayoff.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/borrow-book.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/broken-heating.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/calling-in-sick.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/file-a-complaint.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/follow-courses.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/insurance-claim.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/invite-friend.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/job-application.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/library-registration.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/miss-a-test.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/my-buurt.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/my-day.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/my-favorite-clothes.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/my-favorite-food.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/my-favorite-party.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/my-hobby.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/my-weekend.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/noise-complaint.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/note-for-housemate.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/problem-report.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/reporting-being-late.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/reschedule-appointment.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/task-for-a-colleague.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/thanks-for-help.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/visit-doctor.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/volunteer-registration.md",
+      "type": "blob"
+    },
+    {
+      "path": "texts/work-shift.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics",
+      "type": "tree"
+    },
+    {
+      "path": "topics/00-conversations",
+      "type": "tree"
+    },
+    {
+      "path": "topics/00-conversations/00-express_opinions.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/00-conversations/05-small_talks.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/00-conversations/10-emails.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/02-personal_profile",
+      "type": "tree"
+    },
+    {
+      "path": "topics/02-personal_profile/01-about_person.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/02-personal_profile/05-body_and_health.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/02-personal_profile/30-my_family.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/04-daily_life",
+      "type": "tree"
+    },
+    {
+      "path": "topics/04-daily_life/01-household.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/04-daily_life/02-money_and_shopping.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/04-daily_life/10-kitchen_and_food.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/04-daily_life/16-clothing.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/06-work_and_school",
+      "type": "tree"
+    },
+    {
+      "path": "topics/06-work_and_school/21-computer.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/06-work_and_school/23-education.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/06-work_and_school/24-work.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/07-milleu_and_leisure",
+      "type": "tree"
+    },
+    {
+      "path": "topics/07-milleu_and_leisure/02-nature.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/07-milleu_and_leisure/06-going_out.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/07-milleu_and_leisure/12-traffic.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/08-inburgering",
+      "type": "tree"
+    },
+    {
+      "path": "topics/08-inburgering/04-dutch_culture.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/08-inburgering/20-government.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/08-inburgering/22-finding_a_home.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/08-inburgering/91-KNM.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/09-exams_A2",
+      "type": "tree"
+    },
+    {
+      "path": "topics/09-exams_A2/10-How_to.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/09-exams_A2/30-Writing.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/09-exams_A2/40-Reading.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/09-exams_A2/50-Listening.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/09-exams_A2/60-Speaking.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/10-listings",
+      "type": "tree"
+    },
+    {
+      "path": "topics/10-listings/30-Writing_sentences.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/10-listings/31-Writing_lemmas.md",
+      "type": "blob"
+    },
+    {
+      "path": "topics/10-listings/grammar_by_examples.md",
+      "type": "blob"
+    }
+  ]
+}
