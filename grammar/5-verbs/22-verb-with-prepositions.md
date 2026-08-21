@@ -47,7 +47,7 @@ The same fixed-preposition pattern applies to some adjectives used with *zijn*:
 
 ## The *er*-construction
 
-When the object is a **thing** (not a person), the preposition merges into an *er*-word: *Ik wacht **op** de bus* → *Ik wacht **erop***. The question form splits the same way: *Waar wacht je **op**?* See [er-woorden](/#/grammar?doc=2-pronouns/70-er-word.md).
+When the object is a **thing** (not a person), the preposition merges into an *er*-word: *Ik wacht **op** de bus* → *Ik wacht **erop***. The question form splits the same way: *Waar wacht je **op**?* See [er-woorden](/#/grammar?doc=3-pronouns/70-er-word.md).
 
 ## Common mistakes
 

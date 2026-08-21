@@ -23,7 +23,7 @@ A past participle (*gekookt*, *gebroken*, *vergeten*) can sit before a noun as a
 | *de gesloten deur* | the closed door |
 | *vergeten woorden* | forgotten words |
 
-> The -e rule is the same as for any adjective: bare form after *een + het*-word (*een gekookt ei*), -e everywhere else (*de gekookte eieren*, *het gekookte ei*). See [adjectives](/#/grammar?doc=4-bijworden/34-adjectives.md).
+> The -e rule is the same as for any adjective: bare form after *een + het*-word (*een gekookt ei*), -e everywhere else (*de gekookte eieren*, *het gekookte ei*). See [adjectives](/#/grammar?doc=2-decorators/34-adjectives.md).
 
 ```mermaid
 flowchart TD

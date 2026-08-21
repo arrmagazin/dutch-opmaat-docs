@@ -3,16 +3,15 @@
 Representative practice prompts and **model spoken answers** in the style of the inburgering
 **Spreekvaardigheid A2** exam, plus a strategy that reliably gets you over the line.
 
-> The real DUO exam is secret, and the online practice mocks
-> ([Speaking 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/DZ66),
-> [2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/N94P),
-> [3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/TKWW))
-> require a login. In the real exam you **speak into a microphone** — nobody talks back, your answers are recorded and graded later.
-> The prompts and answers below are built to match the exam format so you can rehearse out loud.
-> Practise by **saying each answer aloud and recording yourself**, then compare with the model.
-> For more, use the [A2 – Spreken playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf) and the [Q&A trainer](/#/questions?level=a2) in [Practice](20-Practice.md).
+- The real DUO exam is secret, and the online practice mocks
+  - [Speaking 1](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/DZ66)
+  - [Speaking 2](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/N94P)
+  - [Speaking 3](https://oefenexamensduo.optimumassessment.com/spa/assessment-login/#/TKWW)
+- [A2 – Spreken playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf)
+- [Q&A trainer](/#/questions?level=a2).
+- [Model speaking answers](/#/topics?doc=10-listings/32-Speaking_answers.md). The single pattern behind every one of them: [The speaking answer schema](/#/topics?doc=10-listings/33-Speaking_schema.md).
 
----
+> Practise by **saying each answer aloud and recording yourself**, then compare with the model.
 
 ## How the exam works
 
@@ -265,6 +264,10 @@ Ten slotte neemt ze de trein en komt ze toch op tijd op haar werk.
 
  [Q&A trainer](/#/questions?level=a2)
 
+ [Model speaking answers — 108 answers by topic](/#/topics?doc=10-listings/32-Speaking_answers.md)
+
+ [The speaking answer schema — ANSWER · DETAIL · REASON](/#/topics?doc=10-listings/33-Speaking_schema.md)
+
 ---
 
  [A2 – Spreken playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf)
@@ -303,10 +306,10 @@ exam mocks
 
 1. Do the three official login mocks above **out loud with a microphone**, timed — closest to the real day.
 2. Rehearse the 16 samples here: **say each answer aloud and record yourself**, then compare with the model.
-3. Drill the 4 answer shapes until they are automatic: *react · describe · choose+why · eerst/daarna/ten slotte*.
-4. Use the [Q&A trainer](/#/questions?level=a2) and the [A2 – Spreken playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf) (9 videos) in [Practice](20-Practice.md).
+3. Drill the 4 answer shapes until they are automatic: *react · describe · choose+why · eerst/daarna/ten slotte*. All of them reduce to one 3-move pattern — see [the answer schema](/#/topics?doc=10-listings/33-Speaking_schema.md) — and you can rehearse it topic by topic in [Model speaking answers](/#/topics?doc=10-listings/32-Speaking_answers.md).
+4. Use the [Q&A trainer](/#/questions?level=a2) and the [A2 – Spreken playlist](https://www.youtube.com/playlist?list=PLXhM-IdBEVjj-MEBk3vX5WAi5WC6fjnrf) (9 videos).
 5. Speak Dutch out loud every day, even alone — describe your room, your day, your photos.
-6. Also see [Listening samples](50-Listening_samples.md), [Reading samples](40-Reading_samples.md), [Writing samples](30-Writing_samples.md), and [How to pass](10-How_to.md).
+6. Also see [Listening samples](/#/topics?doc=09-exams_A2/50-Listening.md), [Reading samples](/#/topics?doc=09-exams_A2/40-Reading.md), [Writing samples](/#/topics?doc=09-exams_A2/30-Writing.md), and [How to pass](/#/topics?doc=09-exams_A2/10-How_to.md).
 
 ---
 

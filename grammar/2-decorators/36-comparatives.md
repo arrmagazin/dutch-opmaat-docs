@@ -49,7 +49,7 @@ flowchart TD
 
 "Than" is **dan** — never *als*.
 
-*als* is for **equality**, not difference: *even groot **als*** / *net zo groot **als*** (as big as) — see [Modifiers](/#/grammar?doc=1-auxilaries/14-modifiers.md).
+*als* is for **equality**, not difference: *even groot **als*** / *net zo groot **als*** (as big as) — see [Modifiers](/#/grammar?doc=2-decorators/14-modifiers.md).
 
 ## Comparing adverbs
 
@@ -62,7 +62,7 @@ Adverbs compare exactly like adjectives — *-er* / *het -st* — and share the 
 - [ ] *Vandaag speelt hij **slechter** dan gisteren.*
 - [ ] *Ik drink **liever** thee.* — I'd rather drink tea.
 
-For the full paradigm and the *dan* vs *als* trap, see [Comparatives](/#/grammar?doc=4-bijworden/36-comparatives.md).
+For the full paradigm and the *dan* vs *als* trap, see [Comparatives](/#/grammar?doc=2-decorators/36-comparatives.md).
 
 ## Common mistakes
 

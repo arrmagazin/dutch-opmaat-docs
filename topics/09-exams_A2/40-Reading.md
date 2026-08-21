@@ -208,7 +208,7 @@ Read each text, choose **A / B / C**, then check the key at the bottom of the se
 2. For every wrong answer, **write down the proof sentence** you missed. That habit fixes traps fast.
 3. Re-read the small-word list until *niet / alleen / uiterlijk / na / voor* jump out at you.
 4. Build vocabulary from the [Phrases trainer](/#/phrases?level=a2) and real Dutch texts (school letters, gemeente pages, opening hours).
-5. Also see [Worked samples for the Writing exam](30-Writing_samples.md) and [How to pass](10-How_to.md).
+5. Also see [Worked samples for the Writing exam](/#/topics?doc=09-exams_A2/30-Writing.md) and [How to pass](/#/topics?doc=09-exams_A2/10-How_to.md).
 
 ## Sources
 

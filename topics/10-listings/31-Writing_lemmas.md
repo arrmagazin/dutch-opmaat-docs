@@ -1,6 +1,6 @@
 # Content Lemmas
 
-All non-auxiliary (content-word) lemmas from [30-Writing_sentences.md](30-Writing_sentences.md): nouns, main verbs, adjectives, lexical adverbs, months and weekdays. Function words (articles, pronouns, prepositions, conjunctions, particles), auxiliary/modal verbs, numerals, and proper nouns are excluded. 363 lemmas, sorted A→Z.
+All non-auxiliary (content-word) lemmas from [30-Writing_sentences.md](/#/topics?doc=10-listings/30-Writing_sentences.md): nouns, main verbs, adjectives, lexical adverbs, months and weekdays. Function words (articles, pronouns, prepositions, conjunctions, particles), auxiliary/modal verbs, numerals, and proper nouns are excluded. 363 lemmas, sorted A→Z.
 
 - [ ] aangifte
 - [ ] aankomen

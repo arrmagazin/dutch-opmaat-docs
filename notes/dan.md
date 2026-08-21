@@ -1,4 +1,4 @@
-*dan* is only for **in**equality — use **als** (not *dan*) for equality. See [Comparatives](/#/grammar?doc=4-bijworden/36-comparatives.md).
+*dan* is only for **in**equality — use **als** (not *dan*) for equality. See [Comparatives](/#/grammar?doc=2-decorators/36-comparatives.md).
 
 - *Eerst drink ik koffie, **dan** ga ik werken.* — sequencing use of *dan*.
 

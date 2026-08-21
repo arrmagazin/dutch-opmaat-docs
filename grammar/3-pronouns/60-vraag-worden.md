@@ -65,7 +65,7 @@ flowchart TD
 
 ## waar — places & waar-words
 
-For places, **waar** takes a directional particle; for *things* after a preposition, it fuses with the preposition (a **waar**-word — the question form of an [er-word](/#/grammar?doc=2-pronouns/70-er-word.md)).
+For places, **waar** takes a directional particle; for *things* after a preposition, it fuses with the preposition (a **waar**-word — the question form of an [er-word](/#/grammar?doc=3-pronouns/70-er-word.md)).
 
 | Combo | English | Example |
 |-------|---------|---------|

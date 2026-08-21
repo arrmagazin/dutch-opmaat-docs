@@ -39,7 +39,7 @@ Files starting with `_`, plus any file named `CLAUDE.md` or `INDEX.md`, are filt
 - **File names**: `NN-kebab-case.md` where `NN` controls sort order. The numeric prefix is stripped for display.
 - **Folder names**: `N-kebab-case/` for layered taxonomy. Don't renumber existing folders; that breaks bookmarks.
 - **Markdown**: see [`.markdownlint.json`](.markdownlint.json) for active rules.
-- **Cross-links**: use the app's URL form `[label](/#/grammar?doc=PATH/FILE.md)` so navigation stays inside the docs viewer.
+- **Cross-links**: use the app's URL form — `[label](/#/grammar?doc=PATH/FILE.md)`, `[label](/#/topics?doc=PATH/FILE.md)`, `[label](/#/dialogs?doc=ID)` — so navigation stays inside the docs viewer. A relative `[label](FILE.md)` link is rendered as an *external* link and opens a dead tab.
 - **Style and pedagogy**: see [grammar/CLAUDE.md](grammar/CLAUDE.md) before adding or revising content.
 
 ## Contributing

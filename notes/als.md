@@ -1,4 +1,4 @@
-Use **als** (not *dan*!) for equality. *dan* is only for **in**equality — see [Comparatives](/#/grammar?doc=4-bijworden/36-comparatives.md).
+Use **als** (not *dan*!) for equality. *dan* is only for **in**equality — see [Comparatives](/#/grammar?doc=2-decorators/36-comparatives.md).
 
 - *Hij werkt **als** docent.* — He works as a teacher.
 

@@ -4,7 +4,7 @@ These are the "small" words that translate badly in a dictionary but appear cons
 
 > Individually they're nearly weightless; together they carry the whole emotional register of spoken Dutch. Tap a word to open its note.
 >
-> Toners are different form the *degree* softeners — *een beetje*, *nogal*, *best*, *tamelijk*, *vrij* — see [Modifiers](/#/grammar?doc=1-auxilaries/14-modifiers.md); they scale an adjective rather than tone the sentence.
+> Toners are different form the *degree* softeners — *een beetje*, *nogal*, *best*, *tamelijk*, *vrij* — see [Modifiers](/#/grammar?doc=2-decorators/14-modifiers.md); they scale an adjective rather than tone the sentence.
 
 | Toner | Hint, Core meaning |
 |-------|--------------------|
