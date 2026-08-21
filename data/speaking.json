@@ -2,7 +2,7 @@
   {
     "id": 763,
     "question": "Ik ga drie keer per jaar op vakantie. Hoe vaak gaat u op vakantie en waar gaat u dan naartoe?",
-    "answer": "Ik ga één keer per jaar op vakantie. Ik ga dan naar Thailand.",
+    "answer": "Ik ga één keer per jaar op vakantie. Ik ga dan naar Thailand. Ik ga daar graag naartoe, want het is er warm en niet duur.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/763.svg"
@@ -10,7 +10,7 @@
   {
     "id": 764,
     "question": "Ik spreek vier talen en mijn moedertaal is Nederlands. Wat is uw moedertaal en welke talen spreekt u?",
-    "answer": "Mijn moedertaal is Engels. Ik spreek Engels en een klein beetje Nederlands.",
+    "answer": "Mijn moedertaal is Engels. Ik spreek Engels en een klein beetje Nederlands. Ik leer nu Nederlands, want ik woon in Nederland.",
     "level": "a2",
     "topic": "personal-introduction",
     "image": "images/speaking/764.svg"
@@ -18,7 +18,7 @@
   {
     "id": 765,
     "question": "Ik heb twee zussen en veel neven en nichten. Wat kunt u vertellen over uw familie?",
-    "answer": "Ik heb twee broers en geen zussen. Mijn familie is groot, want ik heb veel ooms en tantes en veel neven en nichten.",
+    "answer": "Ik heb twee broers en geen zussen. Mijn familie is groot, want ik heb veel ooms en tantes en veel neven en nichten. Wij zien elkaar elk jaar met de feestdagen.",
     "level": "a2",
     "topic": "family",
     "image": "images/speaking/765.svg"
@@ -26,7 +26,7 @@
   {
     "id": 766,
     "question": "Mijn dag begint altijd om 6 uur in de ochtend. Hoe laat begint uw dag en wat doet u dan het eerst?",
-    "answer": "Mijn dag begint om 8 uur in de ochtend. Ik drink dan eerst koffie.",
+    "answer": "Mijn dag begint om 8 uur in de ochtend. Ik drink dan eerst koffie, want dan word ik goed wakker. Daarna neem ik een douche en eet ik brood.",
     "level": "a2",
     "topic": "daily-routines",
     "image": "images/speaking/766.svg"
@@ -34,7 +34,7 @@
   {
     "id": 767,
     "question": "Ik woon in een rijtjeshuis in Heemstede. Waar woont u en wat voor contact heeft u met uw buren?",
-    "answer": "Ik woon in Amsterdam. Ik heb weinig contact met mijn buren.",
+    "answer": "Ik woon in Amsterdam. Ik heb weinig contact met mijn buren, want zij werken de hele dag. Soms zeggen wij hallo op de trap.",
     "level": "a2",
     "topic": "friends",
     "image": "images/speaking/767.svg"
@@ -42,7 +42,7 @@
   {
     "id": 768,
     "question": "Ik doe allerlei dingen om gezond te blijven. Wat doet u allemaal om gezond te blijven?",
-    "answer": "Ik doe veel aan sport om gezond te blijven. Ik eet niet zoveel en ik drink geen alcohol.",
+    "answer": "Ik doe veel aan sport om gezond te blijven. Ik eet niet zoveel en ik drink geen alcohol. Ook slaap ik elke nacht acht uur, want dat is goed voor mijn lichaam.",
     "level": "a2",
     "topic": "body-and-health",
     "image": "images/speaking/768.svg"
@@ -50,7 +50,7 @@
   {
     "id": 769,
     "question": "Kirsten zit niet in haar auto. Wat doet zij en waarom zit zij volgens u niet in de auto?",
-    "answer": "Kirsten loopt op straat. Volgens mij is haar auto kapot.",
+    "answer": "Kirsten loopt op straat. Volgens mij is haar auto kapot. Daarom moet zij vandaag lopen.",
     "level": "a2",
     "topic": "transportation",
     "image": "images/speaking/769.svg"
@@ -58,7 +58,7 @@
   {
     "id": 770,
     "question": "Henk gaat naar zijn werk. Hoe reist hij en hoe lang moet hij volgens u reizen naar zijn werk?",
-    "answer": "Henk reist met de fiets. Volgens mij moet hij ongeveer 10 minuten reizen.",
+    "answer": "Henk reist met de fiets. Volgens mij moet hij ongeveer 10 minuten reizen. Hij gaat met de fiets, want dat is gezond en gratis.",
     "level": "a2",
     "topic": "transportation",
     "image": "images/speaking/770.svg"
@@ -66,7 +66,7 @@
   {
     "id": 771,
     "question": "Waar gaat u liever naartoe? Vertel ook waarom u dat het liefste doet.",
-    "answer": "Ik ga liever naar een concert. Ik hou van muziek.",
+    "answer": "Ik ga liever naar een concert. Ik ga meestal samen met vrienden. Ik doe dat het liefst, want ik hou van muziek en van dansen.",
     "level": "a2",
     "topic": "free-time",
     "image": "images/speaking/771.svg"
@@ -74,7 +74,7 @@
   {
     "id": 772,
     "question": "Waar gaat u liever uit eten, in een snackbar of in een restaurant? Hoe vaak gaat u daar naartoe?",
-    "answer": "Ik ga liever uit eten in een snackbar. Ik ga daar elke week naartoe.",
+    "answer": "Ik ga liever uit eten in een snackbar. Ik ga daar elke week naartoe. Een restaurant is ook lekker, maar een snackbar is goedkoper en sneller.",
     "level": "a2",
     "topic": "food-and-shopping",
     "image": "images/speaking/772.svg"
@@ -82,7 +82,7 @@
   {
     "id": 773,
     "question": "David werkt in een garage. Welke dingen moet hij doen? Gebruik alle plaatjes.",
-    "answer": "David moet de banden controleren en hij moet de olie controleren. Hij moet ook de auto schoonmaken.",
+    "answer": "Eerst moet David de banden controleren. Daarna moet hij de olie controleren. Ten slotte moet hij de auto schoonmaken.",
     "level": "a2",
     "topic": "job-and-workplace",
     "image": "images/speaking/773.svg"
@@ -90,7 +90,7 @@
   {
     "id": 774,
     "question": "Karina werkt in een vliegtuig. Wat moet zij doen? Gebruik alle plaatjes.",
-    "answer": "Karina moet de kaartjes controleren. Zij moet instructies geven en zij moet eten naar de passagiers brengen.",
+    "answer": "Eerst moet Karina de kaartjes controleren. Daarna moet zij instructies geven. Ten slotte moet zij eten naar de passagiers brengen.",
     "level": "a2",
     "topic": "job-and-workplace",
     "image": "images/speaking/774.svg"
@@ -98,7 +98,7 @@
   {
     "id": 775,
     "question": "Ik heb mijn huis modern ingericht. Hoe heeft u uw huis ingericht? Vertel ook waarom u dat zo heeft gedaan.",
-    "answer": "Ik heb mijn huis klassiek ingericht. Ik hou van klassiek.",
+    "answer": "Ik heb mijn huis klassiek ingericht. Ik heb oude meubels en veel hout in mijn kamer. Ik heb dat zo gedaan, want ik hou van klassiek.",
     "level": "a2",
     "topic": "home-and-living",
     "image": "images/speaking/775.svg"
@@ -106,7 +106,7 @@
   {
     "id": 776,
     "question": "Ik wil later in Singapore gaan wonen. Dat is mijn ideale stad. Wat is uw ideale plaats en vertel ook waarom.",
-    "answer": "Mijn ideale plaats is Amsterdam. Ik hou van Nederland en van Amsterdam.",
+    "answer": "Mijn ideale plaats is Amsterdam. In Amsterdam zijn grachten en veel oude huizen. Ik wil daar later wonen, want ik hou van Nederland en van deze stad.",
     "level": "a2",
     "topic": "home-and-living",
     "image": "images/speaking/776.svg"
@@ -114,7 +114,7 @@
   {
     "id": 777,
     "question": "Ik ben wel eens boos. Bent u ook wel eens boos? In welke situaties bent u boos?",
-    "answer": "Ja, ik ben wel eens boos. Ik ben boos als ik veel moet betalen.",
+    "answer": "Ja, ik ben wel eens boos. Ik ben boos als ik veel moet betalen. Ook ben ik boos als de trein te laat is, want dan kom ik te laat op mijn werk.",
     "level": "a2",
     "topic": "personal-introduction",
     "image": "images/speaking/777.svg"
@@ -122,7 +122,7 @@
   {
     "id": 778,
     "question": "Ik eet elke dag muesli en fruit bij mijn ontbijt en ik drink ook thee. Wat neemt u bij uw ontbijt?",
-    "answer": "Bij mijn ontbijt eet ik rijst met groente. Ik drink ook thee.",
+    "answer": "Bij mijn ontbijt eet ik rijst met groente. Ik drink ook thee. Ik eet 's ochtends warm, want dat doen wij thuis altijd zo.",
     "level": "a2",
     "topic": "daily-routines",
     "image": "images/speaking/778.svg"
@@ -130,7 +130,7 @@
   {
     "id": 779,
     "question": "Amsterdam is de hoofdstad van Nederland. In Amsterdam zijn grachten en veel oude huizen. Er zijn ook veel musea in Amsterdam. Wat kunt u vertellen over de hoofdstad van uw eigen land?",
-    "answer": "De hoofdstad van mijn eigen land is Mexico-Stad. In Mexico-Stad wonen veel mensen en er zijn veel oude huizen. Er zijn ook veel musea.",
+    "answer": "De hoofdstad van mijn eigen land is Mexico-Stad. In Mexico-Stad wonen veel mensen en er zijn veel oude huizen. Er zijn ook veel musea, want de stad is heel oud.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/779.svg"
@@ -138,7 +138,7 @@
   {
     "id": 780,
     "question": "Sommige mensen hebben een vakantiehuis. Waar zou u een vakantiehuis willen hebben en vertel ook waarom juist daar?",
-    "answer": "Ik zou een vakantiehuis op Bali willen hebben. Op Bali is het altijd mooi weer.",
+    "answer": "Ik zou een vakantiehuis op Bali willen hebben. Op Bali is het altijd mooi weer. Ik wil juist daar een huis, want ik hou van de zon en de zee.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/780.svg"
@@ -146,7 +146,7 @@
   {
     "id": 781,
     "question": "Diego houdt van uitgaan. Wat doet hij en waar is hij volgens u?",
-    "answer": "Diego kijkt naar een film. Volgens mij is hij in de bioscoop.",
+    "answer": "Diego kijkt naar een film. Volgens mij is hij in de bioscoop. Hij gaat daar vaak naartoe, want hij houdt van uitgaan.",
     "level": "a2",
     "topic": "free-time",
     "image": "images/speaking/781.svg"
@@ -154,7 +154,7 @@
   {
     "id": 782,
     "question": "Leila gaat naar een concert. Waar is het concert volgens u en hoe heeft zij haar kaartje gekocht?",
-    "answer": "Volgens mij is het concert in een theater. Leila heeft haar kaartje via internet gekocht.",
+    "answer": "Volgens mij is het concert in een theater. Leila heeft haar kaartje via internet gekocht. Zij koopt haar kaartje online, want dat is makkelijk en snel.",
     "level": "a2",
     "topic": "free-time",
     "image": "images/speaking/782.svg"
@@ -162,7 +162,7 @@
   {
     "id": 783,
     "question": "U gaat van uw huis naar het station. Met welk vervoermiddel gaat u het liefst en hoe vaak gaat u naar het station?",
-    "answer": "Ik ga het liefst met de taxi. Ik ga elke week naar het station.",
+    "answer": "Ik ga het liefst met de taxi naar het station. Ik ga elke week naar het station. Ik neem een taxi, want ik heb altijd een zware koffer bij me.",
     "level": "a2",
     "topic": "transportation",
     "image": "images/speaking/783.svg"
@@ -170,7 +170,7 @@
   {
     "id": 784,
     "question": "U gaat naar Spanje. Hoe reist u het liefst? Vertel ook wat u gaat doen in Spanje.",
-    "answer": "Ik reis het liefst met de trein. In Spanje ga ik naar het strand.",
+    "answer": "Ik reis het liefst met de trein, want dan kan ik slapen. In Spanje ga ik naar het strand. Ik ga daar zwemmen, want het water is lekker warm.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/784.svg"
@@ -178,7 +178,7 @@
   {
     "id": 785,
     "question": "Juan is de hele dag bezig op zijn laptop. Waarvoor gebruikt hij zijn computer? Gebruik alle plaatjes.",
-    "answer": "Juan gebruikt zijn computer om boodschappen te doen en om e-mails te schrijven. Hij vergadert ook met collega's.",
+    "answer": "Juan gebruikt zijn computer om boodschappen te doen en om e-mails te schrijven. Hij vergadert ook met zijn collega's. Hij is de hele dag bezig, want hij werkt thuis.",
     "level": "a2",
     "topic": "technology",
     "image": "images/speaking/785.svg"
@@ -186,7 +186,7 @@
   {
     "id": 786,
     "question": "Melissa volgt een cursus. Welke dingen gebruikt zij bij haar cursus? Gebruik alle plaatjes.",
-    "answer": "Bij haar cursus gebruikt Melissa haar laptop en een koptelefoon. Zij gebruikt ook boeken en zij schrijft met een pen op papier.",
+    "answer": "Bij haar cursus gebruikt Melissa haar laptop en een koptelefoon. Zij gebruikt ook boeken en zij schrijft met een pen op papier. Zij gebruikt veel spullen, want zij wil de cursus goed doen.",
     "level": "a2",
     "topic": "learning-dutch",
     "image": "images/speaking/786.svg"
@@ -194,7 +194,7 @@
   {
     "id": 787,
     "question": "Ik vind het leuk om een cadeautje te krijgen. Vindt u het leuk om cadeautjes te krijgen? Vertel ook wat u het leukst vindt om te krijgen.",
-    "answer": "Ik vind het ook leuk om cadeautjes te krijgen. Het leukst vind ik bloemen.",
+    "answer": "Ja, ik vind het ook leuk om cadeautjes te krijgen. Het leukst vind ik bloemen. Ik krijg graag bloemen, want dan is mijn huis gezellig.",
     "level": "a2",
     "topic": "free-time",
     "image": "images/speaking/787.svg"
@@ -202,7 +202,7 @@
   {
     "id": 788,
     "question": "Ik woon in Rotterdam. In welke stad woont u nu en sinds wanneer woont u daar?",
-    "answer": "Ik woon in Almere. Ik woon daar sinds 2013.",
+    "answer": "Ik woon nu in Almere. Ik woon daar sinds 2013. Ik woon graag in Almere, want de stad is rustig en niet duur.",
     "level": "a2",
     "topic": "personal-introduction",
     "image": "images/speaking/788.svg"
@@ -210,7 +210,7 @@
   {
     "id": 789,
     "question": "Mijn hobby is boeken lezen. Wat doet u het liefst in uw vrije tijd?",
-    "answer": "In mijn vrije tijd kijk ik het liefst naar een film. Een goede film vind ik leuk.",
+    "answer": "In mijn vrije tijd kijk ik het liefst naar een film. Ik kijk meestal thuis op de bank. Een goede film vind ik leuk, want dan vergeet ik mijn werk.",
     "level": "a2",
     "topic": "free-time",
     "image": "images/speaking/789.svg"
@@ -218,7 +218,7 @@
   {
     "id": 790,
     "question": "Ik vind Nederlands een heel moeilijke taal. Vindt u Nederlands een moeilijke taal en hoe lang leert u al Nederlands?",
-    "answer": "Ik vind Nederlands ook een moeilijke taal. Ik leer al twee jaar Nederlands.",
+    "answer": "Ik vind Nederlands ook een moeilijke taal. Ik leer al twee jaar Nederlands. De grammatica is moeilijk voor mij, want mijn eigen taal is heel anders.",
     "level": "a2",
     "topic": "learning-dutch",
     "image": "images/speaking/790.svg"
@@ -226,7 +226,7 @@
   {
     "id": 791,
     "question": "Mijn kinderen gaan naar de basisschool. Wat weet u van de Nederlandse basisschool?",
-    "answer": "De basisschool is voor kinderen van 4 tot 12 jaar. Kinderen gaan naar school zonder uniform. Jongens en meisjes zitten samen in één klas.",
+    "answer": "De Nederlandse basisschool is voor kinderen van 4 tot 12 jaar. Jongens en meisjes zitten samen in één klas. De kinderen dragen geen uniform, want dat is niet normaal in Nederland.",
     "level": "a2",
     "topic": "life-in-the-netherlands",
     "image": "images/speaking/791.svg"
@@ -234,7 +234,7 @@
   {
     "id": 792,
     "question": "Ik ben leraar Nederlands. Wat is uw beroep en hoe lang bent u dat al?",
-    "answer": "Mijn beroep is schoonmaker. Ik ben dat al drie jaar.",
+    "answer": "Mijn beroep is schoonmaker. Ik ben dat al drie jaar. Ik werk graag als schoonmaker, want ik heb aardige collega's.",
     "level": "a2",
     "topic": "job-and-workplace",
     "image": "images/speaking/792.svg"
@@ -242,7 +242,7 @@
   {
     "id": 793,
     "question": "Paula heeft een computer. Wat is het probleem? Wat kan zij het beste doen?",
-    "answer": "Het probleem is dat de koffie op het toetsenbord valt. Paula kan het beste een nieuw toetsenbord kopen.",
+    "answer": "Het probleem is dat de koffie op het toetsenbord valt. Paula kan het beste een nieuw toetsenbord kopen. Zij moet dat snel doen, want zonder toetsenbord kan zij niet werken.",
     "level": "a2",
     "topic": "technology",
     "image": "images/speaking/793.svg"
@@ -250,7 +250,7 @@
   {
     "id": 794,
     "question": "Vincent krijgt veel e-mails. Wat gaat hij volgens u doen met deze e-mails? Wat doet u zelf met uw e-mails?",
-    "answer": "Volgens mij gaat Vincent zijn e-mails lezen. Zelf gooi ik mijn e-mails weg.",
+    "answer": "Volgens mij gaat Vincent zijn e-mails lezen. Zelf gooi ik mijn e-mails weg. Ik lees niet alle e-mails, want ik krijg er veel te veel.",
     "level": "a2",
     "topic": "technology",
     "image": "images/speaking/794.svg"
@@ -258,7 +258,7 @@
   {
     "id": 795,
     "question": "Wat doet u liever in de vakantie? Vertel ook wanneer u op vakantie gaat.",
-    "answer": "In de vakantie slaap ik liever veel. Ik ga in de zomer op vakantie.",
+    "answer": "In de vakantie slaap ik liever veel. Ik ga in de zomer op vakantie. Ik slaap graag lang, want ik werk het hele jaar hard.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/795.svg"
@@ -266,7 +266,7 @@
   {
     "id": 796,
     "question": "Hoe gaat u het liefst op vakantie? Vertel ook hoe vaak u met het vliegtuig reist.",
-    "answer": "Ik ga het liefst met de trein op vakantie. Ik reis nooit met het vliegtuig.",
+    "answer": "Ik ga het liefst met de trein op vakantie. Ik reis nooit met het vliegtuig. Ik neem liever de trein, want ik ben bang in een vliegtuig.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/796.svg"
@@ -274,7 +274,7 @@
   {
     "id": 797,
     "question": "Tamara gaat naar een restaurant. Wat doet zij in het restaurant en met wie is zij daar? Gebruik alle plaatjes.",
-    "answer": "In het restaurant eet Tamara iets lekkers en zij drinkt rode wijn. Zij is daar met haar broer.",
+    "answer": "In het restaurant eet Tamara iets lekkers en zij drinkt rode wijn. Zij is daar samen met haar broer. Volgens mij vieren zij een verjaardag, want zij gaan niet vaak uit eten.",
     "level": "a2",
     "topic": "family",
     "image": "images/speaking/797.svg"
@@ -282,7 +282,7 @@
   {
     "id": 798,
     "question": "Vladimir loopt door de stad en hij ziet drie artiesten. Wat ziet hij als hij door de stad loopt? Gebruik alle plaatjes.",
-    "answer": "Vladimir ziet iemand die muziek maakt. Hij ziet ook iemand die danst en iemand die schildert.",
+    "answer": "Als Vladimir door de stad loopt, ziet hij eerst iemand die muziek maakt. Daarna ziet hij iemand die danst. Ten slotte ziet hij iemand die schildert.",
     "level": "a2",
     "topic": "free-time",
     "image": "images/speaking/798.svg"
@@ -290,7 +290,7 @@
   {
     "id": 799,
     "question": "Rijdt u vaak met de bus? Vertel ook waarom.",
-    "answer": "Ja, ik rijd vaak met de bus. De bus is snel.",
+    "answer": "Ja, ik rijd vaak met de bus. Ik ga elke dag met de bus naar mijn werk. Ik neem de bus, want ik heb geen auto en de bus is goedkoop.",
     "level": "a2",
     "topic": "transportation",
     "image": "images/speaking/799.svg"
@@ -298,7 +298,7 @@
   {
     "id": 800,
     "question": "Wat vindt u een leuk programma op tv? Vertel ook welk programma u niet leuk vindt.",
-    "answer": "Ik vind een film een leuk programma op tv. Voetbal vind ik niet leuk.",
+    "answer": "Ik vind een film een leuk programma op tv. Voetbal vind ik niet leuk. Ik kijk liever een film, want voetbal duurt veel te lang.",
     "level": "a2",
     "topic": "free-time",
     "image": "images/speaking/800.svg"
@@ -306,7 +306,7 @@
   {
     "id": 801,
     "question": "Welk fruit eet u graag? Vertel ook hoe vaak u fruit eet.",
-    "answer": "Ik eet graag appels. Ik eet elke dag een appel.",
+    "answer": "Ik eet graag appels. Ik eet elke dag een appel. Ik eet veel fruit, want dat is gezond en lekker.",
     "level": "a2",
     "topic": "food-and-shopping",
     "image": "images/speaking/801.svg"
@@ -314,7 +314,7 @@
   {
     "id": 802,
     "question": "In Nederland regent het vaak. Wat vindt u daarvan? Vertel ook hoe het weer is in uw eigen land.",
-    "answer": "Ik vind dat niet fijn. In mijn eigen land is het weer warm en zonnig.",
+    "answer": "Ik vind dat niet fijn. In mijn eigen land is het weer warm en zonnig. Ik hou niet van regen, want dan blijf ik de hele dag binnen.",
     "level": "a2",
     "topic": "weather-and-seasons",
     "image": "images/speaking/802.svg"
@@ -322,7 +322,7 @@
   {
     "id": 803,
     "question": "Hoe vaak gebruikt u uw telefoon? Vertel ook waarvoor u uw telefoon gebruikt.",
-    "answer": "Ik gebruik mijn telefoon elke dag. Ik bel dan met mijn moeder.",
+    "answer": "Ik gebruik mijn telefoon elke dag. Ik bel dan met mijn moeder. Ik gebruik mijn telefoon ook voor foto's, want ik heb geen camera.",
     "level": "a2",
     "topic": "technology",
     "image": "images/speaking/803.svg"
@@ -330,7 +330,7 @@
   {
     "id": 804,
     "question": "Ik was vandaag te laat op mijn werk. Waarom bent u wel eens te laat? Zeg ook wat u dan doet.",
-    "answer": "Ik ben wel eens te laat, omdat ik in de file sta. Dan bel ik mijn baas.",
+    "answer": "Ik ben wel eens te laat, omdat ik in de file sta. Dan bel ik mijn baas. Ik bel altijd meteen, want mijn baas moet het weten.",
     "level": "a2",
     "topic": "job-and-workplace",
     "image": "images/speaking/804.svg"
@@ -338,7 +338,7 @@
   {
     "id": 805,
     "question": "Het is vandaag 5 december. Wat doen veel Nederlanders op deze dag en wat doet u op 5 december?",
-    "answer": "Veel Nederlanders vieren Sinterklaas en geven elkaar een cadeau. Ik vier Sinterklaas niet op 5 december.",
+    "answer": "Veel Nederlanders vieren Sinterklaas en geven elkaar een cadeau. Ik vier Sinterklaas niet op 5 december. Ik doe dat niet, want dat is geen traditie in mijn eigen land.",
     "level": "a2",
     "topic": "dutch-culture-and-traditions",
     "image": "images/speaking/805.svg"
@@ -346,7 +346,7 @@
   {
     "id": 806,
     "question": "Het is vandaag 27 april, Koningsdag. Wat doen veel Nederlanders op deze dag en wat doet u op Koningsdag?",
-    "answer": "Veel Nederlanders dragen op deze dag oranje kleding. Ik draag op Koningsdag ook oranje kleding.",
+    "answer": "Veel Nederlanders dragen op deze dag oranje kleding. Ik draag op Koningsdag ook oranje kleding. Ik ga dan naar de markt in de stad, want op Koningsdag is het overal feest.",
     "level": "a2",
     "topic": "dutch-culture-and-traditions",
     "image": "images/speaking/806.svg"
@@ -354,7 +354,7 @@
   {
     "id": 807,
     "question": "Waar woont u liever, in een stad of in een dorp? Vertel ook waarom.",
-    "answer": "Ik woon liever in de stad. In de stad zijn winkels en restaurants.",
+    "answer": "Ik woon liever in de stad. In de stad zijn veel winkels en restaurants. Een dorp is rustig, maar de stad vind ik leuker, want daar is altijd wat te doen.",
     "level": "a2",
     "topic": "home-and-living",
     "image": "images/speaking/807.svg"
@@ -362,7 +362,7 @@
   {
     "id": 808,
     "question": "In welk huis woont u liever? Vertel ook waarom.",
-    "answer": "Ik woon liever in een flat. Ik wil geen tuin.",
+    "answer": "Ik woon liever in een flat. Ik wil geen tuin en geen trap. Een huis is ook mooi, maar een flat is makkelijker, want daar heb ik weinig werk.",
     "level": "a2",
     "topic": "home-and-living",
     "image": "images/speaking/808.svg"
@@ -370,7 +370,7 @@
   {
     "id": 809,
     "question": "Candy gaat graag op vakantie. Vertel wat zij doet. Gebruik alle plaatjes.",
-    "answer": "Candy gaat naar een grote stad. Zij gaat shoppen en zij drinkt koffie op een terras.",
+    "answer": "Eerst gaat Candy naar een grote stad. Daarna gaat zij shoppen in de winkels. Ten slotte drinkt zij koffie op een terras.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/809.svg"
@@ -378,7 +378,7 @@
   {
     "id": 810,
     "question": "Theo en Thea zijn op vakantie in Nederland. Wat doen zij tijdens de vakantie? Gebruik alle plaatjes.",
-    "answer": "Theo en Thea fietsen en zij wandelen. Zij zitten ook bij het water.",
+    "answer": "Eerst fietsen Theo en Thea door Nederland. Daarna wandelen zij. Ten slotte zitten zij bij het water.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/810.svg"
@@ -386,7 +386,7 @@
   {
     "id": 811,
     "question": "Veel Nederlanders eten om 6 uur 's avonds. Wat vindt u daarvan? Zeg ook hoe laat u zelf meestal eet.",
-    "answer": "Ik vind dat een goede tijd om te eten. Zelf eet ik meestal ook om 6 uur.",
+    "answer": "Ik vind dat een goede tijd om te eten. Zelf eet ik meestal ook om 6 uur. Ik eet graag vroeg, want daarna heb ik nog tijd voor mijn kinderen.",
     "level": "a2",
     "topic": "life-in-the-netherlands",
     "image": "images/speaking/811.svg"
@@ -394,7 +394,7 @@
   {
     "id": 812,
     "question": "Naar welke muziek luistert u graag? Vertel ook hoe vaak u daarnaar luistert.",
-    "answer": "Ik luister graag naar popmuziek. Ik luister er elke dag naar.",
+    "answer": "Ik luister graag naar popmuziek. Ik luister er elke dag naar. Ik luister vooral in de auto, want dan is de reis niet saai.",
     "level": "a2",
     "topic": "free-time",
     "image": "images/speaking/812.svg"
@@ -402,7 +402,7 @@
   {
     "id": 813,
     "question": "Ik houd niet van katten. Welk dier vindt u niet leuk en vertel ook waarom.",
-    "answer": "Ik vind katten ook niet leuk. Katten zijn vies.",
+    "answer": "Ik vind katten ook niet leuk. Ik heb thuis geen huisdieren. Ik hou niet van katten, want zij maken alles vies.",
     "level": "a2",
     "topic": "home-and-living",
     "image": "images/speaking/813.svg"
@@ -410,7 +410,7 @@
   {
     "id": 814,
     "question": "Ik heb geen rijbewijs. Hebt u een rijbewijs? Vertel ook hoe u dat vindt.",
-    "answer": "Ja, ik heb wel een rijbewijs. Ik vind dat fijn.",
+    "answer": "Ja, ik heb wel een rijbewijs. Ik heb mijn rijbewijs al tien jaar. Ik vind dat fijn, want met een auto ben ik snel overal.",
     "level": "a2",
     "topic": "transportation",
     "image": "images/speaking/814.svg"
@@ -418,7 +418,7 @@
   {
     "id": 815,
     "question": "Wat gaat u morgen doen? Vertel ook hoe laat u dat gaat doen.",
-    "answer": "Ik ga morgen naar school. Dat doe ik om 9 uur.",
+    "answer": "Ik ga morgen naar school. Dat doe ik om 9 uur. Ik ga met de fiets, want school is dicht bij mijn huis.",
     "level": "a2",
     "topic": "daily-routines",
     "image": "images/speaking/815.svg"
@@ -426,7 +426,7 @@
   {
     "id": 816,
     "question": "Wat is de mooiste plaats waar u geweest bent? Vertel ook waarom u daar was.",
-    "answer": "De mooiste plaats waar ik geweest ben, is Amsterdam. Ik was daar op vakantie.",
+    "answer": "De mooiste plaats waar ik geweest ben, is Amsterdam. Ik was daar op vakantie met mijn familie. Ik vond het daar mooi, want ik hou van de grachten en de oude huizen.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/816.svg"
@@ -434,7 +434,7 @@
   {
     "id": 817,
     "question": "Marleen droomt over een nieuw huis. Over wat voor soort huis droomt zij volgens u en is zo'n huis duur of goedkoop?",
-    "answer": "Volgens mij droomt Marleen over een villa. Zo'n huis is duur.",
+    "answer": "Volgens mij droomt Marleen over een villa. Zo'n huis is heel duur. Zij droomt daarvan, want zij wil een grote tuin en veel kamers.",
     "level": "a2",
     "topic": "home-and-living",
     "image": "images/speaking/817.svg"
@@ -442,7 +442,7 @@
   {
     "id": 818,
     "question": "Vanessa heeft een huis gevonden. Hoeveel kamers heeft haar huis en hoeveel kamers heeft uw huis?",
-    "answer": "Het huis van Vanessa heeft zes kamers. Mijn huis heeft vijf kamers.",
+    "answer": "Het huis van Vanessa heeft zes kamers. Mijn huis heeft vijf kamers. Dat is genoeg voor mij, want ik woon alleen met mijn partner.",
     "level": "a2",
     "topic": "home-and-living",
     "image": "images/speaking/818.svg"
@@ -450,7 +450,7 @@
   {
     "id": 819,
     "question": "Welk beroep past beter bij u? Vertel ook waarom.",
-    "answer": "Leraar past beter bij mij. Ik vind het leuk op school.",
+    "answer": "Leraar past beter bij mij. Ik werk graag met kinderen. Ik vind het leuk op school, want elke dag is anders.",
     "level": "a2",
     "topic": "job-and-workplace",
     "image": "images/speaking/819.svg"
@@ -458,7 +458,7 @@
   {
     "id": 820,
     "question": "U ziet hier twee mensen: de één doet administratief werk, de ander werkt in de zorg. Welk beroep past beter bij u? Vertel ook of u veel of weinig geld kunt verdienen met dit beroep.",
-    "answer": "Werken in de zorg past beter bij mij. Met dit beroep kan ik weinig geld verdienen.",
+    "answer": "Werken in de zorg past beter bij mij. Ik help graag mensen die ziek zijn. Met dit beroep kan ik weinig geld verdienen, maar ik vind het werk mooi.",
     "level": "a2",
     "topic": "job-and-workplace",
     "image": "images/speaking/820.svg"
@@ -466,7 +466,7 @@
   {
     "id": 821,
     "question": "Thomas heeft lunchtijd. Vertel wat hij doet tijdens de lunch. Gebruik alle plaatjes.",
-    "answer": "Thomas eet een broodje en hij drinkt koffie. Hij kijkt ook naar zijn computer.",
+    "answer": "Tijdens de lunch eet Thomas eerst een broodje. Daarna drinkt hij koffie. Ten slotte kijkt hij naar zijn computer.",
     "level": "a2",
     "topic": "food-and-shopping",
     "image": "images/speaking/821.svg"
@@ -474,7 +474,7 @@
   {
     "id": 822,
     "question": "Maria is met haar dochter in de winkel. Vertel wat Maria koopt. Gebruik alle plaatjes.",
-    "answer": "Maria koopt fruit en groente. Zij koopt ook een pak koekjes.",
+    "answer": "Eerst koopt Maria fruit. Daarna koopt zij groente. Ten slotte koopt zij een pak koekjes voor haar dochter.",
     "level": "a2",
     "topic": "food-and-shopping",
     "image": "images/speaking/822.svg"
@@ -482,7 +482,7 @@
   {
     "id": 823,
     "question": "Ik woon in het centrum van een grote stad. Waar woont u? Vertel ook hoe u dat vindt.",
-    "answer": "Ik woon in het centrum van Amsterdam. Ik vind dat fijn, want Amsterdam is een mooie stad.",
+    "answer": "Ik woon in het centrum van Amsterdam. Alle winkels en restaurants zijn dicht bij mijn huis. Ik vind dat fijn, want ik kan overal lopen.",
     "level": "a2",
     "topic": "home-and-living",
     "image": "images/speaking/823.svg"
@@ -490,7 +490,7 @@
   {
     "id": 824,
     "question": "Met wie eet u meestal samen? Zeg ook waar u het liefst eet.",
-    "answer": "Ik eet meestal met mijn partner. Ik eet het liefst thuis.",
+    "answer": "Ik eet meestal samen met mijn partner. Ik eet het liefst thuis aan tafel. Dat vind ik fijn, want thuis eten is goedkoper en gezelliger.",
     "level": "a2",
     "topic": "food-and-shopping",
     "image": "images/speaking/824.svg"
@@ -498,7 +498,7 @@
   {
     "id": 825,
     "question": "Waar hebt u Nederlandse les? Zeg ook hoe lang u al les hebt.",
-    "answer": "Ik heb Nederlandse les bij Ad Appel. Ik heb al zes maanden les.",
+    "answer": "Ik heb Nederlandse les bij Ad Appel. Ik heb daar al zes maanden les. Ik ga twee keer per week naar de les, want ik wil het examen halen.",
     "level": "a2",
     "topic": "learning-dutch",
     "image": "images/speaking/825.svg"
@@ -506,7 +506,7 @@
   {
     "id": 826,
     "question": "Ik heb een nieuwe trui gekocht. Wat hebt u kort geleden gekocht?",
-    "answer": "Ik heb kort geleden een paraplu gekocht. Ik heb hem gisteren bij de HEMA gekocht.",
+    "answer": "Ik heb kort geleden een paraplu gekocht. Ik heb hem gisteren bij de HEMA gekocht. Ik had een paraplu nodig, want het regent hier heel vaak.",
     "level": "a2",
     "topic": "money-and-prices",
     "image": "images/speaking/826.svg"
@@ -514,7 +514,7 @@
   {
     "id": 827,
     "question": "Wat vindt u beter in uw eigen land dan in Nederland? Vertel ook waarom.",
-    "answer": "Ik vind het klimaat in mijn eigen land beter. Ik hou van zon en warmte.",
+    "answer": "Ik vind het klimaat in mijn eigen land beter. Daar schijnt bijna elke dag de zon. Ik hou van zon en warmte, want dan ben ik vrolijk.",
     "level": "a2",
     "topic": "life-in-the-netherlands",
     "image": "images/speaking/827.svg"
@@ -522,7 +522,7 @@
   {
     "id": 828,
     "question": "Welke stad zou u graag willen zien? Zeg ook wat u daar wilt doen.",
-    "answer": "Ik zou graag Parijs willen zien. Daar wil ik de Eiffeltoren bekijken.",
+    "answer": "Ik zou graag Parijs willen zien. Daar wil ik de Eiffeltoren bekijken. Ik wil ook naar een museum, want ik hou van kunst.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/828.svg"
@@ -530,7 +530,7 @@
   {
     "id": 829,
     "question": "Zij houdt van sport. Welke sport doet zij hier en hoe vaak doet zij dat volgens u?",
-    "answer": "Zij zwemt in het zwembad. Volgens mij zwemt zij één keer per week.",
+    "answer": "Zij zwemt in het zwembad. Volgens mij zwemt zij één keer per week. Zij doet dat graag, want zwemmen is goed voor het lichaam.",
     "level": "a2",
     "topic": "body-and-health",
     "image": "images/speaking/829.svg"
@@ -538,7 +538,7 @@
   {
     "id": 830,
     "question": "Dafne is een sportieve vrouw. Van welke sport houdt zij? Doet zij haar sport liever alleen of samen met anderen?",
-    "answer": "Dafne houdt van hardlopen. Zij doet haar sport liever alleen.",
+    "answer": "Dafne houdt van hardlopen. Zij doet haar sport liever alleen. Volgens mij vindt zij dat fijn, want dan kan zij haar eigen tempo lopen.",
     "level": "a2",
     "topic": "body-and-health",
     "image": "images/speaking/830.svg"
@@ -546,7 +546,7 @@
   {
     "id": 831,
     "question": "Welk schilderij vindt u mooier? Waar kunt u schilderijen bekijken?",
-    "answer": "Ik vind het schilderij met de bloemen mooier. Ik kan schilderijen in het museum bekijken.",
+    "answer": "Ik vind het schilderij met de bloemen mooier, want ik hou van mooie kleuren. Het andere schilderij is ook goed, maar dit vind ik leuker. Ik kan schilderijen bekijken in een museum.",
     "level": "a2",
     "topic": "free-time",
     "image": "images/speaking/831.svg"
@@ -554,7 +554,7 @@
   {
     "id": 832,
     "question": "U ziet twee dingen die Nederlanders eten: drop en appeltaart. Wat vindt u minder lekker en wanneer eten Nederlanders volgens u appeltaart?",
-    "answer": "Ik vind drop minder lekker. Volgens mij eten Nederlanders appeltaart bij een feestje.",
+    "answer": "Ik vind drop minder lekker. Volgens mij eten Nederlanders appeltaart bij een feestje. Ik eet geen drop, want drop is te zout voor mij.",
     "level": "a2",
     "topic": "dutch-culture-and-traditions",
     "image": "images/speaking/832.svg"
@@ -562,7 +562,7 @@
   {
     "id": 833,
     "question": "U ziet hier een bouwvakker, hij bouwt een huis. Vertel wat een bouwvakker moet doen tijdens zijn werk. Gebruik alle plaatjes.",
-    "answer": "Een bouwvakker moet stenen dragen en hij moet een muur maken. Hij moet ook een dak maken.",
+    "answer": "Tijdens zijn werk moet een bouwvakker eerst stenen dragen. Daarna moet hij een muur maken. Ten slotte moet hij het dak maken.",
     "level": "a2",
     "topic": "job-and-workplace",
     "image": "images/speaking/833.svg"
@@ -570,7 +570,7 @@
   {
     "id": 834,
     "question": "Priscilla maakt haar huis schoon. Vertel wat zij doet. Gebruik alle plaatjes.",
-    "answer": "Priscilla maakt de vloer en de wc schoon. Zij maakt ook de ramen schoon.",
+    "answer": "Eerst maakt Priscilla de vloer schoon. Daarna maakt zij de wc schoon. Ten slotte maakt zij de ramen schoon.",
     "level": "a2",
     "topic": "home-and-living",
     "image": "images/speaking/834.svg"
@@ -578,7 +578,7 @@
   {
     "id": 835,
     "question": "Ik doe mijn boodschappen bijna altijd met de fiets. Hoe doet u uw boodschappen?",
-    "answer": "Ik doe mijn boodschappen met de auto. Ik ga niet met de fiets.",
+    "answer": "Ik doe mijn boodschappen met de auto. Ik ga niet met de fiets. Ik neem de auto, want ik koop altijd veel en dat is zwaar.",
     "level": "a2",
     "topic": "food-and-shopping",
     "image": "images/speaking/835.svg"
@@ -586,7 +586,7 @@
   {
     "id": 836,
     "question": "Ik houd van autorijden. Houdt u ook van autorijden? Vertel ook waarom u wel of niet van autorijden houdt.",
-    "answer": "Ik hou niet van autorijden. Er zijn altijd files op de weg.",
+    "answer": "Ik hou niet van autorijden. Ik ga liever met de trein naar mijn werk. Autorijden vind ik niet fijn, want er staan altijd files op de weg.",
     "level": "a2",
     "topic": "transportation",
     "image": "images/speaking/836.svg"
@@ -594,7 +594,7 @@
   {
     "id": 837,
     "question": "Ik luister elke dag naar het nieuws op de radio. Hoe vaak luistert u naar de radio en wat hoort u het liefst op de radio?",
-    "answer": "Ik luister elke dag naar de radio. Ik luister het liefst naar muziek.",
+    "answer": "Ik luister elke dag naar de radio. Ik luister het liefst naar muziek. Het nieuws hoor ik ook graag, maar muziek vind ik leuker.",
     "level": "a2",
     "topic": "free-time",
     "image": "images/speaking/837.svg"
@@ -602,7 +602,7 @@
   {
     "id": 838,
     "question": "Ik ga graag naar een feestje in het weekend. Wat doet u het liefst in het weekend en vertel ook waarom u dat leuk vindt.",
-    "answer": "In het weekend ga ik het liefst naar een discotheek. Ik houd van dansen.",
+    "answer": "In het weekend ga ik het liefst naar een discotheek. Ik ga daar met mijn vrienden naartoe. Ik vind dat leuk, want ik hou van dansen en muziek.",
     "level": "a2",
     "topic": "free-time",
     "image": "images/speaking/838.svg"
@@ -610,7 +610,7 @@
   {
     "id": 839,
     "question": "Ik ontvang graag vrienden op bezoek. Ontvangt u graag vrienden en wat doet u dan met uw vrienden?",
-    "answer": "Ja, ik ontvang ook graag vrienden. Dan gaan we samen lekker eten.",
+    "answer": "Ja, ik ontvang ook graag vrienden. Dan gaan wij samen lekker eten. Wij praten en drinken wijn, want dat is heel gezellig.",
     "level": "a2",
     "topic": "friends",
     "image": "images/speaking/839.svg"
@@ -618,7 +618,7 @@
   {
     "id": 840,
     "question": "Ik vind de winter een heerlijk seizoen. Welk seizoen vindt u het prettigst en vertel ook waarom.",
-    "answer": "Ik vind de zomer het prettigst. In de zomer is het lekker warm.",
+    "answer": "Ik vind de zomer het prettigst. In de zomer is het lekker warm. Ik hou van de zomer, want dan kan ik elke dag buiten zijn.",
     "level": "a2",
     "topic": "weather-and-seasons",
     "image": "images/speaking/840.svg"
@@ -626,7 +626,7 @@
   {
     "id": 841,
     "question": "Kees gaat op vakantie. Wat heeft hij bij zich en waar gaat hij volgens u naartoe?",
-    "answer": "Kees heeft veel rugzakken bij zich. Volgens mij gaat hij naar Bali.",
+    "answer": "Kees heeft veel rugzakken bij zich. Volgens mij gaat hij naar Bali. Hij gaat ver weg, want hij heeft veel bagage bij zich.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/841.svg"
@@ -634,7 +634,7 @@
   {
     "id": 842,
     "question": "Wesley en Hanna zijn op reis. Wat doen zij en waar zijn zij volgens u?",
-    "answer": "Wesley en Hanna maken een foto. Volgens mij zijn zij in Londen.",
+    "answer": "Wesley en Hanna maken een foto. Volgens mij zijn zij in Londen. Zij maken veel foto's, want zij willen alles later aan hun familie laten zien.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/842.svg"
@@ -642,7 +642,7 @@
   {
     "id": 843,
     "question": "Welke sport vindt u het leukst om zelf te doen? Hoe vaak doet u deze sport?",
-    "answer": "Ik vind fietsen het leukst. Ik fiets elke dag.",
+    "answer": "Ik vind fietsen het leukst om zelf te doen. Ik fiets elke dag. Ik doe deze sport graag, want fietsen is gezond en gratis.",
     "level": "a2",
     "topic": "body-and-health",
     "image": "images/speaking/843.svg"
@@ -650,7 +650,7 @@
   {
     "id": 844,
     "question": "Welke sport vindt u minder leuk? Is deze sport volgens u goed of slecht voor kinderen?",
-    "answer": "Ik vind voetbal minder leuk. Volgens mij is voetbal slecht voor kinderen.",
+    "answer": "Ik vind voetbal minder leuk. Volgens mij is voetbal slecht voor kinderen. Kinderen krijgen vaak pijn aan hun benen, want voetbal is een harde sport.",
     "level": "a2",
     "topic": "body-and-health",
     "image": "images/speaking/844.svg"
@@ -658,7 +658,7 @@
   {
     "id": 845,
     "question": "Karel gaat een dagje naar Amsterdam. Wat ziet hij in de stad? Gebruik alle plaatjes.",
-    "answer": "Karel ziet veel fietsen en boten. Hij ziet ook veel oude huizen.",
+    "answer": "Eerst ziet Karel veel fietsen. Daarna ziet hij boten in het water. Ten slotte ziet hij veel oude huizen.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/845.svg"
@@ -666,7 +666,7 @@
   {
     "id": 846,
     "question": "Dina gaat naar de Keukenhof. Wat ziet zij daar? Gebruik alle plaatjes.",
-    "answer": "Dina ziet veel bloemen en een molen. Zij ziet ook een klomp.",
+    "answer": "Eerst ziet Dina veel bloemen. Daarna ziet zij een molen. Ten slotte ziet zij een klomp.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/846.svg"
@@ -674,7 +674,7 @@
   {
     "id": 847,
     "question": "Veel Nederlanders hebben één of meer huisdieren. Heeft u ook huisdieren? Vertel ook waarom u wel of geen huisdieren heeft.",
-    "answer": "Nee, ik heb geen huisdieren. Ik vind huisdieren vies.",
+    "answer": "Nee, ik heb geen huisdieren. Ik werk de hele dag en ik ben weinig thuis. Ik neem geen huisdier, want een dier maakt het huis vies.",
     "level": "a2",
     "topic": "home-and-living",
     "image": "images/speaking/847.svg"
@@ -682,7 +682,7 @@
   {
     "id": 848,
     "question": "Als ik op vakantie ga, slaap ik het liefst in een luxe vijfsterrenhotel ergens in een warm land aan de zee. Waarheen gaat u het liefst op vakantie? En vertel ook waarom u dat leuk vindt.",
-    "answer": "Ik ga het liefst op vakantie naar Italië. In Italië wonen leuke mensen en het klimaat is prima.",
+    "answer": "Ik ga het liefst op vakantie naar Italië. In Italië wonen leuke mensen en het klimaat is prima. Ik vind dat leuk, want het eten is er lekker en de zee is dichtbij.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/848.svg"
@@ -690,7 +690,7 @@
   {
     "id": 849,
     "question": "Gaat u wel eens op reis naar een mooie stad? Welke stad vindt u het mooist? En hoe gaat u naar die stad?",
-    "answer": "Ja, ik ga wel eens op reis naar een mooie stad. Ik vind Parijs het mooist. Ik ga met de trein naar die stad.",
+    "answer": "Ja, ik ga wel eens op reis naar een mooie stad. Ik vind Parijs het mooist. Ik ga met de trein naar die stad, want vliegen vind ik te duur.",
     "level": "a2",
     "topic": "travel",
     "image": "images/speaking/849.svg"
@@ -698,7 +698,7 @@
   {
     "id": 850,
     "question": "Ik vier mijn verjaardag het liefst met vrienden en familie. Wat doet u op uw verjaardag?",
-    "answer": "Op mijn verjaardag geef ik een groot feest. Ik eet, drink en dans met veel vrienden.",
+    "answer": "Op mijn verjaardag geef ik een groot feest. Ik eet, drink en dans met veel vrienden. Ik vier mijn verjaardag het liefst thuis, want dan is het gezellig.",
     "level": "a2",
     "topic": "friends",
     "image": "images/speaking/850.svg"
@@ -706,7 +706,7 @@
   {
     "id": 851,
     "question": "Ik gebruik mijn telefoon heel vaak. Waarvoor gebruikt u uw telefoon?",
-    "answer": "Ik gebruik mijn telefoon om te bellen. Ik bel met mijn partner en met mijn familie.",
+    "answer": "Ik gebruik mijn telefoon om te bellen. Ik bel met mijn partner en met mijn familie. Ik bel elke dag, want mijn familie woont ver weg.",
     "level": "a2",
     "topic": "technology",
     "image": "images/speaking/851.svg"
@@ -714,7 +714,7 @@
   {
     "id": 852,
     "question": "In Nederland regent het heel vaak. Wat vindt u daarvan? En hoe vaak regent het in het land waar u geboren bent?",
-    "answer": "Ik vind de regen in Nederland geen probleem. In het land waar ik geboren ben, regent het bijna nooit.",
+    "answer": "Ik vind de regen in Nederland geen probleem. In het land waar ik geboren ben, regent het bijna nooit. Ik vind regen niet erg, want dan blijven de planten mooi groen.",
     "level": "a2",
     "topic": "weather-and-seasons",
     "image": "images/speaking/852.svg"
@@ -722,7 +722,7 @@
   {
     "id": 853,
     "question": "Lea eet in een restaurant. Wat eet zij volgens u? Vertel ook hoe duur haar maaltijd volgens u is.",
-    "answer": "Volgens mij eet Lea pasta met kaas. Haar maaltijd kost ongeveer €10.",
+    "answer": "Volgens mij eet Lea pasta met kaas. Haar maaltijd kost ongeveer 10 euro. Dat is niet duur, want pasta is goedkoop.",
     "level": "a2",
     "topic": "food-and-shopping",
     "image": "images/speaking/853.svg"
@@ -730,7 +730,7 @@
   {
     "id": 854,
     "question": "Karin is op de markt. Met wie is zij op de markt? Vertel ook wat zij volgens u gaat kopen.",
-    "answer": "Karin is met haar dochter op de markt. Volgens mij gaat zij fruit kopen.",
+    "answer": "Karin is met haar dochter op de markt. Volgens mij gaat zij fruit en groente kopen. Zij koopt op de markt, want daar is alles vers en goedkoop.",
     "level": "a2",
     "topic": "family",
     "image": "images/speaking/854.svg"
@@ -738,7 +738,7 @@
   {
     "id": 855,
     "question": "Gebruikt u liever een laptop of een grote computer? Vertel ook waarom.",
-    "answer": "Ik gebruik liever een grote computer. Dat is beter voor mijn ogen.",
+    "answer": "Ik gebruik liever een grote computer. Een laptop is ook handig, maar het scherm is klein. Ik kies een grote computer, want dat is beter voor mijn ogen.",
     "level": "a2",
     "topic": "technology",
     "image": "images/speaking/855.svg"
@@ -746,7 +746,7 @@
   {
     "id": 856,
     "question": "Wat doet u op sociale media zoals Facebook of Instagram? En wat vindt u van Facebook?",
-    "answer": "Op sociale media kijk ik naar foto's van vrienden. Ik vind Facebook leuk.",
+    "answer": "Op sociale media kijk ik naar foto's van vrienden. Ik schrijf soms een bericht. Ik vind Facebook leuk, want zo heb ik contact met mijn familie in het buitenland.",
     "level": "a2",
     "topic": "technology",
     "image": "images/speaking/856.svg"
@@ -754,7 +754,7 @@
   {
     "id": 857,
     "question": "Eduardo is in de sportschool. Wat doet hij in de sportschool? Gebruik alle plaatjes.",
-    "answer": "Eduardo loopt op de loopband. Hij fietst op de hometrainer. Hij neemt een douche.",
+    "answer": "Eerst loopt Eduardo in de sportschool op de loopband. Daarna fietst hij op de hometrainer. Ten slotte neemt hij een douche.",
     "level": "a2",
     "topic": "body-and-health",
     "image": "images/speaking/857.svg"
@@ -762,7 +762,7 @@
   {
     "id": 858,
     "question": "Ingrid kijkt naar een sportwedstrijd. Naar welke sport kijkt zij en waar kijkt zij naar de wedstrijd? Zeg ook wat zij doet bij de wedstrijd. Gebruik alle plaatjes.",
-    "answer": "Ingrid kijkt naar voetbal. Zij kijkt thuis naar de wedstrijd. Bij de wedstrijd drinkt zij bier en zij draagt oranje kleding.",
+    "answer": "Ingrid kijkt naar voetbal. Zij kijkt thuis naar de wedstrijd. Bij de wedstrijd drinkt zij bier en zij draagt oranje kleding, want zij kijkt naar het Nederlandse elftal.",
     "level": "a2",
     "topic": "free-time",
     "image": "images/speaking/858.svg"
@@ -770,7 +770,7 @@
   {
     "id": 859,
     "question": "Ik hou van mooie kleren en ik geef veel geld uit aan kleding. Waar geeft u het meeste geld aan uit?",
-    "answer": "Ik geef het meeste geld uit aan eten. Ik koop veel eten in de supermarkt.",
+    "answer": "Ik geef het meeste geld uit aan eten. Ik koop veel eten in de supermarkt. Dat kost veel geld, want ik heb een groot gezin.",
     "level": "a2",
     "topic": "money-and-prices",
     "image": "images/speaking/859.svg"
@@ -778,7 +778,7 @@
   {
     "id": 860,
     "question": "Ik hou van het strand, andere mensen houden van bergen of bossen, weer andere mensen houden van het leven in de grote stad. Wat vindt u het leukst en vertel ook waarom.",
-    "answer": "Ik vind de grote stad het leukst. In de stad zijn bioscopen, musea en veel monumenten. Een grote stad is nooit saai.",
+    "answer": "Ik vind de grote stad het leukst. In de stad zijn bioscopen, musea en veel monumenten. Een grote stad is nooit saai, want er is altijd iets te doen.",
     "level": "a2",
     "topic": "home-and-living",
     "image": "images/speaking/860.svg"
@@ -786,7 +786,7 @@
   {
     "id": 861,
     "question": "In welk land zou u het liefst willen wonen en vertel ook waarom?",
-    "answer": "Ik zou het liefst in Indonesië willen wonen. Daar is het lekker warm en daar is veel lekker eten.",
+    "answer": "Ik zou het liefst in Indonesië willen wonen. Daar is het lekker warm en daar is veel lekker eten. Ik wil daar wonen, want mijn familie woont er ook.",
     "level": "a2",
     "topic": "home-and-living",
     "image": "images/speaking/861.svg"
@@ -794,7 +794,7 @@
   {
     "id": 862,
     "question": "Ik koop wel eens tweedehands spullen. Doet u dat ook wel eens en wat koopt u dan?",
-    "answer": "Ja, dat doe ik ook wel eens. Ik koop dan tweedehands meubels.",
+    "answer": "Ja, ik koop ook wel eens tweedehands spullen. Ik koop dan meubels en soms kleding. Ik koop tweedehands, want dat is goedkoop en beter voor het milieu.",
     "level": "a2",
     "topic": "money-and-prices",
     "image": "images/speaking/862.svg"
@@ -802,7 +802,7 @@
   {
     "id": 863,
     "question": "Ik kook graag. Ik vind het leuk om speciale gerechten te maken. Kookt u ook graag en wat maakt u dan voor eten?",
-    "answer": "Ik kook ook graag. Ik maak dan spaghetti.",
+    "answer": "Ik kook ook graag. Ik maak dan spaghetti met groente. Ik kook elke avond zelf, want zelf koken is gezonder en goedkoper.",
     "level": "a2",
     "topic": "food-and-shopping",
     "image": "images/speaking/863.svg"
@@ -810,7 +810,7 @@
   {
     "id": 864,
     "question": "Ik ga elke ochtend 5 km rennen. Wat vindt u van mensen die elke dag sporten en doet u zelf ook aan sport?",
-    "answer": "Ik vind het heel goed dat mensen elke dag sporten. Zelf doe ik ook aan sport. Ik zwem drie keer per week.",
+    "answer": "Ik vind het heel goed dat mensen elke dag sporten. Zelf doe ik ook aan sport. Ik zwem drie keer per week, want dan voel ik me fit.",
     "level": "a2",
     "topic": "body-and-health",
     "image": "images/speaking/864.svg"
@@ -818,7 +818,7 @@
   {
     "id": 865,
     "question": "Dit is Mario. Wat is zijn beroep? Wat heeft hij in zijn rechterhand?",
-    "answer": "Mario is slager. Hij heeft een mes in zijn rechterhand.",
+    "answer": "Mario is slager. Hij heeft een mes in zijn rechterhand. Hij snijdt vlees met dat mes, want dat is zijn werk.",
     "level": "a2",
     "topic": "job-and-workplace",
     "image": "images/speaking/865.svg"
@@ -826,7 +826,7 @@
   {
     "id": 866,
     "question": "Thomas is verkoper. Wat verkoopt hij? Werkt hij in een grote stad of in een klein dorpje? Wat denkt u?",
-    "answer": "Thomas verkoopt kleding. Ik denk dat hij in een grote stad werkt.",
+    "answer": "Thomas verkoopt kleding. Ik denk dat hij in een grote stad werkt. In een grote stad zijn veel klanten, want daar wonen veel mensen.",
     "level": "a2",
     "topic": "job-and-workplace",
     "image": "images/speaking/866.svg"
@@ -834,7 +834,7 @@
   {
     "id": 867,
     "question": "Hoe doet u de boodschappen, in de gewone supermarkt of online? Vertel ook in welke winkel of op welke website u de boodschappen doet.",
-    "answer": "Ik doe de boodschappen online. Ik doe de boodschappen op de website van Albert Heijn.",
+    "answer": "Ik doe de boodschappen online. Ik doe dat op de website van Albert Heijn. Ik koop online, want dan hoef ik geen zware tassen te dragen.",
     "level": "a2",
     "topic": "food-and-shopping",
     "image": "images/speaking/867.svg"
@@ -842,7 +842,7 @@
   {
     "id": 868,
     "question": "U ziet hier twee drankjes. Wat kiest u om te drinken en hoe vaak drinkt u dat?",
-    "answer": "Ik drink liever koffie. Ik drink elke dag koffie.",
+    "answer": "Ik kies koffie om te drinken. Ik drink elke dag twee kopjes koffie. Thee is ook lekker, maar koffie vind ik lekkerder.",
     "level": "a2",
     "topic": "food-and-shopping",
     "image": "images/speaking/868.svg"
@@ -850,7 +850,7 @@
   {
     "id": 869,
     "question": "Adrian is politieagent. Vertel wat hij moet doen. Gebruik alle plaatjes.",
-    "answer": "Adrian moet de snelheid van auto's controleren en hij moet een boete geven. Hij moet ook op kantoor werken.",
+    "answer": "Eerst moet Adrian de snelheid van auto's controleren. Daarna moet hij een boete geven. Ten slotte moet hij op kantoor werken.",
     "level": "a2",
     "topic": "job-and-workplace",
     "image": "images/speaking/869.svg"
@@ -858,7 +858,7 @@
   {
     "id": 870,
     "question": "Tes staat in de file. Vertel wat zij doet. Gebruik alle plaatjes.",
-    "answer": "Tes drinkt thee en zij kijkt in de spiegel. Zij kijkt ook op haar telefoon.",
+    "answer": "In de file drinkt Tes eerst thee. Daarna kijkt zij in de spiegel. Ten slotte kijkt zij op haar telefoon.",
     "level": "a2",
     "topic": "transportation",
     "image": "images/speaking/870.svg"
