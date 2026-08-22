@@ -22,23 +22,18 @@
 | `note:over` | in (X from now) | Ik bel je **over** vijf minuten. |
 | `note:geleden` | ago | Ik ben hier drie jaar **geleden** begonnen. |
 
-## Time adverbs
+## Time(sync) adverbs
 
 | Dutch | English | Example |
 |-------|---------|---------|
 | `note:nu` | now | Ik heb **nu** geen tijd. |
-| `note:al` | `uzho`  already / emphasis | Ik heb **al** gegeten. |
 | `note:alvast` | already /  ahead | Begin **alvast** met eten. |
 | `note:van-tevoren` | beforehand / in advance | Ik heb de tafel **van tevoren** gereserveerd. |
 | `note:zo` | `zaraz`  in a sec / shortly ||
 | `note:meteen` | immediately | Ik doe het **meteen**. |
 | `note:zo-meteen` / `note:dadelijk` | in a moment | Ik kom **zo meteen**. |
-| `note:net` | `amalj`  just now / exactly | Hij is **net** weg. |
-| `note:pas` | `vosj tolki`  only just / not until | Ik ben **pas** aangekomen. |
-| `note:nog` | still / yet | Ben je **nog** hier? |
 | `note:straks` | later today | Ik kom **straks** langs. |
 | `note:binnenkort` | soon | We zien elkaar **binnenkort**. |
-| `note:soms` | `qasam`  by any chance (in questions) ||
 | `note:tegenwoordig` | nowadays | **Tegenwoordig** werk ik thuis. |
 
 ## Parts of the Day

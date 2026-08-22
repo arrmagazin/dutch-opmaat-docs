@@ -1,4 +1,4 @@
-# Connectors  
+# Connectors, Linking words
 
 ## Compound connectors
 
@@ -26,7 +26,7 @@
 | `note:daardoor` | [cause]; as a result | Mensen **kunnen** **daardoor** vallen. |
 | `note:dus` | [reason], therefore [action] | Het regent, **dus** ik neem een paraplu. |
 | `note:want` | [action], justified by [reason] | Ik blijf thuis, **want** ik **ben** moe. |
-| `note:omdat` | [action] because [reason,cause] | Ik blijf thuis **omdat** ik ziek **ben**. |
+| `note:omdat` | [action] because [cause] | Ik blijf thuis **omdat** ik ziek **ben**. |
 | `note:vanwege` | [action] because [noun-cause] | De trein reed niet **vanwege** het weer. |
 | `note:opdat` | [action] formal so that [intent,goal] | Hij werkt hard **opdat** zijn kinderen het beter **krijgen**. |
 | `note:om-te` | [action] in order to [intent,goal] | Ik spaar **om** een huis **te** kopen. |
@@ -38,8 +38,8 @@
 | `note:indien` | formal if [premise] | Neem contact op **indien** nodig. |
 | `note:tenzij` | unless [restriction] | Ik kom **tenzij** het **regent**. |
 | `note:hoewel`  | although [obstacle] | **Hoewel** het regende, gingen we toch. |
-| `note:volgens` `conform` | according to [authority]| **Volgens** mij heb je gelijk. |
-| `note:zodat` | so that [goal] | Spreek harder **zodat** ik je **versta**. |
+| `note:volgens` | according to [authority]| **Volgens** mij heb je gelijk. |
+| `note:zodat` | so that [goal] | Spreek harder **zodat** ik je versta. |
 | `note:zo-dat` | so [degree] that [effect] | Het was **zo** koud **dat** ik bibberde. |
 
 ## Comparing and Equality
@@ -91,3 +91,6 @@ Filler words that bear no meaning but keep a conversation flowing.
 |-------|---------|---------|
 | `note:weet-je` | you know  [subject]| **Weet je**, dat is echt waar. |
 | `note:zeg-maar` | so to speak  [subject]| Het is, **zeg maar**, een mix. |
+| `note:namelijk` |  namely  ||
+| `note:eigenlijk` | actually  ||
+| `ik-bedoel` | I mean ...  ||

@@ -33,13 +33,3 @@ These replace *niet + …* with a single word — one negator per clause is enou
 
 | Dutch | English | Example |
 |-------|---------|---------|
-| `note:niets` | nothing | Ik zie **niets**. |
-| `note:niemand` | nobody | **Niemand** belt me. |
-| `note:nergens` | nowhere | Ze is **nergens** te vinden. |
-| `note:nooit` | never | Hij komt **nooit** te laat. |
-| `note:geen-meer` | no more / no longer | Ik heb **geen geld meer**. |
-| `note:niet-meer` | no longer | Ik werk daar **niet meer**. |
-| `note:nog-niet` | not yet | Hij is **nog niet** klaar. |
-| `note:niet-eens` | not even | Hij heeft het **niet eens** geprobeerd. |
-| `note:helemaal-niet` | not at all | Dat is **helemaal niet** waar. |
-| `note:bijna-niet` | hardly | Ik kan je **bijna niet** verstaan. |

@@ -2,6 +2,22 @@
 
 Modifiers scale or qualify another words.
 
+## Completeness
+
+A degree word goes **directly before** the adjective or adverb it scales: *heel mooi*, *te duur*, *nogal druk*.
+
+| Dutch | English | Example |
+|-------|---------|---------|
+| `note:al` | `uzho`  already / emphasis | Ik heb **al** gegeten. |
+| `note:helemaal` | completely | Ik ben het **helemaal** vergeten. |
+| `note:bijna` | `amalj` almost | Ik ben **bijna** klaar. |
+| `note:bijna-niet` | hardly | Ik kan je **bijna niet** verstaan. |
+| `note:net` |  just now / exactly | Hij is **net** weg. |
+| `note:pas` | `vosj tolki`  only just / not until | Ik ben **pas** aangekomen. |
+| `note:nog` | still / yet | Ben je **nog** hier? |
+| `note:nog-niet` | not yet | Hij is **nog niet** klaar. |
+| `note:helemaal-niet` | not at all | Dat is **helemaal niet** waar. |
+
 ## Degree and Intensity
 
 A degree word goes **directly before** the adjective or adverb it scales: *heel mooi*, *te duur*, *nogal druk*.
@@ -11,11 +27,10 @@ A degree word goes **directly before** the adjective or adverb it scales: *heel 
 | `note:heel` | very | Het is **heel** mooi. |
 | `note:erg` | very | Het is **erg** mooi. |
 | `note:zeer` | very (formal/written) | Wij zijn **zeer** tevreden. |
-| `note:bijna` | almost | Ik ben **bijna** klaar. |
 | `note:zo` | so (this much) | Deze tas is **zo** zwaar! |
 | `note:te` | too (excessive) | Dat is **te** duur. |
 | `note:veel-te` | far too | Het is **veel te** duur. |
-| `note:helemaal` | completely | Ik ben het **helemaal** vergeten. |
+
 | `note:een-beetje` | a little | Ik ben **een beetje** moe. |
 | `note:wat` | a bit | Ik ben **wat** moe. |
 | `note:behoorlijk` | considerably | Het is **behoorlijk** koud. |
@@ -48,6 +63,8 @@ flowchart LR
 | `beide` | both | **Beide** kinderen zijn ziek. |
 | `note:paar` | a couple, a few | *Ik heb **een paar** vragen.* |
 | `geen` | not any | Ik heb **geen** tijd. |
+| `note:niets` | nothing | Ik zie **niets**. |
+| `note:niemand` | nobody | **Niemand** belt me. |
 
 > *elk / ieder* take **-e** before de-words (*elke dag*) and drop it before singular het-words (*elk kind*). Modern Dutch increasingly uses *elke/iedere* for both.
 
@@ -68,6 +85,7 @@ A rough scale of quantity: *niets → bijna niets → **weinig** → genoeg → 
 |-------|---------|---------|
 | `meer` | more | *Ik wil **meer** koffie.* |
 | `note:nog-wat` | a bit more / some more | Wil je **nog wat** koffie? |
+| `note:niet-meer` | no longer | Ik werk daar **niet meer**. |
 | `minder` | less / fewer | *Hij werkt **minder** uren.* |
 | `note:genoeg` | enough | *Ik heb **genoeg** tijd.* |
 
@@ -82,21 +100,23 @@ A rough scale of quantity: *niets → bijna niets → **weinig** → genoeg → 
 | `toevallig` | by the cance | Heb je **toevallig** een paraplu? |
 | `note:telkens` | every time | Hij komt **telkens** te laat. |
 | `note:elke-dag` / `note:elke-keer` | every day / time | Ik drink **elke dag** thee. |
-| `note:soms` | sometimes | **Soms** regent het. |
+| `note:soms` | `qasam` by any chance (in questions), sometimes | **Soms** regent het. |
 | `note:af-en-toe` | now and then | Ik drink **af en toe** wijn. |
 | `note:alweer` | again (already) | Ben je **alweer** te laat? |
 | `note:nog-eens` / `note:nogmaals` | once more | Doe het **nog eens**. |
+| `note:niet-eens` | not even | Hij heeft het **niet eens** geprobeerd. |
 | `note:weleens` | ever / occasionally | Ben je **weleens** in Parijs geweest? |
 | `note:zelden` | rarely | Hij komt **zelden** op tijd. |
 | `note:bijna-nooit` | almost never | Hij belt **bijna nooit**. |
 | `note:niet-eens` | not even | Hij heeft het **niet eens** geprobeerd. |
-| `note:nooit` | never | Ik ben **nooit** in Parijs geweest. |
+| `note:nooit` | never | Hij komt **nooit** te laat. |
 
 ## Approximation — roughly
 
 | Dutch | English | Example |
 |-------|---------|---------|
 | `note:precies` | exactly | Dat is **precies** wat ik bedoel. |
+| `note:juist` | `akurat`  precisely / on the contrary |
 | `note:ongeveer` | approximately | Het duurt **ongeveer** een uur. |
 | `note:circa` / `note:ca` | approx. (formal) | De reis kost **circa** 200 euro. |
 | `note:rond` | around (time/number) | Ik kom **rond** acht uur. |

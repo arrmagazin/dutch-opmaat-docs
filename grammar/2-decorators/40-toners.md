@@ -24,14 +24,13 @@ Each particle bends the mood of the same bare sentence.
 
 | Particle | Example | Effect |
 |----------|---------|--------|
-| **maar** | Zeg het **maar**. | go ahead, no pressure |
-| **even** | Wacht **even**. | just for a moment (softens a command) |
-| **eens** | Kom **eens** kijken. | do come and look (friendly invite) |
-| **toch** | Je komt **toch**? | you *are* coming, right? (seeks confirmation) |
-| **hoor** | Het is niet erg, **hoor**. | it's really fine (reassuring) |
-| **wel** | Ik heb het **wel** gedaan. | I *did* do it (contradicts a denial) |
-| **nou** | Kom **nou**! | oh, come on! (impatience) |
-| **gewoon** | Doe het **gewoon**. | just do it (no fuss) |
+| `maar` | Zeg het **maar**. | go ahead, no pressure |
+| `even` | Wacht **even**. | just for a moment (softens a command) |
+| `eens` | Kom **eens** kijken. | do come and look (friendly invite) |
+| `toch` | Je komt **toch**? | you *are* coming, right? (seeks confirmation) |
+| `hoor` | Het is niet erg, **hoor**. | it's really fine (reassuring) |
+| `wel` | Ik heb het **wel** gedaan. | I *did* do it (contradicts a denial) |
+| `nou` | Kom **nou**! | oh, come on! (impatience) |
 
 > Ordering a drink? *Doe **maar** een koffie* ("Just a coffee, thanks") is the everyday phrasing — the bare *Een koffie* sounds curt.
 >Particles also power polite imperatives: see [Imperatives](/#/grammar?doc=7-modes/04-imperatives.md).
@@ -48,18 +47,6 @@ The hallmark of natural speech is **stacking** particles — a native speaker th
 - *Zeg het **nou maar gewoon**.* — Oh just say it already. (*nou* + *maar* + *gewoon*)
 
 > Their order is fixed by feel, not by rule. Learn the common clusters (*maar even*, *toch wel*, *nog maar*) as ready-made chunks.
-
-## Modal toners
-
-| Toner | Hint, Core meaning |
-|-------|--------------------|
-| `note:gewoon` | `zvyqajno`  simply / just |
-| `note:zeker` | `napevna`  surely |
-| `note:lekker` | `gusto`  nicely / just (defiant) |
-| `note:gerust` | `spakojna`  feel free / safely |
-| `note:juist` | `akurat`  precisely / on the contrary |
-| `note:namelijk` |  namely  |
-| `note:eigenlijk` | actually  |
 
 ## Common mistakes
 

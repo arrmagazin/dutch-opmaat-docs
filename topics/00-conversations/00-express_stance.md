@@ -2,6 +2,8 @@
 
 ## Affirmatives and Certainty
 
+## Stances
+
 - [ ] **Precies**! Zo bedoel ik.
 - [ ] Hij komt **zeker**.
 - [ ] **Natuurlijk**, ik help je.
@@ -9,6 +11,7 @@
 - [ ] ja hoor / ja graag
 - [ ] Heel **goed gedaan**.
 - [ ] Ja, **dat klopt** helemaal.
+- [ ] Doe het `note:gewoon`.
 - [ ] Dat dacht ik al.
 - [ ] Daar ben ik het **mee eens**.
 - [ ] Komt het goed? -- **Ik denk(hoop) van wel**.
