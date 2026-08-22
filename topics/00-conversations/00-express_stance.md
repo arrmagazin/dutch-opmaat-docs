@@ -1,4 +1,4 @@
-# Express personal opinions
+# Express personal stance and opinions
 
 ## Affirmatives and Certainty
 
